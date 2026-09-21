@@ -77,6 +77,8 @@ GITHUB_TOKEN=xxx RADAR_MAX_PAGES=1 RADAR_MAX_CANDIDATES=3 npm run radar:dry
 
 雷达通过 L1 但未配置 L2 LLM 时，候选会以 `catalogStatus: review-pending` 写进 `src/data/projects.json`，公开数据中的摘要显示为“待人工复核”；人工确认后把该记录改为 `active`。配置了 `LLM_*`/`MUSE_*` 且评审通过时可直接以 `llm-reviewed` 上线。
 
+`LLM_ENDPOINT`/`MUSE_ENDPOINT` 支持 `https://host`、`https://host/v1`、`https://host/v1/chat/completions` 等写法，评审请求会自动规范化为 `/v1/chat/completions`。`*_MODEL` 未设置或配置模型被拒绝时，流水线会从 `/v1/models` 自动选取一个文生文模型重试。已处于 `review-pending` 的项目会在配置 L2 后的雷达同步中自动补跑评审，通过则转为 `active`，评审否决会进入黑名单。
+
 ## 流水线
 
 | 工作流 | 触发 | 职责 |

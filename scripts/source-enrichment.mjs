@@ -41,30 +41,50 @@ function truncate(text, max) {
   return `${text.slice(0, max).trimEnd()}…`;
 }
 
-export function normalizeModelsEndpoint(endpoint) {
+function parseEndpoint(endpoint) {
   const raw = String(endpoint ?? "").trim();
   if (!raw) throw new Error("LLM endpoint is empty");
-  let url;
   try {
-    url = new URL(raw);
+    const url = new URL(raw);
+    url.hash = "";
+    return url;
   } catch {
     throw new Error(`invalid LLM endpoint: ${raw}`);
   }
-  url.hash = "";
-  let pathname = url.pathname.replace(/\/+$/, "");
-  const last = pathname.split("/").filter(Boolean).pop() ?? "";
-  const lower = last.toLowerCase();
-  if (lower === "models") return url.href;
-  if (lower === "chat" || lower === "completions") {
-    pathname = pathname.replace(/(?:\/chat)?\/completions$/i, "");
+}
+
+function pathSegments(url) {
+  return url.pathname
+    .replace(/\/+$/, "")
+    .split("/")
+    .filter(Boolean);
+}
+
+function v1BasePath(segments) {
+  const index = segments.findIndex((segment) => /^v\d+$/i.test(segment));
+  if (index === -1) return "/v1";
+  return `/${segments.slice(0, index + 1).join("/")}`;
+}
+
+export function normalizeModelsEndpoint(endpoint) {
+  const url = parseEndpoint(endpoint);
+  const segments = pathSegments(url);
+  const last = (segments.at(-1) ?? "").toLowerCase();
+  if (last === "models") return url.href;
+  url.pathname = `${v1BasePath(segments)}/models`;
+  return url.href;
+}
+
+export function normalizeChatEndpoint(endpoint) {
+  const url = parseEndpoint(endpoint);
+  const segments = pathSegments(url);
+  const last = (segments.at(-1) ?? "").toLowerCase();
+  if (last === "completions") return url.href;
+  if (last === "chat") {
+    url.pathname = `${url.pathname.replace(/\/+$/, "")}/completions`;
+    return url.href;
   }
-  if (/\/v1(?:\/models)?$/i.test(pathname)) {
-    pathname = pathname.replace(/\/v1\/?$/, "/v1");
-    pathname += "/models";
-  } else {
-    pathname += "/v1/models";
-  }
-  url.pathname = pathname;
+  url.pathname = `${v1BasePath(segments)}/chat/completions`;
   return url.href;
 }
 
@@ -170,6 +190,23 @@ async function readErrorText(response) {
   }
 }
 
+function errorTextForLog(value) {
+  const text = String(value ?? "").replace(/\s+/g, " ").trim();
+  const redacted = text
+    .replace(/\bsk-[A-Za-z0-9_-]{16,}/g, "[redacted]")
+    .replace(/\bBearer\s+[A-Za-z0-9._~+/=-]{20,}/gi, "Bearer [redacted]");
+  return redacted ? redacted.slice(0, 300) : "";
+}
+
+function endpointForLog(url) {
+  try {
+    const parsed = new URL(url);
+    return `${parsed.protocol}//${parsed.host}${parsed.pathname}`;
+  } catch {
+    return "(invalid endpoint)";
+  }
+}
+
 function buildReviewRequest({ apiKey, endpoint, model, prompt, signal }) {
   return {
     method: "POST",
@@ -194,10 +231,12 @@ export function createReviewer({ apiKey, endpoint, model, log = console } = {}) 
     const controller = new AbortController();
     const timer = setTimeout(() => controller.abort(), 45_000);
     try {
-      const response = await fetch(endpoint, buildReviewRequest({ apiKey, endpoint, model, prompt, signal: controller.signal }));
+      const reviewUrl = normalizeChatEndpoint(endpoint);
+      const response = await fetch(reviewUrl, buildReviewRequest({ apiKey, endpoint, model, prompt, signal: controller.signal }));
       if (!response.ok) {
         const errorText = await readErrorText(response);
-        log.warn?.(`LLM review HTTP ${response.status}`);
+        const detail = errorTextForLog(errorText);
+        log.warn?.(`LLM review HTTP ${response.status}${detail ? `: ${detail}` : ""} (${endpointForLog(reviewUrl)})`);
         return { ok: false, status: response.status, errorText };
       }
       const data = await response.json();
@@ -223,7 +262,8 @@ export function createReviewer({ apiKey, endpoint, model, log = console } = {}) 
         }
       }
       if (!result.ok) {
-        log.warn?.(`LLM review ${repo.full_name}: HTTP ${result.status || "error"}`);
+        const detail = errorTextForLog(result.errorText);
+        log.warn?.(`LLM review ${repo.full_name}: HTTP ${result.status || "error"}${detail ? `: ${detail}` : ""}`);
         return { verified: null, reason: "llm-unavailable", reviewedAt: nowISO() };
       }
       return {

@@ -4,6 +4,7 @@ import {
   extractReadmeSummary,
   createReviewer,
   normalizeModelsEndpoint,
+  normalizeChatEndpoint,
   selectTextModel,
   discoverTextModel,
 } from "./source-enrichment.mjs";
@@ -73,6 +74,20 @@ test("normalizeModelsEndpoint handles base, /v1, chat and models URLs", () => {
   assert.equal(normalizeModelsEndpoint("https://llm.example.com/v1/models"), "https://llm.example.com/v1/models");
 });
 
+test("normalizeChatEndpoint handles base, /v1, /chat and completions URLs", () => {
+  assert.equal(normalizeChatEndpoint("https://llm.example.com"), "https://llm.example.com/v1/chat/completions");
+  assert.equal(normalizeChatEndpoint("https://llm.example.com/v1"), "https://llm.example.com/v1/chat/completions");
+  assert.equal(normalizeChatEndpoint("https://llm.example.com/v1/chat"), "https://llm.example.com/v1/chat/completions");
+  assert.equal(
+    normalizeChatEndpoint("https://llm.example.com/v1/chat/completions"),
+    "https://llm.example.com/v1/chat/completions",
+  );
+  assert.equal(
+    normalizeChatEndpoint("https://llm.example.com/openai/v1?api-version=2026-01"),
+    "https://llm.example.com/openai/v1/chat/completions?api-version=2026-01",
+  );
+});
+
 test("selectTextModel filters non-text models and prefers the newest chat model", () => {
   const model = selectTextModel([
     { id: "text-embedding-3-small", created: 12 },
@@ -117,7 +132,7 @@ test("createReviewer sends code source evidence and returns localized summaries"
   const originalFetch = globalThis.fetch;
   const requests = [];
   globalThis.fetch = async (_url, options) => {
-    requests.push(JSON.parse(options.body));
+    requests.push({ url: _url, body: JSON.parse(options.body) });
     return {
       ok: true,
       json: async () => ({
@@ -149,8 +164,9 @@ test("createReviewer sends code source evidence and returns localized summaries"
     });
     assert.equal(review.verified, true);
     assert.equal(review.plainSummaryEn, "English summary");
-    assert.match(requests[0].messages[0].content, /lesson\/01\.md/);
-    assert.match(requests[0].messages[0].content, /README 全文如下/);
+    assert.equal(requests[0].url, "https://llm.example/v1/chat/completions");
+    assert.match(requests[0].body.messages[0].content, /lesson\/01\.md/);
+    assert.match(requests[0].body.messages[0].content, /README 全文如下/);
   } finally {
     globalThis.fetch = originalFetch;
   }
@@ -164,6 +180,28 @@ test("createReviewer falls back when LLM endpoint fails", async () => {
     const review = await reviewer.reviewCandidate({ repo: { full_name: "a/b" }, readme: "course", taxonomy: {} });
     assert.equal(review.verified, null);
     assert.equal(review.reason, "llm-unavailable");
+  } finally {
+    globalThis.fetch = originalFetch;
+  }
+});
+
+test("createReviewer logs error body and safe endpoint URL", async () => {
+  const originalFetch = globalThis.fetch;
+  const logs = [];
+  globalThis.fetch = async () => ({
+    ok: false,
+    status: 502,
+    text: async () => "gateway failed",
+  });
+  try {
+    const reviewer = createReviewer({
+      apiKey: "k",
+      endpoint: "https://llm.example.com/custom/v1?api-version=2026-01",
+      model: "m",
+      log: { warn: (message) => logs.push(message) },
+    });
+    await reviewer.reviewCandidate({ repo: { full_name: "a/b" }, readme: "course", taxonomy: {} });
+    assert.match(logs.join("\n"), /HTTP 502: gateway failed \(https:\/\/llm\.example\.com\/custom\/v1\/chat\/completions\)/);
   } finally {
     globalThis.fetch = originalFetch;
   }

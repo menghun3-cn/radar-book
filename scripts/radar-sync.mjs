@@ -97,6 +97,7 @@ async function main() {
   const discovery = { candidates: 0, checked: 0, rejected: 0, deferred: 0 };
   const metadata = { ok: 0, failed: 0 };
   let newProjects = 0;
+  const pendingReview = { pending: 0, promoted: 0, rejected: 0, unavailable: 0 };
 
   const sourcesReport = [];
   const candidateMap = new Map();
@@ -235,15 +236,77 @@ async function main() {
       const repo = await client.getRepo(project.id);
       const branch = repo.default_branch;
       const headSha = branch ? await client.getBranchHead(project.id, branch) : null;
-      const merged = refreshMetadata(project, repo, headSha);
+      let merged = refreshMetadata(project, repo, headSha);
       resultById.set(merged.id, merged);
       state.checkedAt ??= {};
       state.checkedAt[merged.id] = nowISO();
       metadata.ok += 1;
       receipt.ok = true;
+
+      if (project.catalogStatus === "review-pending" && reviewer) {
+        pendingReview.pending += 1;
+        const inspected = await inspectRepository(client, repo, { minLessons });
+        if (!inspected.ok) {
+          receipt.action = "pending-l1-failed";
+          receipt.reason = inspected.reason;
+          pendingReview.unavailable += 1;
+        } else {
+          const review = await reviewer.reviewCandidate({
+            repo,
+            readme: inspected.readmeText,
+            taxonomy,
+            codeSources: inspected.codeSources ?? [],
+          });
+          receipt.llm = { confidence: review.confidence, reason: review.reason };
+          if (review.verified === false) {
+            receipt.action = "reject-l2";
+            receipt.reason = `llm: ${review.reason || "not verified"}`;
+            pushExclusion(exclusions, project.id, receipt.reason);
+            resultById.delete(project.id);
+            pendingReview.rejected += 1;
+          } else if (review.verified === true) {
+            const summary = review.plainSummary || extractReadmeSummary(inspected.readmeText);
+            const category = findAiCategory(
+              `${inspected.readmeText} ${repo.description ?? ""}`,
+              repo.topics ?? [],
+              repo.full_name,
+            );
+            const tags = unique([
+              ...(review.tags ?? []),
+              ...mapTopicsToTags(repo.topics ?? [], taxonomy.tags),
+              ...(inspected.lessonCount >= 2 ? ["tutorial"] : []),
+              "course",
+            ]);
+            const record = projectFromRepo({
+              repo,
+              headSha: inspected.headSha,
+              sourcePath: inspected.sourcePath,
+              evidenceLines: inspected.evidenceLines,
+              lessonPaths: inspected.lessonPaths,
+              readmeText: inspected.readmeText,
+              summary,
+              category,
+              tags,
+              summarySource: "llm-reviewed",
+              plainSummaryEn: review.plainSummaryEn ?? null,
+              plainSummaryJa: review.plainSummaryJa ?? null,
+              plainSummaryKo: review.plainSummaryKo ?? null,
+              catalogStatus: "active",
+            });
+            merged = mergeProject(project, record);
+            resultById.set(merged.id, merged);
+            receipt.action = "accept-l2";
+            pendingReview.promoted += 1;
+          } else {
+            receipt.action = "l2-unavailable";
+            pendingReview.unavailable += 1;
+          }
+        }
+      }
     } catch (error) {
       metadata.failed += 1;
       receipt.ok = false;
+      receipt.action = "error";
       receipt.reason = error.message;
     }
     receipts.push(receipt);
@@ -359,6 +422,7 @@ async function main() {
     sources: sourcesReport,
     newProjects,
     metadata,
+    pendingReview,
     discovery: {
       ...discovery,
       sources: sourcesReport.length,
@@ -386,6 +450,7 @@ async function main() {
   writeJSONAtomic(receiptFile, { runUrl: report.runUrl, createdAt: nowISO(), items: receipts });
 
   console.log(`[radar] ${mode} run complete: ${nextProjects.length} projects, ${newProjects} new, ${discovery.checked} checked, ${discovery.rejected} rejected, ${discovery.deferred} deferred, ${metadata.failed} metadata failures`);
+  console.log(`[radar] review-pending: ${pendingReview.pending} pending, ${pendingReview.promoted} promoted, ${pendingReview.rejected} rejected, ${pendingReview.unavailable} unavailable`);
   console.log(`[radar] sources: ${sourcesReport.filter((s) => s.status === "unavailable").length} unavailable; receipt ${path.relative(ROOT, receiptFile)}`);
 }
 
