@@ -2,7 +2,7 @@
   "locales": ["zh", "en", "ja", "ko"],
   "localeMeta": {
     "zh": { "htmlLang": "zh-CN", "label": "中文", "path": "/" },
-    "en": { "htmlLang": "en", "label": "English", "path": "/en/" },
+    "en": { "htmlLang": "en", "label": "EN", "path": "/en/" },
     "ja": { "htmlLang": "ja", "label": "日本語", "path": "/ja/" },
     "ko": { "htmlLang": "ko", "label": "한국어", "path": "/ko/" }
   },

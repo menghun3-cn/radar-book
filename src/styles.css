@@ -151,13 +151,49 @@ a {
   background: var(--blue);
 }
 
-.status-time {
-  font-family: var(--mono);
-  font-size: 0.72rem;
-  opacity: 0.85;
-}
+  .status-time {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    opacity: 0.85;
+  }
 
-.icon-btn {
+  .locale-switch {
+    display: inline-flex;
+    align-items: center;
+    gap: 2px;
+    padding: 3px;
+    border: 1px solid var(--line);
+    border-radius: 7px;
+    background: var(--bg-elevated);
+  }
+
+  .locale-link {
+    min-width: 36px;
+    height: 26px;
+    padding: 0 8px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    color: var(--muted);
+    font-size: 0.74rem;
+    line-height: 1;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+
+  .locale-link:hover {
+    background: var(--accent-soft);
+    color: var(--accent);
+  }
+
+  .locale-link.active {
+    background: var(--ink);
+    color: var(--bg);
+    font-weight: 650;
+  }
+
+  .icon-btn {
   width: 32px;
   height: 32px;
   flex: 0 0 32px;
@@ -557,6 +593,9 @@ a {
     min-width: 0;
     width: 100%;
   }
+  .radar-status .status-text {
+    display: none;
+  }
 }
 
 @media (max-width: 640px) {
@@ -569,6 +608,18 @@ a {
   }
   .brand-name {
     font-size: 0.88rem;
+  }
+
+  .brand-name {
+    display: none;
+  }
+  .topbar-right {
+    gap: 8px;
+  }
+  .locale-link {
+    min-width: 32px;
+    padding: 0 5px;
+    font-size: 0.7rem;
   }
   .radar-status .status-time {
     display: none;

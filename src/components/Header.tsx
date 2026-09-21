@@ -42,9 +42,9 @@ export default function Header({ meta, dark, onToggleDark, locale, t }: HeaderPr
             ))}
           </nav>
           <span className="radar-status" title={meta?.lastRunAt ? `最近扫描 ${timeAgo(meta.lastRunAt, t)}` : t.timeNever}>
-            <span className={`status-dot ${status.tone}`} aria-hidden="true" />
-            {status.text}
-            {meta?.lastRunAt ? <span className="status-time">{timeAgo(meta.lastRunAt, t)}</span> : null}
+          <span className={`status-dot ${status.tone}`} aria-hidden="true" />
+          <span className="status-text">{status.text}</span>
+          {meta?.lastRunAt ? <span className="status-time">{timeAgo(meta.lastRunAt, t)}</span> : null}
           </span>
           <button
             type="button"
