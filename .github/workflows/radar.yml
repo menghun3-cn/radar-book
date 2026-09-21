@@ -35,6 +35,8 @@ jobs:
       - name: Regenerate public data
         run: node scripts/prepare-public-data.mjs
       - name: Commit data snapshot
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "ai-tutorial-radar[bot]"
           git config user.email "ai-tutorial-radar[bot]@users.noreply.github.com"
@@ -45,4 +47,5 @@ jobs:
           else
             git commit -m "data: refresh AI tutorial radar"
             git push
+            gh workflow run deploy-pages.yml --ref master
           fi

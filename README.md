@@ -90,7 +90,7 @@ GITHUB_TOKEN=xxx RADAR_MAX_PAGES=1 RADAR_MAX_CANDIDATES=3 npm run radar:dry
 
 Pages 仓库设置里需要启用 GitHub Actions 部署，并把 `RADAR_GITHUB_TOKEN` 配置为带 `read:org`、`repo` 范围的 PAT。
 
-`radar.yml` 有数据变更时会自动提交并 push master，push 会继续触发 `check.yml` 与 `deploy-pages.yml`，因此常规扫描、数据刷新、构建审计和 Pages 发布全程不需要手动操作。
+`radar.yml` 有数据变更时会自动提交并 push master，然后主动 dispatch `deploy-pages.yml` 做构建、审计与 Pages 发布，全程不需要手动操作。
 
 ## 后续建议
 
