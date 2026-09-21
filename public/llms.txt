@@ -19,19 +19,20 @@
 - [TensorFlow-Course (instillai)](https://github.com/instillai/TensorFlow-Course): 面向初学者的 TensorFlow 课程，从回归、CNN 到生成模型，配套 Jupyter Notebook 练习。
 - [udlbook (udlbook)](https://github.com/udlbook/udlbook): 《Understanding Deep Learning》官方仓库，按章节提供可运行的 Notebook。
 - [PyTorch-Tutorial (MorvanZhou)](https://github.com/MorvanZhou/PyTorch-Tutorial): PyTorch 入门教程，从张量操作、回归分类一路讲到 CNN/RNN 与强化学习示例。
+- [Awesome-ML-SYS-Tutorial (zhaochenyang20)](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial): 涵盖强化学习、RL系统与AI基础设施的系统化深度学习笔记库
 - [zero-to-mastery-ml (mrdbourke)](https://github.com/mrdbourke/zero-to-mastery-ml): ZTM 机器学习课程完整笔记与代码，覆盖 pandas、scikit-learn 与 PyTorch。
 - [deep-rl-class (huggingface)](https://github.com/huggingface/deep-rl-class): 深度强化学习课程，从基础到先进算法，配套练习与竞赛。
 - [generative-ai-docs (google)](https://github.com/google/generative-ai-docs): Google Gemini API 官方教程仓库，提供快速上手 Notebook 与 Python 示例。
-- [Large-Language-Model-Notebooks-Course (peremartra)](https://github.com/peremartra/Large-Language-Model-Notebooks-Course): 待人工复核后展示。
+- [Large-Language-Model-Notebooks-Course (peremartra)](https://github.com/peremartra/Large-Language-Model-Notebooks-Course): 基于Apress书籍的LLM实战课程，涵盖LangChain、微调及评估等核心技术。
 - [philoagents-course (neural-maze)](https://github.com/neural-maze/philoagents-course): 6 模块课程，教你构建以 AI 智能体模拟哲学家对话的游戏引擎，覆盖 Agentic RAG、LLM 与 LLMOps。
-- [machine-learning-curriculum (offchan42)](https://github.com/offchan42/machine-learning-curriculum): 待人工复核后展示。
+- [machine-learning-curriculum (offchan42)](https://github.com/offchan42/machine-learning-curriculum): 一份全面且结构化的机器学习、深度学习及强化学习课程资源清单。
 - [mlops-coding-course (MLOps-Courses)](https://github.com/MLOps-Courses/mlops-coding-course): MLOps Coding Course 的工程化教程，聚焦生产级机器学习项目的实践方法与可运行代码示例。
 - [llm-course-chn (friendmine)](https://github.com/friendmine/llm-course-chn): mlabonne《LLM Course》的中文授权翻译，覆盖 LLM 基础、LLM Scientist 与 LLM Engineer 三部分。
-- [AI-Powered-Video-Tutorial-Generator (AkshitIreddy)](https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator): 待人工复核后展示。
 - [curriculum (ai-builders)](https://github.com/ai-builders/curriculum): 8 周 AI Builders 课程，覆盖 AI 基础、SGD、Agentic、视觉、NLP、表格数据与部署。
 - [PyTorch-101-Tutorial-Series (Paperspace)](https://github.com/Paperspace/PyTorch-101-Tutorial-Series): Paperspace 官方 PyTorch 101 实战教程，从计算图、自动求导到自定义网络架构，配套完整 Jupyter Notebook。
 - [tutorial (SalvatoreRa)](https://github.com/SalvatoreRa/tutorial): 面向 AI、机器学习和数据科学的教程合集，覆盖计算机视觉、NLP 与生物医学案例，配套 Python/R 与 Notebook。
 - [PocketFlow-Tutorial-Website-Chatbot (The-Pocket)](https://github.com/The-Pocket/PocketFlow-Tutorial-Website-Chatbot): PocketFlow 官方教程项目，演示如何构建低维护的网站 AI 客服，自动读取网页内容并回答用户问题。
-- [Generative-AI-Tutorial (pittisl)](https://github.com/pittisl/Generative-AI-Tutorial): 待人工复核后展示。
+- [Generative-AI-Tutorial (pittisl)](https://github.com/pittisl/Generative-AI-Tutorial): 一份涵盖神经网络、Transformer、LLM、扩散模型等主题的生成式AI学习路线图
+- [ai-for-javascript-course (thestriver)](https://github.com/thestriver/ai-for-javascript-course): 面向JS开发者的AI应用开发开源课程，含LLM与提示工程实战项目。
 - [oreilly-ai-k8s-tutorial (dwhitena)](https://github.com/dwhitena/oreilly-ai-k8s-tutorial): 待人工复核后展示。
-- [agentic-loop-engineering-course (FareedKhan-dev)](https://github.com/FareedKhan-dev/agentic-loop-engineering-course): 待人工复核后展示。
+- [agentic-loop-engineering-course (FareedKhan-dev)](https://github.com/FareedKhan-dev/agentic-loop-engineering-course): 一套18个Notebook的Agent循环工程实战课程，基于实测数据解析LLM组件优化。
