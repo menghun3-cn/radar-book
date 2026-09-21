@@ -1,6 +1,6 @@
 # AI Tutorial Radar
 
-自动发现并维护 GitHub 上高价值的 **AI 教程 / 课程 / 交互式学习仓库** 目录站。项目参考 [Anthropic Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) 这类仓库形态，并按 [awesome-radar-blueprint](docs/awesome-radar-blueprint.md) 实现自动化扫描与发布流水线。
+自动发现并维护 GitHub 上高价值的 **AI 教程 / 课程 / 交互式学习仓库** 目录站。项目参考 [Anthropic Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) 这类仓库形态，并按 awesome-radar-blueprint 的设计实现自动化扫描与发布流水线。
 
 ## 功能
 
@@ -83,6 +83,8 @@ GITHUB_TOKEN=xxx RADAR_MAX_PAGES=1 RADAR_MAX_CANDIDATES=3 npm run radar:dry
 
 Pages 仓库设置里需要启用 GitHub Actions 部署，并把 `RADAR_GITHUB_TOKEN` 配置为带 `read:org`、`repo` 范围的 PAT。
 
+`radar.yml` 有数据变更时会自动提交并 push master，push 会继续触发 `check.yml` 与 `deploy-pages.yml`，因此常规扫描、数据刷新、构建审计和 Pages 发布全程不需要手动操作。
+
 ## 后续建议
 
 - Issue 提交通道：按蓝图实现 `ISSUE_TEMPLATE` + 自动入库 + CAS 原子提交。
@@ -91,5 +93,5 @@ Pages 仓库设置里需要启用 GitHub Actions 部署，并把 `RADAR_GITHUB_T
 
 ## 参考
 
-- [awesome-radar-blueprint.md](docs/awesome-radar-blueprint.md)
+- awesome-radar-blueprint（本地参考文档，不进入仓库）
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
