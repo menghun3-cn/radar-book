@@ -13,5 +13,175 @@
     "id": "adrhill/julia-ml-course",
     "reason": "education signal too weak (1 readme terms, 0 lesson files)",
     "excludedAt": "2026-09-21T04:51:05.755Z"
+  },
+  {
+    "id": "rakesh-yadav/pytorch-rnn-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:53.729Z"
+  },
+  {
+    "id": "thecuriouscurator/the-ultimate-ml-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:53.971Z"
+  },
+  {
+    "id": "m-taghizadeh/python-full-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:54.249Z"
+  },
+  {
+    "id": "mac999/llm-rag-agent-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:54.449Z"
+  },
+  {
+    "id": "kathoffman/lmtp-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:54.680Z"
+  },
+  {
+    "id": "nlp-tutorials/aacl-ijcnlp2022-kgc-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:54.971Z"
+  },
+  {
+    "id": "lanbosandershi/midi-classification-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:55.165Z"
+  },
+  {
+    "id": "suryathiru/computer-vision-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:55.369Z"
+  },
+  {
+    "id": "tlkh/pycon-sg19-tensorflow-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:55.599Z"
+  },
+  {
+    "id": "aws-samples/sample-multimodal-agent-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:55.878Z"
+  },
+  {
+    "id": "gfo-project/optimization-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:56.095Z"
+  },
+  {
+    "id": "ruslanmv/generative-ai-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:56.290Z"
+  },
+  {
+    "id": "laminetourelab/tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:56.504Z"
+  },
+  {
+    "id": "mazurowski-lab/mri-deeplearning-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:56.791Z"
+  },
+  {
+    "id": "ceo21ckim/anomaly-detection-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:57.026Z"
+  },
+  {
+    "id": "priteshgohil/cuda-programming-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:57.291Z"
+  },
+  {
+    "id": "tebesu/pytorch-cpp-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:57.486Z"
+  },
+  {
+    "id": "ubaidkhan08/fine-tuned-chatbot-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:57.698Z"
+  },
+  {
+    "id": "changkun/ws-18-19-deep-learning-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:57.996Z"
+  },
+  {
+    "id": "bhattbhavesh91/doctr-ocr-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:58.390Z"
+  },
+  {
+    "id": "kymatio/ismir23-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:58.815Z"
+  },
+  {
+    "id": "zcxixixi/ai-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:59.047Z"
+  },
+  {
+    "id": "xaviercarrera/tutorial-machine-learning-regresion-lineal",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:59.275Z"
+  },
+  {
+    "id": "aessam/transformers-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:59.498Z"
+  },
+  {
+    "id": "heysachin/deep-learning-pytorch-course-materials",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:59.712Z"
+  },
+  {
+    "id": "vc-anvil/prompt-engineering-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:06:59.904Z"
+  },
+  {
+    "id": "i-station/cpp-computer-vision-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:07:00.236Z"
+  },
+  {
+    "id": "make2explore/tutorial-opencv-on-jetsonnano-with-cuda-support",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:07:00.503Z"
+  },
+  {
+    "id": "bhattbhavesh91/pixellib-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:07:00.755Z"
+  },
+  {
+    "id": "luohaohaoluo/pytorch-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:07:00.986Z"
+  },
+  {
+    "id": "kiritigowda/mivisionx-inference-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:07:01.272Z"
+  },
+  {
+    "id": "inovex/tensorflow-train-to-mobile-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:07:01.502Z"
+  },
+  {
+    "id": "thad75/tutorial-eleve",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:07:01.774Z"
+  },
+  {
+    "id": "mvinyard/lightning-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T09:07:01.974Z"
   }
 ]
