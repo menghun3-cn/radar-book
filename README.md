@@ -18,7 +18,7 @@
 
 ```bash
 npm install
-npm run dev        # http://127.0.0.1:5173
+npm run dev        # http://127.0.0.1:5173/radar-book/
 npm test           # 回归测试
 npm run build      # 数据裁剪 + 类型检查 + vite build + 四语言 SSG + CSP 注入 + 构建审计
 ```
