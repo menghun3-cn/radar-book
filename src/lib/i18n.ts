@@ -2,6 +2,7 @@ import siteContent from "../data/site-content.json";
 import type { Locale, SiteCopy, TutorialProject } from "../types";
 
 const SUFFIX: Record<Locale, string> = { zh: "", en: "En", ja: "Ja", ko: "Ko" };
+const BASE_URL = String(import.meta.env.BASE_URL || "/").replace(/\/$/, "") || "";
 
 export function copyForLocale(locale: Locale): SiteCopy {
   const raw = siteContent.copy[locale] as unknown as SiteCopy;
@@ -21,5 +22,5 @@ export function summaryForLocale(project: TutorialProject, locale: Locale): stri
 }
 
 export function localeHref(locale: Locale): string {
-  return locale === "zh" ? "/" : `/${locale}/`;
+  return `${BASE_URL}${locale === "zh" ? "/" : `/${locale}/`}`;
 }

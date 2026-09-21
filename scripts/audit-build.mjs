@@ -139,8 +139,12 @@ function main() {
     } catch {
       fail(`${relative} initial-projects JSON is unparseable`);
     }
-    for (const asset of html.matchAll(/(?:src|href)="(\/assets\/[^"]+)"/g)) {
-      if (!fs.existsSync(path.join(DIST_DIR, asset[1].replace(/^\//, "")))) {
+    for (const asset of html.matchAll(/(?:src|href)="((?:\/[^/" ]+)?\/assets\/[^"]+)"/g)) {
+      const relativeAsset = asset[1].replace(/^\/[^/]+\//, "/");
+      if (!asset[1].startsWith("/radar-book/")) {
+        fail(`${relative} asset reference must be rooted at /radar-book/: ${asset[1]}`);
+      }
+      if (!fs.existsSync(path.join(DIST_DIR, relativeAsset.slice(1)))) {
         fail(`${relative} references missing asset ${asset[1]}`);
       }
     }
