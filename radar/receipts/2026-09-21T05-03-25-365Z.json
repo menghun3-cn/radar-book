@@ -1,0 +1,162 @@
+{
+  "runUrl": "",
+  "createdAt": "2026-09-21T05:03:25.365Z",
+  "items": [
+    {
+      "id": "microsoft/generative-ai-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-21T05:02:44.646Z",
+      "ok": true
+    },
+    {
+      "id": "mlabonne/llm-course",
+      "action": "metadata",
+      "at": "2026-09-21T05:02:45.724Z",
+      "ok": true
+    },
+    {
+      "id": "dair-ai/prompt-engineering-guide",
+      "action": "metadata",
+      "at": "2026-09-21T05:02:46.613Z",
+      "ok": true
+    },
+    {
+      "id": "microsoft/ai-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-21T05:02:47.508Z",
+      "ok": true
+    },
+    {
+      "id": "anthropics/prompt-eng-interactive-tutorial",
+      "action": "metadata",
+      "at": "2026-09-21T05:02:48.697Z",
+      "ok": true
+    },
+    {
+      "id": "huggingface/agents-course",
+      "action": "metadata",
+      "at": "2026-09-21T05:02:49.885Z",
+      "ok": true
+    },
+    {
+      "id": "d2l-ai/d2l-en",
+      "action": "metadata",
+      "at": "2026-09-21T05:02:51.253Z",
+      "ok": true
+    },
+    {
+      "id": "microsoft/ml-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-21T05:02:52.163Z",
+      "ok": true
+    },
+    {
+      "id": "openai/openai-cookbook",
+      "action": "metadata",
+      "at": "2026-09-21T05:02:53.218Z",
+      "ok": true
+    },
+    {
+      "id": "microsoft/data-science-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-21T05:02:54.197Z",
+      "ok": true
+    },
+    {
+      "id": "yunjey/pytorch-tutorial",
+      "action": "metadata",
+      "at": "2026-09-21T05:02:55.276Z",
+      "ok": true
+    },
+    {
+      "id": "karpathy/llm.c",
+      "action": "metadata",
+      "at": "2026-09-21T05:02:56.142Z",
+      "ok": true
+    },
+    {
+      "id": "fastai/fastbook",
+      "action": "metadata",
+      "at": "2026-09-21T05:02:57.017Z",
+      "ok": true
+    },
+    {
+      "id": "chiphuyen/aie-book",
+      "action": "metadata",
+      "at": "2026-09-21T05:02:57.904Z",
+      "ok": true
+    },
+    {
+      "id": "instillai/tensorflow-course",
+      "action": "metadata",
+      "at": "2026-09-21T05:02:58.758Z",
+      "ok": true
+    },
+    {
+      "id": "udlbook/udlbook",
+      "action": "metadata",
+      "at": "2026-09-21T05:02:59.775Z",
+      "ok": true
+    },
+    {
+      "id": "morvanzhou/pytorch-tutorial",
+      "action": "metadata",
+      "at": "2026-09-21T05:03:00.613Z",
+      "ok": true
+    },
+    {
+      "id": "mrdbourke/zero-to-mastery-ml",
+      "action": "metadata",
+      "at": "2026-09-21T05:03:02.057Z",
+      "ok": true
+    },
+    {
+      "id": "huggingface/deep-rl-class",
+      "action": "metadata",
+      "at": "2026-09-21T05:03:03.308Z",
+      "ok": true
+    },
+    {
+      "id": "google/generative-ai-docs",
+      "action": "metadata",
+      "at": "2026-09-21T05:03:04.376Z",
+      "ok": true
+    },
+    {
+      "id": "mlops-courses/mlops-coding-course",
+      "action": "metadata",
+      "at": "2026-09-21T05:03:05.617Z",
+      "ok": true
+    },
+    {
+      "id": "neural-maze/philoagents-course",
+      "action": "accept",
+      "at": "2026-09-21T05:03:06.970Z",
+      "verifiedAt": "2026-09-21T05:03:09.631Z"
+    },
+    {
+      "id": "friendmine/llm-course-chn",
+      "action": "accept",
+      "at": "2026-09-21T05:03:09.631Z",
+      "verifiedAt": "2026-09-21T05:03:12.836Z"
+    },
+    {
+      "id": "ai-builders/curriculum",
+      "action": "accept",
+      "at": "2026-09-21T05:03:12.836Z",
+      "verifiedAt": "2026-09-21T05:03:18.436Z"
+    },
+    {
+      "id": "salvatorera/tutorial",
+      "action": "accept",
+      "at": "2026-09-21T05:03:18.436Z",
+      "verifiedAt": "2026-09-21T05:03:23.273Z"
+    },
+    {
+      "id": "the-pocket/pocketflow-tutorial-website-chatbot",
+      "action": "accept",
+      "at": "2026-09-21T05:03:23.273Z",
+      "verifiedAt": "2026-09-21T05:03:25.356Z"
+    }
+  ]
+}

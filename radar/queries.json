@@ -1,0 +1,24 @@
+{
+  "repositories": [
+    { "name": "repositories: topic:interactive-tutorial ai fork:false", "query": "topic:interactive-tutorial ai fork:false" },
+    { "name": "repositories: topic:ai-course fork:false", "query": "topic:ai-course fork:false" },
+    { "name": "repositories: topic:llm-course fork:false", "query": "topic:llm-course fork:false" },
+    { "name": "repositories: topic:ai-education fork:false", "query": "topic:ai-education fork:false" },
+    { "name": "repositories: topic:prompt-engineering fork:false", "query": "topic:prompt-engineering fork:false" },
+    { "name": "repositories: topic:machine-learning tutorial fork:false", "query": "topic:machine-learning tutorial fork:false" },
+    { "name": "repositories: topic:deep-learning tutorial fork:false", "query": "topic:deep-learning tutorial fork:false" },
+    { "name": "repositories: topic:generative-ai tutorial fork:false", "query": "topic:generative-ai tutorial fork:false" },
+    { "name": "repositories: topic:jupyter-notebooks course fork:false", "query": "topic:jupyter-notebooks course fork:false" },
+    { "name": "repositories: \"interactive tutorial\" \"artificial intelligence\" in:readme fork:false", "query": "\"interactive tutorial\" \"artificial intelligence\" in:readme fork:false" },
+    { "name": "repositories: \"prompt engineering\" interactive in:readme fork:false", "query": "\"prompt engineering\" interactive in:readme fork:false" },
+    { "name": "repositories: \"LLM course\" in:readme fork:false", "query": "\"LLM course\" in:readme fork:false" },
+    { "name": "repositories: \"generative AI\" \"tutorial\" in:readme fork:false", "query": "\"generative AI\" \"tutorial\" in:readme fork:false" },
+    { "name": "repositories: \"AI tutorial\" in:readme fork:false", "query": "\"AI tutorial\" in:readme fork:false" }
+  ],
+  "code": [
+    { "name": "code: \"interactive tutorial\" \"prompt\" path:README.md", "query": "\"interactive tutorial\" \"prompt\" path:README.md" },
+    { "name": "code: \"LLM\" \"course\" path:README.md", "query": "\"LLM\" \"course\" path:README.md" },
+    { "name": "code: \"generative AI\" \"tutorial\" path:README.md", "query": "\"generative AI\" \"tutorial\" path:README.md" },
+    { "name": "code: \"machine learning\" \"exercises\" path:README.md", "query": "\"machine learning\" \"exercises\" path:README.md" }
+  ]
+}

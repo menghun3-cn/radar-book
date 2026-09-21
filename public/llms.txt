@@ -1,0 +1,31 @@
+# AI Tutorial Radar
+
+以下为已收录的 AI 教程仓库（自动扫描与人工核验）。
+
+- [generative-ai-for-beginners (microsoft)](https://github.com/microsoft/generative-ai-for-beginners): 微软出品的生成式 AI 入门课程，按章节提供概念讲解与 Jupyter Notebook 动手练习。
+- [llm-course (mlabonne)](https://github.com/mlabonne/llm-course): 分三部分的 LLM 课程：LLM 基础、工程要点与微调实战，适合想系统上手大模型的人。
+- [Prompt-Engineering-Guide (dair-ai)](https://github.com/dair-ai/Prompt-Engineering-Guide): 覆盖提示工程、上下文工程、RAG 与 AI Agent 的指南、论文、课程与 Notebook 合集。
+- [AI-For-Beginners (microsoft)](https://github.com/microsoft/AI-For-Beginners): 面向初学者的 AI 课程，覆盖神经网络、计算机视觉、NLP 等主题的通俗讲解。
+- [prompt-eng-interactive-tutorial (anthropics)](https://github.com/anthropics/prompt-eng-interactive-tutorial): 交互式提示工程教程，按章节编排练习，可直接在 Playground 里试写提示词。
+- [agents-course (huggingface)](https://github.com/huggingface/agents-course): Hugging Face 官方 Agent 课程，配套互动练习与实战项目。
+- [d2l-en (d2l-ai)](https://github.com/d2l-ai/d2l-en): 《Dive into Deep Learning》英文版，代码与讲解以 Jupyter Notebook 形式随书提供。
+- [ML-For-Beginners (microsoft)](https://github.com/microsoft/ML-For-Beginners): 经典机器学习入门课程，配套 Quiz 与社区项目，用 scikit-learn 动手实践。
+- [openai-cookbook (openai)](https://github.com/openai/openai-cookbook): OpenAI 官方 Cookbook，展示常见 LLM 应用场景的示例代码与最佳实践。
+- [Data-Science-For-Beginners (microsoft)](https://github.com/microsoft/Data-Science-For-Beginners): 数据科学入门课程，从 Excel、SQL 到 Python 可视化，适合零基础系统学习。
+- [pytorch-tutorial (yunjey)](https://github.com/yunjey/pytorch-tutorial): 面向深度学习研究者的 PyTorch 教程，覆盖基础网络、CNN、RNN、GAN 等经典模型。
+- [llm.c (karpathy)](https://github.com/karpathy/llm.c): 用纯 C 从零训练 GPT 的实验性实现，配套逐步讲解，适合理解 LLM 底层。
+- [fastbook (fastai)](https://github.com/fastai/fastbook): fast.ai 的《Deep Learning for Coders》全书，代码以 Jupyter Notebook 形式呈现。
+- [aie-book (chiphuyen)](https://github.com/chiphuyen/aie-book): Chip Huyen 的《AI Engineering》配套资料，包含章节总结、学习笔记、提示词示例与案例研究。
+- [TensorFlow-Course (instillai)](https://github.com/instillai/TensorFlow-Course): 面向初学者的 TensorFlow 课程，从回归、CNN 到生成模型，配套 Jupyter Notebook 练习。
+- [udlbook (udlbook)](https://github.com/udlbook/udlbook): 《Understanding Deep Learning》官方仓库，按章节提供可运行的 Notebook。
+- [PyTorch-Tutorial (MorvanZhou)](https://github.com/MorvanZhou/PyTorch-Tutorial): PyTorch 入门教程，从张量操作、回归分类一路讲到 CNN/RNN 与强化学习示例。
+- [zero-to-mastery-ml (mrdbourke)](https://github.com/mrdbourke/zero-to-mastery-ml): ZTM 机器学习课程完整笔记与代码，覆盖 pandas、scikit-learn 与 PyTorch。
+- [deep-rl-class (huggingface)](https://github.com/huggingface/deep-rl-class): 深度强化学习课程，从基础到先进算法，配套练习与竞赛。
+- [generative-ai-docs (google)](https://github.com/google/generative-ai-docs): Google Gemini API 官方教程仓库，提供快速上手 Notebook 与 Python 示例。
+- [philoagents-course (neural-maze)](https://github.com/neural-maze/philoagents-course): 6 模块课程，教你构建以 AI 智能体模拟哲学家对话的游戏引擎，覆盖 Agentic RAG、LLM 与 LLMOps。
+- [mlops-coding-course (MLOps-Courses)](https://github.com/MLOps-Courses/mlops-coding-course): MLOps Coding Course 的工程化教程，聚焦生产级机器学习项目的实践方法与可运行代码示例。
+- [llm-course-chn (friendmine)](https://github.com/friendmine/llm-course-chn): mlabonne《LLM Course》的中文授权翻译，覆盖 LLM 基础、LLM Scientist 与 LLM Engineer 三部分。
+- [curriculum (ai-builders)](https://github.com/ai-builders/curriculum): 8 周 AI Builders 课程，覆盖 AI 基础、SGD、Agentic、视觉、NLP、表格数据与部署。
+- [PyTorch-101-Tutorial-Series (Paperspace)](https://github.com/Paperspace/PyTorch-101-Tutorial-Series): Paperspace 官方 PyTorch 101 实战教程，从计算图、自动求导到自定义网络架构，配套完整 Jupyter Notebook。
+- [tutorial (SalvatoreRa)](https://github.com/SalvatoreRa/tutorial): 面向 AI、机器学习和数据科学的教程合集，覆盖计算机视觉、NLP 与生物医学案例，配套 Python/R 与 Notebook。
+- [PocketFlow-Tutorial-Website-Chatbot (The-Pocket)](https://github.com/The-Pocket/PocketFlow-Tutorial-Website-Chatbot): PocketFlow 官方教程项目，演示如何构建低维护的网站 AI 客服，自动读取网页内容并回答用户问题。

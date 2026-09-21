@@ -1,0 +1,45 @@
+name: Radar Sync
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Run radar scan
+        run: node scripts/radar-sync.mjs
+        env:
+          RADAR_GITHUB_TOKEN: ${{ secrets.RADAR_GITHUB_TOKEN || github.token }}
+          RADAR_MAX_PAGES: 2
+          RADAR_MAX_CANDIDATES: 40
+          RADAR_MIN_STARS: 50
+          MUSE_API_KEY: ${{ secrets.MUSE_API_KEY }}
+          MUSE_ENDPOINT: ${{ secrets.MUSE_ENDPOINT }}
+          MUSE_MODEL: ${{ secrets.MUSE_MODEL }}
+      - name: Commit data snapshot
+        run: |
+          git config user.name "ai-tutorial-radar[bot]"
+          git config user.email "ai-tutorial-radar[bot]@users.noreply.github.com"
+          git add src/data/projects.json src/data/radar.json radar/state.json radar/exclusions.json radar/receipts
+          if git diff --cached --quiet; then
+            echo "no data changes"
+          else
+            git commit -m "data: refresh AI tutorial radar"
+            git push
+          fi

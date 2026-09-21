@@ -1,0 +1,1837 @@
+[
+  {
+    "id": "microsoft/generative-ai-for-beginners",
+    "name": "generative-ai-for-beginners",
+    "author": "microsoft",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "repoId": 655806940,
+    "category": "生成式 AI",
+    "plainSummary": "微软出品的生成式 AI 入门课程，按章节提供概念讲解与 Jupyter Notebook 动手练习。",
+    "tags": [
+      "course",
+      "beginner",
+      "notebook",
+      "generative-ai"
+    ],
+    "stars": 120154,
+    "forks": 63254,
+    "openIssues": 6,
+    "license": "MIT",
+    "language": "Jupyter Notebook",
+    "createdAt": "2023-06-19T16:28:59Z",
+    "lastCommitAt": "2026-09-18T13:48:35Z",
+    "pushedAt": "2026-09-18T13:48:35Z",
+    "metadataFetchedAt": "2026-09-21T05:23:09.944Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+    "topics": [
+      "ai",
+      "azure",
+      "chatgpt",
+      "dall-e",
+      "generative-ai",
+      "generativeai",
+      "gpt",
+      "language-model",
+      "llms",
+      "microsoft-for-beginners",
+      "openai",
+      "prompt-engineering",
+      "semantic-search",
+      "transformers"
+    ],
+    "archived": false,
+    "headSha": "d8ec07e31c4b32bd283d565c1abd9b58bb5cf2e8",
+    "sourceUrl": "https://github.com/microsoft/generative-ai-for-beginners/blob/d8ec07e31c4b32bd283d565c1abd9b58bb5cf2e8/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      1,
+      3,
+      42,
+      45,
+      47,
+      51,
+      53,
+      55
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/microsoft/generative-ai-for-beginners/blob/d8ec07e31c4b32bd283d565c1abd9b58bb5cf2e8/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/microsoft/generative-ai-for-beginners/blob/d8ec07e31c4b32bd283d565c1abd9b58bb5cf2e8/00-course-setup/01-setup-cloud.md",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/microsoft/generative-ai-for-beginners/blob/d8ec07e31c4b32bd283d565c1abd9b58bb5cf2e8/00-course-setup/02-setup-local.md",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/microsoft/generative-ai-for-beginners/blob/d8ec07e31c4b32bd283d565c1abd9b58bb5cf2e8/00-course-setup/03-providers.md",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "human-reviewed",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:08:43.403Z",
+    "catalogStatus": "active",
+    "pinned": true
+  },
+  {
+    "id": "mlabonne/llm-course",
+    "name": "llm-course",
+    "author": "mlabonne",
+    "url": "https://github.com/mlabonne/llm-course",
+    "repoId": 655099582,
+    "category": "LLM 开发",
+    "plainSummary": "分三部分的 LLM 课程：LLM 基础、工程要点与微调实战，适合想系统上手大模型的人。",
+    "tags": [
+      "course",
+      "llm",
+      "fine-tuning",
+      "rag"
+    ],
+    "stars": 83050,
+    "forks": 9664,
+    "openIssues": 90,
+    "license": "Apache-2.0",
+    "language": null,
+    "createdAt": "2023-06-17T22:16:25Z",
+    "lastCommitAt": "2026-02-05T13:09:26Z",
+    "pushedAt": "2026-02-05T13:09:26Z",
+    "metadataFetchedAt": "2026-09-21T05:23:10.812Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81252890?v=4",
+    "topics": [
+      "course",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "roadmap"
+    ],
+    "archived": false,
+    "headSha": "7abd96e8284bfae232048fdb77b52397a2114847",
+    "sourceUrl": "https://github.com/mlabonne/llm-course/blob/7abd96e8284bfae232048fdb77b52397a2114847/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      2,
+      5,
+      7,
+      12,
+      14,
+      15,
+      16,
+      19
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/mlabonne/llm-course/blob/7abd96e8284bfae232048fdb77b52397a2114847/README.md",
+        "note": "Fixed-commit source reviewed"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "human-reviewed",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:09:06.778Z",
+    "catalogStatus": "active",
+    "pinned": true
+  },
+  {
+    "id": "dair-ai/prompt-engineering-guide",
+    "name": "Prompt-Engineering-Guide",
+    "author": "dair-ai",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "repoId": 579082810,
+    "category": "提示词工程",
+    "plainSummary": "覆盖提示工程、上下文工程、RAG 与 AI Agent 的指南、论文、课程与 Notebook 合集。",
+    "tags": [
+      "guide",
+      "prompt-engineering",
+      "rag",
+      "agents"
+    ],
+    "stars": 78511,
+    "forks": 8631,
+    "openIssues": 282,
+    "license": "MIT",
+    "language": "MDX",
+    "createdAt": "2022-12-16T16:04:50Z",
+    "lastCommitAt": "2026-03-11T20:09:13Z",
+    "pushedAt": "2026-03-11T20:09:13Z",
+    "metadataFetchedAt": "2026-09-21T05:23:11.763Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30384625?v=4",
+    "topics": [
+      "agent",
+      "agents",
+      "ai-agents",
+      "chatgpt",
+      "deep-learning",
+      "generative-ai",
+      "language-model",
+      "llms",
+      "openai",
+      "prompt-engineering",
+      "rag"
+    ],
+    "archived": false,
+    "headSha": "57673726396dd94acb23bdb1e67f27c78ee85a8e",
+    "sourceUrl": "https://github.com/dair-ai/Prompt-Engineering-Guide/blob/57673726396dd94acb23bdb1e67f27c78ee85a8e/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      1,
+      7,
+      9,
+      11,
+      13,
+      15,
+      24,
+      25
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/dair-ai/Prompt-Engineering-Guide/blob/57673726396dd94acb23bdb1e67f27c78ee85a8e/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/dair-ai/Prompt-Engineering-Guide/blob/57673726396dd94acb23bdb1e67f27c78ee85a8e/notebooks/gemini-context-caching.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/dair-ai/Prompt-Engineering-Guide/blob/57673726396dd94acb23bdb1e67f27c78ee85a8e/notebooks/pe-chatgpt-adversarial.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/dair-ai/Prompt-Engineering-Guide/blob/57673726396dd94acb23bdb1e67f27c78ee85a8e/notebooks/pe-chatgpt-intro.ipynb",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "human-reviewed",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:08:39.357Z",
+    "catalogStatus": "active",
+    "pinned": true
+  },
+  {
+    "id": "microsoft/ai-for-beginners",
+    "name": "AI-For-Beginners",
+    "author": "microsoft",
+    "url": "https://github.com/microsoft/AI-For-Beginners",
+    "repoId": 344190478,
+    "category": "机器学习",
+    "plainSummary": "面向初学者的 AI 课程，覆盖神经网络、计算机视觉、NLP 等主题的通俗讲解。",
+    "tags": [
+      "course",
+      "beginner",
+      "notebook",
+      "machine-learning"
+    ],
+    "stars": 68771,
+    "forks": 13292,
+    "openIssues": 10,
+    "license": "MIT",
+    "language": "Jupyter Notebook",
+    "createdAt": "2021-03-03T16:27:36Z",
+    "lastCommitAt": "2026-09-16T20:17:56Z",
+    "pushedAt": "2026-09-16T20:17:56Z",
+    "metadataFetchedAt": "2026-09-21T05:23:12.845Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "gan",
+      "machine-learning",
+      "microsoft-for-beginners",
+      "nlp",
+      "rnn"
+    ],
+    "archived": false,
+    "headSha": "392d0df1b2647cbee104942390551f1ed9e072c8",
+    "sourceUrl": "https://github.com/microsoft/AI-For-Beginners/blob/392d0df1b2647cbee104942390551f1ed9e072c8/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      15,
+      21,
+      49,
+      59,
+      61,
+      63,
+      65,
+      67
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/microsoft/AI-For-Beginners/blob/392d0df1b2647cbee104942390551f1ed9e072c8/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/microsoft/AI-For-Beginners/blob/392d0df1b2647cbee104942390551f1ed9e072c8/examples/01-hello-ai-world.py",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/microsoft/AI-For-Beginners/blob/392d0df1b2647cbee104942390551f1ed9e072c8/examples/02-simple-neural-network.py",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/microsoft/AI-For-Beginners/blob/392d0df1b2647cbee104942390551f1ed9e072c8/examples/03-image-classifier.ipynb",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "human-reviewed",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:08:48.470Z",
+    "catalogStatus": "active",
+    "pinned": true
+  },
+  {
+    "id": "anthropics/prompt-eng-interactive-tutorial",
+    "name": "prompt-eng-interactive-tutorial",
+    "author": "anthropics",
+    "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "repoId": 781022269,
+    "category": "提示词工程",
+    "plainSummary": "交互式提示工程教程，按章节编排练习，可直接在 Playground 里试写提示词。",
+    "tags": [
+      "interactive",
+      "tutorial",
+      "prompt-engineering",
+      "exercises"
+    ],
+    "stars": 38249,
+    "forks": 4235,
+    "openIssues": 64,
+    "license": null,
+    "language": "Jupyter Notebook",
+    "createdAt": "2024-04-02T15:52:00Z",
+    "lastCommitAt": "2026-08-28T05:31:39Z",
+    "pushedAt": "2026-08-28T05:31:39Z",
+    "metadataFetchedAt": "2026-09-21T05:23:13.952Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
+    "topics": [],
+    "archived": false,
+    "headSha": "0d277542e927652da25b0014c9b346723af55881",
+    "sourceUrl": "https://github.com/anthropics/prompt-eng-interactive-tutorial/blob/0d277542e927652da25b0014c9b346723af55881/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      1,
+      3,
+      5,
+      7,
+      8,
+      9,
+      10,
+      13
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial/blob/0d277542e927652da25b0014c9b346723af55881/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial/blob/0d277542e927652da25b0014c9b346723af55881/AmazonBedrock/anthropic/00_Tutorial_How-To.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial/blob/0d277542e927652da25b0014c9b346723af55881/AmazonBedrock/anthropic/01_Basic_Prompt_Structure.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial/blob/0d277542e927652da25b0014c9b346723af55881/AmazonBedrock/anthropic/02_Being_Clear_and_Direct.ipynb",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "human-reviewed",
+    "licenseStatus": "unconfirmed",
+    "sourceReviewedAt": "2026-09-21T04:08:36.639Z",
+    "catalogStatus": "active",
+    "pinned": true
+  },
+  {
+    "id": "huggingface/agents-course",
+    "name": "agents-course",
+    "author": "huggingface",
+    "url": "https://github.com/huggingface/agents-course",
+    "repoId": 917868934,
+    "category": "AI Agent",
+    "plainSummary": "Hugging Face 官方 Agent 课程，配套互动练习与实战项目。",
+    "tags": [
+      "course",
+      "agents",
+      "tutorial",
+      "interactive"
+    ],
+    "stars": 32711,
+    "forks": 2345,
+    "openIssues": 176,
+    "license": "Apache-2.0",
+    "language": "MDX",
+    "createdAt": "2025-01-16T19:50:22Z",
+    "lastCommitAt": "2026-09-15T00:53:42Z",
+    "pushedAt": "2026-09-15T00:53:42Z",
+    "metadataFetchedAt": "2026-09-21T05:23:14.958Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "course",
+      "huggingface",
+      "langchain",
+      "llamaindex",
+      "smolagents"
+    ],
+    "archived": false,
+    "headSha": "b3946b1d09d29c65736e219d48a8a736a2c52154",
+    "sourceUrl": "https://github.com/huggingface/agents-course/blob/b3946b1d09d29c65736e219d48a8a736a2c52154/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      1,
+      3,
+      5,
+      9,
+      11,
+      13,
+      17,
+      18
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/huggingface/agents-course/blob/b3946b1d09d29c65736e219d48a8a736a2c52154/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/huggingface/agents-course/blob/b3946b1d09d29c65736e219d48a8a736a2c52154/units/en/bonus-unit1/conclusion.mdx",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/huggingface/agents-course/blob/b3946b1d09d29c65736e219d48a8a736a2c52154/units/en/bonus-unit1/fine-tuning.mdx",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/huggingface/agents-course/blob/b3946b1d09d29c65736e219d48a8a736a2c52154/units/en/bonus-unit1/introduction.mdx",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "human-reviewed",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:09:09.593Z",
+    "catalogStatus": "active",
+    "pinned": true
+  },
+  {
+    "id": "d2l-ai/d2l-en",
+    "name": "d2l-en",
+    "author": "d2l-ai",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "repoId": 152166877,
+    "category": "深度学习",
+    "plainSummary": "《Dive into Deep Learning》英文版，代码与讲解以 Jupyter Notebook 形式随书提供。",
+    "tags": [
+      "book",
+      "deep-learning",
+      "tutorial",
+      "jupyter"
+    ],
+    "stars": 29652,
+    "forks": 5132,
+    "openIssues": 199,
+    "license": null,
+    "language": "Python",
+    "createdAt": "2018-10-09T01:04:37Z",
+    "lastCommitAt": "2024-08-18T08:02:36Z",
+    "pushedAt": "2024-08-18T08:02:36Z",
+    "metadataFetchedAt": "2026-09-21T05:23:16.230Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43974506?v=4",
+    "topics": [
+      "book",
+      "computer-vision",
+      "data-science",
+      "deep-learning",
+      "gaussian-processes",
+      "hyperparameter-optimization",
+      "jax",
+      "kaggle",
+      "keras",
+      "machine-learning",
+      "mxnet",
+      "natural-language-processing",
+      "notebook",
+      "python",
+      "pytorch",
+      "recommender-system",
+      "reinforcement-learning",
+      "tensorflow"
+    ],
+    "archived": false,
+    "headSha": "23d7a5aecceee57d1292c56e90cce307f183bb0a",
+    "sourceUrl": "https://github.com/d2l-ai/d2l-en/blob/23d7a5aecceee57d1292c56e90cce307f183bb0a/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      5,
+      9,
+      11,
+      17,
+      20,
+      24,
+      27,
+      36
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/d2l-ai/d2l-en/blob/23d7a5aecceee57d1292c56e90cce307f183bb0a/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/d2l-ai/d2l-en/blob/23d7a5aecceee57d1292c56e90cce307f183bb0a/chapter_appendix-mathematics-for-deep-learning/distributions.md",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/d2l-ai/d2l-en/blob/23d7a5aecceee57d1292c56e90cce307f183bb0a/chapter_appendix-mathematics-for-deep-learning/eigendecomposition.md",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/d2l-ai/d2l-en/blob/23d7a5aecceee57d1292c56e90cce307f183bb0a/chapter_appendix-mathematics-for-deep-learning/geometry-linear-algebraic-ops.md",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "human-reviewed",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:09:14.223Z",
+    "catalogStatus": "active",
+    "pinned": true
+  },
+  {
+    "id": "microsoft/ml-for-beginners",
+    "name": "ML-For-Beginners",
+    "author": "microsoft",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "repoId": 343965132,
+    "category": "机器学习",
+    "plainSummary": "经典机器学习入门课程，配套 Quiz 与社区项目，用 scikit-learn 动手实践。",
+    "tags": [
+      "course",
+      "beginner",
+      "notebook",
+      "machine-learning"
+    ],
+    "stars": 90784,
+    "forks": 22382,
+    "openIssues": 11,
+    "license": "MIT",
+    "language": "Jupyter Notebook",
+    "createdAt": "2021-03-03T01:34:05Z",
+    "lastCommitAt": "2026-09-15T05:29:39Z",
+    "pushedAt": "2026-09-15T05:29:39Z",
+    "metadataFetchedAt": "2026-09-21T05:23:17.263Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+    "topics": [
+      "data-science",
+      "education",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "machinelearning",
+      "machinelearning-python",
+      "microsoft-for-beginners",
+      "ml",
+      "python",
+      "r",
+      "scikit-learn",
+      "scikit-learn-python"
+    ],
+    "archived": false,
+    "headSha": "de2d4e12236445198213a0711855e348e7253cd4",
+    "sourceUrl": "https://github.com/microsoft/ML-For-Beginners/blob/de2d4e12236445198213a0711855e348e7253cd4/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      36,
+      43,
+      45,
+      47,
+      49,
+      51,
+      53,
+      69
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/microsoft/ML-For-Beginners/blob/de2d4e12236445198213a0711855e348e7253cd4/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/microsoft/ML-For-Beginners/blob/de2d4e12236445198213a0711855e348e7253cd4/1-Introduction/1-intro-to-ML/README.md",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/microsoft/ML-For-Beginners/blob/de2d4e12236445198213a0711855e348e7253cd4/1-Introduction/1-intro-to-ML/assignment.md",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/microsoft/ML-For-Beginners/blob/de2d4e12236445198213a0711855e348e7253cd4/1-Introduction/2-history-of-ML/README.md",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "human-reviewed",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:08:54.976Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "openai/openai-cookbook",
+    "name": "openai-cookbook",
+    "author": "openai",
+    "url": "https://github.com/openai/openai-cookbook",
+    "repoId": 468576060,
+    "category": "LLM 开发",
+    "plainSummary": "OpenAI 官方 Cookbook，展示常见 LLM 应用场景的示例代码与最佳实践。",
+    "tags": [
+      "cookbook",
+      "llm",
+      "examples",
+      "practical"
+    ],
+    "stars": 76101,
+    "forks": 12883,
+    "openIssues": 303,
+    "license": "MIT",
+    "language": "Jupyter Notebook",
+    "createdAt": "2022-03-11T02:08:53Z",
+    "lastCommitAt": "2026-09-21T05:06:52Z",
+    "pushedAt": "2026-09-21T05:06:52Z",
+    "metadataFetchedAt": "2026-09-21T05:23:18.276Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
+    "topics": [
+      "chatgpt",
+      "gpt-4",
+      "openai",
+      "openai-api"
+    ],
+    "archived": false,
+    "headSha": "263b2d5b7b63836c4ea30ee9709e65b7a50cbf6f",
+    "sourceUrl": "https://github.com/openai/openai-cookbook/blob/263b2d5b7b63836c4ea30ee9709e65b7a50cbf6f/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      1,
+      3,
+      4,
+      10,
+      12,
+      16
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/openai/openai-cookbook/blob/263b2d5b7b63836c4ea30ee9709e65b7a50cbf6f/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/openai/openai-cookbook/blob/263b2d5b7b63836c4ea30ee9709e65b7a50cbf6f/examples/Unit_test_writing_using_a_multi-step_prompt.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/openai/openai-cookbook/blob/263b2d5b7b63836c4ea30ee9709e65b7a50cbf6f/examples/Unit_test_writing_using_a_multi-step_prompt_with_older_completions_API.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/openai/openai-cookbook/blob/263b2d5b7b63836c4ea30ee9709e65b7a50cbf6f/examples/partners/AWS/chatgpt_agents_sdk_aws_agentcore_cookbook/notebooks/chatgpt_agents_sdk_aws_agentcore_cookbook.ipynb",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "human-reviewed",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:09:23.401Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "microsoft/data-science-for-beginners",
+    "name": "Data-Science-For-Beginners",
+    "author": "microsoft",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "repoId": 344191198,
+    "category": "数据科学",
+    "plainSummary": "数据科学入门课程，从 Excel、SQL 到 Python 可视化，适合零基础系统学习。",
+    "tags": [
+      "course",
+      "beginner",
+      "notebook",
+      "data-science"
+    ],
+    "stars": 37212,
+    "forks": 7521,
+    "openIssues": 20,
+    "license": "MIT",
+    "language": "Jupyter Notebook",
+    "createdAt": "2021-03-03T16:30:15Z",
+    "lastCommitAt": "2026-09-13T21:52:54Z",
+    "pushedAt": "2026-09-13T21:52:54Z",
+    "metadataFetchedAt": "2026-09-21T05:23:19.331Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+    "topics": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "microsoft-for-beginners",
+      "pandas",
+      "python"
+    ],
+    "archived": false,
+    "headSha": "4d2ac427ad6f022e73a75c4f46a28bbb7978ec3f",
+    "sourceUrl": "https://github.com/microsoft/Data-Science-For-Beginners/blob/4d2ac427ad6f022e73a75c4f46a28bbb7978ec3f/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      1,
+      20,
+      29,
+      56,
+      64,
+      66,
+      72,
+      73
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/microsoft/Data-Science-For-Beginners/blob/4d2ac427ad6f022e73a75c4f46a28bbb7978ec3f/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/microsoft/Data-Science-For-Beginners/blob/4d2ac427ad6f022e73a75c4f46a28bbb7978ec3f/.github/ISSUE_TEMPLATE/lesson_update.md",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/microsoft/Data-Science-For-Beginners/blob/4d2ac427ad6f022e73a75c4f46a28bbb7978ec3f/1-Introduction/01-defining-data-science/README.md",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/microsoft/Data-Science-For-Beginners/blob/4d2ac427ad6f022e73a75c4f46a28bbb7978ec3f/1-Introduction/01-defining-data-science/assignment.md",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "human-reviewed",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:09:01.491Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "yunjey/pytorch-tutorial",
+    "name": "pytorch-tutorial",
+    "author": "yunjey",
+    "url": "https://github.com/yunjey/pytorch-tutorial",
+    "repoId": 84533158,
+    "category": "深度学习",
+    "plainSummary": "面向深度学习研究者的 PyTorch 教程，覆盖基础网络、CNN、RNN、GAN 等经典模型。",
+    "tags": [
+      "tutorial",
+      "deep-learning",
+      "pytorch",
+      "course"
+    ],
+    "stars": 32497,
+    "forks": 8207,
+    "openIssues": 89,
+    "license": "MIT",
+    "language": "Python",
+    "createdAt": "2017-03-10T07:41:47Z",
+    "lastCommitAt": "2023-08-15T10:17:50Z",
+    "pushedAt": "2023-08-15T10:17:50Z",
+    "metadataFetchedAt": "2026-09-21T05:23:20.336Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15663219?v=4",
+    "topics": [
+      "deep-learning",
+      "neural-networks",
+      "pytorch",
+      "pytorch-tutorial"
+    ],
+    "archived": false,
+    "headSha": "0500d3df5a2a8080ccfccbc00aca0eacc21818db",
+    "sourceUrl": "https://github.com/yunjey/pytorch-tutorial/blob/0500d3df5a2a8080ccfccbc00aca0eacc21818db/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      5,
+      13,
+      14,
+      15,
+      16,
+      19,
+      20,
+      21
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/yunjey/pytorch-tutorial/blob/0500d3df5a2a8080ccfccbc00aca0eacc21818db/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/yunjey/pytorch-tutorial/blob/0500d3df5a2a8080ccfccbc00aca0eacc21818db/tutorials/01-basics/feedforward_neural_network/main.py",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/yunjey/pytorch-tutorial/blob/0500d3df5a2a8080ccfccbc00aca0eacc21818db/tutorials/01-basics/linear_regression/main.py",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/yunjey/pytorch-tutorial/blob/0500d3df5a2a8080ccfccbc00aca0eacc21818db/tutorials/01-basics/logistic_regression/main.py",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "curated",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:31:58.583Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "karpathy/llm.c",
+    "name": "llm.c",
+    "author": "karpathy",
+    "url": "https://github.com/karpathy/llm.c",
+    "repoId": 783833344,
+    "category": "LLM 开发",
+    "plainSummary": "用纯 C 从零训练 GPT 的实验性实现，配套逐步讲解，适合理解 LLM 底层。",
+    "tags": [
+      "llm",
+      "practical",
+      "tutorial"
+    ],
+    "stars": 31037,
+    "forks": 3763,
+    "openIssues": 224,
+    "license": "MIT",
+    "language": "Cuda",
+    "createdAt": "2024-04-08T16:58:11Z",
+    "lastCommitAt": "2025-06-26T17:03:40Z",
+    "pushedAt": "2025-06-26T17:03:40Z",
+    "metadataFetchedAt": "2026-09-21T05:23:22.025Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/241138?v=4",
+    "topics": [],
+    "archived": false,
+    "headSha": "f1e2ace651495b74ae22d45d1723443fd00ecd3a",
+    "sourceUrl": "https://github.com/karpathy/llm.c/blob/f1e2ace651495b74ae22d45d1723443fd00ecd3a/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      1,
+      3,
+      7,
+      13,
+      22,
+      32,
+      43,
+      46
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/karpathy/llm.c/blob/f1e2ace651495b74ae22d45d1723443fd00ecd3a/README.md",
+        "note": "Fixed-commit source reviewed"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "human-reviewed",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:09:18.410Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "fastai/fastbook",
+    "name": "fastbook",
+    "author": "fastai",
+    "url": "https://github.com/fastai/fastbook",
+    "repoId": 243838973,
+    "category": "深度学习",
+    "plainSummary": "fast.ai 的《Deep Learning for Coders》全书，代码以 Jupyter Notebook 形式呈现。",
+    "tags": [
+      "book",
+      "jupyter",
+      "deep-learning",
+      "notebook"
+    ],
+    "stars": 25315,
+    "forks": 9475,
+    "openIssues": 178,
+    "license": null,
+    "language": "Jupyter Notebook",
+    "createdAt": "2020-02-28T19:26:47Z",
+    "lastCommitAt": "2026-09-13T21:07:24Z",
+    "pushedAt": "2026-09-13T21:07:24Z",
+    "metadataFetchedAt": "2026-09-21T05:23:23.133Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20547620?v=4",
+    "topics": [
+      "book",
+      "data-science",
+      "deep-learning",
+      "fastai",
+      "machine-learning",
+      "notebooks",
+      "python"
+    ],
+    "archived": false,
+    "headSha": "4aefe0a9050d9894255a878c7d72c04458d60de8",
+    "sourceUrl": "https://github.com/fastai/fastbook/blob/4aefe0a9050d9894255a878c7d72c04458d60de8/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      3,
+      5,
+      7,
+      9,
+      17,
+      26,
+      29,
+      30
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/fastai/fastbook/blob/4aefe0a9050d9894255a878c7d72c04458d60de8/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/fastai/fastbook/blob/4aefe0a9050d9894255a878c7d72c04458d60de8/01_intro.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/fastai/fastbook/blob/4aefe0a9050d9894255a878c7d72c04458d60de8/02_production.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/fastai/fastbook/blob/4aefe0a9050d9894255a878c7d72c04458d60de8/03_ethics.ipynb",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "human-reviewed",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:09:03.966Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "chiphuyen/aie-book",
+    "name": "aie-book",
+    "author": "chiphuyen",
+    "url": "https://github.com/chiphuyen/aie-book",
+    "repoId": 898102196,
+    "category": "LLM 开发",
+    "plainSummary": "Chip Huyen 的《AI Engineering》配套资料，包含章节总结、学习笔记、提示词示例与案例研究。",
+    "tags": [
+      "book",
+      "llm",
+      "practical",
+      "course"
+    ],
+    "stars": 17506,
+    "forks": 2552,
+    "openIssues": 22,
+    "license": null,
+    "language": "Jupyter Notebook",
+    "createdAt": "2024-12-03T19:43:36Z",
+    "lastCommitAt": "2026-07-03T07:04:59Z",
+    "pushedAt": "2026-07-03T07:04:59Z",
+    "metadataFetchedAt": "2026-09-21T05:23:23.978Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11997567?v=4",
+    "topics": [],
+    "archived": false,
+    "headSha": "f375e0065ef19e4f411b809a2f9a2d65582db287",
+    "sourceUrl": "https://github.com/chiphuyen/aie-book/blob/f375e0065ef19e4f411b809a2f9a2d65582db287/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      1,
+      4,
+      6,
+      9,
+      15,
+      18,
+      19,
+      23
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/chiphuyen/aie-book/blob/f375e0065ef19e4f411b809a2f9a2d65582db287/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/chiphuyen/aie-book/blob/f375e0065ef19e4f411b809a2f9a2d65582db287/chapter-summaries.md",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "curated",
+    "licenseStatus": "unconfirmed",
+    "sourceReviewedAt": "2026-09-21T04:32:00.610Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "instillai/tensorflow-course",
+    "name": "TensorFlow-Course",
+    "author": "instillai",
+    "url": "https://github.com/instillai/TensorFlow-Course",
+    "repoId": 151300862,
+    "category": "深度学习",
+    "plainSummary": "面向初学者的 TensorFlow 课程，从回归、CNN 到生成模型，配套 Jupyter Notebook 练习。",
+    "tags": [
+      "tutorial",
+      "deep-learning",
+      "course"
+    ],
+    "stars": 16269,
+    "forks": 3113,
+    "openIssues": 2,
+    "license": "MIT",
+    "language": "Jupyter Notebook",
+    "createdAt": "2018-10-02T18:10:12Z",
+    "lastCommitAt": "2022-11-28T11:04:08Z",
+    "pushedAt": "2022-11-28T11:04:08Z",
+    "metadataFetchedAt": "2026-09-21T05:23:24.944Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/43791934?v=4",
+    "topics": [
+      "deep-learning",
+      "deep-learning-tutorial",
+      "python",
+      "tensorflow"
+    ],
+    "archived": false,
+    "headSha": "3ac35a2e8766652f4dae507ef1e3615b2085f9a7",
+    "sourceUrl": "https://github.com/instillai/TensorFlow-Course/blob/3ac35a2e8766652f4dae507ef1e3615b2085f9a7/README.rst",
+    "sourcePath": "README.rst",
+    "evidenceLines": [
+      4,
+      6,
+      7,
+      9,
+      16,
+      17,
+      22,
+      23
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/instillai/TensorFlow-Course/blob/3ac35a2e8766652f4dae507ef1e3615b2085f9a7/README.rst",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/instillai/TensorFlow-Course/blob/3ac35a2e8766652f4dae507ef1e3615b2085f9a7/_img/1-basics/readme.rst",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/instillai/TensorFlow-Course/blob/3ac35a2e8766652f4dae507ef1e3615b2085f9a7/codes/ipython/0-welcome/welcome.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/instillai/TensorFlow-Course/blob/3ac35a2e8766652f4dae507ef1e3615b2085f9a7/codes/ipython/1-basics/automatic_differentiation.ipynb",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "curated",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:32:04.206Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "udlbook/udlbook",
+    "name": "udlbook",
+    "author": "udlbook",
+    "url": "https://github.com/udlbook/udlbook",
+    "repoId": 520128820,
+    "category": "深度学习",
+    "plainSummary": "《Understanding Deep Learning》官方仓库，按章节提供可运行的 Notebook。",
+    "tags": [
+      "book",
+      "deep-learning",
+      "jupyter"
+    ],
+    "stars": 9921,
+    "forks": 2324,
+    "openIssues": 18,
+    "license": null,
+    "language": "Jupyter Notebook",
+    "createdAt": "2022-08-01T13:48:44Z",
+    "lastCommitAt": "2026-07-18T12:32:00Z",
+    "pushedAt": "2026-07-18T12:32:00Z",
+    "metadataFetchedAt": "2026-09-21T05:23:25.801Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110402648?v=4",
+    "topics": [],
+    "archived": false,
+    "headSha": "0d84a591362f1cc99c6dc2ce1c2544d559280681",
+    "sourceUrl": "https://github.com/udlbook/udlbook/blob/0d84a591362f1cc99c6dc2ce1c2544d559280681/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [],
+    "evidence": [
+      {
+        "url": "https://github.com/udlbook/udlbook/blob/0d84a591362f1cc99c6dc2ce1c2544d559280681/README.md",
+        "note": "Fixed-commit source reviewed"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "human-reviewed",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:09:16.371Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "morvanzhou/pytorch-tutorial",
+    "name": "PyTorch-Tutorial",
+    "author": "MorvanZhou",
+    "url": "https://github.com/MorvanZhou/PyTorch-Tutorial",
+    "repoId": 90388827,
+    "category": "深度学习",
+    "plainSummary": "PyTorch 入门教程，从张量操作、回归分类一路讲到 CNN/RNN 与强化学习示例。",
+    "tags": [
+      "tutorial",
+      "machine-learning",
+      "reinforcement-learning",
+      "pytorch",
+      "course"
+    ],
+    "stars": 8468,
+    "forks": 3083,
+    "openIssues": 29,
+    "license": "MIT",
+    "language": "Jupyter Notebook",
+    "createdAt": "2017-05-05T15:12:04Z",
+    "lastCommitAt": "2023-03-23T05:01:42Z",
+    "pushedAt": "2023-03-23T05:01:42Z",
+    "metadataFetchedAt": "2026-09-21T05:23:26.659Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19408436?v=4",
+    "topics": [
+      "autoencoder",
+      "batch",
+      "batch-normalization",
+      "classification",
+      "cnn",
+      "dqn",
+      "dropout",
+      "gan",
+      "generative-adversarial-network",
+      "machine-learning",
+      "neural-network",
+      "python",
+      "pytorch",
+      "pytorch-tutorial",
+      "pytorch-tutorials",
+      "regression",
+      "reinforcement-learning",
+      "rnn",
+      "tutorial"
+    ],
+    "archived": false,
+    "headSha": "dbe154a9e56635e51c6b0c2ccea8ae36cfb585a7",
+    "sourceUrl": "https://github.com/MorvanZhou/PyTorch-Tutorial/blob/dbe154a9e56635e51c6b0c2ccea8ae36cfb585a7/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      2,
+      10,
+      12,
+      14,
+      16,
+      17,
+      19,
+      20
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/MorvanZhou/PyTorch-Tutorial/blob/dbe154a9e56635e51c6b0c2ccea8ae36cfb585a7/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/MorvanZhou/PyTorch-Tutorial/blob/dbe154a9e56635e51c6b0c2ccea8ae36cfb585a7/tutorial-contents-notebooks/.ipynb_checkpoints/401_CNN-checkpoint.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/MorvanZhou/PyTorch-Tutorial/blob/dbe154a9e56635e51c6b0c2ccea8ae36cfb585a7/tutorial-contents-notebooks/.ipynb_checkpoints/406_GAN-checkpoint.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/MorvanZhou/PyTorch-Tutorial/blob/dbe154a9e56635e51c6b0c2ccea8ae36cfb585a7/tutorial-contents-notebooks/201_torch_numpy.ipynb",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "curated",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:32:05.944Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "mrdbourke/zero-to-mastery-ml",
+    "name": "zero-to-mastery-ml",
+    "author": "mrdbourke",
+    "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+    "repoId": 210267713,
+    "category": "机器学习",
+    "plainSummary": "ZTM 机器学习课程完整笔记与代码，覆盖 pandas、scikit-learn 与 PyTorch。",
+    "tags": [
+      "course",
+      "machine-learning",
+      "notebook",
+      "pytorch"
+    ],
+    "stars": 7041,
+    "forks": 4215,
+    "openIssues": 43,
+    "license": null,
+    "language": "Jupyter Notebook",
+    "createdAt": "2019-09-23T04:56:51Z",
+    "lastCommitAt": "2024-10-30T03:31:14Z",
+    "pushedAt": "2024-10-30T03:31:14Z",
+    "metadataFetchedAt": "2026-09-21T05:23:27.482Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16750345?v=4",
+    "topics": [
+      "data-science",
+      "deep-learning",
+      "machine-learning"
+    ],
+    "archived": false,
+    "headSha": "81492352d12d7a52caef57bba7744cbdc34af33f",
+    "sourceUrl": "https://github.com/mrdbourke/zero-to-mastery-ml/blob/81492352d12d7a52caef57bba7744cbdc34af33f/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      1,
+      5,
+      9,
+      10,
+      16,
+      18,
+      26,
+      30
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/mrdbourke/zero-to-mastery-ml/blob/81492352d12d7a52caef57bba7744cbdc34af33f/README.md",
+        "note": "Fixed-commit source reviewed"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "human-reviewed",
+    "licenseStatus": "unconfirmed",
+    "sourceReviewedAt": "2026-09-21T04:09:20.474Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "huggingface/deep-rl-class",
+    "name": "deep-rl-class",
+    "author": "huggingface",
+    "url": "https://github.com/huggingface/deep-rl-class",
+    "repoId": 484003883,
+    "category": "强化学习",
+    "plainSummary": "深度强化学习课程，从基础到先进算法，配套练习与竞赛。",
+    "tags": [
+      "course",
+      "reinforcement-learning",
+      "tutorial"
+    ],
+    "stars": 5019,
+    "forks": 812,
+    "openIssues": 147,
+    "license": "Apache-2.0",
+    "language": "MDX",
+    "createdAt": "2022-04-21T10:19:17Z",
+    "lastCommitAt": "2026-09-17T14:03:30Z",
+    "pushedAt": "2026-09-17T14:03:30Z",
+    "metadataFetchedAt": "2026-09-21T05:23:28.434Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4",
+    "topics": [
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "reinforcement-learning",
+      "reinforcement-learning-excercises"
+    ],
+    "archived": false,
+    "headSha": "9dd129a46d0553247cd09a50f4adec8ce188e87d",
+    "sourceUrl": "https://github.com/huggingface/deep-rl-class/blob/9dd129a46d0553247cd09a50f4adec8ce188e87d/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      1,
+      3,
+      5,
+      7,
+      9,
+      11,
+      15,
+      17
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/huggingface/deep-rl-class/blob/9dd129a46d0553247cd09a50f4adec8ce188e87d/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/huggingface/deep-rl-class/blob/9dd129a46d0553247cd09a50f4adec8ce188e87d/notebooks/bonus-unit1/bonus-unit1.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/huggingface/deep-rl-class/blob/9dd129a46d0553247cd09a50f4adec8ce188e87d/notebooks/bonus-unit1/bonus_unit1.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/huggingface/deep-rl-class/blob/9dd129a46d0553247cd09a50f4adec8ce188e87d/notebooks/unit1/unit1.ipynb",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "human-reviewed",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:09:11.792Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "google/generative-ai-docs",
+    "name": "generative-ai-docs",
+    "author": "google",
+    "url": "https://github.com/google/generative-ai-docs",
+    "repoId": 624268705,
+    "category": "生成式 AI",
+    "plainSummary": "Google Gemini API 官方教程仓库，提供快速上手 Notebook 与 Python 示例。",
+    "tags": [
+      "docs",
+      "tutorial",
+      "generative-ai",
+      "notebook"
+    ],
+    "stars": 2260,
+    "forks": 736,
+    "openIssues": 59,
+    "license": "Apache-2.0",
+    "language": "Jupyter Notebook",
+    "createdAt": "2023-04-06T05:20:25Z",
+    "lastCommitAt": "2026-01-26T04:11:38Z",
+    "pushedAt": "2026-01-26T04:11:38Z",
+    "metadataFetchedAt": "2026-09-21T05:23:29.461Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "topics": [
+      "ai",
+      "chatbot",
+      "documentation",
+      "embeddings",
+      "gemini",
+      "gemini-api",
+      "gemma",
+      "llm",
+      "machine-learning"
+    ],
+    "archived": false,
+    "headSha": "866a0781ded2ff687f0e333ae82e0a99b0d6ecf1",
+    "sourceUrl": "https://github.com/google/generative-ai-docs/blob/866a0781ded2ff687f0e333ae82e0a99b0d6ecf1/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      6,
+      7,
+      12
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/google/generative-ai-docs/blob/866a0781ded2ff687f0e333ae82e0a99b0d6ecf1/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/google/generative-ai-docs/blob/866a0781ded2ff687f0e333ae82e0a99b0d6ecf1/site/en/gemini-api/tutorials/anomaly_detection.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/google/generative-ai-docs/blob/866a0781ded2ff687f0e333ae82e0a99b0d6ecf1/site/en/gemini-api/tutorials/clustering_with_embeddings.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/google/generative-ai-docs/blob/866a0781ded2ff687f0e333ae82e0a99b0d6ecf1/site/en/gemini-api/tutorials/document_search.ipynb",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "human-reviewed",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:09:25.928Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "neural-maze/philoagents-course",
+    "name": "philoagents-course",
+    "author": "neural-maze",
+    "url": "https://github.com/neural-maze/philoagents-course",
+    "repoId": 914406146,
+    "category": "LLM 开发",
+    "plainSummary": "6 模块课程，教你构建以 AI 智能体模拟哲学家对话的游戏引擎，覆盖 Agentic RAG、LLM 与 LLMOps。",
+    "tags": [
+      "agents",
+      "rag",
+      "tutorial",
+      "course"
+    ],
+    "stars": 1547,
+    "forks": 327,
+    "openIssues": 10,
+    "license": "MIT",
+    "language": "Python",
+    "createdAt": "2025-01-09T14:35:47Z",
+    "lastCommitAt": "2025-10-20T19:13:27Z",
+    "pushedAt": "2025-10-20T19:13:27Z",
+    "metadataFetchedAt": "2026-09-21T05:23:30.367Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151655127?v=4",
+    "topics": [
+      "agent",
+      "agent-based-simulation",
+      "agentic-workflow",
+      "groq",
+      "langgraph",
+      "mongodb",
+      "opik",
+      "rag"
+    ],
+    "archived": false,
+    "headSha": "b88d7731f5d8ac5a00c05430798f35c03402e4ce",
+    "sourceUrl": "https://github.com/neural-maze/philoagents-course/blob/b88d7731f5d8ac5a00c05430798f35c03402e4ce/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      2,
+      3,
+      4,
+      13,
+      17,
+      19,
+      22,
+      28
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/neural-maze/philoagents-course/blob/b88d7731f5d8ac5a00c05430798f35c03402e4ce/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/neural-maze/philoagents-course/blob/b88d7731f5d8ac5a00c05430798f35c03402e4ce/philoagents-api/notebooks/long_term_memory_in_action.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/neural-maze/philoagents-course/blob/b88d7731f5d8ac5a00c05430798f35c03402e4ce/philoagents-api/notebooks/short_term_memory_in_action.ipynb",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "curated",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T05:03:09.631Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "mlops-courses/mlops-coding-course",
+    "name": "mlops-coding-course",
+    "author": "MLOps-Courses",
+    "url": "https://github.com/MLOps-Courses/mlops-coding-course",
+    "repoId": 749432469,
+    "category": "机器学习",
+    "plainSummary": "MLOps Coding Course 的工程化教程，聚焦生产级机器学习项目的实践方法与可运行代码示例。",
+    "tags": [
+      "tutorial",
+      "course",
+      "machine-learning",
+      "data-science"
+    ],
+    "stars": 736,
+    "forks": 131,
+    "openIssues": 1,
+    "license": "CC-BY-4.0",
+    "language": null,
+    "createdAt": "2024-01-28T15:16:56Z",
+    "lastCommitAt": "2026-08-24T12:26:24Z",
+    "pushedAt": "2026-08-24T12:26:24Z",
+    "metadataFetchedAt": "2026-09-21T05:23:31.356Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150920271?v=4",
+    "topics": [
+      "best-practices",
+      "coding",
+      "courses",
+      "data-science",
+      "machine-learning",
+      "mkdocs",
+      "mlops",
+      "python",
+      "tutorial",
+      "uv"
+    ],
+    "archived": false,
+    "headSha": "bc4b9a1ac2c51385253ca73c65c0e83f08ba44e7",
+    "sourceUrl": "https://github.com/MLOps-Courses/mlops-coding-course/blob/bc4b9a1ac2c51385253ca73c65c0e83f08ba44e7/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      1,
+      3,
+      5,
+      7,
+      14,
+      18,
+      19,
+      22
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/MLOps-Courses/mlops-coding-course/blob/bc4b9a1ac2c51385253ca73c65c0e83f08ba44e7/README.md",
+        "note": "Fixed-commit source reviewed"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "curated",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T04:51:01.465Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "friendmine/llm-course-chn",
+    "name": "llm-course-chn",
+    "author": "friendmine",
+    "url": "https://github.com/friendmine/llm-course-chn",
+    "repoId": 773264114,
+    "category": "LLM 开发",
+    "plainSummary": "mlabonne《LLM Course》的中文授权翻译，覆盖 LLM 基础、LLM Scientist 与 LLM Engineer 三部分。",
+    "tags": [
+      "course"
+    ],
+    "stars": 352,
+    "forks": 39,
+    "openIssues": 0,
+    "license": "Apache-2.0",
+    "language": "Jupyter Notebook",
+    "createdAt": "2024-03-17T07:22:22Z",
+    "lastCommitAt": "2024-04-03T07:52:11Z",
+    "pushedAt": "2024-04-03T07:52:11Z",
+    "metadataFetchedAt": "2026-09-21T05:23:32.349Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10904954?v=4",
+    "topics": [],
+    "archived": false,
+    "headSha": "b4f20e61f87d2b517729dde4754bb6e11f960957",
+    "sourceUrl": "https://github.com/friendmine/llm-course-chn/blob/b4f20e61f87d2b517729dde4754bb6e11f960957/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      1,
+      6,
+      13,
+      15,
+      16,
+      24,
+      25,
+      26
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/friendmine/llm-course-chn/blob/b4f20e61f87d2b517729dde4754bb6e11f960957/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/friendmine/llm-course-chn/blob/b4f20e61f87d2b517729dde4754bb6e11f960957/4_bit_LLM_Quantization_with_GPTQ.ipynb",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "curated",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T05:03:12.836Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "ai-builders/curriculum",
+    "name": "curriculum",
+    "author": "ai-builders",
+    "url": "https://github.com/ai-builders/curriculum",
+    "repoId": 459616892,
+    "category": "机器学习",
+    "plainSummary": "8 周 AI Builders 课程，覆盖 AI 基础、SGD、Agentic、视觉、NLP、表格数据与部署。",
+    "tags": [
+      "course",
+      "beginner",
+      "notebook",
+      "machine-learning"
+    ],
+    "stars": 290,
+    "forks": 90,
+    "openIssues": 0,
+    "license": "GPL-3.0",
+    "language": "Jupyter Notebook",
+    "createdAt": "2022-02-15T14:37:12Z",
+    "lastCommitAt": "2026-06-10T07:18:02Z",
+    "pushedAt": "2026-06-10T07:18:02Z",
+    "metadataFetchedAt": "2026-09-21T05:23:33.385Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99741955?v=4",
+    "topics": [],
+    "archived": false,
+    "headSha": "0de5f8ae04112d311d1748e7f2af6a5945a6d249",
+    "sourceUrl": "https://github.com/ai-builders/curriculum/blob/0de5f8ae04112d311d1748e7f2af6a5945a6d249/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      1,
+      3,
+      5,
+      10,
+      15,
+      20,
+      22,
+      23
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/ai-builders/curriculum/blob/0de5f8ae04112d311d1748e7f2af6a5945a6d249/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/ai-builders/curriculum/blob/0de5f8ae04112d311d1748e7f2af6a5945a6d249/notebooks/00_how_to_ai_2026.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/ai-builders/curriculum/blob/0de5f8ae04112d311d1748e7f2af6a5945a6d249/notebooks/01_ai_what_2026.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/ai-builders/curriculum/blob/0de5f8ae04112d311d1748e7f2af6a5945a6d249/notebooks/01_ai_what_2026_th.ipynb",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "curated",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T05:03:18.436Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "paperspace/pytorch-101-tutorial-series",
+    "name": "PyTorch-101-Tutorial-Series",
+    "author": "Paperspace",
+    "url": "https://github.com/Paperspace/PyTorch-101-Tutorial-Series",
+    "repoId": 187890004,
+    "category": "深度学习",
+    "plainSummary": "Paperspace 官方 PyTorch 101 实战教程，从计算图、自动求导到自定义网络架构，配套完整 Jupyter Notebook。",
+    "tags": [
+      "tutorial",
+      "deep-learning",
+      "pytorch",
+      "course",
+      "jupyter"
+    ],
+    "stars": 264,
+    "forks": 57,
+    "openIssues": 2,
+    "license": null,
+    "language": "Jupyter Notebook",
+    "createdAt": "2019-05-21T18:08:47Z",
+    "lastCommitAt": "2020-08-19T16:17:48Z",
+    "pushedAt": "2020-08-19T16:17:48Z",
+    "metadataFetchedAt": "2026-09-21T05:23:34.421Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9925401?v=4",
+    "topics": [
+      "101",
+      "deep-learning",
+      "neural-networks",
+      "pytorch",
+      "pytorch-tutorial",
+      "sample-code"
+    ],
+    "archived": false,
+    "headSha": "6478464d1559b1fe37689f415d1f56cd4f75f605",
+    "sourceUrl": "https://github.com/Paperspace/PyTorch-101-Tutorial-Series/blob/6478464d1559b1fe37689f415d1f56cd4f75f605/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      1,
+      3,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/Paperspace/PyTorch-101-Tutorial-Series/blob/6478464d1559b1fe37689f415d1f56cd4f75f605/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/Paperspace/PyTorch-101-Tutorial-Series/blob/6478464d1559b1fe37689f415d1f56cd4f75f605/PyTorch 101 Part 1 - Computational Graphs and Autograd in PyTorch.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/Paperspace/PyTorch-101-Tutorial-Series/blob/6478464d1559b1fe37689f415d1f56cd4f75f605/PyTorch 101 Part 2 - Building Neural Networks With PyTorch.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/Paperspace/PyTorch-101-Tutorial-Series/blob/6478464d1559b1fe37689f415d1f56cd4f75f605/PyTorch 101 Part 3 - Advance PyTorch Usage.ipynb",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "curated",
+    "licenseStatus": "unconfirmed",
+    "sourceReviewedAt": "2026-09-21T05:18:16.053Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "salvatorera/tutorial",
+    "name": "tutorial",
+    "author": "SalvatoreRa",
+    "url": "https://github.com/SalvatoreRa/tutorial",
+    "repoId": 368908101,
+    "category": "机器学习",
+    "plainSummary": "面向 AI、机器学习和数据科学的教程合集，覆盖计算机视觉、NLP 与生物医学案例，配套 Python/R 与 Notebook。",
+    "tags": [
+      "tutorial",
+      "jupyter",
+      "machine-learning",
+      "deep-learning",
+      "data-science",
+      "beginner",
+      "course"
+    ],
+    "stars": 206,
+    "forks": 30,
+    "openIssues": 0,
+    "license": "Apache-2.0",
+    "language": "Jupyter Notebook",
+    "createdAt": "2021-05-19T15:01:22Z",
+    "lastCommitAt": "2025-10-18T12:28:52Z",
+    "pushedAt": "2025-10-18T12:28:52Z",
+    "metadataFetchedAt": "2026-09-21T05:23:35.300Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32837577?v=4",
+    "topics": [
+      "artificial-intelligence",
+      "bioinformatics",
+      "biology",
+      "computer-vision",
+      "convolutional-neural-networks",
+      "data-science",
+      "deep-learning",
+      "graph",
+      "image",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "python",
+      "r",
+      "streamlit",
+      "streamlit-webapp",
+      "tutorial",
+      "tutorials",
+      "vision-transformer"
+    ],
+    "archived": false,
+    "headSha": "d858ecbab252849c17ea51d80a259bab1bf6fdcd",
+    "sourceUrl": "https://github.com/SalvatoreRa/tutorial/blob/d858ecbab252849c17ea51d80a259bab1bf6fdcd/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      3,
+      6,
+      13,
+      15,
+      19,
+      35,
+      36,
+      37
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/SalvatoreRa/tutorial/blob/d858ecbab252849c17ea51d80a259bab1bf6fdcd/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/SalvatoreRa/tutorial/blob/d858ecbab252849c17ea51d80a259bab1bf6fdcd/.github/ISSUE_TEMPLATE/tutorial--faq--script--or-topic-request.md",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "curated",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T05:03:23.273Z",
+    "catalogStatus": "active",
+    "pinned": false
+  },
+  {
+    "id": "the-pocket/pocketflow-tutorial-website-chatbot",
+    "name": "PocketFlow-Tutorial-Website-Chatbot",
+    "author": "The-Pocket",
+    "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Website-Chatbot",
+    "repoId": 998591235,
+    "category": "AI Agent",
+    "plainSummary": "PocketFlow 官方教程项目，演示如何构建低维护的网站 AI 客服，自动读取网页内容并回答用户问题。",
+    "tags": [
+      "tutorial",
+      "agents",
+      "rag",
+      "practical"
+    ],
+    "stars": 110,
+    "forks": 34,
+    "openIssues": 1,
+    "license": "MIT",
+    "language": "JavaScript",
+    "createdAt": "2025-06-08T23:39:20Z",
+    "lastCommitAt": "2025-08-26T02:59:10Z",
+    "pushedAt": "2025-08-26T02:59:10Z",
+    "metadataFetchedAt": "2026-09-21T05:23:36.736Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193350244?v=4",
+    "topics": [],
+    "archived": false,
+    "headSha": "584c598b8f2b1228b5d2ad1564e83257032af171",
+    "sourceUrl": "https://github.com/The-Pocket/PocketFlow-Tutorial-Website-Chatbot/blob/584c598b8f2b1228b5d2ad1564e83257032af171/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      8,
+      24,
+      26,
+      74,
+      88,
+      120
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Website-Chatbot/blob/584c598b8f2b1228b5d2ad1564e83257032af171/README.md",
+        "note": "Fixed-commit source reviewed"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "runtimeVerified": false,
+    "summarySource": "curated",
+    "licenseStatus": "confirmed",
+    "sourceReviewedAt": "2026-09-21T05:03:25.356Z",
+    "catalogStatus": "active",
+    "pinned": false
+  }
+]

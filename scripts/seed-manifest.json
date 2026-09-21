@@ -1,0 +1,114 @@
+[
+  {
+    "id": "anthropics/prompt-eng-interactive-tutorial",
+    "category": "提示词工程",
+    "tags": ["interactive", "tutorial", "prompt-engineering", "exercises"],
+    "summary": "交互式提示工程教程，按章节编排练习，可直接在 Playground 里试写提示词。",
+    "pinned": true
+  },
+  {
+    "id": "dair-ai/Prompt-Engineering-Guide",
+    "category": "提示词工程",
+    "tags": ["guide", "prompt-engineering", "rag", "agents"],
+    "summary": "覆盖提示工程、上下文工程、RAG 与 AI Agent 的指南、论文、课程与 Notebook 合集。",
+    "pinned": true
+  },
+  {
+    "id": "microsoft/generative-ai-for-beginners",
+    "category": "生成式 AI",
+    "tags": ["course", "beginner", "notebook", "generative-ai"],
+    "summary": "微软出品的生成式 AI 入门课程，按章节提供概念讲解与 Jupyter Notebook 动手练习。",
+    "pinned": true
+  },
+  {
+    "id": "microsoft/AI-For-Beginners",
+    "category": "机器学习",
+    "tags": ["course", "beginner", "notebook", "machine-learning"],
+    "summary": "面向初学者的 AI 课程，覆盖神经网络、计算机视觉、NLP 等主题的通俗讲解。",
+    "pinned": true
+  },
+  {
+    "id": "microsoft/ML-For-Beginners",
+    "category": "机器学习",
+    "tags": ["course", "beginner", "notebook", "machine-learning"],
+    "summary": "经典机器学习入门课程，配套 Quiz 与社区项目，用 scikit-learn 动手实践。",
+    "pinned": false
+  },
+  {
+    "id": "microsoft/Data-Science-For-Beginners",
+    "category": "数据科学",
+    "tags": ["course", "beginner", "notebook", "data-science"],
+    "summary": "数据科学入门课程，从 Excel、SQL 到 Python 可视化，适合零基础系统学习。",
+    "pinned": false
+  },
+  {
+    "id": "fastai/fastbook",
+    "category": "深度学习",
+    "tags": ["book", "jupyter", "deep-learning", "notebook"],
+    "summary": "fast.ai 的《Deep Learning for Coders》全书，代码以 Jupyter Notebook 形式呈现。",
+    "pinned": false
+  },
+  {
+    "id": "mlabonne/llm-course",
+    "category": "LLM 开发",
+    "tags": ["course", "llm", "fine-tuning", "rag"],
+    "summary": "分三部分的 LLM 课程：LLM 基础、工程要点与微调实战，适合想系统上手大模型的人。",
+    "pinned": true
+  },
+  {
+    "id": "huggingface/agents-course",
+    "category": "AI Agent",
+    "tags": ["course", "agents", "tutorial", "interactive"],
+    "summary": "Hugging Face 官方 Agent 课程，配套互动练习与实战项目。",
+    "pinned": true
+  },
+  {
+    "id": "huggingface/deep-rl-class",
+    "category": "强化学习",
+    "tags": ["course", "reinforcement-learning", "tutorial"],
+    "summary": "深度强化学习课程，从基础到先进算法，配套练习与竞赛。",
+    "pinned": false
+  },
+  {
+    "id": "d2l-ai/d2l-en",
+    "category": "深度学习",
+    "tags": ["book", "deep-learning", "tutorial", "jupyter"],
+    "summary": "《Dive into Deep Learning》英文版，代码与讲解以 Jupyter Notebook 形式随书提供。",
+    "pinned": true
+  },
+  {
+    "id": "udlbook/udlbook",
+    "category": "深度学习",
+    "tags": ["book", "deep-learning", "jupyter"],
+    "summary": "《Understanding Deep Learning》官方仓库，按章节提供可运行的 Notebook。",
+    "pinned": false
+  },
+  {
+    "id": "karpathy/llm.c",
+    "category": "LLM 开发",
+    "tags": ["llm", "practical", "tutorial"],
+    "summary": "用纯 C 从零训练 GPT 的实验性实现，配套逐步讲解，适合理解 LLM 底层。",
+    "pinned": false
+  },
+  {
+    "id": "mrdbourke/zero-to-mastery-ml",
+    "category": "机器学习",
+    "tags": ["course", "machine-learning", "notebook", "pytorch"],
+    "summary": "ZTM 机器学习课程完整笔记与代码，覆盖 pandas、scikit-learn 与 PyTorch。",
+    "pinned": false
+  },
+  {
+    "id": "openai/openai-cookbook",
+    "category": "LLM 开发",
+    "tags": ["cookbook", "llm", "examples", "practical"],
+    "summary": "OpenAI 官方 Cookbook，展示常见 LLM 应用场景的示例代码与最佳实践。",
+    "pinned": false
+  },
+  {
+    "id": "google/generative-ai-docs",
+    "category": "生成式 AI",
+    "tags": ["docs", "tutorial", "generative-ai", "notebook"],
+    "summary": "Google Gemini API 官方教程仓库，提供快速上手 Notebook 与 Python 示例。",
+    "pinned": false
+  }
+]

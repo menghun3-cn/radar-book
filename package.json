@@ -1,0 +1,28 @@
+{
+  "name": "ai-tutorial-radar",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "npm run data:public && tsc --noEmit && vite build && node scripts/finalize-pages.mjs && node scripts/audit-build.mjs",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --test scripts/*.test.mjs",
+    "data:public": "node scripts/prepare-public-data.mjs",
+    "radar": "node scripts/radar-sync.mjs",
+    "radar:dry": "node scripts/radar-sync.mjs --dry-run",
+    "bootstrap": "node scripts/bootstrap-seeds.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^0.485.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@vitejs/plugin-react": "^4.5.0",
+    "typescript": "~5.8.3",
+    "vite": "^7.0.0"
+  }
+}

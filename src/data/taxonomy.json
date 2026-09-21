@@ -1,0 +1,38 @@
+{
+  "categories": [
+    { "id": "all", "label": "全部" },
+    { "id": "提示词工程", "label": "提示词工程" },
+    { "id": "生成式 AI", "label": "生成式 AI" },
+    { "id": "LLM 开发", "label": "LLM 开发" },
+    { "id": "AI Agent", "label": "AI Agent" },
+    { "id": "机器学习", "label": "机器学习" },
+    { "id": "深度学习", "label": "深度学习" },
+    { "id": "强化学习", "label": "强化学习" },
+    { "id": "数据科学", "label": "数据科学" },
+    { "id": "LLM 实战", "label": "LLM 实战" }
+  ],
+  "tags": [
+    "interactive",
+    "tutorial",
+    "course",
+    "book",
+    "guide",
+    "cookbook",
+    "exercises",
+    "notebook",
+    "jupyter",
+    "beginner",
+    "practical",
+    "prompt-engineering",
+    "llm",
+    "generative-ai",
+    "agents",
+    "rag",
+    "fine-tuning",
+    "deep-learning",
+    "machine-learning",
+    "reinforcement-learning",
+    "data-science",
+    "pytorch"
+  ]
+}

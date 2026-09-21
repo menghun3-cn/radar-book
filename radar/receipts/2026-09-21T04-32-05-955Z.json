@@ -1,0 +1,132 @@
+{
+  "runUrl": "",
+  "createdAt": "2026-09-21T04:32:05.955Z",
+  "items": [
+    {
+      "id": "microsoft/generative-ai-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-21T04:31:41.654Z",
+      "ok": true
+    },
+    {
+      "id": "mlabonne/llm-course",
+      "action": "metadata",
+      "at": "2026-09-21T04:31:42.724Z",
+      "ok": true
+    },
+    {
+      "id": "dair-ai/prompt-engineering-guide",
+      "action": "metadata",
+      "at": "2026-09-21T04:31:43.735Z",
+      "ok": true
+    },
+    {
+      "id": "microsoft/ai-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-21T04:31:44.626Z",
+      "ok": true
+    },
+    {
+      "id": "anthropics/prompt-eng-interactive-tutorial",
+      "action": "metadata",
+      "at": "2026-09-21T04:31:45.612Z",
+      "ok": true
+    },
+    {
+      "id": "huggingface/agents-course",
+      "action": "metadata",
+      "at": "2026-09-21T04:31:46.682Z",
+      "ok": true
+    },
+    {
+      "id": "d2l-ai/d2l-en",
+      "action": "metadata",
+      "at": "2026-09-21T04:31:47.611Z",
+      "ok": true
+    },
+    {
+      "id": "microsoft/ml-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-21T04:31:48.589Z",
+      "ok": true
+    },
+    {
+      "id": "openai/openai-cookbook",
+      "action": "metadata",
+      "at": "2026-09-21T04:31:49.667Z",
+      "ok": true
+    },
+    {
+      "id": "microsoft/data-science-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-21T04:31:50.622Z",
+      "ok": true
+    },
+    {
+      "id": "karpathy/llm.c",
+      "action": "metadata",
+      "at": "2026-09-21T04:31:51.651Z",
+      "ok": true
+    },
+    {
+      "id": "fastai/fastbook",
+      "action": "metadata",
+      "at": "2026-09-21T04:31:52.487Z",
+      "ok": true
+    },
+    {
+      "id": "udlbook/udlbook",
+      "action": "metadata",
+      "at": "2026-09-21T04:31:53.414Z",
+      "ok": true
+    },
+    {
+      "id": "mrdbourke/zero-to-mastery-ml",
+      "action": "metadata",
+      "at": "2026-09-21T04:31:54.249Z",
+      "ok": true
+    },
+    {
+      "id": "huggingface/deep-rl-class",
+      "action": "metadata",
+      "at": "2026-09-21T04:31:55.069Z",
+      "ok": true
+    },
+    {
+      "id": "google/generative-ai-docs",
+      "action": "metadata",
+      "at": "2026-09-21T04:31:55.990Z",
+      "ok": true
+    },
+    {
+      "id": "yunjey/pytorch-tutorial",
+      "action": "accept",
+      "at": "2026-09-21T04:31:56.991Z",
+      "verifiedAt": "2026-09-21T04:31:58.583Z"
+    },
+    {
+      "id": "chiphuyen/aie-book",
+      "action": "accept",
+      "at": "2026-09-21T04:31:58.583Z",
+      "verifiedAt": "2026-09-21T04:32:00.610Z"
+    },
+    {
+      "id": "datawhalechina/leedl-tutorial",
+      "action": "reject",
+      "at": "2026-09-21T04:32:00.610Z",
+      "reason": "no readable README"
+    },
+    {
+      "id": "instillai/tensorflow-course",
+      "action": "accept",
+      "at": "2026-09-21T04:32:02.267Z",
+      "verifiedAt": "2026-09-21T04:32:04.206Z"
+    },
+    {
+      "id": "morvanzhou/pytorch-tutorial",
+      "action": "accept",
+      "at": "2026-09-21T04:32:04.206Z",
+      "verifiedAt": "2026-09-21T04:32:05.944Z"
+    }
+  ]
+}
