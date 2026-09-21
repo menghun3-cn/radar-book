@@ -858,5 +858,195 @@
     "id": "prismicio-community/course-glisten-next",
     "reason": "education signal too weak (2 readme terms, 0 lesson files); no AI/ML signal",
     "excludedAt": "2026-09-21T17:26:47.908Z"
+  },
+  {
+    "id": "rylanschaeffer/stanford-ai-alignment-double-descent-tutorial",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-21T21:20:49.869Z"
+  },
+  {
+    "id": "fudan-generative-vision/diffusion-genai-course",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-21T21:20:59.699Z"
+  },
+  {
+    "id": "jblocklove/llms-for-eda-tutorial",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-21T21:21:00.700Z"
+  },
+  {
+    "id": "nersc/sc23-dl-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:10.930Z"
+  },
+  {
+    "id": "capeprivacy/tf-world-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:11.185Z"
+  },
+  {
+    "id": "leriomaggio/ppml-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:11.382Z"
+  },
+  {
+    "id": "colemurray/age-gender-estimation-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:11.663Z"
+  },
+  {
+    "id": "kraina-ai/srai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:11.936Z"
+  },
+  {
+    "id": "maggike/full-stack-ai-course-creator-learning-journey",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:12.141Z"
+  },
+  {
+    "id": "jacksonkearl/ai-book",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:12.373Z"
+  },
+  {
+    "id": "damo-di-ml/kdd2022-tutorial-time-series",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:12.632Z"
+  },
+  {
+    "id": "liupei101/tutorial-machine-learning-based-survival-analysis",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:12.846Z"
+  },
+  {
+    "id": "nn116003/torchtext-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:13.076Z"
+  },
+  {
+    "id": "bhattbhavesh91/low-light-image-enhancement-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:13.294Z"
+  },
+  {
+    "id": "netflix/user2020-metaflow-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:13.496Z"
+  },
+  {
+    "id": "outsorcerer/pocket-automl-android-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:13.732Z"
+  },
+  {
+    "id": "ai-bites/generative-ai-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:13.933Z"
+  },
+  {
+    "id": "peachman05/action-recognition-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:14.133Z"
+  },
+  {
+    "id": "keineahnung2345/pytorch-tutorial-jupyter-notebooks",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:14.354Z"
+  },
+  {
+    "id": "phoenix0706/5-day-gen-ai-intensive-course-kaggle",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:14.591Z"
+  },
+  {
+    "id": "wilfredpine/python-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:14.820Z"
+  },
+  {
+    "id": "hoya012/fast-style-transfer-tutorial-pytorch",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:15.062Z"
+  },
+  {
+    "id": "andrecnf/ccai-ss23-ai-monitoring-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:15.271Z"
+  },
+  {
+    "id": "izhangzhihao/deeplearning-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:15.475Z"
+  },
+  {
+    "id": "bitstoenergy/iclr-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:15.723Z"
+  },
+  {
+    "id": "greywizard/ml-waf-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:15.972Z"
+  },
+  {
+    "id": "nersc/sc25-dl-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:16.192Z"
+  },
+  {
+    "id": "openml/openml-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:16.488Z"
+  },
+  {
+    "id": "dshahrokhian/federated-learning-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:16.677Z"
+  },
+  {
+    "id": "davisy/random-forest-classification-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:16.885Z"
+  },
+  {
+    "id": "adamstelmaszczyk/rl-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:17.109Z"
+  },
+  {
+    "id": "bhattbhavesh91/catboost-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:17.294Z"
+  },
+  {
+    "id": "mahfujur1/pytorch-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:17.569Z"
+  },
+  {
+    "id": "contextlab/llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:17.770Z"
+  },
+  {
+    "id": "bloomsburyai/ctrlf-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:17.963Z"
+  },
+  {
+    "id": "sap-archive/data-attribute-recommendation-postman-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:18.171Z"
+  },
+  {
+    "id": "nicoprocessor/deeptf-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:18.389Z"
+  },
+  {
+    "id": "scaleoutsystems/digital-pathology-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-21T21:21:18.575Z"
   }
 ]
