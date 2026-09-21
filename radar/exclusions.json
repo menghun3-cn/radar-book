@@ -773,5 +773,90 @@
     "id": "chenxingqiang/tutorial-ecml-pkdd-2020",
     "reason": "below 50 stars",
     "excludedAt": "2026-09-21T09:55:25.314Z"
+  },
+  {
+    "id": "datawhalechina/key-book",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-21T17:20:51.197Z"
+  },
+  {
+    "id": "wagamamaz/tensorflow-tutorial",
+    "reason": "llm: 该仓库本质为链接索引和外部教程汇总，自身不包含成套教学章节或课程材料，不符合收录标准。",
+    "excludedAt": "2026-09-21T17:21:09.043Z"
+  },
+  {
+    "id": "uclaacmai/generative-adversarial-network-tutorial",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-21T17:21:32.023Z"
+  },
+  {
+    "id": "ledell/user-machine-learning-tutorial",
+    "reason": "education signal too weak (2 readme terms, 1 lesson files)",
+    "excludedAt": "2026-09-21T17:21:40.620Z"
+  },
+  {
+    "id": "lianhaimiao/pytorch-lesson-zh",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-21T17:21:41.468Z"
+  },
+  {
+    "id": "sanbuphy/awesome-cs-tutorial",
+    "reason": "llm: 该仓库是计算机科学与深度学习相关学习资源链接的合集（awesome 列表），并非自成体系的教学书籍或课程。",
+    "excludedAt": "2026-09-21T17:22:13.080Z"
+  },
+  {
+    "id": "theaiguyscode/yolov4-cloud-tutorial",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-09-21T17:22:13.896Z"
+  },
+  {
+    "id": "dpbm/dreambooth-tutorial",
+    "reason": "archived",
+    "excludedAt": "2026-09-21T17:23:57.501Z"
+  },
+  {
+    "id": "wingfeitsang/llm-course",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-21T17:24:07.667Z"
+  },
+  {
+    "id": "hamzafarooq/advanced-llms-course",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-21T17:24:08.622Z"
+  },
+  {
+    "id": "dlsys-course/dlsys-course.github.io",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-09-21T17:24:32.849Z"
+  },
+  {
+    "id": "pytopia/cs-tutorial",
+    "reason": "llm: 仓库主体为Python/Linux/Git等通用编程课程，缺乏AI/ML/LLM专题成套教材。",
+    "excludedAt": "2026-09-21T17:24:51.765Z"
+  },
+  {
+    "id": "nl8590687/machine-learning-tutorial-chinese",
+    "reason": "llm: 仅为外部资源链接聚合页，无自有教学章节、课程材料或练习内容。",
+    "excludedAt": "2026-09-21T17:26:19.248Z"
+  },
+  {
+    "id": "francescosaveriozuppichini/tensorflow-dataset-tutorial",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-21T17:26:20.027Z"
+  },
+  {
+    "id": "idouble/chatgpt-simple-tutorial-image-text-code-generation",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-21T17:26:20.883Z"
+  },
+  {
+    "id": "daveebbelaar/pydantic-ai-tutorial",
+    "reason": "llm: 虽含教程元素，但本质为单框架示例集与营销页，非成套课程章节",
+    "excludedAt": "2026-09-21T17:26:42.143Z"
+  },
+  {
+    "id": "prismicio-community/course-glisten-next",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-09-21T17:26:47.908Z"
   }
 ]
