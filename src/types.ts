@@ -5,6 +5,9 @@ export interface TutorialProject {
   url: string;
   category: string;
   plainSummary: string;
+  plainSummaryEn?: string;
+  plainSummaryJa?: string;
+  plainSummaryKo?: string;
   tags: string[];
   stars: number;
   forks: number;
@@ -35,3 +38,79 @@ export interface RadarMeta {
 }
 
 export type SortKey = "stars" | "updated" | "name";
+
+export type Locale = "zh" | "en" | "ja" | "ko";
+
+export interface SiteCopy {
+  brand: string;
+  themeDark: string;
+  themeLight: string;
+  darkMode: string;
+  lightMode: string;
+  lightModeTitle: string;
+  darkModeTitle: string;
+  statusComplete: string;
+  statusPartial: string;
+  statusMetadataOnly: string;
+  statusSeed: string;
+  statusWaiting: string;
+  lastScanned: string;
+  loadState: string;
+  errorRetry: string;
+  retry: string;
+  heroTitle: string;
+  heroSub: string;
+  statProjects: string;
+  statStars: string;
+  statVerified: string;
+  statSaved: string;
+  filtersAria: string;
+  searchPlaceholder: string;
+  sortAria: string;
+  sortStars: string;
+  sortUpdated: string;
+  sortName: string;
+  onlySaved: string;
+  reset: string;
+  resultCount: string;
+  categoryGroupAria: string;
+  tagGroupAria: string;
+  resultsTitle: string;
+  resultsNote: string;
+  verified: string;
+  verifiedTitle: string;
+  noSummary: string;
+  stars: string;
+  updatedPrefix: string;
+  noLicense: string;
+  languageTitle: string;
+  licenseTitle: string;
+  updatedTitle: string;
+  favoriteAdd: string;
+  favoriteRemove: string;
+  favoriteTitle: string;
+  favoriteTitleActive: string;
+  openRepo: string;
+  openRepository: string;
+  emptyTitle: string;
+  emptyText: string;
+  resetFilters: string;
+  footerText: string;
+  timeToday: string;
+  timeYesterday: string;
+  timeDaysAgo: string;
+  timeNever: string;
+  localeAria: string;
+  categoryLabels: Record<string, string>;
+}
+
+export interface InitialPageData {
+  locale: Locale;
+  copy: SiteCopy;
+  projects: TutorialProject[];
+  meta: RadarMeta;
+  page?: {
+    category?: string;
+    projectId?: string;
+  };
+}

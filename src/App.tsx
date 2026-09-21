@@ -3,9 +3,10 @@ import { AlertCircle, RotateCcw, ShieldCheck, Star } from "lucide-react";
 import Header from "./components/Header";
 import FilterBar from "./components/FilterBar";
 import ProjectList from "./components/ProjectList";
-import { formatCompact, statusLabel, timeAgo } from "./lib/format";
+import { copyForLocale, summaryForLocale } from "./lib/i18n";
+import { fillTemplate, formatCompact, statusLabel, timeAgo } from "./lib/format";
 import { loadFavoriteIds, saveFavoriteIds } from "./lib/storage";
-import type { RadarMeta, SortKey, TutorialProject } from "./types";
+import type { InitialPageData, Locale, RadarMeta, SortKey, TutorialProject } from "./types";
 
 const BASE = import.meta.env.BASE_URL || "/";
 
@@ -22,20 +23,31 @@ async function loadData() {
   return { projects, meta };
 }
 
-export default function App() {
-  const [projects, setProjects] = useState<TutorialProject[]>([]);
-  const [meta, setMeta] = useState<RadarMeta | null>(null);
+interface AppProps {
+  initialData?: InitialPageData;
+}
+
+export default function App({ initialData }: AppProps) {
+  const [projects, setProjects] = useState<TutorialProject[]>(() => initialData?.projects ?? []);
+  const [meta, setMeta] = useState<RadarMeta | null>(() => initialData?.meta ?? null);
+  const [locale] = useState<Locale>(() => initialData?.locale ?? "zh");
+  const [t] = useState(() => initialData?.copy ?? copyForLocale("zh"));
   const [error, setError] = useState<string | null>(null);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState<boolean>(!initialData);
 
   const [query, setQuery] = useState("");
-  const [category, setCategory] = useState("all");
+  const [category, setCategory] = useState<string>(
+    () => initialData?.page?.category === "all" ? "all" : (initialData?.page?.category ?? "all"),
+  );
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
   const [sort, setSort] = useState<SortKey>("stars");
   const [onlySaved, setOnlySaved] = useState(false);
-  const [favoriteIds, setFavoriteIds] = useState<Set<string>>(() => new Set(loadFavoriteIds()));
+  const [favoriteIds, setFavoriteIds] = useState<Set<string>>(
+    () => (typeof window === "undefined" ? new Set() : new Set(loadFavoriteIds())),
+  );
 
   const [dark, setDark] = useState<boolean>(() => {
+    if (typeof window === "undefined") return false;
     if (localStorage.getItem("theme") === "dark") return true;
     if (localStorage.getItem("theme") === "light") return false;
     return window.matchMedia("(prefers-color-scheme: dark)").matches;
@@ -47,6 +59,7 @@ export default function App() {
   }, [dark]);
 
   useEffect(() => {
+    if (initialData) return;
     let cancelled = false;
     setLoading(true);
     loadData()
@@ -66,7 +79,7 @@ export default function App() {
     return () => {
       cancelled = true;
     };
-  }, []);
+  }, [initialData]);
 
   useEffect(() => {
     saveFavoriteIds(favoriteIds);
@@ -91,6 +104,7 @@ export default function App() {
   const filtered = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase();
     const result = projects.filter((project) => {
+      if (initialData?.page?.projectId && project.id !== initialData.page.projectId) return false;
       if (category !== "all" && project.category !== category) return false;
       if (selectedTags.length > 0 && !selectedTags.every((tag) => project.tags.includes(tag))) return false;
       if (onlySaved && !favoriteIds.has(project.id)) return false;
@@ -99,7 +113,7 @@ export default function App() {
         project.name,
         project.author,
         project.category,
-        project.plainSummary,
+        summaryForLocale(project, locale),
         project.tags.join(" "),
         project.language ?? "",
       ]
@@ -116,7 +130,7 @@ export default function App() {
       }
       return b.stars - a.stars;
     });
-  }, [projects, query, category, selectedTags, onlySaved, favoriteIds, sort]);
+  }, [projects, query, category, selectedTags, onlySaved, favoriteIds, sort, locale, initialData?.page?.projectId]);
 
   const stats = useMemo(() => {
     const totalStars = projects.reduce((sum, project) => sum + project.stars, 0);
@@ -136,48 +150,48 @@ export default function App() {
       .finally(() => setLoading(false));
   };
 
-  const status = statusLabel(meta?.status ?? null);
+  const status = statusLabel(meta?.status ?? null, t);
 
   return (
     <div className="app">
-      <Header meta={meta} dark={dark} onToggleDark={() => setDark((value) => !value)} />
+      <Header meta={meta} dark={dark} onToggleDark={() => setDark((value) => !value)} locale={locale} t={t} />
 
       {loading ? (
         <div className="load-state" role="status">
           <span className="spinner" aria-hidden="true" />
-          正在读取目录
+          {t.loadState}
         </div>
       ) : error ? (
         <div className="load-state" role="alert">
           <AlertCircle size={22} aria-hidden="true" />
-          <p>{error}</p>
+          <p>{t.errorRetry}</p>
           <button type="button" className="outline-btn" onClick={reload}>
             <RotateCcw size={15} />
-            重试
+            {t.retry}
           </button>
         </div>
       ) : (
         <>
           <section className="hero">
             <div className="hero-copy">
-              <h1>AI 教程雷达</h1>
-              <p className="hero-sub">自动发现 GitHub 上成体系的 AI 教程、课程与交互式学习项目。</p>
+              <h1>{t.heroTitle}</h1>
+              <p className="hero-sub">{t.heroSub}</p>
             </div>
             <div className="stats">
               <div className="stat">
-                <span className="stat-label">收录</span>
+                <span className="stat-label">{t.statProjects}</span>
                 <span className="stat-value">{projects.length}</span>
               </div>
               <div className="stat">
-                <span className="stat-label">总星标</span>
+                <span className="stat-label">{t.statStars}</span>
                 <span className="stat-value">{formatCompact(stats.totalStars)}</span>
               </div>
               <div className="stat">
-                <span className="stat-label">已核验</span>
+                <span className="stat-label">{t.statVerified}</span>
                 <span className="stat-value">{stats.verified}</span>
               </div>
               <div className="stat">
-                <span className="stat-label">收藏</span>
+                <span className="stat-label">{t.statSaved}</span>
                 <span className="stat-value">{favoriteIds.size}</span>
               </div>
             </div>
@@ -201,15 +215,19 @@ export default function App() {
             onSortChange={setSort}
             onlySaved={onlySaved}
             onOnlySavedChange={setOnlySaved}
+            t={t}
           />
 
           <div className="results-head">
-            <p className="results-title">仓库</p>
+            <p className="results-title">{t.resultsTitle}</p>
             <p className="results-note">
-              <Star size={13} /> {formatCompact(stats.totalStars)} stars
+              <Star size={13} /> {formatCompact(stats.totalStars)} {t.stars}
               {meta?.lastRunAt ? (
                 <span>
-                  <ShieldCheck size={13} /> 最近扫描 {timeAgo(meta.lastRunAt)}
+                  <ShieldCheck size={13} /> {fillTemplate(t.resultsNote, {
+                    stars: formatCompact(stats.totalStars),
+                    time: timeAgo(meta.lastRunAt, t),
+                  })}
                 </span>
               ) : null}
             </p>
@@ -220,10 +238,12 @@ export default function App() {
             favoriteIds={favoriteIds}
             onToggleFavorite={toggleFavorite}
             onReset={resetFilters}
+            locale={locale}
+            t={t}
           />
 
           <footer className="footer">
-            <span>数据以 JSON 入库，由 GitHub Actions 定时扫描刷新。</span>
+            <span>{t.footerText}</span>
             <span className="footer-status">
               <ShieldCheck size={13} />
               {status.text}

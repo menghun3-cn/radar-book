@@ -100,6 +100,71 @@ export class GitHubClient {
     return null;
   }
 
+  async getRef(fullName, ref) {
+    return this.request(`/repos/${fullName}/git/refs/${encodeURIComponent(ref)}`);
+  }
+
+  async updateRef(fullName, ref, sha) {
+    return this.request(`/repos/${fullName}/git/refs/${encodeURIComponent(ref)}`, {
+      method: "PATCH",
+      body: { sha, force: false },
+    });
+  }
+
+  async getCommit(fullName, sha) {
+    return this.request(`/repos/${fullName}/git/commits/${sha}`);
+  }
+
+  async createBlob(fullName, content) {
+    return this.request(`/repos/${fullName}/git/blobs`, {
+      method: "POST",
+      body: { content, encoding: "utf-8" },
+    });
+  }
+
+  async createTree(fullName, baseTree, entries) {
+    return this.request(`/repos/${fullName}/git/trees`, {
+      method: "POST",
+      body: { base_tree: baseTree, tree: entries },
+    });
+  }
+
+  async createCommit(fullName, message, treeSha, parents) {
+    return this.request(`/repos/${fullName}/git/commits`, {
+      method: "POST",
+      body: { message, tree: treeSha, parents },
+    });
+  }
+
+  async getIssue(fullName, issueNumber) {
+    return this.request(`/repos/${fullName}/issues/${Number(issueNumber)}`);
+  }
+
+  async createIssueComment(fullName, issueNumber, body) {
+    return this.request(`/repos/${fullName}/issues/${Number(issueNumber)}/comments`, {
+      method: "POST",
+      body: { body },
+    });
+  }
+
+  async listIssueComments(fullName, issueNumber) {
+    return this.request(`/repos/${fullName}/issues/${Number(issueNumber)}/comments`);
+  }
+
+  async updateIssue(fullName, issueNumber, state) {
+    return this.request(`/repos/${fullName}/issues/${Number(issueNumber)}`, {
+      method: "PATCH",
+      body: { state },
+    });
+  }
+
+  async addIssueLabels(fullName, issueNumber, labels) {
+    return this.request(`/repos/${fullName}/issues/${Number(issueNumber)}/labels`, {
+      method: "POST",
+      body: { labels },
+    });
+  }
+
   async searchRepositories(query, page = 1, perPage = 100) {
     return this.request(
       `/search/repositories?q=${encodeURIComponent(query)}&page=${page}&per_page=${perPage}`,

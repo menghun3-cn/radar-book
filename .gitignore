@@ -1,5 +1,6 @@
 node_modules/
 docs/awesome-radar-blueprint.md
 dist/
+ingestion/
 *.tsbuildinfo
 .DS_Store

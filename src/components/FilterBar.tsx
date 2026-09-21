@@ -1,6 +1,7 @@
 import { useMemo } from "react";
 import { Bookmark, RotateCcw, Search } from "lucide-react";
-import type { SortKey, TutorialProject } from "../types";
+import { fillTemplate } from "../lib/format";
+import type { SiteCopy, SortKey, TutorialProject } from "../types";
 import taxonomy from "../data/taxonomy.json";
 
 interface FilterBarProps {
@@ -17,6 +18,7 @@ interface FilterBarProps {
   onSortChange: (value: SortKey) => void;
   onlySaved: boolean;
   onOnlySavedChange: (value: boolean) => void;
+  t: SiteCopy;
 }
 
 export default function FilterBar({
@@ -33,6 +35,7 @@ export default function FilterBar({
   onSortChange,
   onlySaved,
   onOnlySavedChange,
+  t,
 }: FilterBarProps) {
   const categoryCounts = useMemo(() => {
     const counts = new Map<string, number>();
@@ -55,26 +58,26 @@ export default function FilterBar({
   const hasFilters = query !== "" || category !== "all" || selectedTags.length > 0 || onlySaved;
 
   return (
-    <section className="controls" aria-label="筛选与排序">
+    <section className="controls" aria-label={t.filtersAria}>
       <div className="controls-row">
         <label className="search">
           <Search size={15} aria-hidden="true" />
           <input
             type="search"
-            placeholder="搜索名称、作者、标签或简介"
+            placeholder={t.searchPlaceholder}
             value={query}
             onChange={(event) => onQueryChange(event.target.value)}
           />
         </label>
         <select
           className="select"
-          aria-label="排序方式"
+          aria-label={t.sortAria}
           value={sort}
           onChange={(event) => onSortChange(event.target.value as SortKey)}
         >
-          <option value="stars">按星标排序</option>
-          <option value="updated">按最近更新</option>
-          <option value="name">按名称排序</option>
+          <option value="stars">{t.sortStars}</option>
+          <option value="updated">{t.sortUpdated}</option>
+          <option value="name">{t.sortName}</option>
         </select>
         <button
           type="button"
@@ -83,7 +86,7 @@ export default function FilterBar({
           onClick={() => onOnlySavedChange(!onlySaved)}
         >
           <Bookmark size={15} />
-          仅收藏
+          {t.onlySaved}
         </button>
         {hasFilters ? (
           <button type="button" className="outline-btn" onClick={() => {
@@ -93,13 +96,13 @@ export default function FilterBar({
             onOnlySavedChange(false);
           }}>
             <RotateCcw size={15} />
-            重置
+            {t.reset}
           </button>
         ) : null}
-        <span className="result-count">{resultCount} / {projects.length}</span>
+        <span className="result-count">{fillTemplate(t.resultCount, { result: resultCount, total: projects.length })}</span>
       </div>
 
-      <div className="chip-group" role="group" aria-label="按分类筛选">
+      <div className="chip-group" role="group" aria-label={t.categoryGroupAria}>
         {taxonomy.categories.map((item) => (
           <button
             key={item.id}
@@ -107,13 +110,13 @@ export default function FilterBar({
             className={`chip ${category === item.id ? "active" : ""}`}
             onClick={() => onCategoryChange(item.id)}
           >
-            {item.label}
+            {t.categoryLabels[item.label] ?? item.label}
             {item.id !== "all" ? <span className="chip-count">{categoryCounts.get(item.id) ?? 0}</span> : null}
           </button>
         ))}
       </div>
 
-      <div className="chip-group tag-group" role="group" aria-label="按标签筛选">
+      <div className="chip-group tag-group" role="group" aria-label={t.tagGroupAria}>
         {taxonomy.tags.filter((tag) => (tagCounts.get(tag) ?? 0) > 0).map((tag) => (
           <button
             key={tag}

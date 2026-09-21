@@ -1,0 +1,83 @@
+name: 提交 AI 教程仓库
+description: 推荐一个值得收录进 AI 教程雷达的 GitHub 教程/课程/交互式学习仓库。
+title: "[project] <owner/repo>"
+labels: ["project-submission"]
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: GitHub repository
+      description: 仓库链接或 owner/repo，例如 anthropics/prompt-eng-interactive-tutorial
+      placeholder: "owner/repo 或 https://github.com/owner/repo"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: 仓库做什么
+      description: 用一两句话说明这是什么教程、课程或交互式学习项目。
+      placeholder: "按章节组织的提示工程互动教程，配套可运行的练习。"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Primary Category
+      description: 最匹配的分类
+      options:
+        - 提示词工程
+        - 生成式 AI
+        - LLM 开发
+        - AI Agent
+        - 机器学习
+        - 深度学习
+        - 强化学习
+        - 数据科学
+        - LLM 实战
+    validations:
+      required: true
+  - type: checkboxes
+    id: tags
+    attributes:
+      label: Project Tags
+      description: 选择最多 4 个标签
+      options:
+        - label: tutorial
+        - label: course
+        - label: book
+        - label: interactive
+        - label: exercises
+        - label: notebook
+        - label: prompt-engineering
+        - label: llm
+        - label: generative-ai
+        - label: agents
+        - label: rag
+        - label: fine-tuning
+        - label: deep-learning
+        - label: machine-learning
+        - label: reinforcement-learning
+        - label: data-science
+        - label: pytorch
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 源码证据链接
+      description: 提交 README 或课程目录里能证明存在成套教学材料的链接，尽量带 commit/line。
+      placeholder: "https://github.com/owner/repo/blob/main/README.md#L1"
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission Checklist
+      options:
+        - label: 仓库是公开的，且不是 fork
+          required: true
+        - label: 内容是 AI 相关的教学资料（教程/课程/书籍/练习/互动学习）
+          required: true
+        - label: 同意机器自动核验、评审失败时通过本 issue 告知原因
+          required: true
+      description: 提交后流水线会自动运行 L1 静态核验与可选的 L2 LLM 评审。

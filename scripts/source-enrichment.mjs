@@ -44,7 +44,7 @@ function truncate(text, max) {
 export function createReviewer({ apiKey, endpoint, model, log = console } = {}) {
   if (!apiKey || !endpoint || !model) return null;
   return {
-    async reviewCandidate({ repo, readme, taxonomy }) {
+    async reviewCandidate({ repo, readme, codeSources = [], taxonomy }) {
       const prompt = [
         "你是资料审核员。判断一个 GitHub 仓库是否值得收录进“AI 教程书籍/课程”目录。",
         "只有同时满足以下条件才返回 verified=true：",
@@ -52,8 +52,10 @@ export function createReviewer({ apiKey, endpoint, model, log = console } = {}) 
         "2. 内容围绕 AI/机器学习/LLM/提示工程/Agent/数据科学等主题；",
         "3. 结构上有成套章节或课程材料，而不只是一页 README。",
         "只输出 JSON，不要 markdown 代码块，字段：",
-        '{"verified":boolean,"confidence":0到1,"reason":"不超过60字","category":"建议分类","tags":["最多4个英文标签"],"plainSummary":"不超过60字的中文一句话介绍"}',
-        `\n仓库：${repo.full_name}\n描述：${repo.description ?? ""}\nTopics：${(repo.topics ?? []).join(", ")}\n分类目录：${(taxonomy?.categories ?? []).map((c) => c.label).join("、")}\n\README 全文如下：\n${String(readme ?? "").slice(0, 18_000)}`,
+        '{"verified":boolean,"confidence":0到1,"reason":"不超过60字","category":"建议分类","tags":["最多4个英文标签"],"plainSummary":"不超过60字的中文一句话介绍","plainSummaryEn":"one English sentence","plainSummaryJa":"日本語の一言説明","plainSummaryKo":"한국어 한 줄 소개"}',
+        `\n仓库：${repo.full_name}\n描述：${repo.description ?? ""}\nTopics：${(repo.topics ?? []).join(", ")}\n分类目录：${(taxonomy?.categories ?? []).map((c) => c.label).join("、")}`,
+        `\n\n源码证据（固定 commit）：\n${codeSources.map((source, index) => `[${index + 1}] 路径：${source.path}\nURL：${source.url ?? ""}\n\n${String(source.excerpt ?? source.text ?? "").slice(0, 4_000)}`).join("\n\n") || "（无）"}`,
+        `\n\README 全文如下：\n${String(readme ?? "").slice(0, 18_000)}`,
       ].join("\n");
 
       const controller = new AbortController();
@@ -86,6 +88,9 @@ export function createReviewer({ apiKey, endpoint, model, log = console } = {}) 
           category: parsed?.category ?? null,
           tags: Array.isArray(parsed?.tags) ? parsed.tags.slice(0, 4) : null,
           plainSummary: parsed?.plainSummary ?? null,
+          plainSummaryEn: parsed?.plainSummaryEn ?? null,
+          plainSummaryJa: parsed?.plainSummaryJa ?? null,
+          plainSummaryKo: parsed?.plainSummaryKo ?? null,
           reviewedAt: nowISO(),
         };
       } catch {

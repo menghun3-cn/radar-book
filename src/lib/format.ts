@@ -1,3 +1,5 @@
+import type { SiteCopy } from "../types";
+
 export function formatCompact(value: number | null | undefined): string {
   const n = Number(value ?? 0);
   if (n >= 1_000_000) return `${(n / 1_000_000).toFixed(1).replace(/\.0$/, "")}M`;
@@ -15,28 +17,35 @@ export function formatDate(iso: string | null | undefined): string {
   return `${y}-${m}-${d}`;
 }
 
-export function timeAgo(iso: string | null | undefined): string {
-  if (!iso) return "未扫描";
+export function timeAgo(iso: string | null | undefined, copy: SiteCopy): string {
+  if (!iso) return copy.timeNever;
   const then = new Date(iso).getTime();
-  if (Number.isNaN(then)) return "未扫描";
+  if (Number.isNaN(then)) return copy.timeNever;
   const days = Math.max(0, Math.floor((Date.now() - then) / 86_400_000));
-  if (days === 0) return "今天";
-  if (days === 1) return "昨天";
-  if (days < 30) return `${days} 天前`;
+  if (days === 0) return copy.timeToday;
+  if (days === 1) return copy.timeYesterday;
+  if (days < 30) return copy.timeDaysAgo.replace("{days}", String(days));
   return formatDate(iso);
 }
 
-export function statusLabel(status: string | null): { text: string; tone: "ok" | "partial" | "seed" } {
+export function statusLabel(
+  status: string | null,
+  copy: SiteCopy,
+): { text: string; tone: "ok" | "partial" | "seed" } {
   switch (status) {
     case "complete":
-      return { text: "本轮扫描完成", tone: "ok" };
+      return { text: copy.statusComplete, tone: "ok" };
     case "partial":
-      return { text: "扫描继续中，有排队项", tone: "partial" };
+      return { text: copy.statusPartial, tone: "partial" };
     case "metadata-only":
-      return { text: "元数据已刷新", tone: "ok" };
+      return { text: copy.statusMetadataOnly, tone: "ok" };
     case "seed":
-      return { text: "种子目录", tone: "seed" };
+      return { text: copy.statusSeed, tone: "seed" };
     default:
-      return { text: "等待扫描", tone: "seed" };
+      return { text: copy.statusWaiting, tone: "seed" };
   }
+}
+
+export function fillTemplate(template: string, values: Record<string, string | number>): string {
+  return template.replace(/\{(\w+)\}/g, (_, key: string) => String(values[key] ?? ""));
 }

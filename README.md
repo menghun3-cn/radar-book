@@ -10,6 +10,8 @@
 - **双层核验**：L1 在固定 commit 上做静态源码核验（README 教学信号 + 课程文件结构 + AI 主题）；可选 L2 LLM 评审门（OpenAI 兼容接口）。
 - **编辑保护**：人工校审过的摘要、分类、标签、置顶标记不会被雷达刷新覆盖。
 - **流水线闭环**：CI 测试 + 构建审计 → 每 6 小时雷达扫描 → 自动提交数据 → GitHub Pages 发布。
+- **Issue 提交通道**：`ISSUE_TEMPLATE` 提交仓库，issue 事件自动执行 prepare → validate → CAS 原子提交 → 评论/关闭闭环。
+- **多语言 SSG**：zh/en/ja/ko 四语言的首页、分类页、项目页全部预渲染，首屏与爬虫可读；客户端 hydrate 后保留筛选交互。
 - **公开/内部分离**：发布前按字段白名单裁剪，审计脚本拒绝密钥、本地路径、内部目录与 source map 进入产物。
 
 ## 快速开始
@@ -18,7 +20,7 @@
 npm install
 npm run dev        # http://127.0.0.1:5173
 npm test           # 回归测试
-npm run build      # 数据裁剪 + 类型检查 + vite build + CSP 注入 + 构建审计
+npm run build      # 数据裁剪 + 类型检查 + vite build + 四语言 SSG + CSP 注入 + 构建审计
 ```
 
 首次初始化种子数据（需要 GitHub token）：
@@ -61,6 +63,8 @@ GITHUB_TOKEN=xxx RADAR_MAX_PAGES=1 RADAR_MAX_CANDIDATES=3 npm run radar:dry
 - `radar/queries.json`：搜索词配置（领域知识所在，可直接编辑）。
 - `public/projects.json` 与 `public/meta.json`：构建时由白名单生成的公开数据。
 - `public/llms.txt`：给 LLM/AI 阅读的目录索引。
+- `src/data/site-content.json`：四语言站点文案与分类标签映射。
+- `.github/ISSUE_TEMPLATE/project.yml`：Issue 提交通道表单。
 
 ## 核验规则（L1）
 
@@ -79,6 +83,7 @@ GITHUB_TOKEN=xxx RADAR_MAX_PAGES=1 RADAR_MAX_CANDIDATES=3 npm run radar:dry
 |---|---|---|
 | `check.yml` | push / PR | `npm test` + `npm run build` |
 | `radar.yml` | 每 6 小时 / 手动 | 扫描、核验、原子落盘、有变更才提交 |
+| `auto-ingest-issue.yml` | issue 打开/编辑、`/ingest` 评论、手动 | L1 + L2 核验、候选构建验证、CAS 原子提交、评论/关闭反馈闭环 |
 | `deploy-pages.yml` | push master / 手动 | 构建、审计、上传 Pages artifact、部署 |
 
 Pages 仓库设置里需要启用 GitHub Actions 部署，并把 `RADAR_GITHUB_TOKEN` 配置为带 `read:org`、`repo` 范围的 PAT。
@@ -87,9 +92,8 @@ Pages 仓库设置里需要启用 GitHub Actions 部署，并把 `RADAR_GITHUB_T
 
 ## 后续建议
 
-- Issue 提交通道：按蓝图实现 `ISSUE_TEMPLATE` + 自动入库 + CAS 原子提交。
-- 多语言文案与 SSG 预渲染（蓝图 P1/P4）。
-- 每轮接收完数据后通过 `workflow_run` 门禁触发部署，避免雷达大量小提交逐个部署。
+- `close-pr.yml` 引导 PR 走 Issue 通道，避免两个写入口打架。
+- 用 `workflow_run` 门禁在雷达一次收尾后再触发部署，减少逐个小提交部署。
 
 ## 参考
 

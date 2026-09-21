@@ -284,6 +284,7 @@ async function main() {
           repo,
           readme: inspected.readmeText,
           taxonomy,
+          codeSources: inspected.codeSources ?? [],
         });
         if (review.verified === false) {
           receipt.reason = `llm: ${review.reason || "not verified"}`;
@@ -323,6 +324,9 @@ async function main() {
         category,
         tags,
         summarySource: review?.verified === true ? "llm-reviewed" : "source-extracted",
+        plainSummaryEn: review?.plainSummaryEn ?? null,
+        plainSummaryJa: review?.plainSummaryJa ?? null,
+        plainSummaryKo: review?.plainSummaryKo ?? null,
         catalogStatus: review?.verified === true ? "active" : "review-pending",
       });
 

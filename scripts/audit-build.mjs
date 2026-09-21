@@ -20,6 +20,7 @@ const INTERNAL_KEY_PATTERNS = [
   "summarySource",
   "licenseStatus",
   "sourceReviewedAt",
+  "ingestion",
 ];
 
 const SECRET_PATTERNS = [
@@ -43,6 +44,7 @@ const REQUIRED_FIELDS = [
 ];
 
 function walk(dir) {
+  if (!fs.existsSync(dir)) return [];
   const files = [];
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const full = path.join(dir, entry.name);
@@ -110,20 +112,53 @@ function main() {
     }
   }
 
-  const indexPath = path.join(DIST_DIR, "index.html");
-  const indexHtml = fs.readFileSync(indexPath, "utf8");
-  if (!indexHtml.includes('<div id="root"></div>')) fail("index.html missing #root");
-  if (!/<script[^>]+type="module"/.test(indexHtml)) fail("index.html missing module script");
-  if (!/content-security-policy/i.test(indexHtml)) fail("index.html missing CSP");
-  if (/\bunsafe-eval\b/.test(indexHtml)) fail("CSP allows unsafe-eval");
+  const htmlFiles = files.filter((file) => file.endsWith(".html"));
+  if (htmlFiles.length < 12) fail(`expected multi-page static output, found ${htmlFiles.length} html files`);
+  const requiredRoots = ["index.html", "en/index.html", "ja/index.html", "ko/index.html"];
+  for (const relative of requiredRoots) {
+    if (!fs.existsSync(path.join(DIST_DIR, relative))) fail(`missing required page ${relative}`);
+  }
 
-  const bannedDirs = ["radar", "receipts", "scripts", ".github"];
+  for (const file of htmlFiles) {
+    const relative = path.relative(DIST_DIR, file);
+    const html = fs.readFileSync(file, "utf8");
+    if (html.includes('<div id="root"></div>')) fail(`${relative} has empty #root placeholder`);
+    if (!/content-security-policy/i.test(html)) fail(`${relative} missing CSP`);
+    if (/\bunsafe-eval\b/.test(html)) fail(`${relative} CSP allows unsafe-eval`);
+    if (!/<link[^>]+rel=["']canonical["']/i.test(html)) fail(`${relative} missing canonical link`);
+    const hreflangCount = (html.match(/<link[^>]+rel=["']alternate["'][^>]+hreflang=/gi) ?? []).length;
+    if (hreflangCount < 4) fail(`${relative} missing hreflang alternates (found ${hreflangCount})`);
+    const match = html.match(/<script[^>]*id=["']initial-projects["'][^>]*>([\s\S]*?)<\/script>/i);
+    if (!match) {
+      fail(`${relative} missing initial-projects data`);
+      continue;
+    }
+    try {
+      const data = JSON.parse(match[1]);
+      if (!data || !Array.isArray(data.projects) || !data.copy) throw new Error("invalid shape");
+    } catch {
+      fail(`${relative} initial-projects JSON is unparseable`);
+    }
+    for (const asset of html.matchAll(/(?:src|href)="(\/assets\/[^"]+)"/g)) {
+      if (!fs.existsSync(path.join(DIST_DIR, asset[1].replace(/^\//, "")))) {
+        fail(`${relative} references missing asset ${asset[1]}`);
+      }
+    }
+  }
+
+  const bannedDirs = ["radar", "receipts", "scripts", ".github", "ingestion"];
   for (const dir of bannedDirs) {
     const full = path.join(DIST_DIR, dir);
     if (fs.existsSync(full)) fail(`internal directory published: ${dir}`);
   }
+  if (fs.existsSync(path.join(DIST_DIR, "radar.json"))) fail("radar.json published");
 
-  console.log(`[audit-build] OK: ${distProjects.length} projects, ${files.length} files, no internal fields, no secrets, no source maps`);
+  const sitemapPath = path.join(DIST_DIR, "sitemap.xml");
+  if (!fs.existsSync(sitemapPath)) fail("sitemap.xml missing");
+  const sitemap = fs.readFileSync(sitemapPath, "utf8");
+  if (!/<loc>https:\/\//.test(sitemap)) fail("sitemap must contain absolute https URLs");
+
+  console.log(`[audit-build] OK: ${distProjects.length} projects, ${htmlFiles.length} html pages, ${files.length} files, no internal fields, no secrets, no source maps`);
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {

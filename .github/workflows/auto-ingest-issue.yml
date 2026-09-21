@@ -1,0 +1,113 @@
+name: Issue Ingestion
+
+on:
+  issues:
+    types: [opened, edited]
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+    inputs:
+      issue_number:
+        description: GitHub issue number to re-run
+        required: true
+        type: number
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: ingest-issue-${{ github.event.issue.number || inputs.issue_number || github.run_id }}
+  cancel-in-progress: false
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name != 'issue_comment' || contains(github.event.comment.body, '/ingest') }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Prepare issue candidate
+        run: node scripts/issue-ingestion.mjs prepare
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          MUSE_API_KEY: ${{ secrets.MUSE_API_KEY }}
+          MUSE_ENDPOINT: ${{ secrets.MUSE_ENDPOINT }}
+          MUSE_MODEL: ${{ secrets.MUSE_MODEL }}
+          INGEST_ISSUE_NUMBER: ${{ inputs.issue_number }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ingestion
+          path: ingestion
+          retention-days: 7
+
+  validate:
+    needs: prepare
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - uses: actions/download-artifact@v4
+        with:
+          name: ingestion
+          path: ingestion
+      - name: Load candidate data
+        run: node scripts/issue-ingestion.mjs validate
+      - name: Build with candidate
+        run: npm run build
+
+  publish:
+    needs: validate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - uses: actions/download-artifact@v4
+        with:
+          name: ingestion
+          path: ingestion
+      - name: CAS publish to master
+        run: node scripts/issue-ingestion.mjs publish
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ingestion-result
+          path: ingestion/ingestion-result.json
+          if-no-files-found: error
+          retention-days: 7
+
+  acknowledge:
+    needs: publish
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - uses: actions/download-artifact@v4
+        with:
+          name: ingestion-result
+          path: ingestion
+      - name: Acknowledge and close feedback loop
+        run: node scripts/issue-ingestion.mjs acknowledge
+        env:
+          GITHUB_TOKEN: ${{ github.token }}

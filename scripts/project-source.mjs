@@ -242,6 +242,24 @@ export function mapTopicsToTags(topics, allowedTags) {
 }
 
 export async function inspectRepository(client, repo, { minLessons = 3 } = {}) {
+async function collectCodeSources(client, fullName, headSha, repo, treeEntries) {
+  const sources = [];
+  for (const lessonPath of lessonFilePaths(treeEntries).slice(0, 2)) {
+    try {
+      const text = await client.getFileText(fullName, lessonPath, headSha);
+      if (!text) continue;
+      sources.push({
+        path: lessonPath,
+        url: `${repo.html_url}/blob/${headSha}/${lessonPath}`,
+        excerpt: text.slice(0, 4_000),
+      });
+    } catch {
+      // Code evidence is best-effort; README review still proceeds.
+    }
+  }
+  return sources;
+}
+
   const fullName = repo.full_name ?? `${repo.owner}/${repo.name}`;
   const problems = [];
   if (repo.private) problems.push("private");
@@ -310,6 +328,7 @@ export async function inspectRepository(client, repo, { minLessons = 3 } = {}) {
     sourcePath: readmeEntry.path,
     evidenceLines: evidenceLinesInText(readmeText),
     lessonPaths: lessonFilePaths(treeEntries),
+    codeSources: await collectCodeSources(client, fullName, headSha, repo, treeEntries),
     lessonCount: verification.lessonCount,
     treeUnavailable,
     treeTruncated,

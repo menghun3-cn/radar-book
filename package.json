@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 127.0.0.1",
-    "build": "npm run data:public && tsc --noEmit && vite build && node scripts/finalize-pages.mjs && node scripts/audit-build.mjs",
+    "build": "npm run data:public && tsc --noEmit && vite build && node scripts/build-static-site.mjs && node scripts/finalize-pages.mjs && node scripts/audit-build.mjs",
     "preview": "vite preview --host 127.0.0.1",
     "test": "node --test scripts/*.test.mjs",
     "data:public": "node scripts/prepare-public-data.mjs",
