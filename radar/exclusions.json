@@ -1648,5 +1648,165 @@
     "id": "indura08/deep-learning-tutorial",
     "reason": "below 50 stars",
     "excludedAt": "2026-09-22T15:54:19.898Z"
+  },
+  {
+    "id": "jayavardhanr/end-to-end-sequence-labeling-via-bi-directional-lstm-cnns-crf-tutorial",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-22T20:37:06.240Z"
+  },
+  {
+    "id": "buomsoo-kim/pytorch-learners-tutorial",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-22T20:37:11.003Z"
+  },
+  {
+    "id": "dingke/ml-tutorial",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-22T20:37:11.784Z"
+  },
+  {
+    "id": "data-flair/python-tutorial",
+    "reason": "llm: 内容为通用 Python 编程基础教程，非 AI/ML 专项课程",
+    "excludedAt": "2026-09-22T20:37:27.853Z"
+  },
+  {
+    "id": "qingsongedu/timeseries-tutorial-kdd-2022",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-22T20:37:33.433Z"
+  },
+  {
+    "id": "theaiguyscode/yolov3-cloud-tutorial",
+    "reason": "no AI/ML signal",
+    "excludedAt": "2026-09-22T20:37:34.286Z"
+  },
+  {
+    "id": "datarootsio/tutorial-face-mask-detection",
+    "reason": "llm: 属于具体项目实战教程，非系统性的AI教程书籍或成套课程材料。",
+    "excludedAt": "2026-09-22T20:37:41.603Z"
+  },
+  {
+    "id": "beyonderxx/tensorflow-serving-tutorial",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-22T20:37:42.510Z"
+  },
+  {
+    "id": "lars-research/automl-tutorial",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-22T20:37:43.434Z"
+  },
+  {
+    "id": "alejandro-ao/crewai-crash-course",
+    "reason": "no AI/ML signal",
+    "excludedAt": "2026-09-22T20:37:44.200Z"
+  },
+  {
+    "id": "hannesdatta/course-dprep",
+    "reason": "llm: 课程主题为数据准备与工作流（Git/R/Make），非AI/机器学习/LLM等主题，不符合条件2",
+    "excludedAt": "2026-09-22T20:37:52.489Z"
+  },
+  {
+    "id": "hongxinxiang/pytorch-multi-gpu-training-tutorial",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-22T20:37:53.211Z"
+  },
+  {
+    "id": "asmirkonjevic1/ai-hacking-crash-course",
+    "reason": "llm: 内容是外部资源链接的聚合目录，而非仓库内包含的课程章节或教程本身",
+    "excludedAt": "2026-09-22T20:37:56.008Z"
+  },
+  {
+    "id": "kashif/tf-keras-tutorial",
+    "reason": "llm: 仅有两个Jupyter Notebook，且内容直接复制自官方工作坊，非成套原创课程体系，不满足收录标准。",
+    "excludedAt": "2026-09-22T20:38:04.423Z"
+  },
+  {
+    "id": "hasibzunair/3d-image-classification-tutorial",
+    "reason": "llm: 该仓库为官方Keras示例代码及笔记，属于单一任务演示而非成套课程或书籍材料",
+    "excludedAt": "2026-09-22T20:38:10.395Z"
+  },
+  {
+    "id": "crunchydata/postgres-ai-tutorial",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-22T20:38:11.140Z"
+  },
+  {
+    "id": "explaindev/tutorial-maker",
+    "reason": "archived",
+    "excludedAt": "2026-09-22T20:38:14.918Z"
+  },
+  {
+    "id": "neo-con/chromadb-tutorial",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-22T20:38:15.774Z"
+  },
+  {
+    "id": "natlibfi/annif-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-22T20:38:15.971Z"
+  },
+  {
+    "id": "asknowqa/qa-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-22T20:38:16.194Z"
+  },
+  {
+    "id": "atef-ataya/large-language-models-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-22T20:38:16.361Z"
+  },
+  {
+    "id": "pseudo-lab/tutorial-book",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-22T20:38:16.574Z"
+  },
+  {
+    "id": "tirendazacademy/machine-learning-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-22T20:38:16.814Z"
+  },
+  {
+    "id": "java-edge/spark-mllib-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-22T20:38:16.989Z"
+  },
+  {
+    "id": "colemurray/tensorflow-cnn-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-22T20:38:17.212Z"
+  },
+  {
+    "id": "zhulingchen/tfp-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-22T20:38:17.408Z"
+  },
+  {
+    "id": "joosthub/pytorch-nlp-tutorial-nyc2017",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-22T20:38:17.604Z"
+  },
+  {
+    "id": "mateoprojects/rag-agents-for-llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-22T20:38:17.801Z"
+  },
+  {
+    "id": "dl4am/tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-22T20:38:18.047Z"
+  },
+  {
+    "id": "amanchadha/llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-22T20:38:18.269Z"
+  },
+  {
+    "id": "andrian0s/ml4nlp1-2026-tutorial-notebooks",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-22T20:38:18.451Z"
+  },
+  {
+    "id": "corochann/deep-learning-tutorial-with-chainer",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-22T20:38:18.630Z"
   }
 ]

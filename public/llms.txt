@@ -54,11 +54,19 @@
 - [scipy-2017-cython-tutorial (kwmsmith)](https://github.com/kwmsmith/scipy-2017-cython-tutorial): 针对 SciPy 会议的 Cython 高级教程，包含从 CPython 底层到性能优化的多章 Jupyter 练习。
 - [pydata-chicago2016-ml-tutorial (rasbt)](https://github.com/rasbt/pydata-chicago2016-ml-tutorial): PyData芝加哥2016机器学习入门教程，包含幻灯片和代码笔记本。
 - [Awesome-ML-AI-Tutorial (nileshhadalgi016)](https://github.com/nileshhadalgi016/Awesome-ML-AI-Tutorial): 包含线性代数等理论笔记及回归、SVM等算法练习的ML基础教程。
+- [sktime-tutorial-pydata-amsterdam-2020 (sktime)](https://github.com/sktime/sktime-tutorial-pydata-amsterdam-2020): 基于 sktime 和 scikit-learn 的时间序列机器学习系列教程，涵盖预测与分类任务。
+- [The-Kaggle-Book-2nd-Edition (PacktPublishing)](https://github.com/PacktPublishing/The-Kaggle-Book-2nd-Edition): 《Kaggle实战指南》第二版官方代码库，涵盖机器学习与LLM竞赛技巧。
 - [PocketFlow-Tutorial-Website-Chatbot (The-Pocket)](https://github.com/The-Pocket/PocketFlow-Tutorial-Website-Chatbot): PocketFlow 官方教程项目，演示如何构建低维护的网站 AI 客服，自动读取网页内容并回答用户问题。
+- [ai-tutorial (lgy1027)](https://github.com/lgy1027/ai-tutorial): 系统讲解 LangChain、RAG 及 Agent 的 AI 应用开发教程。
+- [keras-tutorial (jfsantos)](https://github.com/jfsantos/keras-tutorial): 基于Jupyter Notebook的Keras深度学习基础教程，涵盖前馈、卷积及循环网络
 - [Generative-AI-Tutorial (pittisl)](https://github.com/pittisl/Generative-AI-Tutorial): 一份涵盖神经网络、Transformer、LLM、扩散模型等主题的生成式AI学习路线图
+- [Complete-GenAI-Course-Python-Langchain (techsimpluslearning)](https://github.com/techsimpluslearning/Complete-GenAI-Course-Python-Langchain): 一个包含45多个视频教程、10个实战项目和完整代码的生成式AI课程资源包。
+- [ontology-tutorial (bio-ontology-research-group)](https://github.com/bio-ontology-research-group/ontology-tutorial): 面向计算生物学的中级教程，讲解本体学基础、语义相似度计算及其在机器学习中的应用。
+- [DeepLearning-Gdansk2019-tutorial (rasbt)](https://github.com/rasbt/DeepLearning-Gdansk2019-tutorial): 2019年深度学习暑期学校教程，系统讲解序数回归与PyTorch实现
 - [ai-for-javascript-course (thestriver)](https://github.com/thestriver/ai-for-javascript-course): 面向JS开发者的AI应用开发开源课程，含LLM与提示工程实战项目。
 - [oreilly-ai-k8s-tutorial (dwhitena)](https://github.com/dwhitena/oreilly-ai-k8s-tutorial): O'Reilly教程材料，指导在K8s上部署端到端AI工作流。
 - [mlx-llm-tutorial (ddttom)](https://github.com/ddttom/mlx-llm-tutorial): 基于Apple MLX框架的LLM构建教程，含理论与代码实践
 - [stable-diffusion-model-tutorial (azad-academy)](https://github.com/azad-academy/stable-diffusion-model-tutorial): 一份关于潜在扩散模型（Stable Diffusion）的简易交互式教程及 Jupyter Notebook。
 - [agentic-loop-engineering-course (FareedKhan-dev)](https://github.com/FareedKhan-dev/agentic-loop-engineering-course): 一套18个Notebook的Agent循环工程实战课程，基于实测数据解析LLM组件优化。
 - [tf2-tutorial (Alireza-Akhavan)](https://github.com/Alireza-Akhavan/tf2-tutorial): TensorFlow 2与Keras入门进阶教程，含MNIST实战及数据管道详解。
+- [sktime-tutorial-pydata-global-2021 (sktime)](https://github.com/sktime/sktime-tutorial-pydata-global-2021): sktime时序机器学习框架的PyData会议实战教程
