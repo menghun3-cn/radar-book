@@ -29,6 +29,14 @@ function fullCopy(locale) {
   for (const [key, labels] of Object.entries(content.categoryLabels)) {
     copy.categoryLabels[key] = labels[locale] ?? labels.zh ?? key;
   }
+  copy.contentTypeLabels = {};
+  for (const [key, labels] of Object.entries(content.contentTypeLabels)) {
+    copy.contentTypeLabels[key] = labels[locale] ?? labels.zh ?? key;
+  }
+  copy.technologyLabels = {};
+  for (const [key, labels] of Object.entries(content.technologyLabels)) {
+    copy.technologyLabels[key] = labels[locale] ?? labels.zh ?? key;
+  }
   return copy;
 }
 

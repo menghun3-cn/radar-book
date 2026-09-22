@@ -1,4 +1,4 @@
-import { Bookmark, ExternalLink, SearchX, ShieldCheck } from "lucide-react";
+import { ExternalLink, Heart, SearchX, ShieldCheck } from "lucide-react";
 import { fillTemplate, formatCompact, formatDate } from "../lib/format";
 import { summaryForLocale } from "../lib/i18n";
 import type { Locale, SiteCopy, TutorialProject } from "../types";
@@ -73,7 +73,7 @@ function ProjectRow({
           title={saved ? t.favoriteTitleActive : t.favoriteTitle}
           onClick={() => onToggleFavorite(project.id)}
         >
-          <Bookmark size={15} fill={saved ? "currentColor" : "none"} />
+          <Heart size={15} fill={saved ? "currentColor" : "none"} />
         </button>
         <a
           className="icon-btn"

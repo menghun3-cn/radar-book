@@ -6,10 +6,18 @@ const BASE_URL = String(import.meta.env.BASE_URL || "/").replace(/\/$/, "") || "
 
 export function copyForLocale(locale: Locale): SiteCopy {
   const raw = siteContent.copy[locale] as unknown as SiteCopy;
-  const merged = { ...raw, categoryLabels: {} } as SiteCopy;
+  const merged = { ...raw, categoryLabels: {}, contentTypeLabels: {}, technologyLabels: {} } as SiteCopy;
   const categoryLabels = siteContent.categoryLabels as Record<string, Partial<Record<Locale, string>>>;
   for (const [key, labels] of Object.entries(categoryLabels)) {
     merged.categoryLabels[key] = labels[locale] ?? labels.zh ?? key;
+  }
+  const contentTypeLabels = siteContent.contentTypeLabels as Record<string, Partial<Record<Locale, string>>>;
+  for (const [key, labels] of Object.entries(contentTypeLabels)) {
+    merged.contentTypeLabels[key] = labels[locale] ?? labels.zh ?? key;
+  }
+  const technologyLabels = siteContent.technologyLabels as Record<string, Partial<Record<Locale, string>>>;
+  for (const [key, labels] of Object.entries(technologyLabels)) {
+    merged.technologyLabels[key] = labels[locale] ?? labels.zh ?? key;
   }
   return merged;
 }

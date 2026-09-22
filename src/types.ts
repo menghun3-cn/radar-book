@@ -60,6 +60,7 @@ export interface SiteCopy {
   retry: string;
   heroTitle: string;
   heroSub: string;
+  heroStats: string;
   statProjects: string;
   statStars: string;
   statVerified: string;
@@ -73,9 +74,15 @@ export interface SiteCopy {
   onlySaved: string;
   reset: string;
   resultCount: string;
+  filterSubject: string;
+  filterContentType: string;
+  filterTechnology: string;
+  moreFilters: string;
+  collapseFilters: string;
   categoryGroupAria: string;
   tagGroupAria: string;
   resultsTitle: string;
+  resultsTotal: string;
   resultsNote: string;
   verified: string;
   verifiedTitle: string;
@@ -102,6 +109,8 @@ export interface SiteCopy {
   timeNever: string;
   localeAria: string;
   categoryLabels: Record<string, string>;
+  contentTypeLabels: Record<string, string>;
+  technologyLabels: Record<string, string>;
 }
 
 export interface InitialPageData {

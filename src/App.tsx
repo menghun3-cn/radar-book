@@ -173,33 +173,15 @@ export default function App({ initialData }: AppProps) {
       ) : (
         <>
           <section className="hero">
-            <div className="hero-copy">
-              <h1>{t.heroTitle}</h1>
-              <p className="hero-sub">{t.heroSub}</p>
-            </div>
-            <div className="stats">
-              <div className="stat">
-                <span className="stat-label">{t.statProjects}</span>
-                <span className="stat-value">{projects.length}</span>
-              </div>
-              <div className="stat">
-                <span className="stat-label">{t.statStars}</span>
-                <span className="stat-value">{formatCompact(stats.totalStars)}</span>
-              </div>
-              <div className="stat">
-                <span className="stat-label">{t.statVerified}</span>
-                <span className="stat-value">{stats.verified}</span>
-              </div>
-              <div className="stat">
-                <span className="stat-label">{t.statSaved}</span>
-                <span className="stat-value">{favoriteIds.size}</span>
-              </div>
-            </div>
+            <h1>{t.heroTitle}</h1>
+            <p className="hero-sub">{t.heroSub}</p>
+            <p className="hero-stats">
+              {fillTemplate(t.heroStats, { projects: projects.length, stars: formatCompact(stats.totalStars), verified: stats.verified })}
+            </p>
           </section>
 
           <FilterBar
             projects={projects}
-            resultCount={filtered.length}
             query={query}
             onQueryChange={setQuery}
             category={category}
@@ -219,7 +201,10 @@ export default function App({ initialData }: AppProps) {
           />
 
           <div className="results-head">
-            <p className="results-title">{t.resultsTitle}</p>
+            <div className="results-title-line">
+              <h2 className="results-title">{t.resultsTitle}</h2>
+              <span className="results-total">{fillTemplate(t.resultsTotal, { total: filtered.length })}</span>
+            </div>
             <p className="results-note">
               <Star size={13} /> {formatCompact(stats.totalStars)} {t.stars}
               {meta?.lastRunAt ? (
