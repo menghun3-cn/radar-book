@@ -1,0 +1,654 @@
+{
+  "runUrl": "https://github.com/menghun3-cn/radar-book/actions/runs/35848532381",
+  "createdAt": "2026-09-23T10:34:59.493Z",
+  "items": [
+    {
+      "id": "microsoft/generative-ai-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:24.727Z",
+      "ok": true
+    },
+    {
+      "id": "mlabonne/llm-course",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:25.197Z",
+      "ok": true
+    },
+    {
+      "id": "dair-ai/prompt-engineering-guide",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:25.541Z",
+      "ok": true
+    },
+    {
+      "id": "microsoft/ai-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:25.970Z",
+      "ok": true
+    },
+    {
+      "id": "anthropics/prompt-eng-interactive-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:26.419Z",
+      "ok": true
+    },
+    {
+      "id": "huggingface/agents-course",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:26.910Z",
+      "ok": true
+    },
+    {
+      "id": "d2l-ai/d2l-en",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:27.350Z",
+      "ok": true
+    },
+    {
+      "id": "microsoft/ml-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:27.730Z",
+      "ok": true
+    },
+    {
+      "id": "openai/openai-cookbook",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:28.164Z",
+      "ok": true
+    },
+    {
+      "id": "microsoft/data-science-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:28.576Z",
+      "ok": true
+    },
+    {
+      "id": "yunjey/pytorch-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:29.035Z",
+      "ok": true
+    },
+    {
+      "id": "karpathy/llm.c",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:29.417Z",
+      "ok": true
+    },
+    {
+      "id": "fastai/fastbook",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:29.779Z",
+      "ok": true
+    },
+    {
+      "id": "chiphuyen/aie-book",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:30.230Z",
+      "ok": true
+    },
+    {
+      "id": "datawhalechina/leedl-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:30.587Z",
+      "ok": true
+    },
+    {
+      "id": "instillai/tensorflow-course",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:30.917Z",
+      "ok": true
+    },
+    {
+      "id": "udlbook/udlbook",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:31.278Z",
+      "ok": true
+    },
+    {
+      "id": "morvanzhou/pytorch-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:31.654Z",
+      "ok": true
+    },
+    {
+      "id": "zhaochenyang20/awesome-ml-sys-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:31.991Z",
+      "ok": true
+    },
+    {
+      "id": "mrdbourke/zero-to-mastery-ml",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:32.348Z",
+      "ok": true
+    },
+    {
+      "id": "huggingface/deep-rl-class",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:32.679Z",
+      "ok": true
+    },
+    {
+      "id": "morvanzhou/tensorflow-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:33.101Z",
+      "ok": true
+    },
+    {
+      "id": "creatcodebuild/tensorflow-and-deeplearning-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:33.432Z",
+      "ok": true
+    },
+    {
+      "id": "google/generative-ai-docs",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:33.831Z",
+      "ok": true
+    },
+    {
+      "id": "edyoda/data-science-complete-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:34.260Z",
+      "ok": true
+    },
+    {
+      "id": "peremartra/large-language-model-notebooks-course",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:34.658Z",
+      "ok": true
+    },
+    {
+      "id": "emarco177/langchain-course",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:35.012Z",
+      "ok": true
+    },
+    {
+      "id": "neural-maze/philoagents-course",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:35.393Z",
+      "ok": true
+    },
+    {
+      "id": "offchan42/machine-learning-curriculum",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:35.809Z",
+      "ok": true
+    },
+    {
+      "id": "codebasics/deep-learning-keras-tf-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:36.215Z",
+      "ok": true
+    },
+    {
+      "id": "mlops-courses/mlops-coding-course",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:36.572Z",
+      "ok": true
+    },
+    {
+      "id": "mrdbourke/cs329s-ml-deployment-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:36.980Z",
+      "ok": true
+    },
+    {
+      "id": "fracapuano/robot-learning-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:37.396Z",
+      "ok": true
+    },
+    {
+      "id": "fastmachinelearning/hls4ml-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:37.804Z",
+      "ok": true
+    },
+    {
+      "id": "gunhochoi/kind-pytorch-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:38.181Z",
+      "ok": true
+    },
+    {
+      "id": "friendmine/llm-course-chn",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:38.597Z",
+      "ok": true
+    },
+    {
+      "id": "ai-evals-course/recipe-chatbot",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:38.917Z",
+      "ok": true
+    },
+    {
+      "id": "dpressel/dliss-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:39.353Z",
+      "ok": true
+    },
+    {
+      "id": "ai-builders/curriculum",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:39.728Z",
+      "ok": true
+    },
+    {
+      "id": "ivanfioravanti/prompt-eng-ollama-interactive-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:40.116Z",
+      "ok": true
+    },
+    {
+      "id": "paperspace/pytorch-101-tutorial-series",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:40.478Z",
+      "ok": true
+    },
+    {
+      "id": "tirendazacademy/pandas-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:40.902Z",
+      "ok": true
+    },
+    {
+      "id": "hpprc/bert-classification-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:41.246Z",
+      "ok": true
+    },
+    {
+      "id": "anakin87/llm-rl-environments-lil-course",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:41.604Z",
+      "ok": true
+    },
+    {
+      "id": "ccs-amsterdam/r-course-material",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:42.022Z",
+      "ok": true
+    },
+    {
+      "id": "salvatorera/tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:42.366Z",
+      "ok": true
+    },
+    {
+      "id": "njudeepengine/llm-course-lecture",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:42.725Z",
+      "ok": true
+    },
+    {
+      "id": "causal-machine-learning/kdd2021-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:43.067Z",
+      "ok": true
+    },
+    {
+      "id": "dcavar/python-tutorial-notebooks",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:43.526Z",
+      "ok": true
+    },
+    {
+      "id": "kwmsmith/scipy-2017-cython-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:43.860Z",
+      "ok": true
+    },
+    {
+      "id": "rasbt/pydata-chicago2016-ml-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:44.303Z",
+      "ok": true
+    },
+    {
+      "id": "nileshhadalgi016/awesome-ml-ai-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:44.648Z",
+      "ok": true
+    },
+    {
+      "id": "sktime/sktime-tutorial-pydata-amsterdam-2020",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:45.022Z",
+      "ok": true
+    },
+    {
+      "id": "packtpublishing/the-kaggle-book-2nd-edition",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:45.417Z",
+      "ok": true
+    },
+    {
+      "id": "the-pocket/pocketflow-tutorial-website-chatbot",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:45.764Z",
+      "ok": true
+    },
+    {
+      "id": "lgy1027/ai-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:46.195Z",
+      "ok": true
+    },
+    {
+      "id": "jfsantos/keras-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:46.591Z",
+      "ok": true
+    },
+    {
+      "id": "pittisl/generative-ai-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:47.018Z",
+      "ok": true
+    },
+    {
+      "id": "techsimpluslearning/complete-genai-course-python-langchain",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:47.470Z",
+      "ok": true
+    },
+    {
+      "id": "bio-ontology-research-group/ontology-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:47.816Z",
+      "ok": true
+    },
+    {
+      "id": "rasbt/deeplearning-gdansk2019-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:48.209Z",
+      "ok": true
+    },
+    {
+      "id": "thestriver/ai-for-javascript-course",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:48.602Z",
+      "ok": true
+    },
+    {
+      "id": "dwhitena/oreilly-ai-k8s-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:49.019Z",
+      "ok": true
+    },
+    {
+      "id": "ddttom/mlx-llm-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:49.416Z",
+      "ok": true
+    },
+    {
+      "id": "azad-academy/stable-diffusion-model-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:49.830Z",
+      "ok": true
+    },
+    {
+      "id": "fareedkhan-dev/agentic-loop-engineering-course",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:50.209Z",
+      "ok": true
+    },
+    {
+      "id": "alireza-akhavan/tf2-tutorial",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:50.628Z",
+      "ok": true
+    },
+    {
+      "id": "sktime/sktime-tutorial-pydata-global-2021",
+      "action": "metadata",
+      "at": "2026-09-23T10:34:51.069Z",
+      "ok": true
+    },
+    {
+      "id": "amitshekhariitbhu/ai-engineering-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:51.549Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "shenghaowang/coursera-ds-course-materials",
+      "action": "reject",
+      "at": "2026-09-23T10:34:51.766Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "flavioisoni/machine-learning-mastery-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:51.972Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "jaimeh94/course---applied-data-science-with-python",
+      "action": "reject",
+      "at": "2026-09-23T10:34:52.149Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "howtoopenscience/aied2024-tutorial",
+      "action": "reject",
+      "at": "2026-09-23T10:34:52.353Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "marcturpin91/cv-tutorial-csi4107",
+      "action": "reject",
+      "at": "2026-09-23T10:34:52.610Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "moriaty0o0/an-introduction-and-tutorial-for-common-lisp",
+      "action": "reject",
+      "at": "2026-09-23T10:34:52.909Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "ibmlachezar/ai-llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:53.071Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "khaledalnobani/huggingface-course-notebooks",
+      "action": "reject",
+      "at": "2026-09-23T10:34:53.271Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "mojtaba-choopani/huggingface-llm-course-fa-notebooks",
+      "action": "reject",
+      "at": "2026-09-23T10:34:53.486Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "andreyshor/hf-llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:53.659Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "ubc-cic/llm-course-qa",
+      "action": "reject",
+      "at": "2026-09-23T10:34:53.832Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "lonelyandrew/llm-course-homework",
+      "action": "reject",
+      "at": "2026-09-23T10:34:54.052Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "zeynepbehsi/huggingface-llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:54.236Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "i-hdk/llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:54.415Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "besh3324/llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:54.605Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "alitvintsev/llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:54.817Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "laissales1620-stack/llm-course-",
+      "action": "reject",
+      "at": "2026-09-23T10:34:54.980Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "newgirlongithub/llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:55.174Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "ngmthaq/llm-course-docs",
+      "action": "reject",
+      "at": "2026-09-23T10:34:55.384Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "romi9987/llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:55.566Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "ameyahardy/llm-course-selflearn",
+      "action": "reject",
+      "at": "2026-09-23T10:34:55.724Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "johnwrostron/huggingface-llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:55.894Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "ssravipati/llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:56.063Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "vladislitvinn/llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:56.250Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "nid123-ch/llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:56.485Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "maazamjad/llms-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:56.720Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "nat2y/llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:56.952Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "17ilyavasilev/avito-llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:57.153Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "fvdveen/agentic-llm-course-excercises",
+      "action": "reject",
+      "at": "2026-09-23T10:34:57.328Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "koirpraw/llm-course-huggingface",
+      "action": "reject",
+      "at": "2026-09-23T10:34:57.541Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "youngazier/huggingface-llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:57.732Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "thanos29992/llm-course-nce-",
+      "action": "reject",
+      "at": "2026-09-23T10:34:57.926Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "sidram403/llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:58.157Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "namtran6701/llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:58.340Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "huyonthecloud/llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:58.536Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "kcost94/llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:58.712Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "galileoeni/llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:58.880Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "ahmedmelbadry/llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:59.041Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "joe-rini/donner_llm-course",
+      "action": "reject",
+      "at": "2026-09-23T10:34:59.235Z",
+      "reason": "below 50 stars"
+    }
+  ]
+}
