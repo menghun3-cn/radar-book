@@ -11,15 +11,21 @@
 - [d2l-en (d2l-ai)](https://github.com/d2l-ai/d2l-en): 《Dive into Deep Learning》英文版，代码与讲解以 Jupyter Notebook 形式随书提供。
 - [ML-For-Beginners (microsoft)](https://github.com/microsoft/ML-For-Beginners): 经典机器学习入门课程，配套 Quiz 与社区项目，用 scikit-learn 动手实践。
 - [openai-cookbook (openai)](https://github.com/openai/openai-cookbook): OpenAI 官方 Cookbook，展示常见 LLM 应用场景的示例代码与最佳实践。
+- [ai-engineering-from-scratch (rohitg00)](https://github.com/rohitg00/ai-engineering-from-scratch): 一套包含523个课程、20个阶段的AI工程开源教程，涵盖从数学基础到LLM及Agent开发的完整路径。
 - [Data-Science-For-Beginners (microsoft)](https://github.com/microsoft/Data-Science-For-Beginners): 数据科学入门课程，从 Excel、SQL 到 Python 可视化，适合零基础系统学习。
 - [pytorch-tutorial (yunjey)](https://github.com/yunjey/pytorch-tutorial): 面向深度学习研究者的 PyTorch 教程，覆盖基础网络、CNN、RNN、GAN 等经典模型。
 - [llm.c (karpathy)](https://github.com/karpathy/llm.c): 用纯 C 从零训练 GPT 的实验性实现，配套逐步讲解，适合理解 LLM 底层。
+- [RAG_Techniques (NirDiamant)](https://github.com/NirDiamant/RAG_Techniques): 该仓库提供42个关于检索增强生成（RAG）技术的详细笔记本教程，涵盖从基础到高级的实用实现。
 - [fastbook (fastai)](https://github.com/fastai/fastbook): fast.ai 的《Deep Learning for Coders》全书，代码以 Jupyter Notebook 形式呈现。
+- [GenAI_Agents (NirDiamant)](https://github.com/NirDiamant/GenAI_Agents): 提供50多个GenAI Agent实现教程，涵盖基础对话机器人到复杂多智能体系统。
+- [agents-towards-production (NirDiamant)](https://github.com/NirDiamant/agents-towards-production): 一套从原型到企业级部署的生成式AI智能体实战教程集合，涵盖RAG、多智能体及可观测性。
 - [aie-book (chiphuyen)](https://github.com/chiphuyen/aie-book): Chip Huyen 的《AI Engineering》配套资料，包含章节总结、学习笔记、提示词示例与案例研究。
 - [leedl-tutorial (datawhalechina)](https://github.com/datawhalechina/leedl-tutorial): 李宏毅深度学习教程配套习题集，含15套Jupyter作业及视频幻灯片。
 - [TensorFlow-Course (instillai)](https://github.com/instillai/TensorFlow-Course): 面向初学者的 TensorFlow 课程，从回归、CNN 到生成模型，配套 Jupyter Notebook 练习。
+- [mit-deep-learning (lexfridman)](https://github.com/lexfridman/mit-deep-learning): MIT深度学习课程官方教程集，涵盖基础、语义分割、GAN及强化学习实战。
 - [udlbook (udlbook)](https://github.com/udlbook/udlbook): 《Understanding Deep Learning》官方仓库，按章节提供可运行的 Notebook。
 - [PyTorch-Tutorial (MorvanZhou)](https://github.com/MorvanZhou/PyTorch-Tutorial): PyTorch 入门教程，从张量操作、回归分类一路讲到 CNN/RNN 与强化学习示例。
+- [Prompt_Engineering (NirDiamant)](https://github.com/NirDiamant/Prompt_Engineering): 包含22个实操Jupyter教程，系统讲解LLM提示工程从基础到高级技巧
 - [Awesome-ML-SYS-Tutorial (zhaochenyang20)](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial): 涵盖强化学习、RL系统与AI基础设施的系统化深度学习笔记库
 - [zero-to-mastery-ml (mrdbourke)](https://github.com/mrdbourke/zero-to-mastery-ml): ZTM 机器学习课程完整笔记与代码，覆盖 pandas、scikit-learn 与 PyTorch。
 - [deep-rl-class (huggingface)](https://github.com/huggingface/deep-rl-class): 深度强化学习课程，从基础到先进算法，配套练习与竞赛。
