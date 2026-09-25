@@ -9,13 +9,27 @@
 - [prompt-eng-interactive-tutorial (anthropics)](https://github.com/anthropics/prompt-eng-interactive-tutorial): 交互式提示工程教程，按章节编排练习，可直接在 Playground 里试写提示词。
 - [agents-course (huggingface)](https://github.com/huggingface/agents-course): Hugging Face 官方 Agent 课程，配套互动练习与实战项目。
 - [d2l-en (d2l-ai)](https://github.com/d2l-ai/d2l-en): 《Dive into Deep Learning》英文版，代码与讲解以 Jupyter Notebook 形式随书提供。
+- [developer-roadmap (nilbuild)](https://github.com/nilbuild/developer-roadmap): 包含AI Agent、提示工程等主题的结构化学习路径与章节式教程内容
+- [prompts.chat (f)](https://github.com/f/prompts.chat): 开源交互式提示工程教程，含25+章节，覆盖LLM原理至高级技巧。
 - [ML-For-Beginners (microsoft)](https://github.com/microsoft/ML-For-Beginners): 经典机器学习入门课程，配套 Quiz 与社区项目，用 scikit-learn 动手实践。
 - [openai-cookbook (openai)](https://github.com/openai/openai-cookbook): OpenAI 官方 Cookbook，展示常见 LLM 应用场景的示例代码与最佳实践。
 - [ai-engineering-from-scratch (rohitg00)](https://github.com/rohitg00/ai-engineering-from-scratch): 一套包含523个课程、20个阶段的AI工程开源教程，涵盖从数学基础到LLM及Agent开发的完整路径。
+- [100-Days-Of-ML-Code (Avik-Jain)](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100天机器学习编程挑战日志，涵盖从传统算法到深度学习的实践代码与概念解析。
+- [TensorFlow-Examples (aymericdamien)](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow 官方风格教程，涵盖从基础操作到CNN/RNN的完整学习路径。
+- [awesome-copilot (github)](https://github.com/github/awesome-copilot): 待人工复核后展示。
+- [ai-engineering-hub (patchy631)](https://github.com/patchy631/ai-engineering-hub): 待人工复核后展示。
 - [Data-Science-For-Beginners (microsoft)](https://github.com/microsoft/Data-Science-For-Beginners): 数据科学入门课程，从 Excel、SQL 到 Python 可视化，适合零基础系统学习。
+- [prompt-optimizer (linshenkx)](https://github.com/linshenkx/prompt-optimizer): 待人工复核后展示。
+- [langfuse (langfuse)](https://github.com/langfuse/langfuse): 待人工复核后展示。
 - [pytorch-tutorial (yunjey)](https://github.com/yunjey/pytorch-tutorial): 面向深度学习研究者的 PyTorch 教程，覆盖基础网络、CNN、RNN、GAN 等经典模型。
 - [llm.c (karpathy)](https://github.com/karpathy/llm.c): 用纯 C 从零训练 GPT 的实验性实现，配套逐步讲解，适合理解 LLM 底层。
+- [awesome-datascience (academic)](https://github.com/academic/awesome-datascience): 待人工复核后展示。
+- [gpt-researcher (assafelovic)](https://github.com/assafelovic/gpt-researcher): 待人工复核后展示。
 - [RAG_Techniques (NirDiamant)](https://github.com/NirDiamant/RAG_Techniques): 该仓库提供42个关于检索增强生成（RAG）技术的详细笔记本教程，涵盖从基础到高级的实用实现。
+- [awesome-deep-learning (ChristosChristofidis)](https://github.com/ChristosChristofidis/awesome-deep-learning): 待人工复核后展示。
+- [mlflow (mlflow)](https://github.com/mlflow/mlflow): 待人工复核后展示。
+- [Awesome-LLM (Hannibal046)](https://github.com/Hannibal046/Awesome-LLM): 待人工复核后展示。
+- [12-factor-agents (humanlayer)](https://github.com/humanlayer/12-factor-agents): 待人工复核后展示。
 - [fastbook (fastai)](https://github.com/fastai/fastbook): fast.ai 的《Deep Learning for Coders》全书，代码以 Jupyter Notebook 形式呈现。
 - [GenAI_Agents (NirDiamant)](https://github.com/NirDiamant/GenAI_Agents): 提供50多个GenAI Agent实现教程，涵盖基础对话机器人到复杂多智能体系统。
 - [agents-towards-production (NirDiamant)](https://github.com/NirDiamant/agents-towards-production): 一套从原型到企业级部署的生成式AI智能体实战教程集合，涵盖RAG、多智能体及可观测性。

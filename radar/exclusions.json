@@ -3578,5 +3578,135 @@
     "id": "jamesmurdza/awesome-ai-devtools",
     "reason": "llm: 该仓库是AI开发工具链接列表，非教学课程或书籍，不满足教学性质及成套章节结构要求",
     "excludedAt": "2026-09-25T02:19:49.228Z"
+  },
+  {
+    "id": "whuang022ai/ai-tutorial-multilayer-perceptron-numpy-version-",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T10:55:35.127Z"
+  },
+  {
+    "id": "bill-park/beaglebone-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T10:55:35.344Z"
+  },
+  {
+    "id": "hizkiafebianto/revou-gen-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T10:55:35.552Z"
+  },
+  {
+    "id": "zesearch/llm-course-26-app-demo",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T10:55:35.800Z"
+  },
+  {
+    "id": "alexandrarrdg/llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T10:55:35.982Z"
+  },
+  {
+    "id": "wso2con/2025-cmb-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T10:55:36.177Z"
+  },
+  {
+    "id": "sindresorhus/awesome",
+    "reason": "llm: 这是综合性资源链接索引，非针对AI/ML的教学课程、书籍或成套教程材料。",
+    "excludedAt": "2026-09-25T10:55:44.181Z"
+  },
+  {
+    "id": "significant-gravitas/autogpt",
+    "reason": "llm: 该仓库是 AI Agent 开发平台工具，非教学课程或书籍",
+    "excludedAt": "2026-09-25T10:56:00.581Z"
+  },
+  {
+    "id": "msitarzewski/agency-agents",
+    "reason": "llm: 该仓库是AI Agent角色提示词集合，属于工具资源，非结构化教程、课程或书籍。",
+    "excludedAt": "2026-09-25T10:56:30.764Z"
+  },
+  {
+    "id": "dietrichgebert/ponytail",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-25T10:56:31.641Z"
+  },
+  {
+    "id": "juliusbrussee/caveman",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-25T10:56:32.495Z"
+  },
+  {
+    "id": "microsoft/web-dev-for-beginners",
+    "reason": "llm: 该仓库为Web开发基础课程，主题非AI/ML，不符合目录收录条件。",
+    "excludedAt": "2026-09-25T10:56:37.488Z"
+  },
+  {
+    "id": "developer-y/cs-video-courses",
+    "reason": "llm: 该仓库为课程链接列表，非原创教学书籍或成套教材，不符合收录标准。",
+    "excludedAt": "2026-09-25T10:56:41.429Z"
+  },
+  {
+    "id": "composiohq/awesome-claude-skills",
+    "reason": "llm: 这是 Claude Skills 工具链接合集，属于目录/工具列表，而非成套的课程或教程书籍材料。",
+    "excludedAt": "2026-09-25T10:56:45.291Z"
+  },
+  {
+    "id": "headroomlabs-ai/headroom",
+    "reason": "llm: 项目是LLM上下文压缩工具库/代理，属于开发工具而非教学课程或教程书籍。",
+    "excludedAt": "2026-09-25T10:56:50.217Z"
+  },
+  {
+    "id": "asgeirtj/system_prompts_leaks",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-25T10:56:51.126Z"
+  },
+  {
+    "id": "labmlai/annotated_deep_learning_paper_implementations",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-25T10:56:52.102Z"
+  },
+  {
+    "id": "blader/humanizer",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-25T10:56:52.852Z"
+  },
+  {
+    "id": "elder-plinius/cl4r1t4s",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-25T10:56:57.662Z"
+  },
+  {
+    "id": "imbad0202/academic-research-skills",
+    "reason": "llm: 该仓库是用于Claude Code的学术写作与评审工具插件，属于AI Agent应用工具，而非面向初学者的教学课程或书籍。",
+    "excludedAt": "2026-09-25T10:57:02.219Z"
+  },
+  {
+    "id": "moeru-ai/airi",
+    "reason": "education signal too weak (1 readme terms, 1 lesson files)",
+    "excludedAt": "2026-09-25T10:57:03.141Z"
+  },
+  {
+    "id": "appsmithorg/appsmith",
+    "reason": "llm: 该仓库是低代码应用构建平台 Appsmith 的主代码库，属于开发工具，非 AI 教程或课程。",
+    "excludedAt": "2026-09-25T10:57:11.706Z"
+  },
+  {
+    "id": "freestylefly/awesome-gpt-image-2",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-25T10:57:18.697Z"
+  },
+  {
+    "id": "alirezarezvani/claude-skills",
+    "reason": "llm: 该仓库是 AI Agent 的工具包/技能库，属于实用资源而非教学课程或书籍。",
+    "excludedAt": "2026-09-25T10:57:28.275Z"
+  },
+  {
+    "id": "promptfoo/promptfoo",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-25T10:57:30.496Z"
+  },
+  {
+    "id": "vanna-ai/vanna",
+    "reason": "archived",
+    "excludedAt": "2026-09-25T10:57:30.697Z"
   }
 ]
