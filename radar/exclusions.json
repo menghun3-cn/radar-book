@@ -3838,5 +3838,290 @@
     "id": "mosaicml/composer",
     "reason": "llm: 核心为深度学习训练库代码，虽含教程但非成套教学课程材料。",
     "excludedAt": "2026-09-25T16:27:07.977Z"
+  },
+  {
+    "id": "hesreallyhim/awesome-claude-code",
+    "reason": "llm: 属于资源聚合列表而非成套课程材料，不满足结构要求",
+    "excludedAt": "2026-09-25T20:50:47.915Z"
+  },
+  {
+    "id": "github/awesome-copilot",
+    "reason": "llm: 该仓库为 Copilot 资源集合，非成套课程体系。",
+    "excludedAt": "2026-09-25T20:50:57.920Z"
+  },
+  {
+    "id": "patchy631/ai-engineering-hub",
+    "reason": "llm: 主要内容由项目链接和课程目录组成，缺乏成套的教材文本，不符合教学书籍或课程的收录标准。",
+    "excludedAt": "2026-09-25T20:51:07.400Z"
+  },
+  {
+    "id": "linshenkx/prompt-optimizer",
+    "reason": "llm: 该仓库是提示词优化工具，非教学课程或书籍。",
+    "excludedAt": "2026-09-25T20:51:12.120Z"
+  },
+  {
+    "id": "langfuse/langfuse",
+    "reason": "llm: 该仓库是开源LLM监控与评估平台，非教学课程或书籍。",
+    "excludedAt": "2026-09-25T20:51:19.237Z"
+  },
+  {
+    "id": "e2b-dev/awesome-ai-agents",
+    "reason": "llm: 这是一个 AI Agent 项目列表（awesome list），属于资源聚合而非结构化教程或课程。",
+    "excludedAt": "2026-09-25T20:51:23.701Z"
+  },
+  {
+    "id": "academic/awesome-datascience",
+    "reason": "llm: 属于资源列表而非成套教材，缺乏自有结构化课程章节",
+    "excludedAt": "2026-09-25T20:51:27.002Z"
+  },
+  {
+    "id": "assafelovic/gpt-researcher",
+    "reason": "llm: 该仓库是自主深度研究AI Agent工具，非教学课程或成套教材",
+    "excludedAt": "2026-09-25T20:51:30.587Z"
+  },
+  {
+    "id": "christoschristofidis/awesome-deep-learning",
+    "reason": "llm: 属于资源聚合列表（Awesome List），非成套教学章节或课程材料。",
+    "excludedAt": "2026-09-25T20:52:01.438Z"
+  },
+  {
+    "id": "yamadashy/repomix",
+    "reason": "llm: 该项目是一个用于打包代码库供 AI 使用的开发者工具，并非教学课程或书籍内容。",
+    "excludedAt": "2026-09-25T20:52:06.182Z"
+  },
+  {
+    "id": "mlflow/mlflow",
+    "reason": "llm: 属于开源软件平台及框架，并非AI教程书籍、课程或互动学习材料。",
+    "excludedAt": "2026-09-25T20:52:11.268Z"
+  },
+  {
+    "id": "hannibal046/awesome-llm",
+    "reason": "llm: 纯资源链接列表，无成套教学章节或课程材料",
+    "excludedAt": "2026-09-25T20:52:14.558Z"
+  },
+  {
+    "id": "spmallick/learnopencv",
+    "reason": "llm: 仓库内容为博客文章的配套代码示例集合，非成套教学课程或书籍材料。",
+    "excludedAt": "2026-09-25T20:52:28.114Z"
+  },
+  {
+    "id": "dipakkr/a-to-z-resources-for-students",
+    "reason": "llm: 内容是全领域资源链接列表，非成套教材或课程，不符合结构要求。",
+    "excludedAt": "2026-09-25T20:52:34.956Z"
+  },
+  {
+    "id": "emcie-co/parlant",
+    "reason": "llm: 该仓库是用于构建客户级 AI 代理的生产级开发框架（工具），而非教学课程或书籍。",
+    "excludedAt": "2026-09-25T20:52:43.551Z"
+  },
+  {
+    "id": "vitalysim/awesome-hacking-resources",
+    "reason": "llm: 主题聚焦渗透测试/网络安全而非AI/ML，且为链接资源列表而非成套教程",
+    "excludedAt": "2026-09-25T20:52:47.814Z"
+  },
+  {
+    "id": "conardli/garden-skills",
+    "reason": "llm: 该仓库是 AI Agent 技能包集合，属于工具/规范文档，非成套教学课程",
+    "excludedAt": "2026-09-25T20:53:04.440Z"
+  },
+  {
+    "id": "yizhiyanhua-ai/fireworks-tech-graph",
+    "reason": "llm: 这是一个生成技术图表的 AI Agent 工具/Skill，而非包含成套章节的教育教程、书籍或课程。",
+    "excludedAt": "2026-09-25T20:53:11.445Z"
+  },
+  {
+    "id": "bhaveshnegi/huggingface-llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:47.239Z"
+  },
+  {
+    "id": "anytaaly/hugging-face-llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:47.517Z"
+  },
+  {
+    "id": "rafiaihtsham/llm-course-python-practice",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:47.716Z"
+  },
+  {
+    "id": "kshaunishharsha/hugging-face-llms-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:47.894Z"
+  },
+  {
+    "id": "ratnesh-11008/llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:48.107Z"
+  },
+  {
+    "id": "gunjapalle-suma-bhavya/llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:48.345Z"
+  },
+  {
+    "id": "deepakmecheri/hugginface-llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:48.521Z"
+  },
+  {
+    "id": "jaymgonzalez/wandb-llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:48.726Z"
+  },
+  {
+    "id": "rs-03/deeplearning.ai-llm-course-notebooks",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:48.933Z"
+  },
+  {
+    "id": "rxv3640/hugging-face-llm-course-practice-problems",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:49.135Z"
+  },
+  {
+    "id": "vijayv28/activeloop-llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:49.368Z"
+  },
+  {
+    "id": "wzhao510/genai-llms-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:49.560Z"
+  },
+  {
+    "id": "naimulmunna05/fundamentals-of-lmms-of-the-llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:49.823Z"
+  },
+  {
+    "id": "ahmedabdulghany7/hugging-face-llm-course-by-ahmedabdulghany",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:50.016Z"
+  },
+  {
+    "id": "clouddragonli-jzl/llm-course-project",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:50.274Z"
+  },
+  {
+    "id": "njnus/https-huggingface.co-learn-llm-course-chapter1-",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:50.516Z"
+  },
+  {
+    "id": "iofabela/llm-course-datatalksclub",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:50.759Z"
+  },
+  {
+    "id": "dongyubin/ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:50.940Z"
+  },
+  {
+    "id": "gw-byte/self-improving-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:51.136Z"
+  },
+  {
+    "id": "csales10/agent-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:51.361Z"
+  },
+  {
+    "id": "ahmed-m-sharaf/gen-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:51.545Z"
+  },
+  {
+    "id": "marknwilliam/ai-tutorial-moodle",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:51.729Z"
+  },
+  {
+    "id": "jhaprafful/gen-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:51.906Z"
+  },
+  {
+    "id": "gabriel-belo/langcahin-gen-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:52.076Z"
+  },
+  {
+    "id": "576469377/ai-tutorial-by-ai",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:52.289Z"
+  },
+  {
+    "id": "chen09/ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:52.474Z"
+  },
+  {
+    "id": "sivaprasadreddy/spring-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:52.681Z"
+  },
+  {
+    "id": "pamenarti/xup-vitis-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:52.864Z"
+  },
+  {
+    "id": "juwoojae/spring-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:53.045Z"
+  },
+  {
+    "id": "antoniomds/acns-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:53.231Z"
+  },
+  {
+    "id": "seok-hee97/langchain-genai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:53.396Z"
+  },
+  {
+    "id": "kndt84/interface-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:53.583Z"
+  },
+  {
+    "id": "parasmani-yogi/gen-ai-tutorial-using-langchain",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:53.803Z"
+  },
+  {
+    "id": "phoolis/angular-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:53.982Z"
+  },
+  {
+    "id": "luckychauhan18/sarvam-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:54.191Z"
+  },
+  {
+    "id": "turgaygulmez/ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:54.389Z"
+  },
+  {
+    "id": "duksaramio/pydantic-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:54.603Z"
+  },
+  {
+    "id": "cusyio/ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T20:53:54.806Z"
+  },
+  {
+    "id": "rust-unofficial/awesome-rust",
+    "reason": "llm: 纯资源列表，非教学课程或书籍，不满足教学性质及成套章节结构条件",
+    "excludedAt": "2026-09-25T20:54:04.393Z"
   }
 ]
