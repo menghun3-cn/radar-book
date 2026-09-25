@@ -3708,5 +3708,135 @@
     "id": "vanna-ai/vanna",
     "reason": "archived",
     "excludedAt": "2026-09-25T10:57:30.697Z"
+  },
+  {
+    "id": "mohitagarwal17/huggingface-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T16:12:54.323Z"
+  },
+  {
+    "id": "bufonjoker/huggingface-llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T16:12:54.542Z"
+  },
+  {
+    "id": "tom-gp/huggingface-transformers-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T16:12:54.776Z"
+  },
+  {
+    "id": "shilpagaur-ai/llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T16:12:54.976Z"
+  },
+  {
+    "id": "mariiadrozdova/deeplearningai-course-llm",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T16:12:55.231Z"
+  },
+  {
+    "id": "asimnayakawadi/hf-llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T16:12:55.441Z"
+  },
+  {
+    "id": "kl3574/interactive-llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T16:12:55.665Z"
+  },
+  {
+    "id": "dokutoshi/hf-llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T16:12:55.860Z"
+  },
+  {
+    "id": "vishnup2712/llm-course-assistant",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T16:12:56.063Z"
+  },
+  {
+    "id": "sadhanageddam27/llm-course-planner",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T16:12:56.268Z"
+  },
+  {
+    "id": "maz720p/course-recommendation-app",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T16:12:56.512Z"
+  },
+  {
+    "id": "shaban177465/llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T16:12:56.718Z"
+  },
+  {
+    "id": "gianmariasilvello-source/llm-kb-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T16:12:56.975Z"
+  },
+  {
+    "id": "wso2con/2025-bcn-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T16:12:57.188Z"
+  },
+  {
+    "id": "cycyl/ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-25T16:12:57.418Z"
+  },
+  {
+    "id": "sdmg15/best-websites-a-programmer-should-visit",
+    "reason": "archived",
+    "excludedAt": "2026-09-25T16:12:57.660Z"
+  },
+  {
+    "id": "agricidaniel/claude-seo",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-25T16:17:36.927Z"
+  },
+  {
+    "id": "kyrolabs/awesome-langchain",
+    "reason": "llm: 该仓库是一个精选链接列表（Awesome List），并非成套的课程、书籍或教学材料，不满足教学性质要求。",
+    "excludedAt": "2026-09-25T16:23:45.021Z"
+  },
+  {
+    "id": "catboost/catboost",
+    "reason": "llm: CatBoost 是机器学习的代码库（工具），而非教学课程或书籍。",
+    "excludedAt": "2026-09-25T16:24:30.149Z"
+  },
+  {
+    "id": "wangrongsheng/awesome-llm-resources",
+    "reason": "llm: 该仓库为外部资源链接汇总列表（awesome-list），非自建成套课程或书籍，不满足教学内容结构要求。",
+    "excludedAt": "2026-09-25T16:24:58.223Z"
+  },
+  {
+    "id": "fudan-generative-vision/hallo",
+    "reason": "llm: 该仓库是音视频驱动的人像动画生成工具，非教学课程或书籍。",
+    "excludedAt": "2026-09-25T16:25:11.998Z"
+  },
+  {
+    "id": "georgezouq/awesome-ai-in-finance",
+    "reason": "llm: 这是AI金融领域的资源列表（Awesome List），汇集工具、论文和课程链接，缺乏本体的成套教学章节或系统性课程内容，属于索引而非教学材料。",
+    "excludedAt": "2026-09-25T16:25:58.055Z"
+  },
+  {
+    "id": "aymericdamien/topdeeplearning",
+    "reason": "llm: 该仓库是深度学习项目列表，而非成套教学材料。",
+    "excludedAt": "2026-09-25T16:26:24.757Z"
+  },
+  {
+    "id": "promptslab/awesome-prompt-engineering",
+    "reason": "llm: 该仓库主要是资源链接集合（Papers/Tools等），虽含课程占位页但无实际成套教程内容。",
+    "excludedAt": "2026-09-25T16:26:43.879Z"
+  },
+  {
+    "id": "hkuds/clawteam",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-25T16:26:44.798Z"
+  },
+  {
+    "id": "mosaicml/composer",
+    "reason": "llm: 核心为深度学习训练库代码，虽含教程但非成套教学课程材料。",
+    "excludedAt": "2026-09-25T16:27:07.977Z"
   }
 ]
