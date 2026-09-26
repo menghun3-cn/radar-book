@@ -4628,5 +4628,145 @@
     "id": "cybertimon/rapidraw",
     "reason": "education signal too weak (2 readme terms, 0 lesson files)",
     "excludedAt": "2026-09-26T15:21:40.107Z"
+  },
+  {
+    "id": "ritchieng/the-incredible-pytorch",
+    "reason": "llm: 该仓库是PyTorch相关资源、教程和库的精选列表（curated list），而非成套的教学课程或书籍内容。",
+    "excludedAt": "2026-09-26T20:19:35.722Z"
+  },
+  {
+    "id": "imbad0202/academic-research-skills-codex",
+    "reason": "llm: 该仓库是用于学术研究的AI智能体插件工具，并非教学课程或书籍，不满足收录标准",
+    "excludedAt": "2026-09-26T20:19:47.387Z"
+  },
+  {
+    "id": "arize-ai/phoenix",
+    "reason": "llm: Phoenix是AI可观测性与评估的工具平台，虽有教程但核心是软件工具而非成套教学书籍/课程。",
+    "excludedAt": "2026-09-26T20:19:53.234Z"
+  },
+  {
+    "id": "nichtdax/awesome-totally-open-chatgpt",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T20:20:24.007Z"
+  },
+  {
+    "id": "nvidia/model-optimizer",
+    "reason": "llm: 该仓库是模型优化工具库，非教学课程或书籍",
+    "excludedAt": "2026-09-26T20:20:27.642Z"
+  },
+  {
+    "id": "oracle-devrel/oracle-ai-developer-hub",
+    "reason": "llm: 主要是代码示例和PDF指南，非成套课程教材，不符合教学书籍/课程定义。",
+    "excludedAt": "2026-09-26T20:20:31.962Z"
+  },
+  {
+    "id": "ahkarami/deep-learning-in-production",
+    "reason": "llm: 仅为外部资源链接列表，非成套教学材料",
+    "excludedAt": "2026-09-26T20:20:35.655Z"
+  },
+  {
+    "id": "minidoracat/mcp-feedback-enhanced",
+    "reason": "llm: 该仓库是一个MCP服务器工具，用于在AI开发中提供交互式反馈，并非教学性质的课程或书籍。",
+    "excludedAt": "2026-09-26T20:20:52.616Z"
+  },
+  {
+    "id": "zou-group/textgrad",
+    "reason": "llm: 核心为自动优化框架，教程仅为辅助示例，非成套教学课程",
+    "excludedAt": "2026-09-26T20:20:58.003Z"
+  },
+  {
+    "id": "minimaxir/simpleaichat",
+    "reason": "llm: 核心为Python工具库，示例仅为演示代码，无成套课程章节结构。",
+    "excludedAt": "2026-09-26T20:21:01.794Z"
+  },
+  {
+    "id": "taishi-i/awesome-chatgpt-repositories",
+    "reason": "llm: 该仓库是精选资源列表（Awesome List），而非包含成套章节或教学材料的课程/书籍，不符合收录标准。",
+    "excludedAt": "2026-09-26T20:21:05.420Z"
+  },
+  {
+    "id": "software-mansion/typegpu",
+    "reason": "llm: 该仓库是WebGPU开发工具库，属于代码工具而非AI教学资料。",
+    "excludedAt": "2026-09-26T20:21:08.981Z"
+  },
+  {
+    "id": "emijrp/awesome-awesome",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T20:21:09.868Z"
+  },
+  {
+    "id": "paitesanshi/llm-agent-survey",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T20:21:10.791Z"
+  },
+  {
+    "id": "franxyao/chain-of-thought-hub",
+    "reason": "education signal too weak (1 readme terms, 1 lesson files)",
+    "excludedAt": "2026-09-26T20:21:16.103Z"
+  },
+  {
+    "id": "xdit-project/xdit",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T20:21:17.011Z"
+  },
+  {
+    "id": "qoderai/better-harness",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T20:21:21.507Z"
+  },
+  {
+    "id": "mlr-org/mlr",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T20:21:26.230Z"
+  },
+  {
+    "id": "coframe/coffee",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T20:21:28.623Z"
+  },
+  {
+    "id": "ottosulin/awesome-ai-security",
+    "reason": "llm: 纯资源链接列表，非独立成套教程或书籍，不符合收录条件",
+    "excludedAt": "2026-09-26T20:21:34.997Z"
+  },
+  {
+    "id": "aws-samples/generative-ai-use-cases",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T20:21:35.995Z"
+  },
+  {
+    "id": "marcelscruz/dev-resources",
+    "reason": "llm: 该仓库为通用的开发者资源链接聚合列表，并非结构化的AI教学课程、书籍或成套教程。",
+    "excludedAt": "2026-09-26T20:21:39.594Z"
+  },
+  {
+    "id": "hugecatlab/chattutor",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T20:21:41.578Z"
+  },
+  {
+    "id": "mfaisalkhatri/awesome-learning",
+    "reason": "llm: 主题为软件测试自动化，非AI/LLM核心，且为资源链接列表而非成套课程",
+    "excludedAt": "2026-09-26T20:21:47.330Z"
+  },
+  {
+    "id": "curiousily/get-things-done-with-prompt-engineering-and-langchain",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T20:21:48.222Z"
+  },
+  {
+    "id": "bytedance/uso",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T20:21:49.227Z"
+  },
+  {
+    "id": "strands-agents/agent-sop",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T20:21:51.645Z"
+  },
+  {
+    "id": "sib-swiss/training-collection",
+    "reason": "llm: 该仓库是生物信息学培训材料的聚合目录（index），而非具体的成套教程书籍或课程。它不符合“结构上有成套章节”且内容本身围绕AI的核心要求，而是指向外部链接。",
+    "excludedAt": "2026-09-26T20:21:57.183Z"
   }
 ]

@@ -35,13 +35,10 @@
 - [awesome-artificial-intelligence (owainlewis)](https://github.com/owainlewis/awesome-artificial-intelligence): 精选的AI工程资源目录，涵盖基础书籍、系统课程及Agent实战指南
 - [vibe-coding-cn (tradecatlabs)](https://github.com/tradecatlabs/vibe-coding-cn): 中文Vibe Coding教程，覆盖AI编程工作流、提示词及质量门禁体系。
 - [TensorFlow-Course (instillai)](https://github.com/instillai/TensorFlow-Course): 面向初学者的 TensorFlow 课程，从回归、CNN 到生成模型，配套 Jupyter Notebook 练习。
-- [transferlearning (jindongwang)](https://github.com/jindongwang/transferlearning): 待人工复核后展示。
-- [AI-Research-SKILLs (Orchestra-Research)](https://github.com/Orchestra-Research/AI-Research-SKILLs): 待人工复核后展示。
-- [tutorials (MorvanZhou)](https://github.com/MorvanZhou/tutorials): 待人工复核后展示。
-- [the-incredible-pytorch (ritchieng)](https://github.com/ritchieng/the-incredible-pytorch): 待人工复核后展示。
-- [LangGPT (langgptai)](https://github.com/langgptai/LangGPT): 待人工复核后展示。
-- [academic-research-skills-codex (Imbad0202)](https://github.com/Imbad0202/academic-research-skills-codex): 待人工复核后展示。
-- [phoenix (Arize-ai)](https://github.com/Arize-ai/phoenix): 待人工复核后展示。
+- [transferlearning (jindongwang)](https://github.com/jindongwang/transferlearning): 提供迁移学习与领域自适应的完整教程、代码及理论综述，适合深度学习入门与进阶。
+- [AI-Research-SKILLs (Orchestra-Research)](https://github.com/Orchestra-Research/AI-Research-SKILLs): 提供98个AI研发技能的开源库，支持Agent自主完成从构思到论文的全流程
+- [tutorials (MorvanZhou)](https://github.com/MorvanZhou/tutorials): 周沫凡制作的包含机器学习、深度学习及Python基础的多媒体教程合集
+- [LangGPT (langgptai)](https://github.com/langgptai/LangGPT): LangGPT 提供结构化提示词设计框架、理论文档及多模型实践指南，适合系统学习提示工程。
 - [nlp_course (yandexdataschool)](https://github.com/yandexdataschool/nlp_course): Yandex 数据科学 NLP 课程，涵盖嵌入、LLM、提示工程、微调及 AI Agent 等 14 周系统教学材料。
 - [mit-deep-learning (lexfridman)](https://github.com/lexfridman/mit-deep-learning): MIT深度学习课程官方教程集，涵盖基础、语义分割、GAN及强化学习实战。
 - [machine-learning-notes (roboticcam)](https://github.com/roboticcam/machine-learning-notes): 涵盖机器学习、深度学习、概率模型及强化学习等主题的2000多页讲义与视频课程资料。
@@ -54,18 +51,33 @@
 - [zero-to-mastery-ml (mrdbourke)](https://github.com/mrdbourke/zero-to-mastery-ml): ZTM 机器学习课程完整笔记与代码，覆盖 pandas、scikit-learn 与 PyTorch。
 - [deep-rl-class (huggingface)](https://github.com/huggingface/deep-rl-class): 深度强化学习课程，从基础到先进算法，配套练习与竞赛。
 - [Tensorflow-Tutorial (MorvanZhou)](https://github.com/MorvanZhou/Tensorflow-Tutorial): 莫烦Python出品的Tensorflow深度学习教程，涵盖基础至高级网络结构
+- [gpu-perf-engineering-resources (wafer-ai)](https://github.com/wafer-ai/gpu-perf-engineering-resources): 系统性的AI性能工程资源列表，涵盖GPU基础到分布式推理
 - [course22 (fastai)](https://github.com/fastai/course22): fast.ai 2022版深度学习实战课程官方教材，含全套教学笔记本与课件。
+- [computer-vision-in-action (Charmve)](https://github.com/Charmve/computer-vision-in-action): 《计算机视觉实战演练》在线电子书，含完整章节、理论解析与可运行PyTorch代码。
 - [Stable-Diffusion (FurkanGozukara)](https://github.com/FurkanGozukara/Stable-Diffusion): 这是一个生成式AI教程合集，涵盖Stable Diffusion等工具的教学视频、代码示例及操作指南。
+- [aicodeguide (automata)](https://github.com/automata/aicodeguide): 待人工复核后展示。
+- [Getting-Things-Done-with-Pytorch (curiousily)](https://github.com/curiousily/Getting-Things-Done-with-Pytorch): 待人工复核后展示。
+- [Awesome-Text-to-Image (Yutong-Zhou-cv)](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image): 待人工复核后展示。
 - [TensorFlow-and-DeepLearning-Tutorial (CreatCodeBuild)](https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial): 一套包含TensorFlow基础、全连接及卷积神经网络的深度学习教学课程。
 - [generative-ai-docs (google)](https://github.com/google/generative-ai-docs): Google Gemini API 官方教程仓库，提供快速上手 Notebook 与 Python 示例。
+- [awesome-llm-powered-agent (hyp1231)](https://github.com/hyp1231/awesome-llm-powered-agent): 待人工复核后展示。
+- [awesome-LangGraph (vonzosten)](https://github.com/vonzosten/awesome-LangGraph): 待人工复核后展示。
+- [awesome-generative-art (kosmos)](https://github.com/kosmos/awesome-generative-art): 待人工复核后展示。
 - [data-science-complete-tutorial (edyoda)](https://github.com/edyoda/data-science-complete-tutorial): 涵盖16节课程和8个案例的数据科学与机器学习教程，包含代码与项目实战。
 - [Large-Language-Model-Notebooks-Course (peremartra)](https://github.com/peremartra/Large-Language-Model-Notebooks-Course): 基于Apress书籍的LLM实战课程，涵盖LangChain、微调及评估等核心技术。
 - [langchain-course (emarco177)](https://github.com/emarco177/langchain-course): 基于LangChain和LangGraph的AI Agent实战课程，含7个完整项目
+- [Controllable-RAG-Agent (NirDiamant)](https://github.com/NirDiamant/Controllable-RAG-Agent): 待人工复核后展示。
 - [NL2SQL_Handbook (HKUSTDial)](https://github.com/HKUSTDial/NL2SQL_Handbook): 针对 LLM 时代的 Text-to-SQL 技术指南，含章节、基准与错误分析。
 - [philoagents-course (neural-maze)](https://github.com/neural-maze/philoagents-course): 6 模块课程，教你构建以 AI 智能体模拟哲学家对话的游戏引擎，覆盖 Agentic RAG、LLM 与 LLMOps。
+- [Awesome_Think_With_Images (zhaochen0110)](https://github.com/zhaochen0110/Awesome_Think_With_Images): 基于综述的多模态推理论文列表，分三阶段展示 LVLM 视觉思考方法。
+- [llm-app-stack (a16z-infra)](https://github.com/a16z-infra/llm-app-stack): 待人工复核后展示。
+- [awesome-conformal-prediction (valeman)](https://github.com/valeman/awesome-conformal-prediction): 待人工复核后展示。
 - [Play-with-Machine-Learning-Algorithms (liuyubobobo)](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms): 刘宇波慕课网《Python3 入门机器学习》官方配套代码库，含多章笔记与练习。
+- [awesome-useful-websites (atakanaltok)](https://github.com/atakanaltok/awesome-useful-websites): 待人工复核后展示。
+- [Evolutionary-Algorithm (MorvanZhou)](https://github.com/MorvanZhou/Evolutionary-Algorithm): 待人工复核后展示。
 - [reinforcement_learning_course_materials (upb-lea)](https://github.com/upb-lea/reinforcement_learning_course_materials): 帕德博恩大学强化学习课程全套资料，含课件、12个练习及视频。
 - [machine-learning-curriculum (offchan42)](https://github.com/offchan42/machine-learning-curriculum): 一份全面且结构化的机器学习、深度学习及强化学习课程资源清单。
+- [ai-engineering-from-scratch-zh (fancyboi999)](https://github.com/fancyboi999/ai-engineering-from-scratch-zh): AI工程零基础到精通的中文全套课程，含523节课及AI导师。
 - [deep-learning-keras-tf-tutorial (codebasics)](https://github.com/codebasics/deep-learning-keras-tf-tutorial): 配合视频系列，用 TensorFlow 2 和 Keras 从零系统学习深度学习的教程
 - [mlops-coding-course (MLOps-Courses)](https://github.com/MLOps-Courses/mlops-coding-course): MLOps Coding Course 的工程化教程，聚焦生产级机器学习项目的实践方法与可运行代码示例。
 - [awesome-r-learning-resources (iamericfletcher)](https://github.com/iamericfletcher/awesome-r-learning-resources): 这是一个整理 R 语言学习资料的项目，包含课程、书籍、博客和社区资源链接。
