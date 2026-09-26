@@ -18,6 +18,7 @@
 - [100-Days-Of-ML-Code (Avik-Jain)](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100天机器学习编程挑战日志，涵盖从传统算法到深度学习的实践代码与概念解析。
 - [TensorFlow-Examples (aymericdamien)](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow 官方风格教程，涵盖从基础操作到CNN/RNN的完整学习路径。
 - [Data-Science-For-Beginners (microsoft)](https://github.com/microsoft/Data-Science-For-Beginners): 数据科学入门课程，从 Excel、SQL 到 Python 可视化，适合零基础系统学习。
+- [awesome-javascript (sorrycc)](https://github.com/sorrycc/awesome-javascript): 待人工复核后展示。
 - [pytorch-tutorial (yunjey)](https://github.com/yunjey/pytorch-tutorial): 面向深度学习研究者的 PyTorch 教程，覆盖基础网络、CNN、RNN、GAN 等经典模型。
 - [llm.c (karpathy)](https://github.com/karpathy/llm.c): 用纯 C 从零训练 GPT 的实验性实现，配套逐步讲解，适合理解 LLM 底层。
 - [RAG_Techniques (NirDiamant)](https://github.com/NirDiamant/RAG_Techniques): 该仓库提供42个关于检索增强生成（RAG）技术的详细笔记本教程，涵盖从基础到高级的实用实现。
@@ -29,7 +30,6 @@
 - [ML-YouTube-Courses (dair-ai)](https://github.com/dair-ai/ML-YouTube-Courses): 该仓库系统收录了YouTube上优质的机器学习与AI课程，按主题分类便于查找
 - [leedl-tutorial (datawhalechina)](https://github.com/datawhalechina/leedl-tutorial): 李宏毅深度学习教程配套习题集，含15套Jupyter作业及视频幻灯片。
 - [TensorFlow-Course (instillai)](https://github.com/instillai/TensorFlow-Course): 面向初学者的 TensorFlow 课程，从回归、CNN 到生成模型，配套 Jupyter Notebook 练习。
-- [LLMSurvey (RUCAIBox)](https://github.com/RUCAIBox/LLMSurvey): 待人工复核后展示。
 - [mit-deep-learning (lexfridman)](https://github.com/lexfridman/mit-deep-learning): MIT深度学习课程官方教程集，涵盖基础、语义分割、GAN及强化学习实战。
 - [machine-learning-notes (roboticcam)](https://github.com/roboticcam/machine-learning-notes): 涵盖机器学习、深度学习、概率模型及强化学习等主题的2000多页讲义与视频课程资料。
 - [udlbook (udlbook)](https://github.com/udlbook/udlbook): 《Understanding Deep Learning》官方仓库，按章节提供可运行的 Notebook。
@@ -41,6 +41,8 @@
 - [zero-to-mastery-ml (mrdbourke)](https://github.com/mrdbourke/zero-to-mastery-ml): ZTM 机器学习课程完整笔记与代码，覆盖 pandas、scikit-learn 与 PyTorch。
 - [deep-rl-class (huggingface)](https://github.com/huggingface/deep-rl-class): 深度强化学习课程，从基础到先进算法，配套练习与竞赛。
 - [Tensorflow-Tutorial (MorvanZhou)](https://github.com/MorvanZhou/Tensorflow-Tutorial): 莫烦Python出品的Tensorflow深度学习教程，涵盖基础至高级网络结构
+- [course22 (fastai)](https://github.com/fastai/course22): fast.ai 2022版深度学习实战课程官方教材，含全套教学笔记本与课件。
+- [Stable-Diffusion (FurkanGozukara)](https://github.com/FurkanGozukara/Stable-Diffusion): 这是一个生成式AI教程合集，涵盖Stable Diffusion等工具的教学视频、代码示例及操作指南。
 - [TensorFlow-and-DeepLearning-Tutorial (CreatCodeBuild)](https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial): 一套包含TensorFlow基础、全连接及卷积神经网络的深度学习教学课程。
 - [generative-ai-docs (google)](https://github.com/google/generative-ai-docs): Google Gemini API 官方教程仓库，提供快速上手 Notebook 与 Python 示例。
 - [data-science-complete-tutorial (edyoda)](https://github.com/edyoda/data-science-complete-tutorial): 涵盖16节课程和8个案例的数据科学与机器学习教程，包含代码与项目实战。
