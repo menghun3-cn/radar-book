@@ -27,19 +27,19 @@
     },
     {
       "name": "repositories: topic:ai-education fork:false",
-      "status": "bounded",
-      "count": 200,
+      "status": "ok",
+      "count": 52,
       "total": 452,
-      "pages": 2,
-      "firstPage": 3
+      "pages": 1,
+      "firstPage": 5
     },
     {
       "name": "repositories: topic:prompt-engineering fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 19140,
+      "total": 19149,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: topic:machine-learning tutorial fork:false",
@@ -47,7 +47,7 @@
       "count": 200,
       "total": 2226,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: topic:deep-learning tutorial fork:false",
@@ -55,15 +55,15 @@
       "count": 200,
       "total": 1406,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: topic:generative-ai tutorial fork:false",
-      "status": "ok",
-      "count": 3,
+      "status": "bounded",
+      "count": 200,
       "total": 203,
-      "pages": 1,
-      "firstPage": 3
+      "pages": 2,
+      "firstPage": 1
     },
     {
       "name": "repositories: topic:jupyter-notebooks course fork:false",
@@ -79,39 +79,39 @@
       "count": 200,
       "total": 766,
       "pages": 2,
-      "firstPage": 1
+      "firstPage": 3
     },
     {
       "name": "repositories: \"prompt engineering\" interactive in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 61965,
+      "total": 62008,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: \"LLM course\" in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 2785,
+      "total": 2787,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: \"generative AI\" \"tutorial\" in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 17271,
+      "total": 17277,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: \"AI tutorial\" in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 3626,
+      "total": 3627,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "code: \"interactive tutorial\" \"prompt\" path:README.md",
@@ -146,27 +146,27 @@
       "firstPage": 1
     }
   ],
-  "newProjects": 13,
+  "newProjects": 14,
   "metadata": {
-    "ok": 87,
+    "ok": 99,
     "failed": 0
   },
   "pendingReview": {
-    "pending": 1,
-    "promoted": 0,
-    "rejected": 1,
+    "pending": 12,
+    "promoted": 3,
+    "rejected": 9,
     "unavailable": 0
   },
   "discovery": {
-    "candidates": 1779,
-    "checked": 13,
-    "rejected": 27,
-    "deferred": 1739,
+    "candidates": 1597,
+    "checked": 14,
+    "rejected": 26,
+    "deferred": 1557,
     "sources": 18
   },
-  "totalProjects": 99,
-  "projectsSha256": "bdc817e3d3ff718ade8db6d9d4fea8f22fc233eeaecf66cb80a013a832148755",
-  "runUrl": "https://github.com/menghun3-cn/radar-book/actions/runs/36235781807",
+  "totalProjects": 104,
+  "projectsSha256": "5aad828c884d67d7cb01a1c937be325e2a0e13b4f97e5fea747f15389ceb88a9",
+  "runUrl": "https://github.com/menghun3-cn/radar-book/actions/runs/36251340584",
   "dryRun": false,
-  "lastRunAt": "2026-09-26T10:29:59.883Z"
+  "lastRunAt": "2026-09-26T15:21:40.109Z"
 }

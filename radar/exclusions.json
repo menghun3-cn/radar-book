@@ -4453,5 +4453,180 @@
     "id": "sundial-org/awesome-openclaw-skills",
     "reason": "llm: 仓库为 Agent 技能索引目录，非成套 AI 教程书籍",
     "excludedAt": "2026-09-26T10:29:53.127Z"
+  },
+  {
+    "id": "hendurhance/ui-ux",
+    "reason": "llm: 主题为核心UI/UX设计而非AI/ML/LLM，不符合目录AI主题要求",
+    "excludedAt": "2026-09-26T15:17:40.371Z"
+  },
+  {
+    "id": "michealwayne/books",
+    "reason": "llm: 该仓库为多领域电子书链接索引，非原创成套AI课程或教程材料，不符合收录标准。",
+    "excludedAt": "2026-09-26T15:17:44.981Z"
+  },
+  {
+    "id": "nvidia-nemo/gym",
+    "reason": "llm: 该仓库是用于评估和训练AI智能体的基础设施库（环境、基准、验证器），属于纯工具和框架，并非教学性质的课程或书籍。",
+    "excludedAt": "2026-09-26T15:17:56.120Z"
+  },
+  {
+    "id": "0xsojalsec/llms-local",
+    "reason": "llm: 这是一个资源链接列表（awesome list），而非教程、书籍或课程，不满足教学性质和成套章节的要求。",
+    "excludedAt": "2026-09-26T15:18:15.621Z"
+  },
+  {
+    "id": "zeyad-azima/offensive-resources",
+    "reason": "llm: 主题为网络安全/白帽子，非AI/ML/LLM领域，不符合目录主题要求。",
+    "excludedAt": "2026-09-26T15:18:20.682Z"
+  },
+  {
+    "id": "ranahaani/gnews",
+    "reason": "llm: 该仓库是一个新闻检索API工具包，虽含示例，但非AI主题的教学课程。",
+    "excludedAt": "2026-09-26T15:18:28.440Z"
+  },
+  {
+    "id": "stencila/stencila",
+    "reason": "llm: 该仓库是可执行文档平台工具，非教学课程或书籍。",
+    "excludedAt": "2026-09-26T15:18:34.026Z"
+  },
+  {
+    "id": "mdozmorov/machinelearning_notes",
+    "reason": "llm: 该仓库为资源链接聚合清单，非成套课程或教材内容。",
+    "excludedAt": "2026-09-26T15:18:39.153Z"
+  },
+  {
+    "id": "handbook-academy/engineering-handbook",
+    "reason": "llm: 内容为系统与算法工程教材，非AI/ML主题",
+    "excludedAt": "2026-09-26T15:18:43.564Z"
+  },
+  {
+    "id": "anthropics/courses",
+    "reason": "archived",
+    "excludedAt": "2026-09-26T15:18:56.793Z"
+  },
+  {
+    "id": "comet-ml/opik",
+    "reason": "llm: 该项目是LLM可观测性与评估平台（工具），非教学课程、书籍或教程。",
+    "excludedAt": "2026-09-26T15:19:12.420Z"
+  },
+  {
+    "id": "ai4finance-foundation/fingpt",
+    "reason": "llm: 这是金融LLM模型工具包，虽含笔记但非系统教程课程",
+    "excludedAt": "2026-09-26T15:19:30.075Z"
+  },
+  {
+    "id": "ujjwalkarn/machine-learning-tutorials",
+    "reason": "llm: 该仓库是精选资源链接列表（Awesome List），非结构化课程或书籍内容，不满足“成套章节”要求。",
+    "excludedAt": "2026-09-26T15:19:57.786Z"
+  },
+  {
+    "id": "mikoto10032/deeplearning",
+    "reason": "llm: 内容以外部链接和资源列表为主，非原创成套教程",
+    "excludedAt": "2026-09-26T15:20:02.494Z"
+  },
+  {
+    "id": "evolinkai/awesome-gpt-image-2-api-and-prompts",
+    "reason": "llm: 内容为提示词示例集合，非系统性教学课程或书籍",
+    "excludedAt": "2026-09-26T15:20:10.201Z"
+  },
+  {
+    "id": "weaviate/weaviate",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T15:20:11.109Z"
+  },
+  {
+    "id": "bharathgs/awesome-pytorch-list",
+    "reason": "llm: 纯资源列表（Awesome List），非成套课程或教学书籍，不满足结构条件",
+    "excludedAt": "2026-09-26T15:20:14.923Z"
+  },
+  {
+    "id": "dottxt-ai/outlines",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T15:20:22.844Z"
+  },
+  {
+    "id": "nanobrowser/nanobrowser",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T15:20:25.291Z"
+  },
+  {
+    "id": "lightning-ai/litgpt",
+    "reason": "llm: 该仓库为高性能LLM开发库，虽含教程但核心属性为工具框架而非成套教学课程",
+    "excludedAt": "2026-09-26T15:20:30.808Z"
+  },
+  {
+    "id": "nidhinjs/prompt-master",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T15:20:31.437Z"
+  },
+  {
+    "id": "youmind-openlab/awesome-nano-banana-pro-prompts",
+    "reason": "llm: 这是提示词资源库而非教程课程，无成套教学章节，不符合收录条件",
+    "excludedAt": "2026-09-26T15:20:39.271Z"
+  },
+  {
+    "id": "steven2358/awesome-generative-ai",
+    "reason": "llm: 该仓库是生成式AI项目和服务的精选资源列表，非成套教学课程或书籍。",
+    "excludedAt": "2026-09-26T15:20:47.630Z"
+  },
+  {
+    "id": "embraceagi/awesome-chatgpt-zh",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T15:20:50.053Z"
+  },
+  {
+    "id": "tensorzero/tensorzero",
+    "reason": "archived",
+    "excludedAt": "2026-09-26T15:20:50.314Z"
+  },
+  {
+    "id": "petergyang/no-ai-slop",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T15:20:54.252Z"
+  },
+  {
+    "id": "cobusgreyling/loop-engineering",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T15:20:54.814Z"
+  },
+  {
+    "id": "microsoft/promptflow",
+    "reason": "llm: 该项目为LLM应用开发工具包，虽含教程但核心定位为工程工具而非教学体系",
+    "excludedAt": "2026-09-26T15:20:59.725Z"
+  },
+  {
+    "id": "openvinotoolkit/openvino",
+    "reason": "llm: OpenVINO 是 AI 推理优化工具库，虽有教程但核心为软件工具，不符合纯教学项目收录标准",
+    "excludedAt": "2026-09-26T15:21:06.029Z"
+  },
+  {
+    "id": "kalyanks-nlp/llm-engineer-toolkit",
+    "reason": "llm: 仅为工具库链接列表，非成套教学课程或书籍内容",
+    "excludedAt": "2026-09-26T15:21:15.246Z"
+  },
+  {
+    "id": "louisshark/chatgpt_system_prompt",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T15:21:15.922Z"
+  },
+  {
+    "id": "kangarooking/cangjie-skill",
+    "reason": "llm: 该仓库是一个用于将书籍或视频蒸馏为可执行Agent Skills的自动化工具及方法论框架，而非面向人类的AI教程或教材。",
+    "excludedAt": "2026-09-26T15:21:33.173Z"
+  },
+  {
+    "id": "chiphuyen/stanford-tensorflow-tutorials",
+    "reason": "archived",
+    "excludedAt": "2026-09-26T15:21:33.356Z"
+  },
+  {
+    "id": "zerolu/awesome-nanobanana-pro",
+    "reason": "llm: 该仓库是提示词示例集（Awesome List），非成套课程或教程，缺乏结构化教学章节。",
+    "excludedAt": "2026-09-26T15:21:39.423Z"
+  },
+  {
+    "id": "cybertimon/rapidraw",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T15:21:40.107Z"
   }
 ]
