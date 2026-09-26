@@ -18,7 +18,6 @@
 - [100-Days-Of-ML-Code (Avik-Jain)](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100天机器学习编程挑战日志，涵盖从传统算法到深度学习的实践代码与概念解析。
 - [TensorFlow-Examples (aymericdamien)](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow 官方风格教程，涵盖从基础操作到CNN/RNN的完整学习路径。
 - [Data-Science-For-Beginners (microsoft)](https://github.com/microsoft/Data-Science-For-Beginners): 数据科学入门课程，从 Excel、SQL 到 Python 可视化，适合零基础系统学习。
-- [awesome-javascript (sorrycc)](https://github.com/sorrycc/awesome-javascript): 待人工复核后展示。
 - [pytorch-tutorial (yunjey)](https://github.com/yunjey/pytorch-tutorial): 面向深度学习研究者的 PyTorch 教程，覆盖基础网络、CNN、RNN、GAN 等经典模型。
 - [llm.c (karpathy)](https://github.com/karpathy/llm.c): 用纯 C 从零训练 GPT 的实验性实现，配套逐步讲解，适合理解 LLM 底层。
 - [RAG_Techniques (NirDiamant)](https://github.com/NirDiamant/RAG_Techniques): 该仓库提供42个关于检索增强生成（RAG）技术的详细笔记本教程，涵盖从基础到高级的实用实现。
@@ -48,12 +47,25 @@
 - [data-science-complete-tutorial (edyoda)](https://github.com/edyoda/data-science-complete-tutorial): 涵盖16节课程和8个案例的数据科学与机器学习教程，包含代码与项目实战。
 - [Large-Language-Model-Notebooks-Course (peremartra)](https://github.com/peremartra/Large-Language-Model-Notebooks-Course): 基于Apress书籍的LLM实战课程，涵盖LangChain、微调及评估等核心技术。
 - [langchain-course (emarco177)](https://github.com/emarco177/langchain-course): 基于LangChain和LangGraph的AI Agent实战课程，含7个完整项目
+- [NL2SQL_Handbook (HKUSTDial)](https://github.com/HKUSTDial/NL2SQL_Handbook): 待人工复核后展示。
 - [philoagents-course (neural-maze)](https://github.com/neural-maze/philoagents-course): 6 模块课程，教你构建以 AI 智能体模拟哲学家对话的游戏引擎，覆盖 Agentic RAG、LLM 与 LLMOps。
+- [ui-ux (hendurhance)](https://github.com/hendurhance/ui-ux): 待人工复核后展示。
+- [books (MichealWayne)](https://github.com/MichealWayne/books): 待人工复核后展示。
+- [Play-with-Machine-Learning-Algorithms (liuyubobobo)](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms): 待人工复核后展示。
+- [Gym (NVIDIA-NeMo)](https://github.com/NVIDIA-NeMo/Gym): 待人工复核后展示。
+- [reinforcement_learning_course_materials (upb-lea)](https://github.com/upb-lea/reinforcement_learning_course_materials): 待人工复核后展示。
+- [LLMs-local (0xSojalSec)](https://github.com/0xSojalSec/LLMs-local): 待人工复核后展示。
+- [Offensive-Resources (Zeyad-Azima)](https://github.com/Zeyad-Azima/Offensive-Resources): 待人工复核后展示。
 - [machine-learning-curriculum (offchan42)](https://github.com/offchan42/machine-learning-curriculum): 一份全面且结构化的机器学习、深度学习及强化学习课程资源清单。
+- [GNews (ranahaani)](https://github.com/ranahaani/GNews): 待人工复核后展示。
 - [deep-learning-keras-tf-tutorial (codebasics)](https://github.com/codebasics/deep-learning-keras-tf-tutorial): 配合视频系列，用 TensorFlow 2 和 Keras 从零系统学习深度学习的教程
+- [stencila (stencila)](https://github.com/stencila/stencila): 待人工复核后展示。
 - [mlops-coding-course (MLOps-Courses)](https://github.com/MLOps-Courses/mlops-coding-course): MLOps Coding Course 的工程化教程，聚焦生产级机器学习项目的实践方法与可运行代码示例。
+- [awesome-r-learning-resources (iamericfletcher)](https://github.com/iamericfletcher/awesome-r-learning-resources): 这是一个整理 R 语言学习资料的项目，包含课程、书籍、博客和社区资源链接。
 - [cs329s-ml-deployment-tutorial (mrdbourke)](https://github.com/mrdbourke/cs329s-ml-deployment-tutorial): 斯坦福CS329s机器学习模型部署教程配套代码，涵盖GCP与Docker实践
 - [robot-learning-tutorial (fracapuano)](https://github.com/fracapuano/robot-learning-tutorial): 一套结合代码示例的机器人学习教程，涵盖经典控制、强化学习及模仿学习。
+- [MachineLearning_notes (mdozmorov)](https://github.com/mdozmorov/MachineLearning_notes): 待人工复核后展示。
+- [engineering-handbook (handbook-academy)](https://github.com/handbook-academy/engineering-handbook): 待人工复核后展示。
 - [hls4ml-tutorial (fastmachinelearning)](https://github.com/fastmachinelearning/hls4ml-tutorial): 一套关于使用hls4ml将机器学习模型部署到FPGA的交互教程，包含从模型训练到硬件综合的完整章节。
 - [Kind-PyTorch-Tutorial (GunhoChoi)](https://github.com/GunhoChoi/Kind-PyTorch-Tutorial): 面向初学者的PyTorch系统性教程，包含12个章节，涵盖张量、自动求导、CNN及GAN等内容。
 - [llm-course-chn (friendmine)](https://github.com/friendmine/llm-course-chn): mlabonne《LLM Course》的中文授权翻译，覆盖 LLM 基础、LLM Scientist 与 LLM Engineer 三部分。

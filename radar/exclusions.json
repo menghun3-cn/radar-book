@@ -4313,5 +4313,145 @@
     "id": "centminmod/my-claude-code-setup",
     "reason": "llm: 该仓库为 Claude Code 配置模板与记忆系统，非成套课程或书籍。",
     "excludedAt": "2026-09-26T02:23:59.237Z"
+  },
+  {
+    "id": "sorrycc/awesome-javascript",
+    "reason": "llm: 该仓库为通用 JavaScript 库资源清单，非 AI 教学课程或书籍，不满足主题与教学结构要求。",
+    "excludedAt": "2026-09-26T10:27:31.405Z"
+  },
+  {
+    "id": "arpanchakraborty2000/ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-26T10:27:56.426Z"
+  },
+  {
+    "id": "zhuolinyang/ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-26T10:27:56.617Z"
+  },
+  {
+    "id": "langgptai/awesome-claude-prompts",
+    "reason": "llm: 该仓库主要是提示词集合与参考链接，虽涉及提示词但缺乏结构化教学材料。",
+    "excludedAt": "2026-09-26T10:28:00.082Z"
+  },
+  {
+    "id": "louisfb01/start-machine-learning",
+    "reason": "llm: 该仓库为外部资源（课程、书籍、视频）的聚合清单，本身不包含成套的教学章节或原创课程材料。",
+    "excludedAt": "2026-09-26T10:28:03.345Z"
+  },
+  {
+    "id": "anu0012/awesome-computer-science-opportunities",
+    "reason": "llm: 该仓库为机会与平台链接列表，非成套AI课程或书籍结构，不满足教学内容条件",
+    "excludedAt": "2026-09-26T10:28:08.258Z"
+  },
+  {
+    "id": "filipecalegario/awesome-generative-ai",
+    "reason": "llm: 该仓库是资源列表（Awesome List），非教学课程或书籍，不满足教学性质及成套章节结构要求。",
+    "excludedAt": "2026-09-26T10:28:18.550Z"
+  },
+  {
+    "id": "rafska/awesome-local-llm",
+    "reason": "llm: 该仓库为工具与资源链接列表（Awesome List），非教学课程或书籍，不满足教学性质及成套章节条件。",
+    "excludedAt": "2026-09-26T10:28:22.966Z"
+  },
+  {
+    "id": "amberljc/llmsys-paperlist",
+    "reason": "llm: 这是 LLM 系统领域的论文/资源列表，而非成套教学章节或课程。",
+    "excludedAt": "2026-09-26T10:28:26.289Z"
+  },
+  {
+    "id": "jim-schwoebel/awesome_ai_agents",
+    "reason": "llm: 该仓库是资源链接列表（Awesome List），非成套教程或课程材料，不满足结构化教学要求。",
+    "excludedAt": "2026-09-26T10:28:30.259Z"
+  },
+  {
+    "id": "peldom/papers_for_protein_design_using_dl",
+    "reason": "llm: 内容为深度学习蛋白设计领域的论文与数据集列表，属于资料索引，非教学课程或教程。",
+    "excludedAt": "2026-09-26T10:28:34.027Z"
+  },
+  {
+    "id": "amrzv/awesome-colab-notebooks",
+    "reason": "llm: 该仓库是资源链接列表（Awesome List），并非拥有成套章节的课程或书籍本体。",
+    "excludedAt": "2026-09-26T10:28:37.661Z"
+  },
+  {
+    "id": "dicklesworthstone/agentic_coding_flywheel_setup",
+    "reason": "llm: 该仓库核心是VPS环境自动部署工具，虽包含引导教程但非独立成套AI教材。",
+    "excludedAt": "2026-09-26T10:28:44.973Z"
+  },
+  {
+    "id": "rockingdingo/deepnlp",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T10:28:49.201Z"
+  },
+  {
+    "id": "uncbiag/awesome-foundation-models",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T10:28:54.893Z"
+  },
+  {
+    "id": "awesome-gptx/awesome-gpt",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T10:28:56.584Z"
+  },
+  {
+    "id": "quobit/awesome-python-in-education",
+    "reason": "archived",
+    "excludedAt": "2026-09-26T10:28:57.684Z"
+  },
+  {
+    "id": "superiorlu/aitreasurebox",
+    "reason": "llm: 该仓库为AI资源聚合列表，属于链接集合，缺乏成套教学章节与课程材料。",
+    "excludedAt": "2026-09-26T10:29:06.604Z"
+  },
+  {
+    "id": "uhub/awesome-llm",
+    "reason": "llm: 该仓库是精选资源列表（Awesome List），仅汇总链接，无成套课程章节或教学材料实体。",
+    "excludedAt": "2026-09-26T10:29:16.942Z"
+  },
+  {
+    "id": "viktorbezdek/awesome-github-projects",
+    "reason": "llm: 该仓库是项目链接聚合清单，非教学课程、书籍或成套结构化学习材料。",
+    "excludedAt": "2026-09-26T10:29:21.120Z"
+  },
+  {
+    "id": "tjunlp-lab/awesome-llms-evaluation-papers",
+    "reason": "llm: 该仓库为论文列表（Paper List），属于资源索引，非成套教程、课程或书籍。",
+    "excludedAt": "2026-09-26T10:29:24.695Z"
+  },
+  {
+    "id": "orionstarai/orion",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T10:29:25.362Z"
+  },
+  {
+    "id": "gabriben/awesome-generative-information-retrieval",
+    "reason": "llm: 这是一个资源链接聚合列表（Awesome List），而非成套的课程、教程或书籍，不满足教学结构要求。",
+    "excludedAt": "2026-09-26T10:29:35.085Z"
+  },
+  {
+    "id": "yennning/awesome-code-as-agent-harness-papers",
+    "reason": "llm: 该仓库为基于论文的论文列表，非教程、课程或书籍，不满足教学结构要求。",
+    "excludedAt": "2026-09-26T10:29:37.933Z"
+  },
+  {
+    "id": "alvi-se/ai-ublock-blacklist",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-26T10:29:38.626Z"
+  },
+  {
+    "id": "trackawesomelist/trackawesomelist",
+    "reason": "llm: 这是一个聚合工具，用于追踪Awesome List更新，非AI/ML教学课程",
+    "excludedAt": "2026-09-26T10:29:44.130Z"
+  },
+  {
+    "id": "dereknguyen269/programing-best-practices",
+    "reason": "llm: 属于综合编程规范资源链接集，非专门 AI 教程书籍或成套课程。",
+    "excludedAt": "2026-09-26T10:29:48.746Z"
+  },
+  {
+    "id": "sundial-org/awesome-openclaw-skills",
+    "reason": "llm: 仓库为 Agent 技能索引目录，非成套 AI 教程书籍",
+    "excludedAt": "2026-09-26T10:29:53.127Z"
   }
 ]

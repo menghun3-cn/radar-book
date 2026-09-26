@@ -12,15 +12,15 @@
       "notebook",
       "generative-ai"
     ],
-    "stars": 120560,
-    "forks": 63428,
-    "openIssues": 8,
+    "stars": 120584,
+    "forks": 63434,
+    "openIssues": 10,
     "license": "MIT",
     "language": "Jupyter Notebook",
     "createdAt": "2023-06-19T16:28:59Z",
     "lastCommitAt": "2026-09-24T03:43:20Z",
     "pushedAt": "2026-09-24T03:43:20Z",
-    "metadataFetchedAt": "2026-09-26T02:21:39.880Z",
+    "metadataFetchedAt": "2026-09-26T10:27:20.321Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
     "topics": [
       "ai",
@@ -86,15 +86,15 @@
       "fine-tuning",
       "rag"
     ],
-    "stars": 83144,
-    "forks": 9678,
+    "stars": 83146,
+    "forks": 9679,
     "openIssues": 91,
     "license": "Apache-2.0",
     "language": null,
     "createdAt": "2023-06-17T22:16:25Z",
     "lastCommitAt": "2026-02-05T13:09:26Z",
     "pushedAt": "2026-02-05T13:09:26Z",
-    "metadataFetchedAt": "2026-09-26T02:21:40.270Z",
+    "metadataFetchedAt": "2026-09-26T10:27:20.657Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/81252890?v=4",
     "topics": [
       "course",
@@ -139,15 +139,15 @@
       "rag",
       "agents"
     ],
-    "stars": 78630,
-    "forks": 8644,
-    "openIssues": 285,
+    "stars": 78641,
+    "forks": 8646,
+    "openIssues": 286,
     "license": "MIT",
     "language": "MDX",
     "createdAt": "2022-12-16T16:04:50Z",
     "lastCommitAt": "2026-03-11T20:09:13Z",
     "pushedAt": "2026-03-11T20:09:13Z",
-    "metadataFetchedAt": "2026-09-26T02:21:40.667Z",
+    "metadataFetchedAt": "2026-09-26T10:27:20.980Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/30384625?v=4",
     "topics": [
       "agent",
@@ -210,15 +210,15 @@
       "notebook",
       "machine-learning"
     ],
-    "stars": 69058,
-    "forks": 13357,
+    "stars": 69075,
+    "forks": 13358,
     "openIssues": 11,
     "license": "MIT",
     "language": "Jupyter Notebook",
     "createdAt": "2021-03-03T16:27:36Z",
     "lastCommitAt": "2026-09-16T20:17:56Z",
     "pushedAt": "2026-09-16T20:17:56Z",
-    "metadataFetchedAt": "2026-09-26T02:21:41.107Z",
+    "metadataFetchedAt": "2026-09-26T10:27:21.380Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
     "topics": [
       "ai",
@@ -280,7 +280,7 @@
       "prompt-engineering",
       "exercises"
     ],
-    "stars": 38308,
+    "stars": 38313,
     "forks": 4243,
     "openIssues": 64,
     "license": null,
@@ -288,7 +288,7 @@
     "createdAt": "2024-04-02T15:52:00Z",
     "lastCommitAt": "2026-08-28T05:31:39Z",
     "pushedAt": "2026-08-28T05:31:39Z",
-    "metadataFetchedAt": "2026-09-26T02:21:41.639Z",
+    "metadataFetchedAt": "2026-09-26T10:27:21.810Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
     "topics": [],
     "archived": false,
@@ -339,15 +339,15 @@
       "tutorial",
       "interactive"
     ],
-    "stars": 32881,
-    "forks": 2363,
+    "stars": 32890,
+    "forks": 2364,
     "openIssues": 179,
     "license": "Apache-2.0",
     "language": "MDX",
     "createdAt": "2025-01-16T19:50:22Z",
     "lastCommitAt": "2026-09-15T00:53:42Z",
     "pushedAt": "2026-09-15T00:53:42Z",
-    "metadataFetchedAt": "2026-09-26T02:21:42.149Z",
+    "metadataFetchedAt": "2026-09-26T10:27:22.182Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4",
     "topics": [
       "agentic-ai",
@@ -406,7 +406,7 @@
       "tutorial",
       "jupyter"
     ],
-    "stars": 29707,
+    "stars": 29712,
     "forks": 5140,
     "openIssues": 199,
     "license": null,
@@ -414,7 +414,7 @@
     "createdAt": "2018-10-09T01:04:37Z",
     "lastCommitAt": "2024-08-18T08:02:36Z",
     "pushedAt": "2024-08-18T08:02:36Z",
-    "metadataFetchedAt": "2026-09-26T02:21:42.597Z",
+    "metadataFetchedAt": "2026-09-26T10:27:22.537Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/43974506?v=4",
     "topics": [
       "book",
@@ -489,15 +489,15 @@
       "tutorial",
       "course"
     ],
-    "stars": 368145,
-    "forks": 44992,
+    "stars": 368187,
+    "forks": 44989,
     "openIssues": 1,
     "license": null,
     "language": "TypeScript",
     "createdAt": "2017-03-15T13:45:52Z",
     "lastCommitAt": "2026-09-25T13:44:30Z",
     "pushedAt": "2026-09-25T13:44:30Z",
-    "metadataFetchedAt": "2026-09-26T02:21:43.014Z",
+    "metadataFetchedAt": "2026-09-26T10:27:22.873Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/4921183?v=4",
     "topics": [
       "angular-roadmap",
@@ -573,15 +573,15 @@
       "machine-learning",
       "course"
     ],
-    "stars": 171278,
-    "forks": 21994,
+    "stars": 171297,
+    "forks": 21995,
     "openIssues": 82,
     "license": null,
     "language": "HTML",
     "createdAt": "2022-12-05T13:54:13Z",
     "lastCommitAt": "2026-09-09T10:27:05Z",
     "pushedAt": "2026-09-09T10:27:05Z",
-    "metadataFetchedAt": "2026-09-26T02:21:43.366Z",
+    "metadataFetchedAt": "2026-09-26T10:27:23.201Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/196477?v=4",
     "topics": [
       "ai",
@@ -651,15 +651,15 @@
       "notebook",
       "machine-learning"
     ],
-    "stars": 90985,
-    "forks": 22439,
+    "stars": 91001,
+    "forks": 22443,
     "openIssues": 11,
     "license": "MIT",
     "language": "Jupyter Notebook",
     "createdAt": "2021-03-03T01:34:05Z",
     "lastCommitAt": "2026-09-15T05:29:39Z",
     "pushedAt": "2026-09-15T05:29:39Z",
-    "metadataFetchedAt": "2026-09-26T02:21:43.832Z",
+    "metadataFetchedAt": "2026-09-26T10:27:23.607Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
     "topics": [
       "data-science",
@@ -723,15 +723,15 @@
       "examples",
       "practical"
     ],
-    "stars": 76201,
-    "forks": 12896,
+    "stars": 76206,
+    "forks": 12895,
     "openIssues": 302,
     "license": "MIT",
     "language": "Jupyter Notebook",
     "createdAt": "2022-03-11T02:08:53Z",
-    "lastCommitAt": "2026-09-26T00:04:15Z",
-    "pushedAt": "2026-09-26T00:04:15Z",
-    "metadataFetchedAt": "2026-09-26T02:21:44.268Z",
+    "lastCommitAt": "2026-09-26T03:01:07Z",
+    "pushedAt": "2026-09-26T03:01:07Z",
+    "metadataFetchedAt": "2026-09-26T10:27:23.969Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
     "topics": [
       "chatgpt",
@@ -791,15 +791,15 @@
       "agents",
       "course"
     ],
-    "stars": 66364,
+    "stars": 66373,
     "forks": 6602,
-    "openIssues": 43,
+    "openIssues": 44,
     "license": "MIT",
     "language": "HTML",
     "createdAt": "2025-10-31T14:15:28Z",
-    "lastCommitAt": "2026-09-25T06:46:19Z",
-    "pushedAt": "2026-09-25T06:46:19Z",
-    "metadataFetchedAt": "2026-09-26T02:21:44.663Z",
+    "lastCommitAt": "2026-09-26T06:45:47Z",
+    "pushedAt": "2026-09-26T06:45:47Z",
+    "metadataFetchedAt": "2026-09-26T10:27:24.336Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/11731897?v=4",
     "topics": [
       "agentic-ai",
@@ -824,7 +824,7 @@
       "vibe-coding"
     ],
     "archived": false,
-    "headSha": "035cd8bafc8eccac08a74cdda82924660c36266e",
+    "headSha": "b70072cc2fed48b710ddb555b66c3d0ad7c40641",
     "sourceUrl": "https://github.com/shanraisshan/claude-code-best-practice/blob/035cd8bafc8eccac08a74cdda82924660c36266e/README.md",
     "sourcePath": "README.md",
     "evidenceLines": [
@@ -880,15 +880,15 @@
       "machine-learning",
       "reinforcement-learning"
     ],
-    "stars": 57553,
-    "forks": 10032,
-    "openIssues": 44,
+    "stars": 57840,
+    "forks": 10058,
+    "openIssues": 46,
     "license": "MIT",
     "language": "Python",
     "createdAt": "2026-03-18T18:38:02Z",
-    "lastCommitAt": "2026-09-25T15:46:33Z",
-    "pushedAt": "2026-09-25T15:46:33Z",
-    "metadataFetchedAt": "2026-09-26T02:21:45.066Z",
+    "lastCommitAt": "2026-09-26T08:12:38Z",
+    "pushedAt": "2026-09-26T08:12:38Z",
+    "metadataFetchedAt": "2026-09-26T10:27:24.639Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/48523873?v=4",
     "topics": [
       "agents",
@@ -965,15 +965,15 @@
       "deep-learning",
       "course"
     ],
-    "stars": 51816,
-    "forks": 11630,
+    "stars": 51814,
+    "forks": 11632,
     "openIssues": 68,
     "license": "MIT",
     "language": null,
     "createdAt": "2018-07-05T09:11:43Z",
     "lastCommitAt": "2023-12-29T07:57:53Z",
     "pushedAt": "2023-12-29T07:57:53Z",
-    "metadataFetchedAt": "2026-09-26T02:21:45.426Z",
+    "metadataFetchedAt": "2026-09-26T10:27:25.051Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/30073708?v=4",
     "topics": [
       "100-days-of-code-log",
@@ -1046,7 +1046,7 @@
     "createdAt": "2015-11-11T14:21:19Z",
     "lastCommitAt": "2024-07-26T19:46:13Z",
     "pushedAt": "2024-07-26T19:46:13Z",
-    "metadataFetchedAt": "2026-09-26T02:21:45.802Z",
+    "metadataFetchedAt": "2026-09-26T10:27:25.377Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10386605?v=4",
     "topics": [
       "deep-learning",
@@ -1104,7 +1104,7 @@
       "notebook",
       "data-science"
     ],
-    "stars": 37323,
+    "stars": 37329,
     "forks": 7534,
     "openIssues": 20,
     "license": "MIT",
@@ -1112,7 +1112,7 @@
     "createdAt": "2021-03-03T16:30:15Z",
     "lastCommitAt": "2026-09-13T21:52:54Z",
     "pushedAt": "2026-09-13T21:52:54Z",
-    "metadataFetchedAt": "2026-09-26T02:21:46.243Z",
+    "metadataFetchedAt": "2026-09-26T10:27:25.823Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
     "topics": [
       "data-analysis",
@@ -1158,53 +1158,6 @@
     "pinned": false
   },
   {
-    "id": "sorrycc/awesome-javascript",
-    "name": "awesome-javascript",
-    "author": "sorrycc",
-    "url": "https://github.com/sorrycc/awesome-javascript",
-    "category": "LLM 开发",
-    "plainSummary": "待人工复核后展示。",
-    "plainSummaryEn": null,
-    "plainSummaryJa": null,
-    "plainSummaryKo": null,
-    "tags": [
-      "course"
-    ],
-    "stars": 35029,
-    "forks": 4560,
-    "openIssues": 24,
-    "license": null,
-    "language": null,
-    "createdAt": "2014-07-01T15:59:02Z",
-    "lastCommitAt": "2026-09-08T21:09:10Z",
-    "pushedAt": "2026-09-08T21:09:10Z",
-    "metadataFetchedAt": "2026-09-26T02:23:17.522Z",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/35128?v=4",
-    "topics": [],
-    "archived": false,
-    "headSha": "9320c7639dc7c69aa4883de333add0d80b2fa202",
-    "sourceUrl": "https://github.com/sorrycc/awesome-javascript/blob/9320c7639dc7c69aa4883de333add0d80b2fa202/README.md",
-    "sourcePath": "README.md",
-    "evidenceLines": [
-      49,
-      80,
-      215,
-      231,
-      344,
-      361,
-      363,
-      364
-    ],
-    "evidence": [
-      {
-        "url": "https://github.com/sorrycc/awesome-javascript/blob/9320c7639dc7c69aa4883de333add0d80b2fa202/README.md",
-        "note": "Fixed-commit source reviewed"
-      }
-    ],
-    "verificationStatus": "source-verified",
-    "pinned": false
-  },
-  {
     "id": "yunjey/pytorch-tutorial",
     "name": "pytorch-tutorial",
     "author": "yunjey",
@@ -1225,7 +1178,7 @@
     "createdAt": "2017-03-10T07:41:47Z",
     "lastCommitAt": "2023-08-15T10:17:50Z",
     "pushedAt": "2023-08-15T10:17:50Z",
-    "metadataFetchedAt": "2026-09-26T02:21:46.629Z",
+    "metadataFetchedAt": "2026-09-26T10:27:31.826Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/15663219?v=4",
     "topics": [
       "deep-learning",
@@ -1281,14 +1234,14 @@
       "tutorial"
     ],
     "stars": 31061,
-    "forks": 3765,
+    "forks": 3764,
     "openIssues": 224,
     "license": "MIT",
     "language": "Cuda",
     "createdAt": "2024-04-08T16:58:11Z",
     "lastCommitAt": "2025-06-26T17:03:40Z",
     "pushedAt": "2025-06-26T17:03:40Z",
-    "metadataFetchedAt": "2026-09-26T02:21:47.015Z",
+    "metadataFetchedAt": "2026-09-26T10:27:32.137Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/241138?v=4",
     "topics": [],
     "archived": false,
@@ -1336,15 +1289,15 @@
       "machine-learning",
       "course"
     ],
-    "stars": 29601,
-    "forks": 3623,
+    "stars": 29602,
+    "forks": 3625,
     "openIssues": 5,
     "license": null,
     "language": "Jupyter Notebook",
     "createdAt": "2024-07-13T16:08:36Z",
     "lastCommitAt": "2026-09-21T10:54:13Z",
     "pushedAt": "2026-09-21T10:54:13Z",
-    "metadataFetchedAt": "2026-09-26T02:21:47.406Z",
+    "metadataFetchedAt": "2026-09-26T10:27:32.507Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/28316913?v=4",
     "topics": [
       "agentic-rag",
@@ -1412,7 +1365,7 @@
       "tutorial",
       "course"
     ],
-    "stars": 26388,
+    "stars": 26394,
     "forks": 1978,
     "openIssues": 27,
     "license": null,
@@ -1420,7 +1373,7 @@
     "createdAt": "2025-03-30T22:10:39Z",
     "lastCommitAt": "2025-09-21T14:37:40Z",
     "pushedAt": "2025-09-21T14:37:40Z",
-    "metadataFetchedAt": "2026-09-26T02:21:47.802Z",
+    "metadataFetchedAt": "2026-09-26T10:27:32.866Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/177409041?v=4",
     "topics": [
       "12-factor",
@@ -1483,15 +1436,15 @@
       "deep-learning",
       "notebook"
     ],
-    "stars": 25324,
-    "forks": 9477,
+    "stars": 25329,
+    "forks": 9478,
     "openIssues": 178,
     "license": null,
     "language": "Jupyter Notebook",
     "createdAt": "2020-02-28T19:26:47Z",
     "lastCommitAt": "2026-09-13T21:07:24Z",
     "pushedAt": "2026-09-13T21:07:24Z",
-    "metadataFetchedAt": "2026-09-26T02:21:48.182Z",
+    "metadataFetchedAt": "2026-09-26T10:27:33.213Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/20547620?v=4",
     "topics": [
       "book",
@@ -1559,15 +1512,15 @@
       "machine-learning",
       "course"
     ],
-    "stars": 24384,
-    "forks": 4112,
+    "stars": 24387,
+    "forks": 4113,
     "openIssues": 24,
     "license": null,
     "language": "Jupyter Notebook",
     "createdAt": "2024-09-09T20:10:19Z",
     "lastCommitAt": "2026-09-24T14:37:32Z",
     "pushedAt": "2026-09-24T14:37:32Z",
-    "metadataFetchedAt": "2026-09-26T02:21:48.550Z",
+    "metadataFetchedAt": "2026-09-26T10:27:33.528Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/28316913?v=4",
     "topics": [
       "agentic-ai",
@@ -1635,7 +1588,7 @@
       "rag",
       "course"
     ],
-    "stars": 21496,
+    "stars": 21495,
     "forks": 2852,
     "openIssues": 5,
     "license": null,
@@ -1643,7 +1596,7 @@
     "createdAt": "2025-06-16T17:33:44Z",
     "lastCommitAt": "2026-09-21T10:54:17Z",
     "pushedAt": "2026-09-21T10:54:17Z",
-    "metadataFetchedAt": "2026-09-26T02:21:48.899Z",
+    "metadataFetchedAt": "2026-09-26T10:27:33.829Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/28316913?v=4",
     "topics": [
       "agent",
@@ -1714,15 +1667,15 @@
       "practical",
       "course"
     ],
-    "stars": 17546,
-    "forks": 2558,
+    "stars": 17554,
+    "forks": 2559,
     "openIssues": 22,
     "license": null,
     "language": "Jupyter Notebook",
     "createdAt": "2024-12-03T19:43:36Z",
     "lastCommitAt": "2026-07-03T07:04:59Z",
     "pushedAt": "2026-07-03T07:04:59Z",
-    "metadataFetchedAt": "2026-09-26T02:21:49.252Z",
+    "metadataFetchedAt": "2026-09-26T10:27:34.202Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/11997567?v=4",
     "topics": [],
     "archived": false,
@@ -1780,7 +1733,7 @@
     "createdAt": "2021-06-25T09:39:16Z",
     "lastCommitAt": "2024-01-22T15:52:28Z",
     "pushedAt": "2024-01-22T15:52:28Z",
-    "metadataFetchedAt": "2026-09-26T02:21:49.676Z",
+    "metadataFetchedAt": "2026-09-26T10:27:34.616Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/30384625?v=4",
     "topics": [
       "ai",
@@ -1832,7 +1785,7 @@
       "reinforcement-learning",
       "course"
     ],
-    "stars": 16786,
+    "stars": 16788,
     "forks": 3100,
     "openIssues": 2,
     "license": null,
@@ -1840,7 +1793,7 @@
     "createdAt": "2019-07-02T01:05:11Z",
     "lastCommitAt": "2025-11-23T09:12:43Z",
     "pushedAt": "2025-11-23T09:12:43Z",
-    "metadataFetchedAt": "2026-09-26T02:21:50.065Z",
+    "metadataFetchedAt": "2026-09-26T10:27:34.946Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/46047812?v=4",
     "topics": [
       "bert",
@@ -1915,7 +1868,7 @@
     "createdAt": "2018-10-02T18:10:12Z",
     "lastCommitAt": "2022-11-28T11:04:08Z",
     "pushedAt": "2022-11-28T11:04:08Z",
-    "metadataFetchedAt": "2026-09-26T02:21:50.549Z",
+    "metadataFetchedAt": "2026-09-26T10:27:35.286Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/43791934?v=4",
     "topics": [
       "deep-learning",
@@ -1988,7 +1941,7 @@
     "createdAt": "2017-01-08T00:52:01Z",
     "lastCommitAt": "2024-01-03T13:54:05Z",
     "pushedAt": "2024-01-03T13:54:05Z",
-    "metadataFetchedAt": "2026-09-26T02:21:55.598Z",
+    "metadataFetchedAt": "2026-09-26T10:27:35.636Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/536621?v=4",
     "topics": [
       "artificial-intelligence",
@@ -2059,14 +2012,14 @@
       "course"
     ],
     "stars": 10363,
-    "forks": 1825,
+    "forks": 1824,
     "openIssues": 28,
     "license": null,
     "language": "Jupyter Notebook",
     "createdAt": "2018-02-15T15:42:33Z",
     "lastCommitAt": "2026-07-08T15:37:42Z",
     "pushedAt": "2026-07-08T15:37:42Z",
-    "metadataFetchedAt": "2026-09-26T02:21:56.008Z",
+    "metadataFetchedAt": "2026-09-26T10:27:35.974Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/13326498?v=4",
     "topics": [],
     "archived": false,
@@ -2105,14 +2058,14 @@
       "jupyter"
     ],
     "stars": 9950,
-    "forks": 2336,
+    "forks": 2337,
     "openIssues": 18,
     "license": null,
     "language": "Jupyter Notebook",
     "createdAt": "2022-08-01T13:48:44Z",
     "lastCommitAt": "2026-07-18T12:32:00Z",
     "pushedAt": "2026-07-18T12:32:00Z",
-    "metadataFetchedAt": "2026-09-26T02:21:56.380Z",
+    "metadataFetchedAt": "2026-09-26T10:27:36.296Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/110402648?v=4",
     "topics": [],
     "archived": false,
@@ -2148,7 +2101,7 @@
       "pytorch",
       "course"
     ],
-    "stars": 9690,
+    "stars": 9691,
     "forks": 1494,
     "openIssues": 89,
     "license": null,
@@ -2156,7 +2109,7 @@
     "createdAt": "2022-11-18T18:16:56Z",
     "lastCommitAt": "2026-09-22T15:05:46Z",
     "pushedAt": "2026-09-22T15:05:46Z",
-    "metadataFetchedAt": "2026-09-26T02:21:56.814Z",
+    "metadataFetchedAt": "2026-09-26T10:27:36.613Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/53104118?v=4",
     "topics": [
       "automatic-labeling-system",
@@ -2237,7 +2190,7 @@
     "createdAt": "2017-05-05T15:12:04Z",
     "lastCommitAt": "2023-03-23T05:01:42Z",
     "pushedAt": "2023-03-23T05:01:42Z",
-    "metadataFetchedAt": "2026-09-26T02:21:57.246Z",
+    "metadataFetchedAt": "2026-09-26T10:27:36.958Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/19408436?v=4",
     "topics": [
       "autoencoder",
@@ -2315,15 +2268,15 @@
       "tutorial",
       "course"
     ],
-    "stars": 8086,
-    "forks": 1360,
+    "stars": 8089,
+    "forks": 1361,
     "openIssues": 76,
     "license": "Apache-2.0",
     "language": "Jupyter Notebook",
     "createdAt": "2024-02-27T02:30:30Z",
     "lastCommitAt": "2026-09-11T14:19:04Z",
     "pushedAt": "2026-09-11T14:19:04Z",
-    "metadataFetchedAt": "2026-09-26T02:21:57.610Z",
+    "metadataFetchedAt": "2026-09-26T10:27:37.330Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/68813910?v=4",
     "topics": [
       "aiagent",
@@ -2398,7 +2351,7 @@
     "createdAt": "2024-10-10T08:52:12Z",
     "lastCommitAt": "2026-09-21T10:54:18Z",
     "pushedAt": "2026-09-21T10:54:18Z",
-    "metadataFetchedAt": "2026-09-26T02:21:57.995Z",
+    "metadataFetchedAt": "2026-09-26T10:27:37.652Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/28316913?v=4",
     "topics": [
       "ai",
@@ -2461,7 +2414,7 @@
       "tutorial",
       "course"
     ],
-    "stars": 7400,
+    "stars": 7403,
     "forks": 511,
     "openIssues": 47,
     "license": "Apache-2.0",
@@ -2469,7 +2422,7 @@
     "createdAt": "2024-11-09T17:37:17Z",
     "lastCommitAt": "2026-09-20T21:10:50Z",
     "pushedAt": "2026-09-20T21:10:50Z",
-    "metadataFetchedAt": "2026-09-26T02:21:58.344Z",
+    "metadataFetchedAt": "2026-09-26T10:27:37.964Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/74843776?v=4",
     "topics": [],
     "archived": false,
@@ -2520,15 +2473,15 @@
       "notebook",
       "pytorch"
     ],
-    "stars": 7061,
-    "forks": 4215,
+    "stars": 7062,
+    "forks": 4216,
     "openIssues": 43,
     "license": null,
     "language": "Jupyter Notebook",
     "createdAt": "2019-09-23T04:56:51Z",
     "lastCommitAt": "2024-10-30T03:31:14Z",
     "pushedAt": "2024-10-30T03:31:14Z",
-    "metadataFetchedAt": "2026-09-26T02:21:58.746Z",
+    "metadataFetchedAt": "2026-09-26T10:27:38.260Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/16750345?v=4",
     "topics": [
       "data-science",
@@ -2570,7 +2523,7 @@
       "reinforcement-learning",
       "tutorial"
     ],
-    "stars": 5027,
+    "stars": 5029,
     "forks": 814,
     "openIssues": 147,
     "license": "Apache-2.0",
@@ -2578,7 +2531,7 @@
     "createdAt": "2022-04-21T10:19:17Z",
     "lastCommitAt": "2026-09-17T14:03:30Z",
     "pushedAt": "2026-09-17T14:03:30Z",
-    "metadataFetchedAt": "2026-09-26T02:21:59.169Z",
+    "metadataFetchedAt": "2026-09-26T10:27:38.596Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4",
     "topics": [
       "deep-learning",
@@ -2647,7 +2600,7 @@
     "createdAt": "2017-05-10T11:02:32Z",
     "lastCommitAt": "2020-10-31T02:48:09Z",
     "pushedAt": "2020-10-31T02:48:09Z",
-    "metadataFetchedAt": "2026-09-26T02:21:59.676Z",
+    "metadataFetchedAt": "2026-09-26T10:27:38.874Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/19408436?v=4",
     "topics": [
       "autoencoder",
@@ -2722,7 +2675,7 @@
       "machine-learning",
       "tutorial"
     ],
-    "stars": 3731,
+    "stars": 3730,
     "forks": 1348,
     "openIssues": 90,
     "license": null,
@@ -2730,7 +2683,7 @@
     "createdAt": "2022-04-26T02:31:39Z",
     "lastCommitAt": "2024-10-08T01:46:50Z",
     "pushedAt": "2024-10-08T01:46:50Z",
-    "metadataFetchedAt": "2026-09-26T02:23:37.078Z",
+    "metadataFetchedAt": "2026-09-26T10:27:39.234Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/20547620?v=4",
     "topics": [
       "deep-learning",
@@ -2799,7 +2752,7 @@
     "createdAt": "2023-05-01T18:36:11Z",
     "lastCommitAt": "2026-09-16T02:23:15Z",
     "pushedAt": "2026-09-16T02:23:15Z",
-    "metadataFetchedAt": "2026-09-26T02:23:47.896Z",
+    "metadataFetchedAt": "2026-09-26T10:27:39.553Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/19240467?v=4",
     "topics": [
       "ai-art",
@@ -2883,7 +2836,7 @@
     "createdAt": "2016-10-08T06:01:45Z",
     "lastCommitAt": "2020-03-22T07:05:16Z",
     "pushedAt": "2020-03-22T07:05:16Z",
-    "metadataFetchedAt": "2026-09-26T02:22:00.048Z",
+    "metadataFetchedAt": "2026-09-26T10:27:39.919Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/8919794?v=4",
     "topics": [
       "deep-learning",
@@ -2943,7 +2896,7 @@
     "createdAt": "2023-04-06T05:20:25Z",
     "lastCommitAt": "2026-01-26T04:11:38Z",
     "pushedAt": "2026-01-26T04:11:38Z",
-    "metadataFetchedAt": "2026-09-26T02:22:00.569Z",
+    "metadataFetchedAt": "2026-09-26T10:27:40.347Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4",
     "topics": [
       "ai",
@@ -3011,7 +2964,7 @@
     "createdAt": "2018-09-15T06:37:32Z",
     "lastCommitAt": "2022-10-31T09:44:29Z",
     "pushedAt": "2022-10-31T09:44:29Z",
-    "metadataFetchedAt": "2026-09-26T02:22:01.015Z",
+    "metadataFetchedAt": "2026-09-26T10:27:40.715Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/22793100?v=4",
     "topics": [
       "decision-trees",
@@ -3083,7 +3036,7 @@
     "createdAt": "2023-05-01T21:54:40Z",
     "lastCommitAt": "2026-05-28T06:32:56Z",
     "pushedAt": "2026-05-28T06:32:56Z",
-    "metadataFetchedAt": "2026-09-26T02:22:01.403Z",
+    "metadataFetchedAt": "2026-09-26T10:27:41.067Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/7319142?v=4",
     "topics": [
       "chatbots",
@@ -3150,15 +3103,15 @@
       "agents",
       "course"
     ],
-    "stars": 1683,
-    "forks": 3214,
+    "stars": 1684,
+    "forks": 3215,
     "openIssues": 31,
     "license": "Apache-2.0",
     "language": null,
     "createdAt": "2023-04-15T05:53:10Z",
     "lastCommitAt": "2026-09-02T12:08:59Z",
     "pushedAt": "2026-09-02T12:08:59Z",
-    "metadataFetchedAt": "2026-09-26T02:22:01.820Z",
+    "metadataFetchedAt": "2026-09-26T10:27:41.353Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/44670213?v=4",
     "topics": [
       "agents",
@@ -3192,6 +3145,84 @@
     "pinned": false
   },
   {
+    "id": "hkustdial/nl2sql_handbook",
+    "name": "NL2SQL_Handbook",
+    "author": "HKUSTDial",
+    "url": "https://github.com/HKUSTDial/NL2SQL_Handbook",
+    "category": "LLM 开发",
+    "plainSummary": "待人工复核后展示。",
+    "plainSummaryEn": null,
+    "plainSummaryJa": null,
+    "plainSummaryKo": null,
+    "tags": [
+      "llm",
+      "agents",
+      "tutorial",
+      "course"
+    ],
+    "stars": 1600,
+    "forks": 97,
+    "openIssues": 0,
+    "license": null,
+    "language": "Python",
+    "createdAt": "2024-05-21T05:53:25Z",
+    "lastCommitAt": "2026-08-31T09:08:41Z",
+    "pushedAt": "2026-08-31T09:08:41Z",
+    "metadataFetchedAt": "2026-09-26T10:28:46.330Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176130785?v=4",
+    "topics": [
+      "ai4db",
+      "awesome",
+      "awesome-agents",
+      "awesome-nl2sql",
+      "awesome-text-to-sql",
+      "awesome-text2sql",
+      "db",
+      "llms",
+      "nl-to-code",
+      "nl-to-sql",
+      "nl2sql",
+      "nlp",
+      "text-to-code",
+      "text-to-sql",
+      "text2sql"
+    ],
+    "archived": false,
+    "headSha": "bf4f2e0174c79d9a1d68dc02b761c522630f49ce",
+    "sourceUrl": "https://github.com/HKUSTDial/NL2SQL_Handbook/blob/bf4f2e0174c79d9a1d68dc02b761c522630f49ce/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      5,
+      6,
+      12,
+      16,
+      38,
+      71,
+      72,
+      73
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/HKUSTDial/NL2SQL_Handbook/blob/bf4f2e0174c79d9a1d68dc02b761c522630f49ce/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/HKUSTDial/NL2SQL_Handbook/blob/bf4f2e0174c79d9a1d68dc02b761c522630f49ce/chapter/Benchmark.md",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/HKUSTDial/NL2SQL_Handbook/blob/bf4f2e0174c79d9a1d68dc02b761c522630f49ce/chapter/Error_Analysis.md",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/HKUSTDial/NL2SQL_Handbook/blob/bf4f2e0174c79d9a1d68dc02b761c522630f49ce/chapter/Evaluation.md",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "pinned": false
+  },
+  {
     "id": "neural-maze/philoagents-course",
     "name": "philoagents-course",
     "author": "neural-maze",
@@ -3212,7 +3243,7 @@
     "createdAt": "2025-01-09T14:35:47Z",
     "lastCommitAt": "2025-10-20T19:13:27Z",
     "pushedAt": "2025-10-20T19:13:27Z",
-    "metadataFetchedAt": "2026-09-26T02:22:02.223Z",
+    "metadataFetchedAt": "2026-09-26T10:27:41.669Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/151655127?v=4",
     "topics": [
       "agent",
@@ -3256,6 +3287,465 @@
     "pinned": false
   },
   {
+    "id": "hendurhance/ui-ux",
+    "name": "ui-ux",
+    "author": "hendurhance",
+    "url": "https://github.com/hendurhance/ui-ux",
+    "category": "LLM 开发",
+    "plainSummary": "待人工复核后展示。",
+    "plainSummaryEn": null,
+    "plainSummaryJa": null,
+    "plainSummaryKo": null,
+    "tags": [
+      "guide",
+      "course"
+    ],
+    "stars": 1437,
+    "forks": 247,
+    "openIssues": 10,
+    "license": null,
+    "language": null,
+    "createdAt": "2021-06-28T13:32:57Z",
+    "lastCommitAt": "2026-08-14T00:18:35Z",
+    "pushedAt": "2026-08-14T00:18:35Z",
+    "metadataFetchedAt": "2026-09-26T10:28:47.295Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50846992?v=4",
+    "topics": [
+      "design",
+      "design-patterns",
+      "design-system",
+      "guides",
+      "resources",
+      "typography",
+      "ui",
+      "ui-design",
+      "ux",
+      "ux-design",
+      "ux-ui"
+    ],
+    "archived": false,
+    "headSha": "3acf62400803a1d3052542b8d764039036f61798",
+    "sourceUrl": "https://github.com/hendurhance/ui-ux/blob/3acf62400803a1d3052542b8d764039036f61798/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      1,
+      17,
+      19,
+      23,
+      25,
+      45,
+      47,
+      54
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/hendurhance/ui-ux/blob/3acf62400803a1d3052542b8d764039036f61798/README.md",
+        "note": "Fixed-commit source reviewed"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "pinned": false
+  },
+  {
+    "id": "michealwayne/books",
+    "name": "books",
+    "author": "MichealWayne",
+    "url": "https://github.com/MichealWayne/books",
+    "category": "LLM 开发",
+    "plainSummary": "待人工复核后展示。",
+    "plainSummaryEn": null,
+    "plainSummaryJa": null,
+    "plainSummaryKo": null,
+    "tags": [
+      "book",
+      "course"
+    ],
+    "stars": 1393,
+    "forks": 294,
+    "openIssues": 0,
+    "license": null,
+    "language": null,
+    "createdAt": "2016-08-24T07:07:36Z",
+    "lastCommitAt": "2026-08-11T14:01:22Z",
+    "pushedAt": "2026-08-11T14:01:22Z",
+    "metadataFetchedAt": "2026-09-26T10:28:48.277Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16474680?v=4",
+    "topics": [
+      "books",
+      "frontend"
+    ],
+    "archived": false,
+    "headSha": "4e6828394a52c78a9f49066220deb9d00384010a",
+    "sourceUrl": "https://github.com/MichealWayne/books/blob/4e6828394a52c78a9f49066220deb9d00384010a/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      34,
+      49,
+      131,
+      166,
+      190,
+      191,
+      195,
+      278
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/MichealWayne/books/blob/4e6828394a52c78a9f49066220deb9d00384010a/README.md",
+        "note": "Fixed-commit source reviewed"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "pinned": false
+  },
+  {
+    "id": "liuyubobobo/play-with-machine-learning-algorithms",
+    "name": "Play-with-Machine-Learning-Algorithms",
+    "author": "liuyubobobo",
+    "url": "https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms",
+    "category": "机器学习",
+    "plainSummary": "待人工复核后展示。",
+    "plainSummaryEn": null,
+    "plainSummaryJa": null,
+    "plainSummaryKo": null,
+    "tags": [
+      "book",
+      "notebook",
+      "jupyter",
+      "machine-learning",
+      "tutorial",
+      "course"
+    ],
+    "stars": 1290,
+    "forks": 620,
+    "openIssues": 1,
+    "license": null,
+    "language": "Jupyter Notebook",
+    "createdAt": "2017-10-17T23:13:24Z",
+    "lastCommitAt": "2022-08-22T00:48:14Z",
+    "pushedAt": "2022-08-22T00:48:14Z",
+    "metadataFetchedAt": "2026-09-26T10:28:50.376Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2057443?v=4",
+    "topics": [
+      "imooc",
+      "jupyter-notebooks",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "mooc"
+    ],
+    "archived": false,
+    "headSha": "5ecab5a8427958220a9e64309e4ab1dfe107f6a0",
+    "sourceUrl": "https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms/blob/5ecab5a8427958220a9e64309e4ab1dfe107f6a0/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms/blob/5ecab5a8427958220a9e64309e4ab1dfe107f6a0/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms/blob/5ecab5a8427958220a9e64309e4ab1dfe107f6a0/02-Machine-Learning-Basics/06-Development-Enviroment-Setup/06-Hello-Machine-Learning.ipynb",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms/blob/5ecab5a8427958220a9e64309e4ab1dfe107f6a0/02-Machine-Learning-Basics/06-Development-Enviroment-Setup/myscript/main.py",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms/blob/5ecab5a8427958220a9e64309e4ab1dfe107f6a0/03-Jupyter-Notebook-Numpy-and-Matplotlib/01-Jupyter-Notebook-Basics/01-Jupyter-Notebook-Basics.ipynb",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "pinned": false
+  },
+  {
+    "id": "nvidia-nemo/gym",
+    "name": "Gym",
+    "author": "NVIDIA-NeMo",
+    "url": "https://github.com/NVIDIA-NeMo/Gym",
+    "category": "LLM 开发",
+    "plainSummary": "待人工复核后展示。",
+    "plainSummaryEn": null,
+    "plainSummaryJa": null,
+    "plainSummaryKo": null,
+    "tags": [
+      "llm",
+      "agents",
+      "reinforcement-learning",
+      "tutorial",
+      "course"
+    ],
+    "stars": 1210,
+    "forks": 359,
+    "openIssues": 1028,
+    "license": null,
+    "language": "Python",
+    "createdAt": "2025-08-25T21:37:55Z",
+    "lastCommitAt": "2026-09-26T10:27:32Z",
+    "pushedAt": "2026-09-26T10:27:32Z",
+    "metadataFetchedAt": "2026-09-26T10:28:51.777Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213689629?v=4",
+    "topics": [
+      "agents",
+      "benchmarks",
+      "environments",
+      "evaluation",
+      "gym",
+      "llm",
+      "reinforcement-learning",
+      "reinforcement-learning-environments",
+      "rl-environment",
+      "rl-training"
+    ],
+    "archived": false,
+    "headSha": "1c8261080bdc881b3e9b7f870e6418f160516991",
+    "sourceUrl": "https://github.com/NVIDIA-NeMo/Gym/blob/1c8261080bdc881b3e9b7f870e6418f160516991/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      13,
+      20,
+      31,
+      38,
+      46,
+      47,
+      53,
+      65
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/NVIDIA-NeMo/Gym/blob/1c8261080bdc881b3e9b7f870e6418f160516991/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/NVIDIA-NeMo/Gym/blob/1c8261080bdc881b3e9b7f870e6418f160516991/resources_servers/aviary/notebook_app.py",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/NVIDIA-NeMo/Gym/blob/1c8261080bdc881b3e9b7f870e6418f160516991/resources_servers/workplace_assistant/notebooks/synthetic-data-generation/README.md",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/NVIDIA-NeMo/Gym/blob/1c8261080bdc881b3e9b7f870e6418f160516991/resources_servers/workplace_assistant/notebooks/synthetic-data-generation/multistep-toolcalling-sdg.ipynb",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "pinned": false
+  },
+  {
+    "id": "upb-lea/reinforcement_learning_course_materials",
+    "name": "reinforcement_learning_course_materials",
+    "author": "upb-lea",
+    "url": "https://github.com/upb-lea/reinforcement_learning_course_materials",
+    "category": "强化学习",
+    "plainSummary": "待人工复核后展示。",
+    "plainSummaryEn": null,
+    "plainSummaryJa": null,
+    "plainSummaryKo": null,
+    "tags": [
+      "tutorial",
+      "course",
+      "book",
+      "notebook",
+      "jupyter",
+      "machine-learning",
+      "reinforcement-learning"
+    ],
+    "stars": 1195,
+    "forks": 258,
+    "openIssues": 0,
+    "license": null,
+    "language": "Jupyter Notebook",
+    "createdAt": "2020-07-20T08:28:39Z",
+    "lastCommitAt": "2026-01-05T12:00:53Z",
+    "pushedAt": "2026-01-05T12:00:53Z",
+    "metadataFetchedAt": "2026-09-26T10:28:53.235Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55782224?v=4",
+    "topics": [
+      "control",
+      "course",
+      "course-materials",
+      "jupyter",
+      "jupyter-notebooks",
+      "latex",
+      "lecture",
+      "lecture-notes",
+      "machine-learning",
+      "online-learning",
+      "online-videos",
+      "open-education",
+      "open-education-resources",
+      "open-educational-resources",
+      "prediction",
+      "python",
+      "reinforcement-learning",
+      "teaching",
+      "teaching-materials",
+      "tutorial"
+    ],
+    "archived": false,
+    "headSha": "819df3c013a2a536b205e98644cb31114901de1f",
+    "sourceUrl": "https://github.com/upb-lea/reinforcement_learning_course_materials/blob/819df3c013a2a536b205e98644cb31114901de1f/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      1,
+      17,
+      23,
+      68,
+      70,
+      74,
+      81,
+      82
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/upb-lea/reinforcement_learning_course_materials/blob/819df3c013a2a536b205e98644cb31114901de1f/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/upb-lea/reinforcement_learning_course_materials/blob/819df3c013a2a536b205e98644cb31114901de1f/exercises/README.md",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/upb-lea/reinforcement_learning_course_materials/blob/819df3c013a2a536b205e98644cb31114901de1f/exercises/nbgrader_config.py",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/upb-lea/reinforcement_learning_course_materials/blob/819df3c013a2a536b205e98644cb31114901de1f/exercises/solutions/ex01/01_introduction.ipynb",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "pinned": false
+  },
+  {
+    "id": "0xsojalsec/llms-local",
+    "name": "LLMs-local",
+    "author": "0xSojalSec",
+    "url": "https://github.com/0xSojalSec/LLMs-local",
+    "category": "LLM 开发",
+    "plainSummary": "待人工复核后展示。",
+    "plainSummaryEn": null,
+    "plainSummaryJa": null,
+    "plainSummaryKo": null,
+    "tags": [
+      "course"
+    ],
+    "stars": 1190,
+    "forks": 135,
+    "openIssues": 10,
+    "license": null,
+    "language": null,
+    "createdAt": "2025-12-17T10:04:18Z",
+    "lastCommitAt": "2026-06-10T20:19:16Z",
+    "pushedAt": "2026-06-10T20:19:16Z",
+    "metadataFetchedAt": "2026-09-26T10:28:54.248Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92203029?v=4",
+    "topics": [],
+    "archived": false,
+    "headSha": "787ecb36937e27b252bc35043d91715e3471bae8",
+    "sourceUrl": "https://github.com/0xSojalSec/LLMs-local/blob/787ecb36937e27b252bc35043d91715e3471bae8/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      5,
+      24,
+      38,
+      50,
+      52,
+      59,
+      68,
+      69
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/0xSojalSec/LLMs-local/blob/787ecb36937e27b252bc35043d91715e3471bae8/README.md",
+        "note": "Fixed-commit source reviewed"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "pinned": false
+  },
+  {
+    "id": "zeyad-azima/offensive-resources",
+    "name": "Offensive-Resources",
+    "author": "Zeyad-Azima",
+    "url": "https://github.com/Zeyad-Azima/Offensive-Resources",
+    "category": "LLM 开发",
+    "plainSummary": "待人工复核后展示。",
+    "plainSummaryEn": null,
+    "plainSummaryJa": null,
+    "plainSummaryKo": null,
+    "tags": [
+      "deep-learning",
+      "machine-learning",
+      "reinforcement-learning",
+      "course"
+    ],
+    "stars": 1170,
+    "forks": 246,
+    "openIssues": 3,
+    "license": null,
+    "language": null,
+    "createdAt": "2021-02-14T17:00:27Z",
+    "lastCommitAt": "2025-12-09T17:00:56Z",
+    "pushedAt": "2025-12-09T17:00:56Z",
+    "metadataFetchedAt": "2026-09-26T10:28:55.938Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62406753?v=4",
+    "topics": [
+      "api",
+      "api-security",
+      "cloud-security",
+      "cybersecurity",
+      "hack",
+      "hacking",
+      "infrastructure",
+      "learning",
+      "mobile",
+      "mobile-security",
+      "offensive",
+      "offensive-security",
+      "owasp",
+      "owasp-top-10",
+      "red-team",
+      "red-teaming",
+      "redteam",
+      "security",
+      "web",
+      "web-security"
+    ],
+    "archived": false,
+    "headSha": "12537f139b3316722f9b5f63cbaa7dd48bc49414",
+    "sourceUrl": "https://github.com/Zeyad-Azima/Offensive-Resources/blob/12537f139b3316722f9b5f63cbaa7dd48bc49414/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      85,
+      97,
+      129,
+      130,
+      135,
+      136,
+      148,
+      149
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/Zeyad-Azima/Offensive-Resources/blob/12537f139b3316722f9b5f63cbaa7dd48bc49414/README.md",
+        "note": "Fixed-commit source reviewed"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "pinned": false
+  },
+  {
     "id": "offchan42/machine-learning-curriculum",
     "name": "machine-learning-curriculum",
     "author": "offchan42",
@@ -3282,7 +3772,7 @@
     "createdAt": "2016-12-12T18:53:46Z",
     "lastCommitAt": "2024-03-03T09:16:20Z",
     "pushedAt": "2024-03-03T09:16:20Z",
-    "metadataFetchedAt": "2026-09-26T02:22:02.656Z",
+    "metadataFetchedAt": "2026-09-26T10:27:42.069Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/15215732?v=4",
     "topics": [
       "chainer",
@@ -3325,6 +3815,68 @@
     "pinned": false
   },
   {
+    "id": "ranahaani/gnews",
+    "name": "GNews",
+    "author": "ranahaani",
+    "url": "https://github.com/ranahaani/GNews",
+    "category": "LLM 开发",
+    "plainSummary": "待人工复核后展示。",
+    "plainSummaryEn": null,
+    "plainSummaryJa": null,
+    "plainSummaryKo": null,
+    "tags": [
+      "course"
+    ],
+    "stars": 1013,
+    "forks": 150,
+    "openIssues": 0,
+    "license": null,
+    "language": "Python",
+    "createdAt": "2021-02-17T12:42:51Z",
+    "lastCommitAt": "2026-09-24T06:07:24Z",
+    "pushedAt": "2026-09-24T06:07:24Z",
+    "metadataFetchedAt": "2026-09-26T10:28:57.492Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28961554?v=4",
+    "topics": [
+      "article",
+      "gnews",
+      "google-news",
+      "google-news-api",
+      "google-news-homepage",
+      "google-news-rss",
+      "google-news-scraper",
+      "hacktoberfest",
+      "hacktoberfest-accepted",
+      "hacktoberfest2025",
+      "news",
+      "newspaper3k",
+      "python",
+      "rss-feed"
+    ],
+    "archived": false,
+    "headSha": "b0ecc32c1c52c74dcfb021797cd0f6f0776ee9e1",
+    "sourceUrl": "https://github.com/ranahaani/GNews/blob/b0ecc32c1c52c74dcfb021797cd0f6f0776ee9e1/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      202,
+      204,
+      211,
+      213,
+      214,
+      216,
+      398,
+      415
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/ranahaani/GNews/blob/b0ecc32c1c52c74dcfb021797cd0f6f0776ee9e1/README.md",
+        "note": "Fixed-commit source reviewed"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "pinned": false
+  },
+  {
     "id": "codebasics/deep-learning-keras-tf-tutorial",
     "name": "deep-learning-keras-tf-tutorial",
     "author": "codebasics",
@@ -3351,7 +3903,7 @@
     "createdAt": "2021-01-05T09:14:51Z",
     "lastCommitAt": "2024-06-24T12:57:35Z",
     "pushedAt": "2024-06-24T12:57:35Z",
-    "metadataFetchedAt": "2026-09-26T02:22:03.028Z",
+    "metadataFetchedAt": "2026-09-26T10:27:42.388Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/16063416?v=4",
     "topics": [
       "deep-learning",
@@ -3392,6 +3944,70 @@
     "pinned": false
   },
   {
+    "id": "stencila/stencila",
+    "name": "stencila",
+    "author": "stencila",
+    "url": "https://github.com/stencila/stencila",
+    "category": "LLM 开发",
+    "plainSummary": "待人工复核后展示。",
+    "plainSummaryEn": null,
+    "plainSummaryJa": null,
+    "plainSummaryKo": null,
+    "tags": [
+      "tutorial",
+      "course"
+    ],
+    "stars": 903,
+    "forks": 58,
+    "openIssues": 144,
+    "license": null,
+    "language": "Rust",
+    "createdAt": "2012-05-31T02:43:31Z",
+    "lastCommitAt": "2026-09-25T23:39:19Z",
+    "pushedAt": "2026-09-25T23:39:19Z",
+    "metadataFetchedAt": "2026-09-26T10:28:59.196Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/732692?v=4",
+    "topics": [
+      "document",
+      "executable",
+      "programmable"
+    ],
+    "archived": false,
+    "headSha": "508dbf25c62a03b0daab8056b49fbc338c83800d",
+    "sourceUrl": "https://github.com/stencila/stencila/blob/508dbf25c62a03b0daab8056b49fbc338c83800d/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      71,
+      81,
+      138,
+      218,
+      310,
+      312,
+      319,
+      397
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/stencila/stencila/blob/508dbf25c62a03b0daab8056b49fbc338c83800d/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/stencila/stencila/blob/508dbf25c62a03b0daab8056b49fbc338c83800d/rust/node-structuring/tests/examples/01-academic-paper-workflow.md",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/stencila/stencila/blob/508dbf25c62a03b0daab8056b49fbc338c83800d/rust/node-structuring/tests/examples/02-bold-to-heading-sections.md",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/stencila/stencila/blob/508dbf25c62a03b0daab8056b49fbc338c83800d/rust/node-structuring/tests/examples/03-captions-with-bold.md",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "pinned": false
+  },
+  {
     "id": "mlops-courses/mlops-coding-course",
     "name": "mlops-coding-course",
     "author": "MLOps-Courses",
@@ -3412,7 +4028,7 @@
     "createdAt": "2024-01-28T15:16:56Z",
     "lastCommitAt": "2026-08-24T12:26:24Z",
     "pushedAt": "2026-08-24T12:26:24Z",
-    "metadataFetchedAt": "2026-09-26T02:22:03.465Z",
+    "metadataFetchedAt": "2026-09-26T10:27:42.740Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/150920271?v=4",
     "topics": [
       "best-practices",
@@ -3450,6 +4066,77 @@
     "pinned": false
   },
   {
+    "id": "iamericfletcher/awesome-r-learning-resources",
+    "name": "awesome-r-learning-resources",
+    "author": "iamericfletcher",
+    "url": "https://github.com/iamericfletcher/awesome-r-learning-resources",
+    "category": "数据科学",
+    "plainSummary": "这是一个整理 R 语言学习资料的项目，包含课程、书籍、博客和社区资源链接。",
+    "plainSummaryEn": "A curated collection of free resources including courses, books, and blogs to help users learn the R programming language.",
+    "plainSummaryJa": "R言語の学習を支援するコース、書籍、ブログなどの無料リソースをまとめたキュレーションプロジェクトです。",
+    "plainSummaryKo": "R 프로그래밍 언어 학습을 돕기 위한 강의, 책, 블로그 등 무료 리소스를 정리한 프로젝트입니다.",
+    "tags": [
+      "R",
+      "data-science",
+      "learning-resources",
+      "awesome-list",
+      "interactive",
+      "tutorial",
+      "course",
+      "exercises",
+      "jupyter",
+      "beginner",
+      "practical",
+      "prompt-engineering",
+      "generative-ai",
+      "rag",
+      "deep-learning",
+      "machine-learning",
+      "reinforcement-learning",
+      "pytorch"
+    ],
+    "stars": 660,
+    "forks": 105,
+    "openIssues": 0,
+    "license": "CC0-1.0",
+    "language": null,
+    "createdAt": "2020-07-30T12:31:04Z",
+    "lastCommitAt": "2024-12-19T14:10:24Z",
+    "pushedAt": "2024-12-19T14:10:24Z",
+    "metadataFetchedAt": "2026-09-26T10:29:57.631Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64165327?v=4",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "data-science",
+      "learning-resources",
+      "r",
+      "resources"
+    ],
+    "archived": false,
+    "headSha": "750df297b5d53d5c3b9db0ec18d51c85289afc69",
+    "sourceUrl": "https://github.com/iamericfletcher/awesome-r-learning-resources/blob/750df297b5d53d5c3b9db0ec18d51c85289afc69/readme.md",
+    "sourcePath": "readme.md",
+    "evidenceLines": [
+      38,
+      39,
+      42,
+      54,
+      58,
+      60,
+      62,
+      67
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/iamericfletcher/awesome-r-learning-resources/blob/750df297b5d53d5c3b9db0ec18d51c85289afc69/readme.md",
+        "note": "Fixed-commit source reviewed"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "pinned": false
+  },
+  {
     "id": "mrdbourke/cs329s-ml-deployment-tutorial",
     "name": "cs329s-ml-deployment-tutorial",
     "author": "mrdbourke",
@@ -3474,7 +4161,7 @@
     "createdAt": "2021-02-09T04:29:26Z",
     "lastCommitAt": "2022-11-12T18:37:21Z",
     "pushedAt": "2022-11-12T18:37:21Z",
-    "metadataFetchedAt": "2026-09-26T02:22:03.901Z",
+    "metadataFetchedAt": "2026-09-26T10:27:43.072Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/16750345?v=4",
     "topics": [
       "cloud-services",
@@ -3535,7 +4222,7 @@
     "createdAt": "2025-08-10T07:43:32Z",
     "lastCommitAt": "2026-04-09T15:51:15Z",
     "pushedAt": "2026-04-09T15:51:15Z",
-    "metadataFetchedAt": "2026-09-26T02:22:04.286Z",
+    "metadataFetchedAt": "2026-09-26T10:27:43.424Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/74058581?v=4",
     "topics": [
       "lerobot",
@@ -3580,6 +4267,118 @@
     "pinned": false
   },
   {
+    "id": "mdozmorov/machinelearning_notes",
+    "name": "MachineLearning_notes",
+    "author": "mdozmorov",
+    "url": "https://github.com/mdozmorov/MachineLearning_notes",
+    "category": "LLM 开发",
+    "plainSummary": "待人工复核后展示。",
+    "plainSummaryEn": null,
+    "plainSummaryJa": null,
+    "plainSummaryKo": null,
+    "tags": [
+      "deep-learning",
+      "machine-learning",
+      "course"
+    ],
+    "stars": 575,
+    "forks": 91,
+    "openIssues": 0,
+    "license": null,
+    "language": null,
+    "createdAt": "2019-06-15T23:10:12Z",
+    "lastCommitAt": "2026-08-16T16:21:49Z",
+    "pushedAt": "2026-08-16T16:21:49Z",
+    "metadataFetchedAt": "2026-09-26T10:29:58.611Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/864945?v=4",
+    "topics": [
+      "deep-learning",
+      "machine-learning"
+    ],
+    "archived": false,
+    "headSha": "12f55dbb352090e2eb8d369262e312835a289512",
+    "sourceUrl": "https://github.com/mdozmorov/MachineLearning_notes/blob/12f55dbb352090e2eb8d369262e312835a289512/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      1,
+      5,
+      14,
+      15,
+      16,
+      17,
+      18,
+      33
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/mdozmorov/MachineLearning_notes/blob/12f55dbb352090e2eb8d369262e312835a289512/README.md",
+        "note": "Fixed-commit source reviewed"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "pinned": false
+  },
+  {
+    "id": "handbook-academy/engineering-handbook",
+    "name": "engineering-handbook",
+    "author": "handbook-academy",
+    "url": "https://github.com/handbook-academy/engineering-handbook",
+    "category": "LLM 开发",
+    "plainSummary": "待人工复核后展示。",
+    "plainSummaryEn": null,
+    "plainSummaryJa": null,
+    "plainSummaryKo": null,
+    "tags": [
+      "tutorial",
+      "course"
+    ],
+    "stars": 570,
+    "forks": 36,
+    "openIssues": 6,
+    "license": null,
+    "language": "JavaScript",
+    "createdAt": "2026-05-11T20:52:32Z",
+    "lastCommitAt": "2026-09-21T15:44:10Z",
+    "pushedAt": "2026-09-21T15:44:10Z",
+    "metadataFetchedAt": "2026-09-26T10:29:59.875Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283013727?v=4",
+    "topics": [],
+    "archived": false,
+    "headSha": "d177ae2b48b4dfebf8ad0ddae51a345b3e17d99e",
+    "sourceUrl": "https://github.com/handbook-academy/engineering-handbook/blob/d177ae2b48b4dfebf8ad0ddae51a345b3e17d99e/README.md",
+    "sourcePath": "README.md",
+    "evidenceLines": [
+      10,
+      19,
+      34,
+      35,
+      55,
+      56,
+      60,
+      62
+    ],
+    "evidence": [
+      {
+        "url": "https://github.com/handbook-academy/engineering-handbook/blob/d177ae2b48b4dfebf8ad0ddae51a345b3e17d99e/README.md",
+        "note": "Fixed-commit source reviewed"
+      },
+      {
+        "url": "https://github.com/handbook-academy/engineering-handbook/blob/d177ae2b48b4dfebf8ad0ddae51a345b3e17d99e/content/dsa/part-0-foundations/00-how-to-use.md",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/handbook-academy/engineering-handbook/blob/d177ae2b48b4dfebf8ad0ddae51a345b3e17d99e/content/dsa/part-0-foundations/01-complexity-big-o.md",
+        "note": "Lesson material"
+      },
+      {
+        "url": "https://github.com/handbook-academy/engineering-handbook/blob/d177ae2b48b4dfebf8ad0ddae51a345b3e17d99e/content/dsa/part-0-foundations/02-recursion-mental-model.md",
+        "note": "Lesson material"
+      }
+    ],
+    "verificationStatus": "source-verified",
+    "pinned": false
+  },
+  {
     "id": "fastmachinelearning/hls4ml-tutorial",
     "name": "hls4ml-tutorial",
     "author": "fastmachinelearning",
@@ -3605,7 +4404,7 @@
     "createdAt": "2020-06-02T12:59:21Z",
     "lastCommitAt": "2026-09-14T14:02:34Z",
     "pushedAt": "2026-09-14T14:02:34Z",
-    "metadataFetchedAt": "2026-09-26T02:22:04.702Z",
+    "metadataFetchedAt": "2026-09-26T10:27:43.799Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/33101568?v=4",
     "topics": [
       "fpga",
@@ -3677,7 +4476,7 @@
     "createdAt": "2017-03-22T12:43:48Z",
     "lastCommitAt": "2017-06-08T16:10:43Z",
     "pushedAt": "2017-06-08T16:10:43Z",
-    "metadataFetchedAt": "2026-09-26T02:22:05.126Z",
+    "metadataFetchedAt": "2026-09-26T10:27:44.120Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/17610397?v=4",
     "topics": [
       "deep-learning",
@@ -3733,7 +4532,7 @@
     "createdAt": "2024-03-17T07:22:22Z",
     "lastCommitAt": "2024-04-03T07:52:11Z",
     "pushedAt": "2024-04-03T07:52:11Z",
-    "metadataFetchedAt": "2026-09-26T02:22:05.539Z",
+    "metadataFetchedAt": "2026-09-26T10:27:44.440Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10904954?v=4",
     "topics": [],
     "archived": false,
@@ -3789,7 +4588,7 @@
     "createdAt": "2025-05-18T00:42:22Z",
     "lastCommitAt": "2026-03-24T18:55:54Z",
     "pushedAt": "2026-03-24T18:55:54Z",
-    "metadataFetchedAt": "2026-09-26T02:22:05.961Z",
+    "metadataFetchedAt": "2026-09-26T10:27:44.796Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/212179421?v=4",
     "topics": [],
     "archived": false,
@@ -3853,7 +4652,7 @@
     "createdAt": "2019-06-26T02:59:24Z",
     "lastCommitAt": "2022-04-04T15:09:40Z",
     "pushedAt": "2022-04-04T15:09:40Z",
-    "metadataFetchedAt": "2026-09-26T02:22:06.433Z",
+    "metadataFetchedAt": "2026-09-26T10:27:45.140Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/247881?v=4",
     "topics": [
       "deep-learning",
@@ -3916,7 +4715,7 @@
     "createdAt": "2022-02-15T14:37:12Z",
     "lastCommitAt": "2026-06-10T07:18:02Z",
     "pushedAt": "2026-06-10T07:18:02Z",
-    "metadataFetchedAt": "2026-09-26T02:22:06.879Z",
+    "metadataFetchedAt": "2026-09-26T10:27:45.494Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/99741955?v=4",
     "topics": [],
     "archived": false,
@@ -3979,7 +4778,7 @@
     "createdAt": "2024-11-30T21:36:48Z",
     "lastCommitAt": "2024-12-02T21:05:49Z",
     "pushedAt": "2024-12-02T21:05:49Z",
-    "metadataFetchedAt": "2026-09-26T02:22:07.376Z",
+    "metadataFetchedAt": "2026-09-26T10:27:45.825Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1069210?v=4",
     "topics": [],
     "archived": false,
@@ -4039,7 +4838,7 @@
     "createdAt": "2019-05-21T18:08:47Z",
     "lastCommitAt": "2020-08-19T16:17:48Z",
     "pushedAt": "2020-08-19T16:17:48Z",
-    "metadataFetchedAt": "2026-09-26T02:22:07.875Z",
+    "metadataFetchedAt": "2026-09-26T10:27:46.530Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/9925401?v=4",
     "topics": [
       "101",
@@ -4110,7 +4909,7 @@
     "createdAt": "2021-02-23T16:05:17Z",
     "lastCommitAt": "2024-06-25T13:44:21Z",
     "pushedAt": "2024-06-25T13:44:21Z",
-    "metadataFetchedAt": "2026-09-26T02:22:08.287Z",
+    "metadataFetchedAt": "2026-09-26T10:27:46.881Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/55794407?v=4",
     "topics": [
       "data",
@@ -4184,7 +4983,7 @@
     "createdAt": "2023-01-14T03:45:34Z",
     "lastCommitAt": "2024-05-28T01:38:11Z",
     "pushedAt": "2024-05-28T01:38:11Z",
-    "metadataFetchedAt": "2026-09-26T02:22:08.749Z",
+    "metadataFetchedAt": "2026-09-26T10:27:47.285Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/48990104?v=4",
     "topics": [
       "bert",
@@ -4246,7 +5045,7 @@
     "createdAt": "2026-01-18T15:46:18Z",
     "lastCommitAt": "2026-05-27T16:02:52Z",
     "pushedAt": "2026-05-27T16:02:52Z",
-    "metadataFetchedAt": "2026-09-26T02:22:09.166Z",
+    "metadataFetchedAt": "2026-09-26T10:27:47.595Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/44616784?v=4",
     "topics": [
       "course",
@@ -4320,7 +5119,7 @@
     "createdAt": "2018-09-03T12:23:59Z",
     "lastCommitAt": "2026-09-16T15:03:00Z",
     "pushedAt": "2026-09-16T15:03:00Z",
-    "metadataFetchedAt": "2026-09-26T02:22:09.618Z",
+    "metadataFetchedAt": "2026-09-26T10:27:47.928Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/36923223?v=4",
     "topics": [],
     "archived": false,
@@ -4382,7 +5181,7 @@
     "createdAt": "2021-05-19T15:01:22Z",
     "lastCommitAt": "2025-10-18T12:28:52Z",
     "pushedAt": "2025-10-18T12:28:52Z",
-    "metadataFetchedAt": "2026-09-26T02:22:10.019Z",
+    "metadataFetchedAt": "2026-09-26T10:27:48.290Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/32837577?v=4",
     "topics": [
       "artificial-intelligence",
@@ -4458,7 +5257,7 @@
     "createdAt": "2024-09-02T16:25:45Z",
     "lastCommitAt": "2026-09-18T01:47:12Z",
     "pushedAt": "2026-09-18T01:47:12Z",
-    "metadataFetchedAt": "2026-09-26T02:22:10.438Z",
+    "metadataFetchedAt": "2026-09-26T10:27:48.618Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/184465282?v=4",
     "topics": [],
     "archived": false,
@@ -4522,7 +5321,7 @@
     "createdAt": "2021-05-17T22:49:52Z",
     "lastCommitAt": "2023-08-23T04:42:45Z",
     "pushedAt": "2023-08-23T04:42:45Z",
-    "metadataFetchedAt": "2026-09-26T02:22:10.914Z",
+    "metadataFetchedAt": "2026-09-26T10:27:49.048Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/84355933?v=4",
     "topics": [
       "causal-inference",
@@ -4586,7 +5385,7 @@
     "createdAt": "2016-10-25T00:46:44Z",
     "lastCommitAt": "2026-09-21T19:24:54Z",
     "pushedAt": "2026-09-21T19:24:54Z",
-    "metadataFetchedAt": "2026-09-26T02:22:11.284Z",
+    "metadataFetchedAt": "2026-09-26T10:27:49.360Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1538684?v=4",
     "topics": [
       "computational-linguistics",
@@ -4678,7 +5477,7 @@
     "createdAt": "2017-06-26T21:42:32Z",
     "lastCommitAt": "2017-07-12T02:14:41Z",
     "pushedAt": "2017-07-12T02:14:41Z",
-    "metadataFetchedAt": "2026-09-26T02:22:11.710Z",
+    "metadataFetchedAt": "2026-09-26T10:27:49.667Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/288771?v=4",
     "topics": [
       "c",
@@ -4751,7 +5550,7 @@
     "createdAt": "2016-08-05T15:59:54Z",
     "lastCommitAt": "2016-10-18T06:19:39Z",
     "pushedAt": "2016-10-18T06:19:39Z",
-    "metadataFetchedAt": "2026-09-26T02:22:12.209Z",
+    "metadataFetchedAt": "2026-09-26T10:27:50.137Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5618407?v=4",
     "topics": [
       "machine-learning",
@@ -4800,7 +5599,7 @@
       "tutorial",
       "course"
     ],
-    "stars": 128,
+    "stars": 127,
     "forks": 23,
     "openIssues": 0,
     "license": null,
@@ -4808,7 +5607,7 @@
     "createdAt": "2026-02-23T04:57:55Z",
     "lastCommitAt": "2026-06-24T07:23:56Z",
     "pushedAt": "2026-06-24T07:23:56Z",
-    "metadataFetchedAt": "2026-09-26T02:22:12.625Z",
+    "metadataFetchedAt": "2026-09-26T10:27:50.448Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/57908107?v=4",
     "topics": [],
     "archived": false,
@@ -4873,7 +5672,7 @@
     "createdAt": "2020-06-12T08:09:36Z",
     "lastCommitAt": "2021-10-16T18:05:21Z",
     "pushedAt": "2021-10-16T18:05:21Z",
-    "metadataFetchedAt": "2026-09-26T02:22:13.125Z",
+    "metadataFetchedAt": "2026-09-26T10:27:50.851Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/56396127?v=4",
     "topics": [
       "machine-learning",
@@ -4944,7 +5743,7 @@
     "createdAt": "2024-01-06T07:25:19Z",
     "lastCommitAt": "2026-03-02T10:39:20Z",
     "pushedAt": "2026-03-02T10:39:20Z",
-    "metadataFetchedAt": "2026-09-26T02:22:13.516Z",
+    "metadataFetchedAt": "2026-09-26T10:27:51.224Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10974906?v=4",
     "topics": [],
     "archived": false,
@@ -5003,7 +5802,7 @@
     "createdAt": "2025-06-08T23:39:20Z",
     "lastCommitAt": "2025-08-26T02:59:10Z",
     "pushedAt": "2025-08-26T02:59:10Z",
-    "metadataFetchedAt": "2026-09-26T02:22:14.024Z",
+    "metadataFetchedAt": "2026-09-26T10:27:51.623Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/193350244?v=4",
     "topics": [],
     "archived": false,
@@ -5053,7 +5852,7 @@
     "createdAt": "2025-06-03T01:15:27Z",
     "lastCommitAt": "2026-06-18T13:09:29Z",
     "pushedAt": "2026-06-18T13:09:29Z",
-    "metadataFetchedAt": "2026-09-26T02:22:14.395Z",
+    "metadataFetchedAt": "2026-09-26T10:27:52.012Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/38779388?v=4",
     "topics": [],
     "archived": false,
@@ -5118,7 +5917,7 @@
     "createdAt": "2016-11-21T22:00:09Z",
     "lastCommitAt": "2016-11-21T22:05:09Z",
     "pushedAt": "2016-11-21T22:05:09Z",
-    "metadataFetchedAt": "2026-09-26T02:22:14.763Z",
+    "metadataFetchedAt": "2026-09-26T10:27:52.391Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5733?v=4",
     "topics": [
       "deep-learning",
@@ -5182,7 +5981,7 @@
     "createdAt": "2024-04-12T17:21:12Z",
     "lastCommitAt": "2024-08-09T07:19:11Z",
     "pushedAt": "2024-08-09T07:19:11Z",
-    "metadataFetchedAt": "2026-09-26T02:22:15.184Z",
+    "metadataFetchedAt": "2026-09-26T10:27:52.749Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/139501855?v=4",
     "topics": [
       "ai-tutorial",
@@ -5231,14 +6030,14 @@
       "course"
     ],
     "stars": 78,
-    "forks": 40,
-    "openIssues": 0,
+    "forks": 41,
+    "openIssues": 1,
     "license": "MIT",
     "language": "Jupyter Notebook",
     "createdAt": "2025-12-30T14:50:19Z",
     "lastCommitAt": "2026-03-21T10:10:36Z",
     "pushedAt": "2026-03-21T10:10:36Z",
-    "metadataFetchedAt": "2026-09-26T02:22:15.559Z",
+    "metadataFetchedAt": "2026-09-26T10:27:53.064Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/63052703?v=4",
     "topics": [],
     "archived": false,
@@ -5302,7 +6101,7 @@
     "createdAt": "2017-07-10T19:16:00Z",
     "lastCommitAt": "2022-11-22T04:32:19Z",
     "pushedAt": "2022-11-22T04:32:19Z",
-    "metadataFetchedAt": "2026-09-26T02:22:16.052Z",
+    "metadataFetchedAt": "2026-09-26T10:27:53.422Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/11040886?v=4",
     "topics": [
       "bioinformatics",
@@ -5361,7 +6160,7 @@
     "createdAt": "2019-06-29T02:19:55Z",
     "lastCommitAt": "2019-07-02T11:54:41Z",
     "pushedAt": "2019-07-02T11:54:41Z",
-    "metadataFetchedAt": "2026-09-26T02:22:16.476Z",
+    "metadataFetchedAt": "2026-09-26T10:27:53.761Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5618407?v=4",
     "topics": [
       "age-prediction",
@@ -5423,7 +6222,7 @@
     "createdAt": "2024-01-05T18:33:13Z",
     "lastCommitAt": "2024-01-06T02:31:34Z",
     "pushedAt": "2024-01-06T02:31:34Z",
-    "metadataFetchedAt": "2026-09-26T02:22:16.917Z",
+    "metadataFetchedAt": "2026-09-26T10:27:54.159Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/16709708?v=4",
     "topics": [],
     "archived": false,
@@ -5478,7 +6277,7 @@
     "createdAt": "2018-09-03T16:53:11Z",
     "lastCommitAt": "2018-10-08T13:35:31Z",
     "pushedAt": "2018-10-08T13:35:31Z",
-    "metadataFetchedAt": "2026-09-26T02:22:17.305Z",
+    "metadataFetchedAt": "2026-09-26T10:27:54.543Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/4524535?v=4",
     "topics": [
       "ai",
@@ -5536,7 +6335,7 @@
     "createdAt": "2025-03-06T20:50:58Z",
     "lastCommitAt": "2025-05-16T09:21:57Z",
     "pushedAt": "2025-05-16T09:21:57Z",
-    "metadataFetchedAt": "2026-09-26T02:22:17.700Z",
+    "metadataFetchedAt": "2026-09-26T10:27:54.888Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1929848?v=4",
     "topics": [],
     "archived": false,
@@ -5592,7 +6391,7 @@
     "createdAt": "2022-09-20T04:56:22Z",
     "lastCommitAt": "2022-10-23T13:15:25Z",
     "pushedAt": "2022-10-23T13:15:25Z",
-    "metadataFetchedAt": "2026-09-26T02:22:18.118Z",
+    "metadataFetchedAt": "2026-09-26T10:27:55.205Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/95493027?v=4",
     "topics": [
       "computer-vision",
@@ -5657,7 +6456,7 @@
     "createdAt": "2026-06-29T06:57:31Z",
     "lastCommitAt": "2026-06-29T07:33:16Z",
     "pushedAt": "2026-06-29T07:33:16Z",
-    "metadataFetchedAt": "2026-09-26T02:22:18.492Z",
+    "metadataFetchedAt": "2026-09-26T10:27:55.544Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/63067900?v=4",
     "topics": [
       "agent-orchestration",
@@ -5742,7 +6541,7 @@
     "createdAt": "2020-04-23T05:16:24Z",
     "lastCommitAt": "2024-05-16T08:29:50Z",
     "pushedAt": "2024-05-16T08:29:50Z",
-    "metadataFetchedAt": "2026-09-26T02:22:18.905Z",
+    "metadataFetchedAt": "2026-09-26T10:27:55.868Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/22409354?v=4",
     "topics": [
       "callbacks",
@@ -5812,7 +6611,7 @@
     "createdAt": "2021-10-16T13:05:33Z",
     "lastCommitAt": "2022-07-13T15:45:26Z",
     "pushedAt": "2022-07-13T15:45:26Z",
-    "metadataFetchedAt": "2026-09-26T02:22:19.491Z",
+    "metadataFetchedAt": "2026-09-26T10:27:56.265Z",
     "avatarUrl": "https://avatars.githubusercontent.com/u/56396127?v=4",
     "topics": [
       "machine-learning",
