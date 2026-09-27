@@ -5303,5 +5303,95 @@
     "id": "rucaibox/awesome-agent-harness",
     "reason": "llm: 属于学术综述与资源列表（Awesome List），非成套课程或教程，不满足教学性质及结构化章节要求。",
     "excludedAt": "2026-09-27T16:03:12.136Z"
+  },
+  {
+    "id": "youmind-openlab/awesome-gpt-image-2",
+    "reason": "llm: 该仓库是GPT Image 2提示词集合列表，属于资源清单而非教学课程，不符合教程书籍收录标准。",
+    "excludedAt": "2026-09-27T20:34:15.830Z"
+  },
+  {
+    "id": "spring-projects/spring-ai",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T20:34:27.327Z"
+  },
+  {
+    "id": "evomap/evolver",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T20:34:48.271Z"
+  },
+  {
+    "id": "ai-boost/awesome-prompts",
+    "reason": "llm: 该仓库为提示词和框架的聚合列表（Awesome List），属于资源集合，而非具有成套章节结构的教学课程或书籍。",
+    "excludedAt": "2026-09-27T20:34:55.386Z"
+  },
+  {
+    "id": "rockbenben/chatgpt-shortcut",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T20:34:59.797Z"
+  },
+  {
+    "id": "jnmetacode/superpowers-zh",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T20:35:01.653Z"
+  },
+  {
+    "id": "jamez-bondos/awesome-gpt4o-images",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T20:35:02.532Z"
+  },
+  {
+    "id": "algorithmicsuperintelligence/openevolve",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T20:35:06.157Z"
+  },
+  {
+    "id": "zipstack/unstract",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T20:35:08.238Z"
+  },
+  {
+    "id": "neovertex1/superprompt",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T20:35:12.947Z"
+  },
+  {
+    "id": "jackywine/bella",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T20:35:13.970Z"
+  },
+  {
+    "id": "langgptai/wonderful-prompts",
+    "reason": "llm: 该仓库为提示词清单/精选集，属于资源聚合而非系统性课程或书籍，缺乏成套教学章节。",
+    "excludedAt": "2026-09-27T20:35:20.037Z"
+  },
+  {
+    "id": "xtremilicious/projectlearn-project-based-learning",
+    "reason": "llm: 主要为通用编程项目链接列表，缺乏连贯的AI体系化课程章节。",
+    "excludedAt": "2026-09-27T20:35:23.742Z"
+  },
+  {
+    "id": "mahseema/awesome-ai-tools",
+    "reason": "llm: 该仓库为精选AI工具列表，非教学课程或书籍，不满足教学性质及成套章节要求。",
+    "excludedAt": "2026-09-27T20:35:27.140Z"
+  },
+  {
+    "id": "aimhubio/aim",
+    "reason": "llm: 该仓库是开源实验跟踪工具Aim，属于MLOps基础设施软件，非AI教学课程或教程书籍。",
+    "excludedAt": "2026-09-27T20:35:32.188Z"
+  },
+  {
+    "id": "swyxio/ai-notes",
+    "reason": "llm: 该仓库是个人笔记和资源链接汇总，非成套教学课程或书籍",
+    "excludedAt": "2026-09-27T20:35:36.264Z"
+  },
+  {
+    "id": "helicone/helicone",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T20:35:37.146Z"
+  },
+  {
+    "id": "madcowd/ell",
+    "reason": "llm: 该仓库是编程库和工具，非教学课程或书籍，不满足教学性质及成套章节结构要求。",
+    "excludedAt": "2026-09-27T20:35:42.503Z"
   }
 ]

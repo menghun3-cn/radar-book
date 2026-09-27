@@ -44,12 +44,34 @@
 - [mit-deep-learning (lexfridman)](https://github.com/lexfridman/mit-deep-learning): MIT深度学习课程官方教程集，涵盖基础、语义分割、GAN及强化学习实战。
 - [machine-learning-notes (roboticcam)](https://github.com/roboticcam/machine-learning-notes): 涵盖机器学习、深度学习、概率模型及强化学习等主题的2000多页讲义与视频课程资料。
 - [udlbook (udlbook)](https://github.com/udlbook/udlbook): 《Understanding Deep Learning》官方仓库，按章节提供可运行的 Notebook。
+- [computervision-recipes (microsoft)](https://github.com/microsoft/computervision-recipes): 微软提供的计算机视觉最佳实践与教程，含分类、检测等场景Jupyter笔记本
 - [notebooks (roboflow)](https://github.com/roboflow/notebooks): Roboflow提供的计算机视觉教程合集，涵盖YOLO、SAM等模型训练与部署指南。
+- [prompt-engineering (brexhq)](https://github.com/brexhq/prompt-engineering): Brex 内部提示工程指南，涵盖 LLM 历史、提示策略及安全建议，结构完整。
+- [Reinforcement-learning-with-tensorflow (MorvanZhou)](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow): 基于TensorFlow的强化学习教程，涵盖DQN、PPO等算法实现。
+- [TensorFlow-Tutorials (Hvass-Labs)](https://github.com/Hvass-Labs/TensorFlow-Tutorials): 一套结合代码与视频的TensorFlow深度学习实战教程，涵盖从基础模型到NLP和强化学习的完整课程。
+- [Context-Engineering (jasontang-ai)](https://github.com/jasontang-ai/Context-Engineering): 一套基于第一性原理的上下文工程教程，从数学基础到前沿Agent系统，含完整课程章节。
+- [The-Grand-Complete-Data-Science-Materials (krishnaik06)](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials): 涵盖Python、SQL、NLP及ML的全栈数据科学课程资料与实践代码集。
+- [jetson-inference (dusty-nv)](https://github.com/dusty-nv/jetson-inference): NVIDIA Jetson上部署深度学习的Hello AI World教程
+- [machine_learning_examples (lazyprogrammer)](https://github.com/lazyprogrammer/machine_learning_examples): LazyProgrammer机器学习课程配套代码仓库，包含numpy、线性回归等模块练习。
+- [EffectiveTensorflow (vahidk)](https://github.com/vahidk/EffectiveTensorflow): 待人工复核后展示。
 - [PyTorch-Tutorial (MorvanZhou)](https://github.com/MorvanZhou/PyTorch-Tutorial): PyTorch 入门教程，从张量操作、回归分类一路讲到 CNN/RNN 与强化学习示例。
 - [FinRobot (AI4Finance-Foundation)](https://github.com/AI4Finance-Foundation/FinRobot): 提供金融AI Agent开发的分级实战教程，结合LLM与金融数据。
 - [Prompt_Engineering (NirDiamant)](https://github.com/NirDiamant/Prompt_Engineering): 包含22个实操Jupyter教程，系统讲解LLM提示工程从基础到高级技巧
+- [code2prompt (mufeedvh)](https://github.com/mufeedvh/code2prompt): 待人工复核后展示。
+- [langchain-tutorials (gkamradt)](https://github.com/gkamradt/langchain-tutorials): 待人工复核后展示。
 - [Awesome-ML-SYS-Tutorial (zhaochenyang20)](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial): 涵盖强化学习、RL系统与AI基础设施的系统化深度学习笔记库
+- [awesome-roadmaps (liuchong)](https://github.com/liuchong/awesome-roadmaps): 待人工复核后展示。
+- [awesome-agentic-ai-zh (WenyuChiou)](https://github.com/WenyuChiou/awesome-agentic-ai-zh): 待人工复核后展示。
 - [zero-to-mastery-ml (mrdbourke)](https://github.com/mrdbourke/zero-to-mastery-ml): ZTM 机器学习课程完整笔记与代码，覆盖 pandas、scikit-learn 与 PyTorch。
+- [learning (amitness)](https://github.com/amitness/learning): 待人工复核后展示。
+- [courses (SkalskiP)](https://github.com/SkalskiP/courses): 待人工复核后展示。
+- [TensorFlow-2.x-Tutorials (dragen1860)](https://github.com/dragen1860/TensorFlow-2.x-Tutorials): 待人工复核后展示。
+- [learn-ai-engineering (ashishps1)](https://github.com/ashishps1/learn-ai-engineering): 待人工复核后展示。
+- [claude-code-ultimate-guide (FlorianBruniaux)](https://github.com/FlorianBruniaux/claude-code-ultimate-guide): 待人工复核后展示。
+- [torchtitan (pytorch)](https://github.com/pytorch/torchtitan): 待人工复核后展示。
+- [coze-loop (coze-dev)](https://github.com/coze-dev/coze-loop): 待人工复核后展示。
+- [sports (roboflow)](https://github.com/roboflow/sports): 体育计算机视觉教程库，提供球体检测与关键点识别的Jupyter Notebook实战课程
+- [Learning-Prompt (thinkingjimmy)](https://github.com/thinkingjimmy/Learning-Prompt): 待人工复核后展示。
 - [deep-rl-class (huggingface)](https://github.com/huggingface/deep-rl-class): 深度强化学习课程，从基础到先进算法，配套练习与竞赛。
 - [Data-Science-Roadmap (Moataz-Elmesmary)](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap): 一份结构化的数据科学自学路线图，涵盖统计、编程及机器学习资源
 - [Tensorflow-Tutorial (MorvanZhou)](https://github.com/MorvanZhou/Tensorflow-Tutorial): 莫烦Python出品的Tensorflow深度学习教程，涵盖基础至高级网络结构
