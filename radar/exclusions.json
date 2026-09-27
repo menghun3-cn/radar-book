@@ -4918,5 +4918,170 @@
     "id": "shanraisshan/codex-cli-best-practice",
     "reason": "llm: 主要是工具最佳实践、配置参考和技巧列表，非成套教学课程或书籍。",
     "excludedAt": "2026-09-27T02:19:03.251Z"
+  },
+  {
+    "id": "microsoft/agent-governance-toolkit",
+    "reason": "llm: 该仓库是生产级AI Agent治理与合规工具包，非教学课程。",
+    "excludedAt": "2026-09-27T11:06:54.019Z"
+  },
+  {
+    "id": "ikaijua/awesome-aitools",
+    "reason": "llm: 该仓库为AI工具资源列表，非教学课程或书籍，不符合教材收录标准",
+    "excludedAt": "2026-09-27T11:06:57.924Z"
+  },
+  {
+    "id": "embabel/embabel-agent",
+    "reason": "llm: 该仓库是JVM平台的Agent开发框架源码，属于工程工具而非教学课程或书籍材料。",
+    "excludedAt": "2026-09-27T11:07:05.746Z"
+  },
+  {
+    "id": "codefuse-ai/awesome-code-llm",
+    "reason": "llm: 该仓库为TMLR综述论文配套的参考文献列表（Awesome List），非课程、书籍或互动教程，不满足教学性质及成套章节材料的要求。",
+    "excludedAt": "2026-09-27T11:07:14.716Z"
+  },
+  {
+    "id": "rohitg00/awesome-claude-code-toolkit",
+    "reason": "llm: 属于工具包和扩展合集，非系统性教程书籍或课程。",
+    "excludedAt": "2026-09-27T11:07:19.231Z"
+  },
+  {
+    "id": "yudataguy/awesome-japanese",
+    "reason": "llm: 主题是日本语言学习，非AI/机器学习/LLM等，不符合目录要求。",
+    "excludedAt": "2026-09-27T11:07:22.854Z"
+  },
+  {
+    "id": "12britz/awesome-free-models",
+    "reason": "llm: 资源列表而非课程，虽含部分学习链接但无成套教材。",
+    "excludedAt": "2026-09-27T11:07:27.542Z"
+  },
+  {
+    "id": "radi-cho/awesome-gpt4",
+    "reason": "llm: 是资源列表(Awesome List)，非成套教学章节或课程内容。",
+    "excludedAt": "2026-09-27T11:07:33.720Z"
+  },
+  {
+    "id": "foundationagents/awesome-foundation-agents",
+    "reason": "llm: 这是一个学术论文和资源链接列表，属于导航类索引，缺乏成套的教学课程、练习或书籍章节结构，不符合“教程/书籍”定义。",
+    "excludedAt": "2026-09-27T11:07:39.750Z"
+  },
+  {
+    "id": "agi-edgerunners/llm-agents-papers",
+    "reason": "llm: 该仓库仅为 LLM Agent 相关论文列表，属于普通文档，非成套教程、课程或书籍。",
+    "excludedAt": "2026-09-27T11:08:10.884Z"
+  },
+  {
+    "id": "tongji-kgllm/rag-survey",
+    "reason": "llm: 是资源综述与Notion数据库索引，非成套教学课程或书籍材料",
+    "excludedAt": "2026-09-27T11:08:19.126Z"
+  },
+  {
+    "id": "bobeff/programming-math-science",
+    "reason": "llm: 该仓库是编程、数学和科学的学习资源链接列表（Awesome List），属于纯工具/文档性质，并非原创的教学课程或书籍。",
+    "excludedAt": "2026-09-27T11:08:22.731Z"
+  },
+  {
+    "id": "neolabhq/context-engineering-kit",
+    "reason": "llm: 内容为Agent提示词工具集和插件市场，非成套教学课程或书籍。",
+    "excludedAt": "2026-09-27T11:08:25.932Z"
+  },
+  {
+    "id": "trevor-vincent/awesome-high-performance-computing",
+    "reason": "llm: 是HPC资源链接列表，非AI教学课程或成套章节结构",
+    "excludedAt": "2026-09-27T11:08:35.086Z"
+  },
+  {
+    "id": "quqxui/awesome-llm4ie-papers",
+    "reason": "llm: 该仓库为LLM信息抽取领域论文综述列表，属学术资源索引，非成套教学课程或教程。",
+    "excludedAt": "2026-09-27T11:08:44.736Z"
+  },
+  {
+    "id": "devanshutak25/3d-resources",
+    "reason": "llm: 这是3D/游戏资源链接集合，非AI/ML教学目录",
+    "excludedAt": "2026-09-27T11:08:56.456Z"
+  },
+  {
+    "id": "thu-dsp-lab/ventus-gpgpu",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T11:08:57.239Z"
+  },
+  {
+    "id": "garylab/makemoneywithai",
+    "reason": "llm: 该仓库为AI工具及变现项目的列表，非教学内容，不符合教材或课程目录的收录标准。",
+    "excludedAt": "2026-09-27T11:09:00.352Z"
+  },
+  {
+    "id": "ghimiresunil/top-ai-tools",
+    "reason": "llm: 内容仅为AI工具链接列表，缺乏教学性质、成套章节或课程材料，不符合收录标准。",
+    "excludedAt": "2026-09-27T11:09:04.080Z"
+  },
+  {
+    "id": "spencerpauly/awesome-cursor-skills",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T11:09:08.148Z"
+  },
+  {
+    "id": "zhengli97/awesome-prompt-adapter-learning-for-vlms-clip",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T11:09:08.848Z"
+  },
+  {
+    "id": "steve02081504/fount",
+    "reason": "llm: 代码/工具，非教材",
+    "excludedAt": "2026-09-27T11:09:13.984Z"
+  },
+  {
+    "id": "tupletype/awesome-cicd-attacks",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T11:09:17.581Z"
+  },
+  {
+    "id": "embraceagi/awesome-agi",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T11:09:19.150Z"
+  },
+  {
+    "id": "godot-languages-support/godot-lang-support",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T11:09:19.880Z"
+  },
+  {
+    "id": "jianing-qiu/awesome-healthcare-foundation-models",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T11:09:35.522Z"
+  },
+  {
+    "id": "youssefhosni/llm-open-university-from-begineer-to-advanced",
+    "reason": "llm: 本质是外部资源链接汇总，缺乏成套章节或原创课程材料，属于资源目录。",
+    "excludedAt": "2026-09-27T11:09:43.304Z"
+  },
+  {
+    "id": "manekinekko/awesome-devcontainers",
+    "reason": "llm: 该仓库为开发容器资源列表，非AI教学课程或书籍，不符合收录标准。",
+    "excludedAt": "2026-09-27T11:09:46.080Z"
+  },
+  {
+    "id": "pjlab-adg/awesome-knowledge-driven-ad",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T11:09:46.840Z"
+  },
+  {
+    "id": "exploitbench/exploitbench",
+    "reason": "llm: 这是AI安全领域的评估基准工具，用于测试Agent漏洞利用能力，非教学课程或书籍。",
+    "excludedAt": "2026-09-27T11:10:02.282Z"
+  },
+  {
+    "id": "imq/awesome-projects",
+    "reason": "llm: 为泛编程资源链接聚合列表，非AI专项教学材料，缺乏成套课程结构。",
+    "excludedAt": "2026-09-27T11:10:09.787Z"
+  },
+  {
+    "id": "sean-v-dev/hmlr-agentic-ai-memory-system",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T11:10:15.176Z"
+  },
+  {
+    "id": "avivbick/awesome-ssm-ml",
+    "reason": "llm: 属于资源聚合列表（Awesome List），非自成体系的教学课程或书籍内容。",
+    "excludedAt": "2026-09-27T11:10:28.309Z"
   }
 ]
