@@ -4768,5 +4768,155 @@
     "id": "sib-swiss/training-collection",
     "reason": "llm: 该仓库是生物信息学培训材料的聚合目录（index），而非具体的成套教程书籍或课程。它不符合“结构上有成套章节”且内容本身围绕AI的核心要求，而是指向外部链接。",
     "excludedAt": "2026-09-26T20:21:57.183Z"
+  },
+  {
+    "id": "yutong-zhou-cv/awesome-text-to-image",
+    "reason": "llm: 属于论文/代码/数据集资源列表（Awesome List），非成套教学课程",
+    "excludedAt": "2026-09-27T02:16:23.358Z"
+  },
+  {
+    "id": "hyp1231/awesome-llm-powered-agent",
+    "reason": "llm: 这是一个资源列表（awesome list），而非成套的课程或教程材料，不符合教学性质要求。",
+    "excludedAt": "2026-09-27T02:16:28.784Z"
+  },
+  {
+    "id": "vonzosten/awesome-langgraph",
+    "reason": "llm: 该仓库是资源链接索引（Awesome List），非成套教学课程或书籍。",
+    "excludedAt": "2026-09-27T02:16:36.036Z"
+  },
+  {
+    "id": "kosmos/awesome-generative-art",
+    "reason": "llm: 这是生成式艺术资源链接清单，非结构化AI教学课程",
+    "excludedAt": "2026-09-27T02:16:40.320Z"
+  },
+  {
+    "id": "a16z-infra/llm-app-stack",
+    "reason": "llm: 该仓库为 LLM 工具链项目列表，属于资源导航而非教学课程或书籍。",
+    "excludedAt": "2026-09-27T02:16:49.113Z"
+  },
+  {
+    "id": "atakanaltok/awesome-useful-websites",
+    "reason": "llm: 该仓库是综合性的网站资源列表，而非专门针对AI的教学课程或书籍，不符合收录标准。",
+    "excludedAt": "2026-09-27T02:17:00.532Z"
+  },
+  {
+    "id": "deepseek-ai/awesome-deepseek-integration",
+    "reason": "llm: 该仓库是DeepSeek API集成项目的资源列表（Awesome list），属于工具链接汇总，不具备教程或课程的章节结构。",
+    "excludedAt": "2026-09-27T02:17:24.351Z"
+  },
+  {
+    "id": "voltagent/awesome-agent-skills",
+    "reason": "llm: 该仓库为Agent技能精选列表（Awesome List），非成套教程或课程材料，不满足教学结构条件。",
+    "excludedAt": "2026-09-27T02:17:27.327Z"
+  },
+  {
+    "id": "mukul975/anthropic-cybersecurity-skills",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T02:17:27.995Z"
+  },
+  {
+    "id": "ethicalml/awesome-production-machine-learning",
+    "reason": "llm: 内容为ML工具资源列表（awesome list），非教学课程、书籍或教程，不符合教学性质要求。",
+    "excludedAt": "2026-09-27T02:17:34.193Z"
+  },
+  {
+    "id": "keon/awesome-nlp",
+    "reason": "llm: 该仓库是资源链接列表（awesome-list），非成套课程或书籍，不满足结构要求。",
+    "excludedAt": "2026-09-27T02:17:37.744Z"
+  },
+  {
+    "id": "mrexodia/ida-pro-mcp",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T02:17:42.930Z"
+  },
+  {
+    "id": "awesome-opencode/awesome-opencode",
+    "reason": "llm: 该仓库是Opencode工具的插件与资源链接列表，非教学课程或书籍，不满足收录条件。",
+    "excludedAt": "2026-09-27T02:17:46.258Z"
+  },
+  {
+    "id": "ai-collection/ai-collection",
+    "reason": "llm: 该仓库是生成式AI应用链接的目录列表（Awesome List），并非教学课程或书籍，不满足教学性质条件。",
+    "excludedAt": "2026-09-27T02:17:49.628Z"
+  },
+  {
+    "id": "kyegomez/swarms",
+    "reason": "llm: 该仓库为多Agent编排框架的工具库，虽含示例但非成套教学课程或书籍。",
+    "excludedAt": "2026-09-27T02:17:53.432Z"
+  },
+  {
+    "id": "q00/ouroboros",
+    "reason": "llm: 项目主体为AI编码Agent运行时工具，非教学课程或书籍，仅含少量交互教程Skill。",
+    "excludedAt": "2026-09-27T02:18:06.161Z"
+  },
+  {
+    "id": "tensorchord/awesome-llmops",
+    "reason": "llm: 这是一个LLM工具精选列表，属于资源汇总而非教程、书籍或课程，不满足教学性质条件。",
+    "excludedAt": "2026-09-27T02:18:09.337Z"
+  },
+  {
+    "id": "zjunlp/llmagentpapers",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T02:18:13.172Z"
+  },
+  {
+    "id": "intel/intel-extension-for-transformers",
+    "reason": "archived",
+    "excludedAt": "2026-09-27T02:18:18.029Z"
+  },
+  {
+    "id": "oshliaer/google-apps-script-awesome-list",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T02:18:19.869Z"
+  },
+  {
+    "id": "business-science/awesome-generative-ai-data-scientist",
+    "reason": "llm: 该仓库为“Awesome”资源列表，仅包含外部链接汇总，本身不含有教学章节、课程材料或系统性教程内容。",
+    "excludedAt": "2026-09-27T02:18:32.978Z"
+  },
+  {
+    "id": "aigodlike/comfyui-blenderai-node",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T02:18:33.776Z"
+  },
+  {
+    "id": "danielskry/awesome-rag",
+    "reason": "llm: 该仓库是 RAG 相关资源链接汇总列表，非结构化课程或书籍内容",
+    "excludedAt": "2026-09-27T02:18:36.861Z"
+  },
+  {
+    "id": "dariubs/awesome-workflow-automation",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T02:18:37.459Z"
+  },
+  {
+    "id": "freecodecamp/awesome-quincy-larson-emails",
+    "reason": "llm: 该仓库是邮件归档，内容为链接列表，非结构化教程或书籍。",
+    "excludedAt": "2026-09-27T02:18:47.566Z"
+  },
+  {
+    "id": "daochenzha/data-centric-ai",
+    "reason": "llm: 该仓库是资源列表（Awesome List），而非成套的教学课程或书籍，缺乏独立的教学结构。",
+    "excludedAt": "2026-09-27T02:18:50.655Z"
+  },
+  {
+    "id": "lxfater/awesome-gpts",
+    "reason": "llm: 该仓库是 GPT 和提示词的聚合列表（Awesome 列表），并非成套的教学课程或书籍，不满足结构性要求。",
+    "excludedAt": "2026-09-27T02:18:55.228Z"
+  },
+  {
+    "id": "projects-developer/50-final-year-projects-with-source-code",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T02:18:55.926Z"
+  },
+  {
+    "id": "shyamsaktawat/openalpha_evolve",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T02:18:56.508Z"
+  },
+  {
+    "id": "shanraisshan/codex-cli-best-practice",
+    "reason": "llm: 主要是工具最佳实践、配置参考和技巧列表，非成套教学课程或书籍。",
+    "excludedAt": "2026-09-27T02:19:03.251Z"
   }
 ]
