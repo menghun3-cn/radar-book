@@ -5083,5 +5083,225 @@
     "id": "avivbick/awesome-ssm-ml",
     "reason": "llm: 属于资源聚合列表（Awesome List），非自成体系的教学课程或书籍内容。",
     "excludedAt": "2026-09-27T11:10:28.309Z"
+  },
+  {
+    "id": "microsoft/aici",
+    "reason": "llm: 本质是LLM推理控制框架及原型，虽有教程笔记但非成套课程，核心为工具库",
+    "excludedAt": "2026-09-27T15:56:52.130Z"
+  },
+  {
+    "id": "hymie122/rag-survey",
+    "reason": "llm: 该仓库是 RAG 领域的综述论文配套资料库，主要功能是收集和分类相关学术论文链接，属于文献索引（Paper List），而非包含成套章节、课程材料或教学练习的教学性书籍或课程。",
+    "excludedAt": "2026-09-27T15:57:18.351Z"
+  },
+  {
+    "id": "lukemurraynz/awesome-azure-architecture",
+    "reason": "llm: 该仓库为 Azure 架构资源链接汇总，非独立成套的 AI/ML 教材或课程。",
+    "excludedAt": "2026-09-27T15:57:25.797Z"
+  },
+  {
+    "id": "triton-inference-server/tensorrtllm_backend",
+    "reason": "llm: 纯后端部署工具库，非教学课程或书籍结构",
+    "excludedAt": "2026-09-27T15:57:51.950Z"
+  },
+  {
+    "id": "thedaviddias/llms-txt-hub",
+    "reason": "llm: 该仓库是llms.txt标准实现的目录列表和配套工具，属于资源索引与开发工具，非教学课程或书籍。",
+    "excludedAt": "2026-09-27T15:57:59.612Z"
+  },
+  {
+    "id": "jxzhangjhu/awesome-llm-uncertainty-reliability-robustness",
+    "reason": "llm: 该仓库是LLM不确定性、可靠性与鲁棒性的论文和资源列表，属于awesome-list，非成套教程或课程，不符合教学性质要求。",
+    "excludedAt": "2026-09-27T15:58:05.071Z"
+  },
+  {
+    "id": "niketkumardheeryan/ml-capsule",
+    "reason": "llm: 仓库主体为ML/DL实战项目集，非结构化课程体系，仅含零散练习册，不满足成套章节要求。",
+    "excludedAt": "2026-09-27T15:58:19.888Z"
+  },
+  {
+    "id": "hanlulong/awesome-ai-for-economists",
+    "reason": "llm: 该仓库为工具与资源列表（Awesome List），非结构化教程、课程或书籍，不满足教学性质及成套章节要求。",
+    "excludedAt": "2026-09-27T15:58:29.429Z"
+  },
+  {
+    "id": "josix/awesome-claude-md",
+    "reason": "llm: 该仓库是精选示例集合（curated collection），并非成套教程、书籍或课程，缺乏系统性教学章节结构。",
+    "excludedAt": "2026-09-27T15:58:35.101Z"
+  },
+  {
+    "id": "georgegognadze/awesome-resources",
+    "reason": "llm: 该仓库为通用编程资源链接聚合，主要涵盖基础Web开发、少儿编程等，并非专门针对AI/ML的成套教学体系。",
+    "excludedAt": "2026-09-27T15:58:45.120Z"
+  },
+  {
+    "id": "jonathandinu/ai4artists",
+    "reason": "llm: 该仓库是 Awesome List 资源聚合，非成套教材或课程，不满足结构条件。",
+    "excludedAt": "2026-09-27T15:58:49.242Z"
+  },
+  {
+    "id": "odradev/awesome-zero-knowledge",
+    "reason": "llm: 该仓库为零知识证明资源链接合集，非成套课程或书籍，且核心主题为区块链隐私而非通用AI/LLM。",
+    "excludedAt": "2026-09-27T15:58:55.713Z"
+  },
+  {
+    "id": "frank890417/taiwan-md",
+    "reason": "llm: 这是关于台湾的通用知识库，非AI教学课程，不满足主题与结构要求。",
+    "excludedAt": "2026-09-27T15:59:22.309Z"
+  },
+  {
+    "id": "garethmanning/education-agent-skills",
+    "reason": "llm: 这是供AI Agent调用的提示词技能库，非教学课程，无成套章节。",
+    "excludedAt": "2026-09-27T15:59:43.513Z"
+  },
+  {
+    "id": "yzfly/awesome-agi-agents",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T15:59:48.776Z"
+  },
+  {
+    "id": "fudanselab/agent4se-paper-list",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T15:59:49.618Z"
+  },
+  {
+    "id": "bangtutorial/bang-motion",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T15:59:50.374Z"
+  },
+  {
+    "id": "aaryansamanta/ai-ethos",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T16:00:02.268Z"
+  },
+  {
+    "id": "aaryansamanta/nextgen-ai",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T16:00:03.110Z"
+  },
+  {
+    "id": "dylanhogg/awesome-python",
+    "reason": "llm: 该仓库为Python库资源列表（Awesome List），非教学课程或成套教程材料。",
+    "excludedAt": "2026-09-27T16:00:14.322Z"
+  },
+  {
+    "id": "shm007g/llama-cult-and-more",
+    "reason": "llm: 内容主要是模型、数据集和工具链接的聚合清单，缺乏成套的教学章节或系统课程材料。",
+    "excludedAt": "2026-09-27T16:00:20.515Z"
+  },
+  {
+    "id": "xie-lab-ml/awesome-alignment-of-diffusion-models",
+    "reason": "llm: 该仓库是论文综述链接集合，非教学课程或书籍，不满足教学性质条件",
+    "excludedAt": "2026-09-27T16:00:24.159Z"
+  },
+  {
+    "id": "gyunggyung/agi-papers",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T16:00:24.965Z"
+  },
+  {
+    "id": "darkdevil3610/100-ai-machine-learning-deep-learning-computer-vision-nlp",
+    "reason": "llm: 仅是外部链接和资源汇总列表，无本地成套教学章节或课程结构。",
+    "excludedAt": "2026-09-27T16:00:42.715Z"
+  },
+  {
+    "id": "linwhitehat/eta-resource",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T16:00:43.615Z"
+  },
+  {
+    "id": "tankvn/awesome-ai-tools",
+    "reason": "llm: 该仓库为AI工具资源清单，非教学课程或书籍，不满足教学性质及成套章节要求",
+    "excludedAt": "2026-09-27T16:01:00.554Z"
+  },
+  {
+    "id": "isenglab/awesomellm4se",
+    "reason": "llm: 属于学术论文综述资源列表（Awesome 列表），非结构化教学课程或书籍，不满足教学性质及成套章节要求。",
+    "excludedAt": "2026-09-27T16:01:08.040Z"
+  },
+  {
+    "id": "friedrichor/awesome-multimodal-papers",
+    "reason": "llm: 该仓库为多模态研究论文列表，非教学性质课程或书籍，不满足收录条件。",
+    "excludedAt": "2026-09-27T16:01:20.606Z"
+  },
+  {
+    "id": "lehoanglong95/rag-all-in-one",
+    "reason": "llm: 该仓库主要为资源链接和工具索引目录，缺乏自身成套的教学章节或课程内容。",
+    "excludedAt": "2026-09-27T16:01:32.383Z"
+  },
+  {
+    "id": "shizhediao/chatgptpapers",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T16:01:33.303Z"
+  },
+  {
+    "id": "ictmcg/llm-for-misinformation-research",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T16:01:34.181Z"
+  },
+  {
+    "id": "google-cloud-ai/agent-platform",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T16:01:35.036Z"
+  },
+  {
+    "id": "azure-samples/azure-search-openai-javascript",
+    "reason": "llm: 这是一个具体的 RAG 应用示例项目，而非成套课程或教程书籍，不符合教学目录收录标准。",
+    "excludedAt": "2026-09-27T16:01:44.128Z"
+  },
+  {
+    "id": "flagos-ai/awesome-llm-driven-kernel-generation",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T16:01:44.915Z"
+  },
+  {
+    "id": "mike-bowles/hddeeplearningstudy",
+    "reason": "llm: 仅为深度学习学习小组的会议论文链接汇总，无系统课程章节或教材结构，属于资料清单而非教程。",
+    "excludedAt": "2026-09-27T16:02:17.114Z"
+  },
+  {
+    "id": "micro-saas-examples/best-micro-saas-tools",
+    "reason": "llm: 内容为工具列表合集，非教学课程或书籍。",
+    "excludedAt": "2026-09-27T16:02:37.595Z"
+  },
+  {
+    "id": "xwtro0tk1t-cloud/harness",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T16:02:38.441Z"
+  },
+  {
+    "id": "eraserlabs/eraser-diagrams",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-27T16:02:39.326Z"
+  },
+  {
+    "id": "inftyai/awesome-llmops",
+    "reason": "llm: 该仓库是LLMOps工具清单，属于资源导航目录，非成套教学课程或书籍材料。",
+    "excludedAt": "2026-09-27T16:02:46.717Z"
+  },
+  {
+    "id": "ruvnet/ruvnet",
+    "reason": "llm: 该仓库为开源 AI 基础设施和工具生态索引，非教学课程。",
+    "excludedAt": "2026-09-27T16:02:53.762Z"
+  },
+  {
+    "id": "fudandisc/socialagent",
+    "reason": "llm: 主要是论文资源列表，教程部分仅含四份幻灯片链接，缺乏完整课程体系。",
+    "excludedAt": "2026-09-27T16:02:58.055Z"
+  },
+  {
+    "id": "sash9696/frontend-interview-kit",
+    "reason": "llm: 主题为前端面试与Web开发，非AI/ML教程",
+    "excludedAt": "2026-09-27T16:03:04.588Z"
+  },
+  {
+    "id": "senmuuuuw/universal-diagnostic-tutor-skill",
+    "reason": "education signal too weak (0 readme terms, 2 lesson files)",
+    "excludedAt": "2026-09-27T16:03:05.417Z"
+  },
+  {
+    "id": "rucaibox/awesome-agent-harness",
+    "reason": "llm: 属于学术综述与资源列表（Awesome List），非成套课程或教程，不满足教学性质及结构化章节要求。",
+    "excludedAt": "2026-09-27T16:03:12.136Z"
   }
 ]
