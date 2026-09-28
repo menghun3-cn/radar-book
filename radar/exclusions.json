@@ -5553,5 +5553,125 @@
     "id": "neurodong/ai-review",
     "reason": "education signal too weak (2 readme terms, 0 lesson files)",
     "excludedAt": "2026-09-28T02:24:15.705Z"
+  },
+  {
+    "id": "awesome-vibe-coding/awesome-vibe-coding",
+    "reason": "llm: 该仓库是AI编程工具资源列表（Awesome List），非结构化教学课程或书籍",
+    "excludedAt": "2026-09-28T12:27:13.127Z"
+  },
+  {
+    "id": "llama-farm/llamafarm",
+    "reason": "llm: 该仓库是本地AI部署平台工具，提供示例代码而非系统性教学课程。",
+    "excludedAt": "2026-09-28T12:27:50.711Z"
+  },
+  {
+    "id": "myccarl/ai-shortvideo-pipeline",
+    "reason": "llm: 这是工程化项目源码，非教程。",
+    "excludedAt": "2026-09-28T12:29:44.825Z"
+  },
+  {
+    "id": "browser-use/awesome-prompts",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T12:30:16.339Z"
+  },
+  {
+    "id": "nvidia-ai-iot/nanosam",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T12:30:17.228Z"
+  },
+  {
+    "id": "xianyu110/clawbot",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T12:31:04.545Z"
+  },
+  {
+    "id": "rosecityrobotics/ai-developer-resources",
+    "reason": "llm: 该仓库仅为资源链接列表，非自有的成套章节或课程材料，属于资源汇总而非独立教学内容。",
+    "excludedAt": "2026-09-28T12:32:59.610Z"
+  },
+  {
+    "id": "puliczek/awesome-mcp-security",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T12:33:46.770Z"
+  },
+  {
+    "id": "pmoskovi/kafka-learning-resources",
+    "reason": "llm: 仅为Kafka资源链接聚合清单，非AI/ML主题，且无自有教学章节。",
+    "excludedAt": "2026-09-28T12:35:27.319Z"
+  },
+  {
+    "id": "mohamedelrefaie/drivaernet",
+    "reason": "education signal too weak (0 readme terms, 1 lesson files)",
+    "excludedAt": "2026-09-28T12:37:00.338Z"
+  },
+  {
+    "id": "llm-testing/llm4softwaretesting",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T12:37:01.106Z"
+  },
+  {
+    "id": "fujitsuresearch/onecompression",
+    "reason": "llm: 该仓库是LLM压缩工具库，虽含单本教程Notebook，但核心为软件包，非成套课程体系。",
+    "excludedAt": "2026-09-28T12:37:43.529Z"
+  },
+  {
+    "id": "rogeriochaves/langstream",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T12:38:32.052Z"
+  },
+  {
+    "id": "vespa-engine/sample-apps",
+    "reason": "llm: 该仓库是 Vespa 的示例应用集合，侧重于工程部署与实战案例，虽涉及 ML/RAG，但非成套教学课程或书籍体系，不满足教学性质和成套章节结构要求。",
+    "excludedAt": "2026-09-28T12:38:52.840Z"
+  },
+  {
+    "id": "atomic-man007/awesome_multimodel_llm",
+    "reason": "llm: 该仓库为论文和资源链接的聚合清单（Awesome List），缺乏系统性的教学章节、课程结构或练习材料，属于普通文档而非教程书籍。",
+    "excludedAt": "2026-09-28T12:39:54.283Z"
+  },
+  {
+    "id": "personoids/personoids-lite",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T12:39:55.109Z"
+  },
+  {
+    "id": "deep-jlu/awesome-graph-engineering",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T12:40:41.811Z"
+  },
+  {
+    "id": "niutrans/abigsurveyofllms",
+    "reason": "llm: 内容为学术论文综述列表，非教学课程或书籍，不符合收录标准",
+    "excludedAt": "2026-09-28T12:41:00.106Z"
+  },
+  {
+    "id": "servicenow/fast-llm",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T12:41:43.290Z"
+  },
+  {
+    "id": "petroivaniuk/llms-tools",
+    "reason": "llm: 该仓库主要是外部链接汇总（列表），非内部成套教程或课程内容。",
+    "excludedAt": "2026-09-28T12:43:14.894Z"
+  },
+  {
+    "id": "korchasa/awesome-chatgpt",
+    "reason": "archived",
+    "excludedAt": "2026-09-28T12:43:15.160Z"
+  },
+  {
+    "id": "paulbradish/awesome-digital-marketing",
+    "reason": "llm: 内容为数字营销资源链接列表，非AI主题教学课程。",
+    "excludedAt": "2026-09-28T12:43:33.657Z"
+  },
+  {
+    "id": "intellectronica/agent-skills",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T12:44:57.572Z"
+  },
+  {
+    "id": "yyh211/claude-meta-skill",
+    "reason": "education signal too weak (1 readme terms, 1 lesson files)",
+    "excludedAt": "2026-09-28T12:45:44.448Z"
   }
 ]
