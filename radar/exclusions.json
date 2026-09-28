@@ -5673,5 +5673,180 @@
     "id": "yyh211/claude-meta-skill",
     "reason": "education signal too weak (1 readme terms, 1 lesson files)",
     "excludedAt": "2026-09-28T12:45:44.448Z"
+  },
+  {
+    "id": "mufeedvh/code2prompt",
+    "reason": "llm: 该仓库是一个用于将代码库转换为LLM提示词的生产工具，而非AI课程体系或教程书籍。",
+    "excludedAt": "2026-09-28T22:49:16.179Z"
+  },
+  {
+    "id": "googleapis/python-aiplatform",
+    "reason": "llm: 该仓库是Vertex AI的Python SDK工具库，并非教程或课程书籍。",
+    "excludedAt": "2026-09-28T22:49:42.943Z"
+  },
+  {
+    "id": "open-thought/system-2-research",
+    "reason": "llm: 该仓库是研究链接/论文列表，非成套教材、课程或教程，不满足教学结构与成套章节要求。",
+    "excludedAt": "2026-09-28T22:49:46.571Z"
+  },
+  {
+    "id": "vince-lam/awesome-local-llms",
+    "reason": "llm: 为资源索引列表而非教学课程，缺乏系统章节内容",
+    "excludedAt": "2026-09-28T22:49:54.460Z"
+  },
+  {
+    "id": "bayesflow-org/bayesflow",
+    "reason": "llm: 该项目是一个 Python 库而非教程书籍，虽有示例但核心为工具库。",
+    "excludedAt": "2026-09-28T22:49:58.837Z"
+  },
+  {
+    "id": "carlrannaberg/claudekit",
+    "reason": "llm: 这是Claude Code的工具包（hooks/commands），非教程课程。",
+    "excludedAt": "2026-09-28T22:50:02.684Z"
+  },
+  {
+    "id": "cshaitao/awesome-llms-as-judges",
+    "reason": "llm: 该仓库为学术综述配套论文列表，非教学课程或书籍，不满足教学性质要求。",
+    "excludedAt": "2026-09-28T22:50:16.873Z"
+  },
+  {
+    "id": "openbestof/awesome-ai",
+    "reason": "llm: 纯工具列表，非教学课程",
+    "excludedAt": "2026-09-28T22:50:20.689Z"
+  },
+  {
+    "id": "peggy1502/amazing-resources",
+    "reason": "llm: 该仓库为资源链接列表，非自带成套课程材料，不满足独立教学体系要求。",
+    "excludedAt": "2026-09-28T22:50:30.455Z"
+  },
+  {
+    "id": "spicyjpeg/ps1-bare-metal",
+    "reason": "llm: 该仓库是PS1主机硬件编程教程，与AI/机器学习主题无关，不符合收录目录要求。",
+    "excludedAt": "2026-09-28T22:51:05.450Z"
+  },
+  {
+    "id": "leettools-dev/leettools",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T22:51:06.189Z"
+  },
+  {
+    "id": "mathews-tom/armory",
+    "reason": "llm: 这是生产级工作流工具集合，非教学课程。",
+    "excludedAt": "2026-09-28T22:51:12.303Z"
+  },
+  {
+    "id": "cleder/awesome-python-testing",
+    "reason": "llm: 这是一个工具资源列表（Awesome List），并非成套的教学课程、书籍或互动教程，不符合收录标准。",
+    "excludedAt": "2026-09-28T22:51:16.062Z"
+  },
+  {
+    "id": "eurekaleo/awesome-ai-for-games",
+    "reason": "llm: 属于文献综述/精选列表，非系统性教学课程",
+    "excludedAt": "2026-09-28T22:51:19.247Z"
+  },
+  {
+    "id": "mingze-yuan/awesome-llm-healthcare",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T22:51:19.966Z"
+  },
+  {
+    "id": "langgptai/awesome-llama-prompts",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T22:51:20.629Z"
+  },
+  {
+    "id": "gmihaila/ml_things",
+    "reason": "llm: 主体是Python库和代码片段，教程仅为附属部分，不符合纯教学材料收录标准",
+    "excludedAt": "2026-09-28T22:51:27.940Z"
+  },
+  {
+    "id": "scipy-conference/scipy_proceedings",
+    "reason": "llm: 该仓库是 SciPy 会议论文提交流程与工具，非 AI 教学内容或课程书籍。",
+    "excludedAt": "2026-09-28T22:51:32.368Z"
+  },
+  {
+    "id": "louisfb01/best_ai_papers_2023",
+    "reason": "llm: 内容为2023年AI论文精选列表，非成套教程或书籍，不满足结构要求",
+    "excludedAt": "2026-09-28T22:51:35.920Z"
+  },
+  {
+    "id": "darknecrocities/domodomo---all-in-one-tool",
+    "reason": "llm: 项目核心为客户端AI工具包，非教程或课程材料。",
+    "excludedAt": "2026-09-28T22:51:50.893Z"
+  },
+  {
+    "id": "mohammadaboulela/comfyui-itools",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T22:51:51.637Z"
+  },
+  {
+    "id": "ernie-research/nava",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T22:51:53.549Z"
+  },
+  {
+    "id": "dx-corp/dspy-0to1-guide",
+    "reason": "archived",
+    "excludedAt": "2026-09-28T22:51:53.743Z"
+  },
+  {
+    "id": "tirendazacademy/pandasai-tutorials",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T22:51:58.895Z"
+  },
+  {
+    "id": "shannon-data/shannonbase",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T22:52:00.928Z"
+  },
+  {
+    "id": "yuwei-wu/robophd",
+    "reason": "llm: 内容为资源链接聚合列表，非自研成套教材或课程，不符合收录标准。",
+    "excludedAt": "2026-09-28T22:52:09.163Z"
+  },
+  {
+    "id": "infra0/infra0",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T22:52:09.933Z"
+  },
+  {
+    "id": "embabel/embabel-agent-examples",
+    "reason": "llm: 内容为Agent框架示例代码集，缺乏成套教材章节，属于开发工具而非教程书籍。",
+    "excludedAt": "2026-09-28T22:52:20.988Z"
+  },
+  {
+    "id": "tuannvm/slack-mcp-client",
+    "reason": "archived",
+    "excludedAt": "2026-09-28T22:52:21.188Z"
+  },
+  {
+    "id": "azure-samples/agent-openai-java-banking-assistant",
+    "reason": "llm: 该仓库为Azure样本应用（PoC），提供可部署代码而非系统性教学课程或书籍。",
+    "excludedAt": "2026-09-28T22:52:24.412Z"
+  },
+  {
+    "id": "mkearney/shinyapps_links",
+    "reason": "llm: 内容为 Shiny 应用链接列表，非教学课程或 AI 教材。",
+    "excludedAt": "2026-09-28T22:52:27.507Z"
+  },
+  {
+    "id": "vieeeeeee/wibi-style",
+    "reason": "llm: 这是可安装的生产级提示词技能包，非教学课程或书籍。",
+    "excludedAt": "2026-09-28T22:52:35.022Z"
+  },
+  {
+    "id": "tamsiuhin/llm-um-reading",
+    "reason": "llm: 该仓库为基于特定综述的论文列表，属于普通文档资源，非成套教学课程或书籍。",
+    "excludedAt": "2026-09-28T22:52:46.887Z"
+  },
+  {
+    "id": "paulp-o/ask-user-questions-mcp",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T22:52:49.803Z"
+  },
+  {
+    "id": "azure-samples/azureai-assistant-tool",
+    "reason": "archived",
+    "excludedAt": "2026-09-28T22:52:51.091Z"
   }
 ]
