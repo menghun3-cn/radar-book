@@ -5393,5 +5393,165 @@
     "id": "madcowd/ell",
     "reason": "llm: 该仓库是编程库和工具，非教学课程或书籍，不满足教学性质及成套章节结构要求。",
     "excludedAt": "2026-09-27T20:35:42.503Z"
+  },
+  {
+    "id": "liuchong/awesome-roadmaps",
+    "reason": "llm: 该仓库是综合性的路线图链接列表（awesome-list），本身不包含成套教学章节或课程内容，不符合教程书籍收录标准",
+    "excludedAt": "2026-09-28T02:21:22.451Z"
+  },
+  {
+    "id": "amitness/learning",
+    "reason": "llm: 该仓库是个人学习笔记和外部资源链接列表，并非原创的成套教程或课程书籍。",
+    "excludedAt": "2026-09-28T02:21:38.655Z"
+  },
+  {
+    "id": "skalskip/courses",
+    "reason": "llm: 仅为课程链接索引，非教程书籍或成套教学材料",
+    "excludedAt": "2026-09-28T02:21:42.182Z"
+  },
+  {
+    "id": "ashishps1/learn-ai-engineering",
+    "reason": "llm: 该仓库仅为外部资源链接列表，缺乏原创教学内容、课程章节或练习材料，不符合“成套章节或课程材料”的要求。",
+    "excludedAt": "2026-09-28T02:21:54.219Z"
+  },
+  {
+    "id": "pytorch/torchtitan",
+    "reason": "llm: 是工业级训练平台，非教程书籍",
+    "excludedAt": "2026-09-28T02:22:06.602Z"
+  },
+  {
+    "id": "coze-dev/coze-loop",
+    "reason": "llm: 该仓库是AI Agent开发与运维平台工具，而非教材课程，属于生产工具。",
+    "excludedAt": "2026-09-28T02:22:10.327Z"
+  },
+  {
+    "id": "kyegomez/awesome-multi-agent-papers",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T02:22:41.955Z"
+  },
+  {
+    "id": "wecoai/awesome-autoresearch",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T02:22:52.667Z"
+  },
+  {
+    "id": "pinecone-io/canopy",
+    "reason": "archived",
+    "excludedAt": "2026-09-28T02:22:52.935Z"
+  },
+  {
+    "id": "firmai/data-science-career",
+    "reason": "llm: 该仓库为职业资源链接汇总，非教学课程或教程书籍，不符合教学性质要求",
+    "excludedAt": "2026-09-28T02:22:56.287Z"
+  },
+  {
+    "id": "zjunlp/prompt4reasoningpapers",
+    "reason": "llm: 该仓库为论文列表和综述，并非包含成套章节或练习的教学课程或书籍。",
+    "excludedAt": "2026-09-28T02:23:04.322Z"
+  },
+  {
+    "id": "agent-sh/agentsys",
+    "reason": "llm: 这是AI代理编排系统/工具库，非教学课程或书籍。",
+    "excludedAt": "2026-09-28T02:23:08.183Z"
+  },
+  {
+    "id": "louisfb01/start-llms",
+    "reason": "llm: 该仓库仅为外部资源链接列表，无自有教学内容，不符合成套章节要求。",
+    "excludedAt": "2026-09-28T02:23:12.372Z"
+  },
+  {
+    "id": "ccplugins/awesome-claude-code-plugins",
+    "reason": "education signal too weak (1 readme terms, 1 lesson files)",
+    "excludedAt": "2026-09-28T02:23:17.252Z"
+  },
+  {
+    "id": "zyrexnn/cybermes",
+    "reason": "llm: 该仓库是自动化的渗透测试工具框架，非教学课程或书籍",
+    "excludedAt": "2026-09-28T02:23:25.033Z"
+  },
+  {
+    "id": "nv-tlabs/flexicubes",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T02:23:25.815Z"
+  },
+  {
+    "id": "gotonote/autopilot-notes",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T02:23:41.174Z"
+  },
+  {
+    "id": "jamesonl/awesome-pydantic",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T02:23:41.933Z"
+  },
+  {
+    "id": "vivekpa/introneuralnetworks",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T02:23:43.726Z"
+  },
+  {
+    "id": "ltjed/freephdlabor",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T02:23:45.537Z"
+  },
+  {
+    "id": "ai-dynamo/aiperf",
+    "reason": "llm: AIPerf 是性能基准测试工具，非教学课程或书籍",
+    "excludedAt": "2026-09-28T02:23:49.051Z"
+  },
+  {
+    "id": "symgraph/idassist",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T02:23:49.717Z"
+  },
+  {
+    "id": "vigozhao/ai-visual-prompt-cookbook",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T02:23:57.998Z"
+  },
+  {
+    "id": "teilomillet/gollm",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T02:23:58.680Z"
+  },
+  {
+    "id": "canner/wren-engine",
+    "reason": "archived",
+    "excludedAt": "2026-09-28T02:23:58.839Z"
+  },
+  {
+    "id": "zhongyu09/openchatbi",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T02:23:59.479Z"
+  },
+  {
+    "id": "sbhooley/ainativelang",
+    "reason": "llm: 仓库核心为AINL编程语言与运行时工具，课程仅附属，主要不符合教学书籍目录收录标准。",
+    "excludedAt": "2026-09-28T02:24:05.806Z"
+  },
+  {
+    "id": "osidemedia/higgsfield-ai-prompt-skill",
+    "reason": "llm: 这是特定工具的技能包/提示词库，属于实战参考而非系统性教学课程。",
+    "excludedAt": "2026-09-28T02:24:09.203Z"
+  },
+  {
+    "id": "snailclimb/aiguide",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T02:24:09.825Z"
+  },
+  {
+    "id": "nicepkg/ctxport",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T02:24:14.188Z"
+  },
+  {
+    "id": "kakaobrain/mindall-e",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T02:24:14.983Z"
+  },
+  {
+    "id": "neurodong/ai-review",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-28T02:24:15.705Z"
   }
 ]

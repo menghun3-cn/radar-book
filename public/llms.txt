@@ -53,23 +53,17 @@
 - [The-Grand-Complete-Data-Science-Materials (krishnaik06)](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials): 涵盖Python、SQL、NLP及ML的全栈数据科学课程资料与实践代码集。
 - [jetson-inference (dusty-nv)](https://github.com/dusty-nv/jetson-inference): NVIDIA Jetson上部署深度学习的Hello AI World教程
 - [machine_learning_examples (lazyprogrammer)](https://github.com/lazyprogrammer/machine_learning_examples): LazyProgrammer机器学习课程配套代码仓库，包含numpy、线性回归等模块练习。
-- [EffectiveTensorflow (vahidk)](https://github.com/vahidk/EffectiveTensorflow): 待人工复核后展示。
+- [EffectiveTensorflow (vahidk)](https://github.com/vahidk/EffectiveTensorflow): Effective TensorFlow 2 教程，涵盖基础操作、广播机制及控制流等深度学习最佳实践
 - [PyTorch-Tutorial (MorvanZhou)](https://github.com/MorvanZhou/PyTorch-Tutorial): PyTorch 入门教程，从张量操作、回归分类一路讲到 CNN/RNN 与强化学习示例。
 - [FinRobot (AI4Finance-Foundation)](https://github.com/AI4Finance-Foundation/FinRobot): 提供金融AI Agent开发的分级实战教程，结合LLM与金融数据。
 - [Prompt_Engineering (NirDiamant)](https://github.com/NirDiamant/Prompt_Engineering): 包含22个实操Jupyter教程，系统讲解LLM提示工程从基础到高级技巧
 - [code2prompt (mufeedvh)](https://github.com/mufeedvh/code2prompt): 待人工复核后展示。
-- [langchain-tutorials (gkamradt)](https://github.com/gkamradt/langchain-tutorials): 待人工复核后展示。
+- [langchain-tutorials (gkamradt)](https://github.com/gkamradt/langchain-tutorials): LangChain核心概念与9大用例的成套实战教程，含代码与视频。
 - [Awesome-ML-SYS-Tutorial (zhaochenyang20)](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial): 涵盖强化学习、RL系统与AI基础设施的系统化深度学习笔记库
-- [awesome-roadmaps (liuchong)](https://github.com/liuchong/awesome-roadmaps): 待人工复核后展示。
-- [awesome-agentic-ai-zh (WenyuChiou)](https://github.com/WenyuChiou/awesome-agentic-ai-zh): 待人工复核后展示。
+- [awesome-agentic-ai-zh (WenyuChiou)](https://github.com/WenyuChiou/awesome-agentic-ai-zh): 一份从LLM基础到多智能体系统的三语AI Agent学习路线图，含分级章节与动手练习。
 - [zero-to-mastery-ml (mrdbourke)](https://github.com/mrdbourke/zero-to-mastery-ml): ZTM 机器学习课程完整笔记与代码，覆盖 pandas、scikit-learn 与 PyTorch。
-- [learning (amitness)](https://github.com/amitness/learning): 待人工复核后展示。
-- [courses (SkalskiP)](https://github.com/SkalskiP/courses): 待人工复核后展示。
-- [TensorFlow-2.x-Tutorials (dragen1860)](https://github.com/dragen1860/TensorFlow-2.x-Tutorials): 待人工复核后展示。
-- [learn-ai-engineering (ashishps1)](https://github.com/ashishps1/learn-ai-engineering): 待人工复核后展示。
-- [claude-code-ultimate-guide (FlorianBruniaux)](https://github.com/FlorianBruniaux/claude-code-ultimate-guide): 待人工复核后展示。
-- [torchtitan (pytorch)](https://github.com/pytorch/torchtitan): 待人工复核后展示。
-- [coze-loop (coze-dev)](https://github.com/coze-dev/coze-loop): 待人工复核后展示。
+- [TensorFlow-2.x-Tutorials (dragen1860)](https://github.com/dragen1860/TensorFlow-2.x-Tutorials): 基于TensorFlow 2.0的多章节实战教程，涵盖CNN、GAN、LLM等核心模型代码。
+- [claude-code-ultimate-guide (FlorianBruniaux)](https://github.com/FlorianBruniaux/claude-code-ultimate-guide): Claude Code 终极指南，涵盖 LLM 代理、工作流、安全及企业级应用的系统性教程与实战资源。
 - [sports (roboflow)](https://github.com/roboflow/sports): 体育计算机视觉教程库，提供球体检测与关键点识别的Jupyter Notebook实战课程
 - [Learning-Prompt (thinkingjimmy)](https://github.com/thinkingjimmy/Learning-Prompt): 待人工复核后展示。
 - [deep-rl-class (huggingface)](https://github.com/huggingface/deep-rl-class): 深度强化学习课程，从基础到先进算法，配套练习与竞赛。
@@ -98,14 +92,28 @@
 - [reinforcement_learning_course_materials (upb-lea)](https://github.com/upb-lea/reinforcement_learning_course_materials): 帕德博恩大学强化学习课程全套资料，含课件、12个练习及视频。
 - [machine-learning-curriculum (offchan42)](https://github.com/offchan42/machine-learning-curriculum): 一份全面且结构化的机器学习、深度学习及强化学习课程资源清单。
 - [ai-engineering-from-scratch-zh (fancyboi999)](https://github.com/fancyboi999/ai-engineering-from-scratch-zh): AI工程零基础到精通的中文全套课程，含523节课及AI导师。
+- [Agent_Memory_Techniques (NirDiamant)](https://github.com/NirDiamant/Agent_Memory_Techniques): 包含30个可运行笔记本的LLM Agent记忆技术教程，覆盖短期记忆、长期存储及生产级框架。
+- [Deep-Learning-For-Hackers (curiousily)](https://github.com/curiousily/Deep-Learning-For-Hackers): 基于TensorFlow 2和Keras的机器学习实践教程，涵盖LSTM、BERT等主题。
 - [Awesome-Long-Horizon-Agents (RUC-NLPIR)](https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents): 系统化梳理长时程 AI Agent 的理论基础、工程实现及前沿挑战的综合教程。
 - [agents-from-scratch (pguso)](https://github.com/pguso/agents-from-scratch): 一套基于本地LLM的12节课程，指导学员从零开始构建AI智能体，涵盖提示工程与系统架构。
 - [deep-learning-keras-tf-tutorial (codebasics)](https://github.com/codebasics/deep-learning-keras-tf-tutorial): 配合视频系列，用 TensorFlow 2 和 Keras 从零系统学习深度学习的教程
+- [kaggle-titanic (agconti)](https://github.com/agconti/kaggle-titanic): Kaggle泰坦尼克号竞赛入门教程，演示Python数据处理与机器学习分析全流程。
+- [AI-Bootcamp (curiousily)](https://github.com/curiousily/AI-Bootcamp): 涵盖ML基础、LLM实战及Agent开发的AI工程自定进度训练营。
+- [serverless-chat-langchainjs (Azure-Samples)](https://github.com/Azure-Samples/serverless-chat-langchainjs): 基于LangChain.js和Azure的无服务器RAI聊天机器人分步构建教程。
+- [Daily-LLM (zkywsg)](https://github.com/zkywsg/Daily-LLM): 待人工复核后展示。
+- [awesome-vibe-coding (awesome-vibe-coding)](https://github.com/awesome-vibe-coding/awesome-vibe-coding): 待人工复核后展示。
+- [llamafarm (llama-farm)](https://github.com/llama-farm/llamafarm): 待人工复核后展示。
+- [get-started-with-JAX (gordicaleksa)](https://github.com/gordicaleksa/get-started-with-JAX): 待人工复核后展示。
+- [bayesflow (bayesflow-org)](https://github.com/bayesflow-org/bayesflow): 待人工复核后展示。
 - [Trace (microsoft)](https://github.com/microsoft/Trace): Microsoft推出的AI Agent端到端生成式优化工具，提供从基础到高级的成套教程。
 - [mlops-coding-course (MLOps-Courses)](https://github.com/MLOps-Courses/mlops-coding-course): MLOps Coding Course 的工程化教程，聚焦生产级机器学习项目的实践方法与可运行代码示例。
+- [ai-shortVideo-pipeline (myccarl)](https://github.com/myccarl/ai-shortVideo-pipeline): 待人工复核后展示。
+- [ai-engineer-roadmap (dswh)](https://github.com/dswh/ai-engineer-roadmap): 面向AI工程师的分阶段学习路线图，涵盖技能、资源及实战项目建议
 - [awesome-r-learning-resources (iamericfletcher)](https://github.com/iamericfletcher/awesome-r-learning-resources): 这是一个整理 R 语言学习资料的项目，包含课程、书籍、博客和社区资源链接。
 - [free-ai-tips (business-science)](https://github.com/business-science/free-ai-tips): Business Science提供的免费每周AI/ML实战教程，涵盖生成式AI、LLM及数据分析Agent开发。
+- [ai-engineer-notebooks (calmrocks)](https://github.com/calmrocks/ai-engineer-notebooks): 面向AI工程师的动手实践笔记本，涵盖LLM、RAG及Agent开发。
 - [cs329s-ml-deployment-tutorial (mrdbourke)](https://github.com/mrdbourke/cs329s-ml-deployment-tutorial): 斯坦福CS329s机器学习模型部署教程配套代码，涵盖GCP与Docker实践
+- [agent-interview-hub (Zchary1106)](https://github.com/Zchary1106/agent-interview-hub): 面向AI Agent工程师的面试准备知识库，含16周路线图、300+题解及6个实操项目。
 - [robot-learning-tutorial (fracapuano)](https://github.com/fracapuano/robot-learning-tutorial): 一套结合代码示例的机器人学习教程，涵盖经典控制、强化学习及模仿学习。
 - [human-skill-tree (24kchengYe)](https://github.com/24kchengYe/human-skill-tree): 基于认知科学的AI教学技能树，涵盖K-12至职场全阶段学习路径
 - [Awesome-AGI (ArronAI007)](https://github.com/ArronAI007/Awesome-AGI): 系统整理LLM基础理论、微调技术、提示工程及部署应用的AI学习资源库。
