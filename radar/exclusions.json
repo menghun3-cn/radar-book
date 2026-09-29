@@ -6413,5 +6413,160 @@
     "id": "agencyenterprise/promptinject",
     "reason": "education signal too weak (0 readme terms, 1 lesson files)",
     "excludedAt": "2026-09-29T17:15:26.895Z"
+  },
+  {
+    "id": "hope0719/workbuddy-office-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-29T21:38:21.532Z"
+  },
+  {
+    "id": "langgpt/awesome-claude-code",
+    "reason": "llm: 内容为资源链接清单（Awesome List），非系统性教学课程或书籍，不满足结构成套章节要求",
+    "excludedAt": "2026-09-29T21:38:24.790Z"
+  },
+  {
+    "id": "0xethanq/astra-quant-agent",
+    "reason": "llm: 该项目为实际的加密货币自动交易系统工具，而非教学课程或书籍。",
+    "excludedAt": "2026-09-29T21:38:27.866Z"
+  },
+  {
+    "id": "dmitryvinn/awesome-dev-advocacy",
+    "reason": "llm: 这是开发者布道资源列表，非AI主题成套教程。",
+    "excludedAt": "2026-09-29T21:38:34.424Z"
+  },
+  {
+    "id": "h9-tec/awesome_arabic_nlp",
+    "reason": "llm: 该仓库是阿拉伯语NLP领域的资源链接聚合列表（Awesome List），而非包含成套章节或互动的教学课程、书籍。",
+    "excludedAt": "2026-09-29T21:38:37.224Z"
+  },
+  {
+    "id": "eugeneyan/llm-paper-notes",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:38:37.934Z"
+  },
+  {
+    "id": "ikespand/awesome-machine-learning-fluid-mechanics",
+    "reason": "llm: 这是资源列表（Awesome List），非成套教学课程或书籍，不满足教学性质要求。",
+    "excludedAt": "2026-09-29T21:38:40.532Z"
+  },
+  {
+    "id": "wuwangzhang1216/abliterix",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:38:44.380Z"
+  },
+  {
+    "id": "wangrongsheng/sam-fine-tune",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:38:45.239Z"
+  },
+  {
+    "id": "kleinyuan/caffe2-ios",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:38:45.977Z"
+  },
+  {
+    "id": "shure-dev/awesome-llm-papers-comprehensive-topics",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:38:46.755Z"
+  },
+  {
+    "id": "sui-foundation/awesome-sui",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:38:47.547Z"
+  },
+  {
+    "id": "stmicroelectronics/stmems_machine_learning_core",
+    "reason": "archived",
+    "excludedAt": "2026-09-29T21:38:47.800Z"
+  },
+  {
+    "id": "openvinotoolkit/awesome-openvino",
+    "reason": "llm: 属于资源链接列表（awesome list），非成套教学课程或书籍结构。",
+    "excludedAt": "2026-09-29T21:38:51.637Z"
+  },
+  {
+    "id": "rodion-m/awesome_ai_for_programmers",
+    "reason": "archived",
+    "excludedAt": "2026-09-29T21:38:51.815Z"
+  },
+  {
+    "id": "muratcankoylan/readwren",
+    "reason": "llm: 该仓库是一个可运行的多智能体应用程序代码，而非用于教学的课程或教材，属于AI Agent实战项目。",
+    "excludedAt": "2026-09-29T21:38:55.458Z"
+  },
+  {
+    "id": "jmpaz/promptlib",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:38:59.439Z"
+  },
+  {
+    "id": "deepset-ai/prompthub",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:39:00.171Z"
+  },
+  {
+    "id": "tinqiao-oss/engramory",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:39:00.864Z"
+  },
+  {
+    "id": "k-dense-ai/scientific-agents",
+    "reason": "llm: 该仓库是AI Agent配置文件的集合（资源库），并非包含成套章节的教学课程或书籍。",
+    "excludedAt": "2026-09-29T21:39:04.864Z"
+  },
+  {
+    "id": "habedi/cogitator",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:39:05.544Z"
+  },
+  {
+    "id": "dottxt-ai/prompts",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:39:06.285Z"
+  },
+  {
+    "id": "coinluu/resume-jd-optimizer-cn",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:39:06.888Z"
+  },
+  {
+    "id": "unit-mesh/unit-mesh",
+    "reason": "education signal too weak (1 readme terms, 1 lesson files)",
+    "excludedAt": "2026-09-29T21:39:07.773Z"
+  },
+  {
+    "id": "read2017/learn-anything-with-ai",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:39:08.445Z"
+  },
+  {
+    "id": "ilindaniel/ponytail-lite",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:39:10.304Z"
+  },
+  {
+    "id": "tallesborges/agentic-system-prompts",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:39:14.319Z"
+  },
+  {
+    "id": "julesmons/the-augster",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:39:16.448Z"
+  },
+  {
+    "id": "calesthio/generative-media-skills",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:39:18.218Z"
+  },
+  {
+    "id": "kevinchin12/imagelens",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:39:22.265Z"
+  },
+  {
+    "id": "dodo-reach/pi-clarify",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T21:39:23.012Z"
   }
 ]
