@@ -6068,5 +6068,145 @@
     "id": "plagueho/github-copilot-assets-library",
     "reason": "llm: 该仓库为GitHub Copilot配置资产（提示词、指令文件等）的集合，属于工具库或资源清单，缺乏成套的教学章节、课程大纲或系统性的学习路径，不符合“教学性质”且“有成套章节”的核心要求。",
     "excludedAt": "2026-09-29T03:13:05.956Z"
+  },
+  {
+    "id": "beclab/olares",
+    "reason": "llm: Olares是开源个人云操作系统产品，非AI教学课程或书籍，不符合收录标准。",
+    "excludedAt": "2026-09-29T11:55:05.711Z"
+  },
+  {
+    "id": "dsdanielpark/bard-api",
+    "reason": "archived",
+    "excludedAt": "2026-09-29T11:55:05.977Z"
+  },
+  {
+    "id": "kiln-ai/kiln",
+    "reason": "llm: 仓库是AI开发工具库和桌面应用，非成套教学材料",
+    "excludedAt": "2026-09-29T11:55:15.717Z"
+  },
+  {
+    "id": "krishnaik06/roadmap-to-learn-generative-ai-in-2025",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T11:55:20.456Z"
+  },
+  {
+    "id": "sylphai-inc/llm-engineer-handbook",
+    "reason": "llm: 内容为资源链接聚合列表，非成套教学章节或交互式教程，不满足教学性质结构要求",
+    "excludedAt": "2026-09-29T11:55:25.619Z"
+  },
+  {
+    "id": "microsoft/poml",
+    "reason": "llm: POML是提示词标记语言和SDK，虽有教程文档但本质是开发工具而非纯课程体系",
+    "excludedAt": "2026-09-29T11:55:40.077Z"
+  },
+  {
+    "id": "fellouai/eko",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T11:55:41.089Z"
+  },
+  {
+    "id": "langwatch/langwatch",
+    "reason": "llm: 仓库为LLM监控与评估平台，属开发工具而非教学课程。",
+    "excludedAt": "2026-09-29T11:55:47.962Z"
+  },
+  {
+    "id": "darrenhinde/openagentscontrol",
+    "reason": "llm: 该项目是AI Agent开发框架/工具，非教学课程、书籍或教程材料。",
+    "excludedAt": "2026-09-29T11:55:52.673Z"
+  },
+  {
+    "id": "dusty-nv/jetson-containers",
+    "reason": "llm: 主要是容器构建系统，虽含少量衍生教程，但非成套教学课程。",
+    "excludedAt": "2026-09-29T11:55:58.105Z"
+  },
+  {
+    "id": "conorbronsdon/avoid-ai-writing",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T11:56:04.268Z"
+  },
+  {
+    "id": "serenakeyitan/awesome-notebooklm-prompts",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T11:56:08.445Z"
+  },
+  {
+    "id": "jia-ethan/codex-keysmith",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T11:56:09.256Z"
+  },
+  {
+    "id": "promptslab/promptify",
+    "reason": "llm: 核心是一个Python库（工具/框架），而非成套的课程或教程材料。代码示例主要用于演示库的使用，不具备系统性教学结构。",
+    "excludedAt": "2026-09-29T11:56:22.219Z"
+  },
+  {
+    "id": "kyegomez/tree-of-thoughts",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T11:56:23.028Z"
+  },
+  {
+    "id": "luban-agi/awesome-aigc-tutorials",
+    "reason": "llm: 仓库为链接聚合列表（Awesome List），非自带成套章节的课程书籍实体，不符合“教学材料”收录标准。",
+    "excludedAt": "2026-09-29T11:56:29.291Z"
+  },
+  {
+    "id": "ibm/mcp-context-forge",
+    "reason": "llm: 这是一个AI网关基础设施工具，非教学课程或书籍，不满足教学性质及成套章节要求",
+    "excludedAt": "2026-09-29T11:56:34.167Z"
+  },
+  {
+    "id": "0xnyk/council-of-high-intelligence",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T11:56:34.921Z"
+  },
+  {
+    "id": "suragnair/alpha-zero-general",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T11:56:35.755Z"
+  },
+  {
+    "id": "judge0/judge0",
+    "reason": "llm: 该仓库是沙箱代码执行系统工具，非教学课程或书籍。",
+    "excludedAt": "2026-09-29T11:56:44.290Z"
+  },
+  {
+    "id": "uditakhourii/adhd",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T11:56:48.405Z"
+  },
+  {
+    "id": "fudan-generative-vision/champ",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T11:56:58.331Z"
+  },
+  {
+    "id": "rasbt/pattern_classification",
+    "reason": "llm: 内容虽为教程，但属零散示例与资源链接集合，缺乏成套书籍或结构化课程体系。",
+    "excludedAt": "2026-09-29T11:57:20.793Z"
+  },
+  {
+    "id": "microsoft/apm",
+    "reason": "llm: 这是一个AI代理包管理工具，非教学内容，不满足教学性质要求。",
+    "excludedAt": "2026-09-29T11:57:42.380Z"
+  },
+  {
+    "id": "polymarket/agents",
+    "reason": "archived",
+    "excludedAt": "2026-09-29T11:57:50.761Z"
+  },
+  {
+    "id": "hunyuan-promptenhancer/promptenhancer",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T11:57:51.498Z"
+  },
+  {
+    "id": "eosphoros-ai/awesome-text2sql",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T11:57:52.262Z"
+  },
+  {
+    "id": "leonxlnx/unlazy",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T11:57:52.884Z"
   }
 ]

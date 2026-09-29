@@ -65,10 +65,22 @@
 - [claude-code-ultimate-guide (FlorianBruniaux)](https://github.com/FlorianBruniaux/claude-code-ultimate-guide): Claude Code 终极指南，涵盖 LLM 代理、工作流、安全及企业级应用的系统性教程与实战资源。
 - [sports (roboflow)](https://github.com/roboflow/sports): 体育计算机视觉教程库，提供球体检测与关键点识别的Jupyter Notebook实战课程
 - [Learning-Prompt (thinkingjimmy)](https://github.com/thinkingjimmy/Learning-Prompt): 免费的提示词工程在线课程，涵盖ChatGPT与Midjourney系统的教学章节和实战案例。
+- [have-fun-with-machine-learning (humphd)](https://github.com/humphd/have-fun-with-machine-learning): 面向零基础编程者的机器学习实战指南，通过Caffe和DIGITS手把手教学图像分类任务。
 - [deep-rl-class (huggingface)](https://github.com/huggingface/deep-rl-class): 深度强化学习课程，从基础到先进算法，配套练习与竞赛。
+- [DeepLearningProject (Spandan-Madan)](https://github.com/Spandan-Madan/DeepLearningProject): 由哈佛大学生设计的端到端机器学习管道教程，涵盖数据构建、模型选择及深度学习实现。
+- [Learn_Prompting (trigaten)](https://github.com/trigaten/Learn_Prompting): Learn Prompting 提供的提示词工程与生成式AI综合教程及课程资源库。
+- [TensorFlow-World (astorfi)](https://github.com/astorfi/TensorFlow-World): 一套结构化的 TensorFlow 教程，包含线性回归、神经网络等深度学习模型的代码与文档。
+- [awesome-gcp-certifications (sathishvj)](https://github.com/sathishvj/awesome-gcp-certifications): 待人工复核后展示。
+- [AI-Infra-from-Zero-to-Hero (HuaizhengZhang)](https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero): 待人工复核后展示。
 - [Data-Science-Roadmap (Moataz-Elmesmary)](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap): 一份结构化的数据科学自学路线图，涵盖统计、编程及机器学习资源
 - [Tensorflow-Tutorial (MorvanZhou)](https://github.com/MorvanZhou/Tensorflow-Tutorial): 莫烦Python出品的Tensorflow深度学习教程，涵盖基础至高级网络结构
+- [optillm (algorithmicsuperintelligence)](https://github.com/algorithmicsuperintelligence/optillm): 待人工复核后展示。
+- [GenAI-Showcase (mongodb-developer)](https://github.com/mongodb-developer/GenAI-Showcase): MongoDB 提供的 GenAI 教程集合，含 RAG、Agent 及数据科学实操笔记。
+- [AI-ML-Roadmap-from-scratch (aadi1011)](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch): 一份从零开始到高级的AI与机器学习免费学习资源路线图，涵盖数学、数据、ML、DL、生成式AI及Agent。
+- [GenerativeAIExamples (NVIDIA)](https://github.com/NVIDIA/GenerativeAIExamples): NVIDIA官方生成式AI教程仓库，含RAG、Agent等成套Notebook与指南
+- [Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials (TarrySingh)](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials): Synapsa Commons提供54节可运行的AI实践课程，涵盖深度学习、LLM及AI治理，支持多平台自动评分。
 - [gpu-perf-engineering-resources (wafer-ai)](https://github.com/wafer-ai/gpu-perf-engineering-resources): 系统性的AI性能工程资源列表，涵盖GPU基础到分布式推理
+- [scikit-learn-videos (justmarkham)](https://github.com/justmarkham/scikit-learn-videos): Data School出品的scikit-learn机器学习入门系列课程，含10个视频及对应Jupyter笔记本。
 - [course22 (fastai)](https://github.com/fastai/course22): fast.ai 2022版深度学习实战课程官方教材，含全套教学笔记本与课件。
 - [computer-vision-in-action (Charmve)](https://github.com/Charmve/computer-vision-in-action): 《计算机视觉实战演练》在线电子书，含完整章节、理论解析与可运行PyTorch代码。
 - [Stable-Diffusion (FurkanGozukara)](https://github.com/FurkanGozukara/Stable-Diffusion): 这是一个生成式AI教程合集，涵盖Stable Diffusion等工具的教学视频、代码示例及操作指南。
@@ -89,8 +101,8 @@
 - [Play-with-Machine-Learning-Algorithms (liuyubobobo)](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms): 刘宇波慕课网《Python3 入门机器学习》官方配套代码库，含多章笔记与练习。
 - [Evolutionary-Algorithm (MorvanZhou)](https://github.com/MorvanZhou/Evolutionary-Algorithm): 莫烦Python进化算法教程，涵盖遗传算法与进化策略，配套可视化代码。
 - [reinforcement_learning_course_materials (upb-lea)](https://github.com/upb-lea/reinforcement_learning_course_materials): 帕德博恩大学强化学习课程全套资料，含课件、12个练习及视频。
-- [machine-learning-curriculum (offchan42)](https://github.com/offchan42/machine-learning-curriculum): 一份全面且结构化的机器学习、深度学习及强化学习课程资源清单。
 - [ai-engineering-from-scratch-zh (fancyboi999)](https://github.com/fancyboi999/ai-engineering-from-scratch-zh): AI工程零基础到精通的中文全套课程，含523节课及AI导师。
+- [machine-learning-curriculum (offchan42)](https://github.com/offchan42/machine-learning-curriculum): 一份全面且结构化的机器学习、深度学习及强化学习课程资源清单。
 - [Agent_Memory_Techniques (NirDiamant)](https://github.com/NirDiamant/Agent_Memory_Techniques): 包含30个可运行笔记本的LLM Agent记忆技术教程，覆盖短期记忆、长期存储及生产级框架。
 - [Deep-Learning-For-Hackers (curiousily)](https://github.com/curiousily/Deep-Learning-For-Hackers): 基于TensorFlow 2和Keras的机器学习实践教程，涵盖LSTM、BERT等主题。
 - [Awesome-Long-Horizon-Agents (RUC-NLPIR)](https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents): 系统化梳理长时程 AI Agent 的理论基础、工程实现及前沿挑战的综合教程。
