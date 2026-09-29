@@ -5848,5 +5848,225 @@
     "id": "azure-samples/azureai-assistant-tool",
     "reason": "archived",
     "excludedAt": "2026-09-28T22:52:51.091Z"
+  },
+  {
+    "id": "onebirdrocks/ebook-mcp",
+    "reason": "llm: 该仓库是电子书MCP服务器工具，非教学内容，不满足课程或书籍属性。",
+    "excludedAt": "2026-09-29T03:05:57.823Z"
+  },
+  {
+    "id": "cedrickchee/chatgpt-universe",
+    "reason": "llm: 本质为外部资源链接清单，非教学课程或书籍，缺乏成套章节体系。",
+    "excludedAt": "2026-09-29T03:06:33.148Z"
+  },
+  {
+    "id": "alastairrushworth/free-data-science",
+    "reason": "llm: 该仓库是数据科学资源链接列表，属于资源目录，并非自成体系的教程或课程内容。",
+    "excludedAt": "2026-09-29T03:06:46.663Z"
+  },
+  {
+    "id": "binary-husky/unreal-map",
+    "reason": "llm: 该仓库是强化学习多智能体仿真平台（工具），非成套教程或书籍，不符合教学性质要求。",
+    "excludedAt": "2026-09-29T03:07:22.686Z"
+  },
+  {
+    "id": "prunaai/awesome-ai-efficiency",
+    "reason": "llm: 仓库是AI效率相关的资源链接清单，非教学课程或书籍，不满足教学内容要求",
+    "excludedAt": "2026-09-29T03:07:35.682Z"
+  },
+  {
+    "id": "andrew/ultimate-awesome",
+    "reason": "llm: 这是自动生成的链接索引，非教学课程或书籍，缺乏结构化学习内容。",
+    "excludedAt": "2026-09-29T03:07:49.736Z"
+  },
+  {
+    "id": "balavenkatesh3322/awesome-ai-toolkit",
+    "reason": "llm: 内容为工具资源列表（Awesome List），非成套教学章节或课程材料，不满足结构要求。",
+    "excludedAt": "2026-09-29T03:07:55.515Z"
+  },
+  {
+    "id": "getbindu/awesome-claude-code-and-skills",
+    "reason": "llm: 这是一个资源链接聚合列表（Awesome List），并非包含成套教学章节或课程材料的教程书籍。",
+    "excludedAt": "2026-09-29T03:08:01.158Z"
+  },
+  {
+    "id": "natnew/awesome-physical-ai",
+    "reason": "llm: 属于 Awesome 资源列表，非成套教学章节或课程",
+    "excludedAt": "2026-09-29T03:08:08.200Z"
+  },
+  {
+    "id": "selfrefactor/useful-javascript-libraries",
+    "reason": "llm: 该仓库是通用的 TypeScript/JavaScript 库列表，并非 AI 主题的成套教程或课程。",
+    "excludedAt": "2026-09-29T03:08:14.547Z"
+  },
+  {
+    "id": "uhub/awesome-r",
+    "reason": "llm: 这是一个资源链接索引（Awesome 列表），而非成套教程或课程材料本身，不符合结构化教学内容的定义。",
+    "excludedAt": "2026-09-29T03:08:22.675Z"
+  },
+  {
+    "id": "legendseyi/ai-tutorial-practice",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-29T03:08:32.133Z"
+  },
+  {
+    "id": "debakarr/kodekloud-downloader",
+    "reason": "llm: 这是一个课程下载工具，不是教学内容或课程目录本身。",
+    "excludedAt": "2026-09-29T03:08:53.245Z"
+  },
+  {
+    "id": "joonghyun-lee-frieren/oh-my-antigravity",
+    "reason": "llm: 这是一个AI Agent工作流工具包，非教学课程或书籍。",
+    "excludedAt": "2026-09-29T03:09:00.942Z"
+  },
+  {
+    "id": "tursodatabase/awesome-turso",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T03:09:01.864Z"
+  },
+  {
+    "id": "wangwenhao0716/vidprom",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T03:09:02.767Z"
+  },
+  {
+    "id": "nus-project/landmark-of-medical-agent",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T03:09:03.599Z"
+  },
+  {
+    "id": "jwwthu/commsurvey",
+    "reason": "llm: 该仓库为通信领域综述论文汇总，非系统性教程或课程，不符合教学性质要求。",
+    "excludedAt": "2026-09-29T03:09:12.469Z"
+  },
+  {
+    "id": "webgptorg/promptbook",
+    "reason": "llm: 该项目是一个用于创建和部署AI Agent的开发工具平台（引擎、服务器、包），而非教育性质的课程、书籍或教程材料。",
+    "excludedAt": "2026-09-29T03:09:23.418Z"
+  },
+  {
+    "id": "video-reason/awesome-video-reasoning",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T03:09:24.397Z"
+  },
+  {
+    "id": "azure-samples/foundry-citadel-platform",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T03:09:25.307Z"
+  },
+  {
+    "id": "tjs-z/tjsmafia-library",
+    "reason": "llm: 这是综合资源链接列表，非成套AI/ML教程，内容分散于营销、编程、网络等，不符合收录标准。",
+    "excludedAt": "2026-09-29T03:09:34.006Z"
+  },
+  {
+    "id": "donvito/ai-backends",
+    "reason": "llm: 纯API运行时工具，非教学课程或书籍，无成套章节结构。",
+    "excludedAt": "2026-09-29T03:09:48.986Z"
+  },
+  {
+    "id": "fmerian/awesome-product-hunt",
+    "reason": "llm: 该仓库是开发者工具的产品发布列表（Awesome List），并非教学课程或系统性的AI知识教程。",
+    "excludedAt": "2026-09-29T03:10:04.258Z"
+  },
+  {
+    "id": "luka2chat/awesome-geo",
+    "reason": "llm: 属于资源链接列表（Awesome List），非成套教学课程或书籍，仅聚合外部链接。",
+    "excludedAt": "2026-09-29T03:10:13.949Z"
+  },
+  {
+    "id": "shenciao/ciallo",
+    "reason": "llm: 该仓库是一个矢量绘画工具，并非AI教程或课程，不满足收录条件",
+    "excludedAt": "2026-09-29T03:10:18.549Z"
+  },
+  {
+    "id": "lightchen233/awesome-multilingual-llm",
+    "reason": "llm: 该仓库是多语言LLM领域的论文和资源列表汇总（Awesome list），属于资料索引而非具有成套章节的教学课程或书籍。",
+    "excludedAt": "2026-09-29T03:10:25.152Z"
+  },
+  {
+    "id": "sib-swiss/sparql-llm",
+    "reason": "llm: 虽是LLM生成SPARQL的工具库，但缺乏成套课程章节，不符合教程书籍定义",
+    "excludedAt": "2026-09-29T03:10:43.771Z"
+  },
+  {
+    "id": "light-and-ray/awesome-alternative-uis-for-comfyui",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T03:10:51.447Z"
+  },
+  {
+    "id": "vvkmnn/awesome-ai-eval",
+    "reason": "llm: 该仓库是AI评估工具与资源列表，属于资源目录而非成套教学课程或书籍。",
+    "excludedAt": "2026-09-29T03:11:04.067Z"
+  },
+  {
+    "id": "zhaojiaqi/meowhub",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T03:11:05.054Z"
+  },
+  {
+    "id": "wecoai/weco-cli",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T03:11:05.921Z"
+  },
+  {
+    "id": "ever-works/awesome-mcp-servers",
+    "reason": "llm: 这是一个MCP服务器资源目录（List），属于工具集合，不包含系统化的教程、课程或书籍内容。",
+    "excludedAt": "2026-09-29T03:11:24.031Z"
+  },
+  {
+    "id": "stanford-cs348k/readings",
+    "reason": "llm: 主题为计算机图形学与视觉系统，不属于 AI/ML/LLM/Agent 等目标领域。",
+    "excludedAt": "2026-09-29T03:11:43.038Z"
+  },
+  {
+    "id": "dodopayments/dualmark",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T03:11:44.088Z"
+  },
+  {
+    "id": "bilel-bj/rosgpt_vision",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T03:11:45.034Z"
+  },
+  {
+    "id": "trenton3983/datacamp",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-09-29T03:12:06.509Z"
+  },
+  {
+    "id": "lantos1618/github.gg",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-09-29T03:12:07.536Z"
+  },
+  {
+    "id": "flyark/afm-lis",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T03:12:32.261Z"
+  },
+  {
+    "id": "georgemcintire/datajockey",
+    "reason": "llm: 属于个人DJ工具项目，非成套教学课程",
+    "excludedAt": "2026-09-29T03:12:38.659Z"
+  },
+  {
+    "id": "scienceaix/agentskills",
+    "reason": "llm: 该仓库是 Awesome List（资源链接汇总），并非成套的教学课程或书籍结构。",
+    "excludedAt": "2026-09-29T03:12:47.356Z"
+  },
+  {
+    "id": "jingyechen/awesome-game-generation",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-29T03:12:48.318Z"
+  },
+  {
+    "id": "azure-samples/azure-ai-content-understanding-python",
+    "reason": "llm: 这是Azure服务API的示例代码和文档，属于工具/SDK配套样例，而非独立的系统性教学课程或书籍。",
+    "excludedAt": "2026-09-29T03:12:55.815Z"
+  },
+  {
+    "id": "plagueho/github-copilot-assets-library",
+    "reason": "llm: 该仓库为GitHub Copilot配置资产（提示词、指令文件等）的集合，属于工具库或资源清单，缺乏成套的教学章节、课程大纲或系统性的学习路径，不符合“教学性质”且“有成套章节”的核心要求。",
+    "excludedAt": "2026-09-29T03:13:05.956Z"
   }
 ]

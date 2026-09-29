@@ -1,0 +1,1421 @@
+{
+  "runUrl": "https://github.com/menghun3-cn/radar-book/actions/runs/36515438885",
+  "createdAt": "2026-09-29T03:13:05.988Z",
+  "items": [
+    {
+      "id": "microsoft/generative-ai-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:46.491Z",
+      "ok": true
+    },
+    {
+      "id": "mlabonne/llm-course",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:46.974Z",
+      "ok": true
+    },
+    {
+      "id": "dair-ai/prompt-engineering-guide",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:47.395Z",
+      "ok": true
+    },
+    {
+      "id": "microsoft/ai-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:47.766Z",
+      "ok": true
+    },
+    {
+      "id": "anthropics/prompt-eng-interactive-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:48.194Z",
+      "ok": true
+    },
+    {
+      "id": "huggingface/agents-course",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:48.719Z",
+      "ok": true
+    },
+    {
+      "id": "d2l-ai/d2l-en",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:49.185Z",
+      "ok": true
+    },
+    {
+      "id": "nilbuild/developer-roadmap",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:49.638Z",
+      "ok": true
+    },
+    {
+      "id": "f/prompts.chat",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:50.100Z",
+      "ok": true
+    },
+    {
+      "id": "microsoft/ml-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:50.458Z",
+      "ok": true
+    },
+    {
+      "id": "openai/openai-cookbook",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:50.878Z",
+      "ok": true
+    },
+    {
+      "id": "shanraisshan/claude-code-best-practice",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:51.309Z",
+      "ok": true
+    },
+    {
+      "id": "rohitg00/ai-engineering-from-scratch",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:51.677Z",
+      "ok": true
+    },
+    {
+      "id": "avik-jain/100-days-of-ml-code",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:52.075Z",
+      "ok": true
+    },
+    {
+      "id": "aymericdamien/tensorflow-examples",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:52.516Z",
+      "ok": true
+    },
+    {
+      "id": "microsoft/data-science-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:53.033Z",
+      "ok": true
+    },
+    {
+      "id": "yunjey/pytorch-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:53.424Z",
+      "ok": true
+    },
+    {
+      "id": "karpathy/llm.c",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:53.812Z",
+      "ok": true
+    },
+    {
+      "id": "nirdiamant/rag_techniques",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:54.203Z",
+      "ok": true
+    },
+    {
+      "id": "humanlayer/12-factor-agents",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:54.571Z",
+      "ok": true
+    },
+    {
+      "id": "fastai/fastbook",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:54.940Z",
+      "ok": true
+    },
+    {
+      "id": "nirdiamant/genai_agents",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:55.347Z",
+      "ok": true
+    },
+    {
+      "id": "mleveryday/100-days-of-ml-code",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:55.826Z",
+      "ok": true
+    },
+    {
+      "id": "recommenders-team/recommenders",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:56.267Z",
+      "ok": true
+    },
+    {
+      "id": "nirdiamant/agents-towards-production",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:56.670Z",
+      "ok": true
+    },
+    {
+      "id": "jnmetacode/agency-agents-zh",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:57.015Z",
+      "ok": true
+    },
+    {
+      "id": "datawhalechina/easy-vibe",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:57.388Z",
+      "ok": true
+    },
+    {
+      "id": "chiphuyen/aie-book",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:57.835Z",
+      "ok": true
+    },
+    {
+      "id": "dair-ai/ml-youtube-courses",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:58.222Z",
+      "ok": true
+    },
+    {
+      "id": "microsoft/mcp-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:58.643Z",
+      "ok": true
+    },
+    {
+      "id": "tradecatlabs/vibe-coding-cn",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:59.126Z",
+      "ok": true
+    },
+    {
+      "id": "datawhalechina/leedl-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:59.555Z",
+      "ok": true
+    },
+    {
+      "id": "owainlewis/awesome-artificial-intelligence",
+      "action": "metadata",
+      "at": "2026-09-29T03:04:59.937Z",
+      "ok": true
+    },
+    {
+      "id": "instillai/tensorflow-course",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:00.389Z",
+      "ok": true
+    },
+    {
+      "id": "jindongwang/transferlearning",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:00.799Z",
+      "ok": true
+    },
+    {
+      "id": "orchestra-research/ai-research-skills",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:01.213Z",
+      "ok": true
+    },
+    {
+      "id": "morvanzhou/tutorials",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:01.646Z",
+      "ok": true
+    },
+    {
+      "id": "langgptai/langgpt",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:01.992Z",
+      "ok": true
+    },
+    {
+      "id": "yandexdataschool/nlp_course",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:02.393Z",
+      "ok": true
+    },
+    {
+      "id": "lexfridman/mit-deep-learning",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:02.804Z",
+      "ok": true
+    },
+    {
+      "id": "roboticcam/machine-learning-notes",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:03.251Z",
+      "ok": true
+    },
+    {
+      "id": "udlbook/udlbook",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:03.731Z",
+      "ok": true
+    },
+    {
+      "id": "microsoft/computervision-recipes",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:04.141Z",
+      "ok": true
+    },
+    {
+      "id": "roboflow/notebooks",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:04.593Z",
+      "ok": true
+    },
+    {
+      "id": "brexhq/prompt-engineering",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:05.030Z",
+      "ok": true
+    },
+    {
+      "id": "morvanzhou/reinforcement-learning-with-tensorflow",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:05.449Z",
+      "ok": true
+    },
+    {
+      "id": "hvass-labs/tensorflow-tutorials",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:05.828Z",
+      "ok": true
+    },
+    {
+      "id": "jasontang-ai/context-engineering",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:06.235Z",
+      "ok": true
+    },
+    {
+      "id": "krishnaik06/the-grand-complete-data-science-materials",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:06.612Z",
+      "ok": true
+    },
+    {
+      "id": "dusty-nv/jetson-inference",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:06.982Z",
+      "ok": true
+    },
+    {
+      "id": "lazyprogrammer/machine_learning_examples",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:08.363Z",
+      "ok": true
+    },
+    {
+      "id": "vahidk/effectivetensorflow",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:08.746Z",
+      "ok": true
+    },
+    {
+      "id": "morvanzhou/pytorch-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:09.149Z",
+      "ok": true
+    },
+    {
+      "id": "ai4finance-foundation/finrobot",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:09.544Z",
+      "ok": true
+    },
+    {
+      "id": "nirdiamant/prompt_engineering",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:09.920Z",
+      "ok": true
+    },
+    {
+      "id": "gkamradt/langchain-tutorials",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:10.299Z",
+      "ok": true
+    },
+    {
+      "id": "zhaochenyang20/awesome-ml-sys-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:10.684Z",
+      "ok": true
+    },
+    {
+      "id": "wenyuchiou/awesome-agentic-ai-zh",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:11.064Z",
+      "ok": true
+    },
+    {
+      "id": "mrdbourke/zero-to-mastery-ml",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:11.465Z",
+      "ok": true
+    },
+    {
+      "id": "dragen1860/tensorflow-2.x-tutorials",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:11.840Z",
+      "ok": true
+    },
+    {
+      "id": "florianbruniaux/claude-code-ultimate-guide",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:12.219Z",
+      "ok": true
+    },
+    {
+      "id": "roboflow/sports",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:12.553Z",
+      "ok": true
+    },
+    {
+      "id": "thinkingjimmy/learning-prompt",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:12.938Z",
+      "ok": true
+    },
+    {
+      "id": "huggingface/deep-rl-class",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:13.360Z",
+      "ok": true
+    },
+    {
+      "id": "moataz-elmesmary/data-science-roadmap",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:13.761Z",
+      "ok": true
+    },
+    {
+      "id": "morvanzhou/tensorflow-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:14.159Z",
+      "ok": true
+    },
+    {
+      "id": "wafer-ai/gpu-perf-engineering-resources",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:14.513Z",
+      "ok": true
+    },
+    {
+      "id": "fastai/course22",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:14.894Z",
+      "ok": true
+    },
+    {
+      "id": "charmve/computer-vision-in-action",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:15.285Z",
+      "ok": true
+    },
+    {
+      "id": "furkangozukara/stable-diffusion",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:15.698Z",
+      "ok": true
+    },
+    {
+      "id": "automata/aicodeguide",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:16.084Z",
+      "ok": true
+    },
+    {
+      "id": "curiousily/getting-things-done-with-pytorch",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:16.450Z",
+      "ok": true
+    },
+    {
+      "id": "creatcodebuild/tensorflow-and-deeplearning-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:16.832Z",
+      "ok": true
+    },
+    {
+      "id": "google/generative-ai-docs",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:17.315Z",
+      "ok": true
+    },
+    {
+      "id": "teddylee777/langchain-kr",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:17.795Z",
+      "ok": true
+    },
+    {
+      "id": "edyoda/data-science-complete-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:18.205Z",
+      "ok": true
+    },
+    {
+      "id": "peremartra/large-language-model-notebooks-course",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:18.641Z",
+      "ok": true
+    },
+    {
+      "id": "microsoft/edgeai-for-beginners",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:19.036Z",
+      "ok": true
+    },
+    {
+      "id": "emarco177/langchain-course",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:19.476Z",
+      "ok": true
+    },
+    {
+      "id": "nirdiamant/controllable-rag-agent",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:19.865Z",
+      "ok": true
+    },
+    {
+      "id": "hkustdial/nl2sql_handbook",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:20.234Z",
+      "ok": true
+    },
+    {
+      "id": "neural-maze/philoagents-course",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:20.717Z",
+      "ok": true
+    },
+    {
+      "id": "zhaochen0110/awesome_think_with_images",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:21.162Z",
+      "ok": true
+    },
+    {
+      "id": "valeman/awesome-conformal-prediction",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:21.679Z",
+      "ok": true
+    },
+    {
+      "id": "liuyubobobo/play-with-machine-learning-algorithms",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:22.118Z",
+      "ok": true
+    },
+    {
+      "id": "morvanzhou/evolutionary-algorithm",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:22.491Z",
+      "ok": true
+    },
+    {
+      "id": "upb-lea/reinforcement_learning_course_materials",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:22.987Z",
+      "ok": true
+    },
+    {
+      "id": "offchan42/machine-learning-curriculum",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:23.481Z",
+      "ok": true
+    },
+    {
+      "id": "fancyboi999/ai-engineering-from-scratch-zh",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:23.890Z",
+      "ok": true
+    },
+    {
+      "id": "nirdiamant/agent_memory_techniques",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:24.278Z",
+      "ok": true
+    },
+    {
+      "id": "curiousily/deep-learning-for-hackers",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:24.687Z",
+      "ok": true
+    },
+    {
+      "id": "ruc-nlpir/awesome-long-horizon-agents",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:25.060Z",
+      "ok": true
+    },
+    {
+      "id": "pguso/agents-from-scratch",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:25.453Z",
+      "ok": true
+    },
+    {
+      "id": "codebasics/deep-learning-keras-tf-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:25.849Z",
+      "ok": true
+    },
+    {
+      "id": "agconti/kaggle-titanic",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:26.278Z",
+      "ok": true
+    },
+    {
+      "id": "curiousily/ai-bootcamp",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:26.701Z",
+      "ok": true
+    },
+    {
+      "id": "azure-samples/serverless-chat-langchainjs",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:27.046Z",
+      "ok": true
+    },
+    {
+      "id": "zkywsg/daily-llm",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:27.541Z",
+      "ok": true
+    },
+    {
+      "id": "gordicaleksa/get-started-with-jax",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:27.907Z",
+      "ok": true
+    },
+    {
+      "id": "microsoft/trace",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:28.263Z",
+      "ok": true
+    },
+    {
+      "id": "mlops-courses/mlops-coding-course",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:28.680Z",
+      "ok": true
+    },
+    {
+      "id": "ghimiresunil/llm-powerhouse-a-curated-guide-for-large-language-models-with-custom-training-and-inferencing",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:29.132Z",
+      "ok": true
+    },
+    {
+      "id": "dswh/ai-engineer-roadmap",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:29.517Z",
+      "ok": true
+    },
+    {
+      "id": "iamericfletcher/awesome-r-learning-resources",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:29.878Z",
+      "ok": true
+    },
+    {
+      "id": "business-science/free-ai-tips",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:30.283Z",
+      "ok": true
+    },
+    {
+      "id": "calmrocks/ai-engineer-notebooks",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:30.682Z",
+      "ok": true
+    },
+    {
+      "id": "zchary1106/agent-interview-hub",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:31.095Z",
+      "ok": true
+    },
+    {
+      "id": "mrdbourke/cs329s-ml-deployment-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:31.491Z",
+      "ok": true
+    },
+    {
+      "id": "fracapuano/robot-learning-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:31.904Z",
+      "ok": true
+    },
+    {
+      "id": "adrianhajdin/ai_mock_interviews",
+      "action": "accept-l2",
+      "at": "2026-09-29T03:05:32.258Z",
+      "ok": true,
+      "llm": {
+        "confidence": 0.9,
+        "reason": "配套视频教程，含完整项目代码与提示词示例，结构完整。"
+      }
+    },
+    {
+      "id": "24kchengye/human-skill-tree",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:38.770Z",
+      "ok": true
+    },
+    {
+      "id": "arronai007/awesome-agi",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:39.342Z",
+      "ok": true
+    },
+    {
+      "id": "panaversity/learn-low-code-agentic-ai",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:39.714Z",
+      "ok": true
+    },
+    {
+      "id": "fastmachinelearning/hls4ml-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:40.166Z",
+      "ok": true
+    },
+    {
+      "id": "recodehive/machine-learning-repos",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:40.586Z",
+      "ok": true
+    },
+    {
+      "id": "louisfb01/start-ai-engineering",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:40.988Z",
+      "ok": true
+    },
+    {
+      "id": "xqz614/awesome-agentic-clinical-dialogue",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:41.402Z",
+      "ok": true
+    },
+    {
+      "id": "onebirdrocks/ebook-mcp",
+      "action": "reject-l2",
+      "at": "2026-09-29T03:05:41.782Z",
+      "ok": true,
+      "llm": {
+        "confidence": 0.95,
+        "reason": "该仓库是电子书MCP服务器工具，非教学内容，不满足课程或书籍属性。"
+      },
+      "reason": "llm: 该仓库是电子书MCP服务器工具，非教学内容，不满足课程或书籍属性。"
+    },
+    {
+      "id": "ml4bio/rna-fm",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:57.823Z",
+      "ok": true
+    },
+    {
+      "id": "gunhochoi/kind-pytorch-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:58.302Z",
+      "ok": true
+    },
+    {
+      "id": "justxor/machinelearningroadmap",
+      "action": "metadata",
+      "at": "2026-09-29T03:05:58.741Z",
+      "ok": true
+    },
+    {
+      "id": "cedrickchee/chatgpt-universe",
+      "action": "reject-l2",
+      "at": "2026-09-29T03:05:59.175Z",
+      "ok": true,
+      "llm": {
+        "confidence": 0.95,
+        "reason": "本质为外部资源链接清单，非教学课程或书籍，缺乏成套章节体系。"
+      },
+      "reason": "llm: 本质为外部资源链接清单，非教学课程或书籍，缺乏成套章节体系。"
+    },
+    {
+      "id": "friendmine/llm-course-chn",
+      "action": "metadata",
+      "at": "2026-09-29T03:06:33.148Z",
+      "ok": true
+    },
+    {
+      "id": "melihgulum/comprehensive-data-science-ai-project-portfolio",
+      "action": "metadata",
+      "at": "2026-09-29T03:06:33.674Z",
+      "ok": true
+    },
+    {
+      "id": "unity-technologies/robotics-object-pose-estimation",
+      "action": "metadata",
+      "at": "2026-09-29T03:06:34.042Z",
+      "ok": true
+    },
+    {
+      "id": "minicoohei/ai-agent-camp",
+      "action": "metadata",
+      "at": "2026-09-29T03:06:34.493Z",
+      "ok": true
+    },
+    {
+      "id": "sri-krishna-v/awesome-adk-agents",
+      "action": "metadata",
+      "at": "2026-09-29T03:06:34.967Z",
+      "ok": true
+    },
+    {
+      "id": "ai-evals-course/recipe-chatbot",
+      "action": "metadata",
+      "at": "2026-09-29T03:06:35.360Z",
+      "ok": true
+    },
+    {
+      "id": "alastairrushworth/free-data-science",
+      "action": "reject-l2",
+      "at": "2026-09-29T03:06:35.797Z",
+      "ok": true,
+      "llm": {
+        "confidence": 0.85,
+        "reason": "该仓库是数据科学资源链接列表，属于资源目录，并非自成体系的教程或课程内容。"
+      },
+      "reason": "llm: 该仓库是数据科学资源链接列表，属于资源目录，并非自成体系的教程或课程内容。"
+    },
+    {
+      "id": "dpressel/dliss-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:06:46.663Z",
+      "ok": true
+    },
+    {
+      "id": "traversaal-ai/agents-in-action",
+      "action": "metadata",
+      "at": "2026-09-29T03:06:47.181Z",
+      "ok": true
+    },
+    {
+      "id": "h9-tec/awesome_ai_learning",
+      "action": "metadata",
+      "at": "2026-09-29T03:06:47.685Z",
+      "ok": true
+    },
+    {
+      "id": "yogeshhk/teachingdatascience",
+      "action": "metadata",
+      "at": "2026-09-29T03:06:48.109Z",
+      "ok": true
+    },
+    {
+      "id": "melaniewalsh/intro-cultural-analytics",
+      "action": "metadata",
+      "at": "2026-09-29T03:06:48.623Z",
+      "ok": true
+    },
+    {
+      "id": "ai-builders/curriculum",
+      "action": "metadata",
+      "at": "2026-09-29T03:06:49.029Z",
+      "ok": true
+    },
+    {
+      "id": "denis2054/context-engineering-for-multi-agent-systems",
+      "action": "accept-l2",
+      "at": "2026-09-29T03:06:49.535Z",
+      "ok": true,
+      "llm": {
+        "confidence": 0.95,
+        "reason": "配套书籍多章节代码，涵盖MCP、RAG及多智能体架构教学"
+      }
+    },
+    {
+      "id": "binary-husky/unreal-map",
+      "action": "reject-l2",
+      "at": "2026-09-29T03:07:00.891Z",
+      "ok": true,
+      "llm": {
+        "confidence": 0.9,
+        "reason": "该仓库是强化学习多智能体仿真平台（工具），非成套教程或书籍，不符合教学性质要求。"
+      },
+      "reason": "llm: 该仓库是强化学习多智能体仿真平台（工具），非成套教程或书籍，不符合教学性质要求。"
+    },
+    {
+      "id": "ivanfioravanti/prompt-eng-ollama-interactive-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:07:22.686Z",
+      "ok": true
+    },
+    {
+      "id": "appl-team/appl",
+      "action": "metadata",
+      "at": "2026-09-29T03:07:23.182Z",
+      "ok": true
+    },
+    {
+      "id": "paperspace/pytorch-101-tutorial-series",
+      "action": "metadata",
+      "at": "2026-09-29T03:07:23.647Z",
+      "ok": true
+    },
+    {
+      "id": "tirendazacademy/pandas-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:07:24.141Z",
+      "ok": true
+    },
+    {
+      "id": "chunhuizhang/modern_ai_for_beginners",
+      "action": "metadata",
+      "at": "2026-09-29T03:07:24.629Z",
+      "ok": true
+    },
+    {
+      "id": "prunaai/awesome-ai-efficiency",
+      "action": "reject-l2",
+      "at": "2026-09-29T03:07:25.083Z",
+      "ok": true,
+      "llm": {
+        "confidence": 0.95,
+        "reason": "仓库是AI效率相关的资源链接清单，非教学课程或书籍，不满足教学内容要求"
+      },
+      "reason": "llm: 仓库是AI效率相关的资源链接清单，非教学课程或书籍，不满足教学内容要求"
+    },
+    {
+      "id": "hpprc/bert-classification-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:07:35.682Z",
+      "ok": true
+    },
+    {
+      "id": "anakin87/llm-rl-environments-lil-course",
+      "action": "metadata",
+      "at": "2026-09-29T03:07:36.190Z",
+      "ok": true
+    },
+    {
+      "id": "timothywarner-org/claude-code",
+      "action": "accept-l2",
+      "at": "2026-09-29T03:07:36.604Z",
+      "ok": true,
+      "llm": {
+        "confidence": 0.98,
+        "reason": "O'Reilly 4小时课程，包含四个完整章节、实操脚本、演示清单及子代理配置，结构完备且聚焦AI。"
+      }
+    },
+    {
+      "id": "andrew/ultimate-awesome",
+      "action": "reject-l2",
+      "at": "2026-09-29T03:07:42.519Z",
+      "ok": true,
+      "llm": {
+        "confidence": 0.98,
+        "reason": "这是自动生成的链接索引，非教学课程或书籍，缺乏结构化学习内容。"
+      },
+      "reason": "llm: 这是自动生成的链接索引，非教学课程或书籍，缺乏结构化学习内容。"
+    },
+    {
+      "id": "ccs-amsterdam/r-course-material",
+      "action": "metadata",
+      "at": "2026-09-29T03:07:49.736Z",
+      "ok": true
+    },
+    {
+      "id": "balavenkatesh3322/awesome-ai-toolkit",
+      "action": "reject-l2",
+      "at": "2026-09-29T03:07:50.275Z",
+      "ok": true,
+      "llm": {
+        "confidence": 0.95,
+        "reason": "内容为工具资源列表（Awesome List），非成套教学章节或课程材料，不满足结构要求。"
+      },
+      "reason": "llm: 内容为工具资源列表（Awesome List），非成套教学章节或课程材料，不满足结构要求。"
+    },
+    {
+      "id": "salvatorera/tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:07:55.515Z",
+      "ok": true
+    },
+    {
+      "id": "getbindu/awesome-claude-code-and-skills",
+      "action": "reject-l2",
+      "at": "2026-09-29T03:07:56.002Z",
+      "ok": true,
+      "llm": {
+        "confidence": 0.95,
+        "reason": "这是一个资源链接聚合列表（Awesome List），并非包含成套教学章节或课程材料的教程书籍。"
+      },
+      "reason": "llm: 这是一个资源链接聚合列表（Awesome List），并非包含成套教学章节或课程材料的教程书籍。"
+    },
+    {
+      "id": "filippomb/diffusion_models_tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:01.158Z",
+      "ok": true
+    },
+    {
+      "id": "njudeepengine/llm-course-lecture",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:01.610Z",
+      "ok": true
+    },
+    {
+      "id": "causal-machine-learning/kdd2021-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:02.087Z",
+      "ok": true
+    },
+    {
+      "id": "dcavar/python-tutorial-notebooks",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:02.669Z",
+      "ok": true
+    },
+    {
+      "id": "microsoft/agenticcookbook",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:03.128Z",
+      "ok": true
+    },
+    {
+      "id": "bonigarcia/context-engineering",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:03.659Z",
+      "ok": true
+    },
+    {
+      "id": "natnew/awesome-physical-ai",
+      "action": "reject-l2",
+      "at": "2026-09-29T03:08:04.063Z",
+      "ok": true,
+      "llm": {
+        "confidence": 0.9,
+        "reason": "属于 Awesome 资源列表，非成套教学章节或课程"
+      },
+      "reason": "llm: 属于 Awesome 资源列表，非成套教学章节或课程"
+    },
+    {
+      "id": "selfrefactor/useful-javascript-libraries",
+      "action": "reject-l2",
+      "at": "2026-09-29T03:08:08.200Z",
+      "ok": true,
+      "llm": {
+        "confidence": 0.95,
+        "reason": "该仓库是通用的 TypeScript/JavaScript 库列表，并非 AI 主题的成套教程或课程。"
+      },
+      "reason": "llm: 该仓库是通用的 TypeScript/JavaScript 库列表，并非 AI 主题的成套教程或课程。"
+    },
+    {
+      "id": "uhub/awesome-r",
+      "action": "reject-l2",
+      "at": "2026-09-29T03:08:14.547Z",
+      "ok": true,
+      "llm": {
+        "confidence": 0.95,
+        "reason": "这是一个资源链接索引（Awesome 列表），而非成套教程或课程材料本身，不符合结构化教学内容的定义。"
+      },
+      "reason": "llm: 这是一个资源链接索引（Awesome 列表），而非成套教程或课程材料本身，不符合结构化教学内容的定义。"
+    },
+    {
+      "id": "kwmsmith/scipy-2017-cython-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:22.675Z",
+      "ok": true
+    },
+    {
+      "id": "h9-tec/ai-roadmap",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:23.216Z",
+      "ok": true
+    },
+    {
+      "id": "rasbt/pydata-chicago2016-ml-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:23.672Z",
+      "ok": true
+    },
+    {
+      "id": "nileshhadalgi016/awesome-ml-ai-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:24.102Z",
+      "ok": true
+    },
+    {
+      "id": "sktime/sktime-tutorial-pydata-amsterdam-2020",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:24.535Z",
+      "ok": true
+    },
+    {
+      "id": "packtpublishing/the-kaggle-book-2nd-edition",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:25.353Z",
+      "ok": true
+    },
+    {
+      "id": "the-pocket/pocketflow-tutorial-website-chatbot",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:25.806Z",
+      "ok": true
+    },
+    {
+      "id": "lgy1027/ai-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:26.261Z",
+      "ok": true
+    },
+    {
+      "id": "jfsantos/keras-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:26.704Z",
+      "ok": true
+    },
+    {
+      "id": "pittisl/generative-ai-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:27.090Z",
+      "ok": true
+    },
+    {
+      "id": "techsimpluslearning/complete-genai-course-python-langchain",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:27.487Z",
+      "ok": true
+    },
+    {
+      "id": "bio-ontology-research-group/ontology-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:27.880Z",
+      "ok": true
+    },
+    {
+      "id": "rasbt/deeplearning-gdansk2019-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:28.332Z",
+      "ok": true
+    },
+    {
+      "id": "thestriver/ai-for-javascript-course",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:28.745Z",
+      "ok": true
+    },
+    {
+      "id": "dwhitena/oreilly-ai-k8s-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:29.228Z",
+      "ok": true
+    },
+    {
+      "id": "ddttom/mlx-llm-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:29.663Z",
+      "ok": true
+    },
+    {
+      "id": "azad-academy/stable-diffusion-model-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:30.050Z",
+      "ok": true
+    },
+    {
+      "id": "fareedkhan-dev/agentic-loop-engineering-course",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:30.520Z",
+      "ok": true
+    },
+    {
+      "id": "alireza-akhavan/tf2-tutorial",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:30.928Z",
+      "ok": true
+    },
+    {
+      "id": "sktime/sktime-tutorial-pydata-global-2021",
+      "action": "metadata",
+      "at": "2026-09-29T03:08:31.465Z",
+      "ok": true
+    },
+    {
+      "id": "legendseyi/ai-tutorial-practice",
+      "action": "reject",
+      "at": "2026-09-29T03:08:31.940Z",
+      "reason": "below 50 stars"
+    },
+    {
+      "id": "debakarr/kodekloud-downloader",
+      "action": "reject",
+      "at": "2026-09-29T03:08:32.133Z",
+      "reason": "llm: 这是一个课程下载工具，不是教学内容或课程目录本身。"
+    },
+    {
+      "id": "joonghyun-lee-frieren/oh-my-antigravity",
+      "action": "reject",
+      "at": "2026-09-29T03:08:53.245Z",
+      "reason": "llm: 这是一个AI Agent工作流工具包，非教学课程或书籍。"
+    },
+    {
+      "id": "tursodatabase/awesome-turso",
+      "action": "reject",
+      "at": "2026-09-29T03:09:00.942Z",
+      "reason": "education signal too weak (2 readme terms, 0 lesson files)"
+    },
+    {
+      "id": "wangwenhao0716/vidprom",
+      "action": "reject",
+      "at": "2026-09-29T03:09:01.864Z",
+      "reason": "education signal too weak (1 readme terms, 0 lesson files)"
+    },
+    {
+      "id": "nus-project/landmark-of-medical-agent",
+      "action": "reject",
+      "at": "2026-09-29T03:09:02.767Z",
+      "reason": "education signal too weak (2 readme terms, 0 lesson files)"
+    },
+    {
+      "id": "jwwthu/commsurvey",
+      "action": "reject",
+      "at": "2026-09-29T03:09:03.599Z",
+      "reason": "llm: 该仓库为通信领域综述论文汇总，非系统性教程或课程，不符合教学性质要求。"
+    },
+    {
+      "id": "webgptorg/promptbook",
+      "action": "reject",
+      "at": "2026-09-29T03:09:12.469Z",
+      "reason": "llm: 该项目是一个用于创建和部署AI Agent的开发工具平台（引擎、服务器、包），而非教育性质的课程、书籍或教程材料。"
+    },
+    {
+      "id": "video-reason/awesome-video-reasoning",
+      "action": "reject",
+      "at": "2026-09-29T03:09:23.418Z",
+      "reason": "education signal too weak (1 readme terms, 0 lesson files)"
+    },
+    {
+      "id": "azure-samples/foundry-citadel-platform",
+      "action": "reject",
+      "at": "2026-09-29T03:09:24.397Z",
+      "reason": "education signal too weak (2 readme terms, 0 lesson files)"
+    },
+    {
+      "id": "tjs-z/tjsmafia-library",
+      "action": "reject",
+      "at": "2026-09-29T03:09:25.307Z",
+      "reason": "llm: 这是综合资源链接列表，非成套AI/ML教程，内容分散于营销、编程、网络等，不符合收录标准。"
+    },
+    {
+      "id": "erencice/ai-data-science-roadmap",
+      "action": "accept",
+      "at": "2026-09-29T03:09:34.006Z",
+      "llm": {
+        "confidence": 0.95,
+        "reason": "完整的教学路线图，涵盖从基础到LLM的11个阶段，含资源链接、周计划及实践要求，非纯工具。"
+      },
+      "verifiedAt": "2026-09-29T03:09:38.050Z"
+    },
+    {
+      "id": "donvito/ai-backends",
+      "action": "reject",
+      "at": "2026-09-29T03:09:38.050Z",
+      "reason": "llm: 纯API运行时工具，非教学课程或书籍，无成套章节结构。"
+    },
+    {
+      "id": "fmerian/awesome-product-hunt",
+      "action": "reject",
+      "at": "2026-09-29T03:09:48.986Z",
+      "reason": "llm: 该仓库是开发者工具的产品发布列表（Awesome List），并非教学课程或系统性的AI知识教程。"
+    },
+    {
+      "id": "luka2chat/awesome-geo",
+      "action": "reject",
+      "at": "2026-09-29T03:10:04.258Z",
+      "reason": "llm: 属于资源链接列表（Awesome List），非成套教学课程或书籍，仅聚合外部链接。"
+    },
+    {
+      "id": "shenciao/ciallo",
+      "action": "reject",
+      "at": "2026-09-29T03:10:13.949Z",
+      "reason": "llm: 该仓库是一个矢量绘画工具，并非AI教程或课程，不满足收录条件"
+    },
+    {
+      "id": "lightchen233/awesome-multilingual-llm",
+      "action": "reject",
+      "at": "2026-09-29T03:10:18.549Z",
+      "reason": "llm: 该仓库是多语言LLM领域的论文和资源列表汇总（Awesome list），属于资料索引而非具有成套章节的教学课程或书籍。"
+    },
+    {
+      "id": "sib-swiss/sparql-llm",
+      "action": "reject",
+      "at": "2026-09-29T03:10:25.152Z",
+      "reason": "llm: 虽是LLM生成SPARQL的工具库，但缺乏成套课程章节，不符合教程书籍定义"
+    },
+    {
+      "id": "frisher1/claudecode-workflow-lab",
+      "action": "accept",
+      "at": "2026-09-29T03:10:43.771Z",
+      "llm": {
+        "confidence": 0.95,
+        "reason": "包含15章节和14个实操实验，结构完整，属于AI对抗验证教学课程"
+      },
+      "verifiedAt": "2026-09-29T03:10:50.446Z"
+    },
+    {
+      "id": "light-and-ray/awesome-alternative-uis-for-comfyui",
+      "action": "reject",
+      "at": "2026-09-29T03:10:50.446Z",
+      "reason": "education signal too weak (2 readme terms, 0 lesson files)"
+    },
+    {
+      "id": "vvkmnn/awesome-ai-eval",
+      "action": "reject",
+      "at": "2026-09-29T03:10:51.447Z",
+      "reason": "llm: 该仓库是AI评估工具与资源列表，属于资源目录而非成套教学课程或书籍。"
+    },
+    {
+      "id": "zhaojiaqi/meowhub",
+      "action": "reject",
+      "at": "2026-09-29T03:11:04.067Z",
+      "reason": "education signal too weak (2 readme terms, 0 lesson files)"
+    },
+    {
+      "id": "wecoai/weco-cli",
+      "action": "reject",
+      "at": "2026-09-29T03:11:05.054Z",
+      "reason": "education signal too weak (2 readme terms, 0 lesson files)"
+    },
+    {
+      "id": "ever-works/awesome-mcp-servers",
+      "action": "reject",
+      "at": "2026-09-29T03:11:05.921Z",
+      "reason": "llm: 这是一个MCP服务器资源目录（List），属于工具集合，不包含系统化的教程、课程或书籍内容。"
+    },
+    {
+      "id": "stanford-cs348k/readings",
+      "action": "reject",
+      "at": "2026-09-29T03:11:24.031Z",
+      "reason": "llm: 主题为计算机图形学与视觉系统，不属于 AI/ML/LLM/Agent 等目标领域。"
+    },
+    {
+      "id": "dodopayments/dualmark",
+      "action": "reject",
+      "at": "2026-09-29T03:11:43.038Z",
+      "reason": "education signal too weak (1 readme terms, 0 lesson files)"
+    },
+    {
+      "id": "bilel-bj/rosgpt_vision",
+      "action": "reject",
+      "at": "2026-09-29T03:11:44.088Z",
+      "reason": "education signal too weak (1 readme terms, 0 lesson files)"
+    },
+    {
+      "id": "vishalmdi/ai-native-pm-os",
+      "action": "accept",
+      "at": "2026-09-29T03:11:45.035Z",
+      "llm": {
+        "confidence": 0.95,
+        "reason": "包含11个模块、60+节结构化课程，围绕AI PM实战，非纯工具"
+      },
+      "verifiedAt": "2026-09-29T03:11:55.656Z"
+    },
+    {
+      "id": "alfredodeza/llmops-duke-aipi",
+      "action": "accept",
+      "at": "2026-09-29T03:11:55.657Z",
+      "llm": {
+        "confidence": 0.95,
+        "reason": "杜克大学LLMOps官方课程，含12周详细教学大纲及资源，符合教学与结构要求。"
+      },
+      "verifiedAt": "2026-09-29T03:12:05.619Z"
+    },
+    {
+      "id": "trenton3983/datacamp",
+      "action": "reject",
+      "at": "2026-09-29T03:12:05.619Z",
+      "reason": "education signal too weak (2 readme terms, 0 lesson files); no AI/ML signal"
+    },
+    {
+      "id": "lantos1618/github.gg",
+      "action": "reject",
+      "at": "2026-09-29T03:12:06.509Z",
+      "reason": "education signal too weak (2 readme terms, 0 lesson files); no AI/ML signal"
+    },
+    {
+      "id": "shipwithai/claude-code-mastery",
+      "action": "accept",
+      "at": "2026-09-29T03:12:07.536Z",
+      "llm": {
+        "confidence": 0.98,
+        "reason": "具备16阶段64模块完整课程体系，涵盖AI编程Agent实战，非单一README。"
+      },
+      "verifiedAt": "2026-09-29T03:12:20.319Z"
+    },
+    {
+      "id": "rphilipzhang/ai-phd-s26",
+      "action": "accept",
+      "at": "2026-09-29T03:12:20.319Z",
+      "llm": {
+        "confidence": 0.95,
+        "reason": "CUHK 博士课程材料，含 13 章结构、幻灯片、代码及讲义，覆盖 RL 与 Agentic AI。"
+      },
+      "verifiedAt": "2026-09-29T03:12:31.174Z"
+    },
+    {
+      "id": "flyark/afm-lis",
+      "action": "reject",
+      "at": "2026-09-29T03:12:31.174Z",
+      "reason": "education signal too weak (1 readme terms, 0 lesson files)"
+    },
+    {
+      "id": "georgemcintire/datajockey",
+      "action": "reject",
+      "at": "2026-09-29T03:12:32.261Z",
+      "reason": "llm: 属于个人DJ工具项目，非成套教学课程"
+    },
+    {
+      "id": "scienceaix/agentskills",
+      "action": "reject",
+      "at": "2026-09-29T03:12:38.659Z",
+      "reason": "llm: 该仓库是 Awesome List（资源链接汇总），并非成套的教学课程或书籍结构。"
+    },
+    {
+      "id": "jingyechen/awesome-game-generation",
+      "action": "reject",
+      "at": "2026-09-29T03:12:47.356Z",
+      "reason": "education signal too weak (2 readme terms, 0 lesson files)"
+    },
+    {
+      "id": "azure-samples/azure-ai-content-understanding-python",
+      "action": "reject",
+      "at": "2026-09-29T03:12:48.318Z",
+      "reason": "llm: 这是Azure服务API的示例代码和文档，属于工具/SDK配套样例，而非独立的系统性教学课程或书籍。"
+    },
+    {
+      "id": "tyrealq/ai-conversation",
+      "action": "accept",
+      "at": "2026-09-29T03:12:55.815Z",
+      "llm": {
+        "confidence": 0.95,
+        "reason": "包含结构化教程、练习项目及课程链接，涵盖 NLP、LLM 和 Agent 等 AI 主题，具备完整学习路径。"
+      },
+      "verifiedAt": "2026-09-29T03:13:01.859Z"
+    },
+    {
+      "id": "plagueho/github-copilot-assets-library",
+      "action": "reject",
+      "at": "2026-09-29T03:13:01.859Z",
+      "reason": "llm: 该仓库为GitHub Copilot配置资产（提示词、指令文件等）的集合，属于工具库或资源清单，缺乏成套的教学章节、课程大纲或系统性的学习路径，不符合“教学性质”且“有成套章节”的核心要求。"
+    }
+  ]
+}
