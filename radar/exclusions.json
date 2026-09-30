@@ -6903,5 +6903,165 @@
     "id": "noobezlol/aletheia-llama-3.2-3b",
     "reason": "education signal too weak (1 readme terms, 0 lesson files)",
     "excludedAt": "2026-09-30T11:44:03.451Z"
+  },
+  {
+    "id": "agenthatch/agenthatch",
+    "reason": "llm: 该仓库是 AI Agent 开发框架工具，非教学材料，不含课程或章节结构。",
+    "excludedAt": "2026-09-30T17:11:46.758Z"
+  },
+  {
+    "id": "daviden1013/llm-ie",
+    "reason": "llm: 属于LLM信息抽取工具包，非教程或课程材料",
+    "excludedAt": "2026-09-30T17:11:59.203Z"
+  },
+  {
+    "id": "snehilsanyal/self-learn-llms",
+    "reason": "llm: 仅为资源链接汇总，非自带成套章节的教学内容",
+    "excludedAt": "2026-09-30T17:12:03.120Z"
+  },
+  {
+    "id": "johe123qwe/github-trending",
+    "reason": "llm: 该仓库仅为 GitHub Trending 自动抓取列表，属于工具/导航，非教学材料。",
+    "excludedAt": "2026-09-30T17:12:09.138Z"
+  },
+  {
+    "id": "bdqnghi/awesome-ai4code",
+    "reason": "llm: 该仓库为 AI4Code 领域的资源链接聚合，非系统性教学课程。",
+    "excludedAt": "2026-09-30T17:12:12.975Z"
+  },
+  {
+    "id": "sergebulaev/linkedin-skills",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T17:12:31.720Z"
+  },
+  {
+    "id": "fudan-generative-vision/hallo2",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T17:12:32.829Z"
+  },
+  {
+    "id": "cbamls/ai_tutorial",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T17:12:33.643Z"
+  },
+  {
+    "id": "atfortes/awesome-llm-reasoning",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T17:12:34.576Z"
+  },
+  {
+    "id": "open-less/openless",
+    "reason": "llm: 这是一个跨平台语音输入应用，而非教学课程或书籍",
+    "excludedAt": "2026-09-30T17:12:39.213Z"
+  },
+  {
+    "id": "pair-code/lit",
+    "reason": "llm: 核心是模型解释可视化工具，虽有示例Notebook但非成套教学课程。",
+    "excludedAt": "2026-09-30T17:12:44.036Z"
+  },
+  {
+    "id": "iusztinpaul/hands-on-llms",
+    "reason": "archived",
+    "excludedAt": "2026-09-30T17:12:54.704Z"
+  },
+  {
+    "id": "meirtz/awesome-context-engineering",
+    "reason": "llm: 主要作为资源聚合列表（Awesome List）及论文索引，缺乏独立连贯的教程步骤",
+    "excludedAt": "2026-09-30T17:13:24.121Z"
+  },
+  {
+    "id": "yanliudesign/mono-color-skill",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T17:13:25.283Z"
+  },
+  {
+    "id": "pezzolabs/pezzo",
+    "reason": "llm: 该项目是 LLMOps 平台工具，教程内容仅为产品集成指南，非独立 AI 教学体系。",
+    "excludedAt": "2026-09-30T17:13:31.376Z"
+  },
+  {
+    "id": "penglonghuang/chinese-novelist-skill",
+    "reason": "education signal too weak (2 readme terms, 2 lesson files)",
+    "excludedAt": "2026-09-30T17:13:32.487Z"
+  },
+  {
+    "id": "protectai/llm-guard",
+    "reason": "archived",
+    "excludedAt": "2026-09-30T17:13:43.762Z"
+  },
+  {
+    "id": "l1xu4n/awesome-chatgpt-prompts-zh_cn",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T17:13:50.659Z"
+  },
+  {
+    "id": "cosmicstack-labs/mercury-agent",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T17:13:51.755Z"
+  },
+  {
+    "id": "dragen1860/deep-learning-with-pytorch-tutorials",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T17:14:03.172Z"
+  },
+  {
+    "id": "khazp/vibe-coding-prompt-template",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T17:14:04.334Z"
+  },
+  {
+    "id": "phodal/prompt-patterns",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T17:14:05.347Z"
+  },
+  {
+    "id": "wesammustafa/claude-code-everything-you-need-to-know",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T17:14:06.285Z"
+  },
+  {
+    "id": "hegelai/prompttools",
+    "reason": "llm: 内容为开源工具库及示例代码，非教学课程或书籍结构。",
+    "excludedAt": "2026-09-30T17:14:13.259Z"
+  },
+  {
+    "id": "ianarawjo/chainforge",
+    "reason": "llm: 该仓库是一个可视化的提示工程评估工具（Visual Programming Environment），属于软件工具而非教程、课程或书籍，不满足教学内容性质。",
+    "excludedAt": "2026-09-30T17:14:18.117Z"
+  },
+  {
+    "id": "eladlev/autoprompt",
+    "reason": "llm: 这是一个提示词优化框架工具，而非教学内容、课程或书籍，不满足教学性质和成套章节结构的要求。",
+    "excludedAt": "2026-09-30T17:14:22.051Z"
+  },
+  {
+    "id": "x4nth055/pythoncode-tutorials",
+    "reason": "llm: 内容包含大量网络攻防与恶意代码教程，不符合AI教程书籍的纯粹教学与合规要求",
+    "excludedAt": "2026-09-30T17:14:26.435Z"
+  },
+  {
+    "id": "qxresearch/qxresearch-event-1",
+    "reason": "llm: 内容为简短脚本示例集合，非成套教程体系",
+    "excludedAt": "2026-09-30T17:14:30.597Z"
+  },
+  {
+    "id": "nanako0129/sepia",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T17:14:36.331Z"
+  },
+  {
+    "id": "spcl/graph-of-thoughts",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T17:14:37.486Z"
+  },
+  {
+    "id": "microsoftarchive/promptbench",
+    "reason": "archived",
+    "excludedAt": "2026-09-30T17:14:43.562Z"
+  },
+  {
+    "id": "owl-listener/designer-skills",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T17:14:44.584Z"
   }
 ]
