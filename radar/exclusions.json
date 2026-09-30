@@ -6568,5 +6568,200 @@
     "id": "dodo-reach/pi-clarify",
     "reason": "education signal too weak (0 readme terms, 0 lesson files)",
     "excludedAt": "2026-09-29T21:39:23.012Z"
+  },
+  {
+    "id": "albirrkarim/react-speech-highlight-demo",
+    "reason": "llm: 该仓库是商业化的前端TTS库（付费），非免费教学课程或书籍，不具备系统性教学结构。",
+    "excludedAt": "2026-09-30T02:47:36.307Z"
+  },
+  {
+    "id": "poll-the-people/awesome-rag",
+    "reason": "llm: 该仓库为资源链接聚合列表（awesome-list），非结构化教学课程或书籍",
+    "excludedAt": "2026-09-30T02:47:55.437Z"
+  },
+  {
+    "id": "minipuft/claude-prompts-mcp",
+    "reason": "llm: 该仓库是一个MCP服务器/CLI工具，旨在管理和执行提示词工作流，属于开发工具而非教学材料。",
+    "excludedAt": "2026-09-30T02:48:18.492Z"
+  },
+  {
+    "id": "evolinkai/awesome-seedance-2.5-prompts",
+    "reason": "llm: 该仓库为Seedance视频生成的提示词案例集合，非教学课程或书籍，仅展示应用示例。",
+    "excludedAt": "2026-09-30T02:49:02.318Z"
+  },
+  {
+    "id": "josealberto88/hugging-face-llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-09-30T02:49:14.906Z"
+  },
+  {
+    "id": "freedomintelligence/awesome-llm-patient-simulators",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:49:15.595Z"
+  },
+  {
+    "id": "emo-gml/awesome-mental-health-llms",
+    "reason": "llm: 该仓库为学术综述论文配套的资源列表（Awesome List），非教学性质的课程或教程。",
+    "excludedAt": "2026-09-30T02:49:22.025Z"
+  },
+  {
+    "id": "justinlietz93/agent_tools",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:49:22.858Z"
+  },
+  {
+    "id": "calderbuild/wefinance",
+    "reason": "llm: 这是一个AI个人财务助手的应用项目，而非教学材料。",
+    "excludedAt": "2026-09-30T02:49:29.217Z"
+  },
+  {
+    "id": "andrewdzzz/awesome-llmagent4cyberattack",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:49:29.993Z"
+  },
+  {
+    "id": "iamyoki/qwen-image-2.1-skill",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:49:30.632Z"
+  },
+  {
+    "id": "igorwarzocha/opencode-workflows",
+    "reason": "archived",
+    "excludedAt": "2026-09-30T02:49:30.791Z"
+  },
+  {
+    "id": "arjuncodess/webcrawlai",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:49:31.530Z"
+  },
+  {
+    "id": "alopatenko/llmsearchrecommender",
+    "reason": "llm: 该仓库是资源列表（Awesome List），虽涉及AI搜索与推荐主题，但缺乏成套教学章节或课程内容，不符合教程/书籍定义。",
+    "excludedAt": "2026-09-30T02:49:41.719Z"
+  },
+  {
+    "id": "whiteducksoftware/flock",
+    "reason": "llm: 该仓库为AI Agent编排框架工具，非教学课程或教程书籍",
+    "excludedAt": "2026-09-30T02:49:46.469Z"
+  },
+  {
+    "id": "rubixml/sentiment",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:49:47.762Z"
+  },
+  {
+    "id": "dicklesworthstone/jeffreysprompts.com",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:49:48.575Z"
+  },
+  {
+    "id": "matt-dionis/nlad",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:49:49.332Z"
+  },
+  {
+    "id": "kbeaugrand/semantickernel.assistants",
+    "reason": "education signal too weak (1 readme terms, 1 lesson files)",
+    "excludedAt": "2026-09-30T02:49:56.008Z"
+  },
+  {
+    "id": "notharshhaa/aws-gcp-azure-cloud-projects-workshop",
+    "reason": "llm: 该仓库主要包含AWS/GCP/Azure云基础设施项目，核心主题是DevOps和云计算，而非AI教程体系。",
+    "excludedAt": "2026-09-30T02:49:59.975Z"
+  },
+  {
+    "id": "laxmimerit/ollama-chatbot",
+    "reason": "llm: 仓库实为外部付费课程的营销汇总页，无实际教程代码或成套学习材料。",
+    "excludedAt": "2026-09-30T02:50:10.288Z"
+  },
+  {
+    "id": "damo-nlp-sg/m3exam",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:50:25.855Z"
+  },
+  {
+    "id": "simonstang/feifei-companion",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:50:26.515Z"
+  },
+  {
+    "id": "agents365-ai/obsidian-ai-tagger-universe",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:50:27.233Z"
+  },
+  {
+    "id": "kyegomez/algorithm-of-thoughts",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:50:32.654Z"
+  },
+  {
+    "id": "yueheng-rgb/codex-factory",
+    "reason": "llm: 该仓库是AI工程可靠性框架和工具，非教学课程。",
+    "excludedAt": "2026-09-30T02:50:39.499Z"
+  },
+  {
+    "id": "yibo365/agent-camp",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:50:40.287Z"
+  },
+  {
+    "id": "aipmandy/andysoul",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:50:41.008Z"
+  },
+  {
+    "id": "fairy123456789/human-edge-agent-skills",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:50:41.785Z"
+  },
+  {
+    "id": "hainrixz/claude-banana",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:50:42.506Z"
+  },
+  {
+    "id": "bingryan/wechatai",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:50:43.194Z"
+  },
+  {
+    "id": "erfnzdeh/mci-llm-security-hackathon",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:50:43.946Z"
+  },
+  {
+    "id": "xjpp22/awesome--sora-prompts",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:50:44.605Z"
+  },
+  {
+    "id": "promptdesk/promptdesk",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:50:45.378Z"
+  },
+  {
+    "id": "vectornguyen76/resume-ranking",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:50:49.421Z"
+  },
+  {
+    "id": "gpt-img-2/ai-image-prompt-cookbook",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:50:50.110Z"
+  },
+  {
+    "id": "embraceagi/autonetgen",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:50:50.859Z"
+  },
+  {
+    "id": "westfox-awa/dsh-prompt-optimizer",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:50:51.541Z"
+  },
+  {
+    "id": "binghe1980/promptlens",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T02:50:52.230Z"
   }
 ]
