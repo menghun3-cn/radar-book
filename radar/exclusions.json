@@ -7063,5 +7063,170 @@
     "id": "owl-listener/designer-skills",
     "reason": "education signal too weak (1 readme terms, 0 lesson files)",
     "excludedAt": "2026-09-30T17:14:44.584Z"
+  },
+  {
+    "id": "foryourhealth111-pixel/vibe-skills",
+    "reason": "llm: 项目为AI Agent工作流编排工具，非教学课程或书籍，无成套章节结构",
+    "excludedAt": "2026-09-30T21:40:33.110Z"
+  },
+  {
+    "id": "yaojingang/yao-open-prompts",
+    "reason": "llm: 该仓库是提示词资源库（Library），非教学课程、书籍或教程，不符合“教学性质”及“成套章节”要求。",
+    "excludedAt": "2026-09-30T21:40:48.661Z"
+  },
+  {
+    "id": "openpipe/openpipe",
+    "reason": "llm: 本质是微调平台工具，示例仅为功能演示，缺乏成套教学结构",
+    "excludedAt": "2026-09-30T21:40:51.986Z"
+  },
+  {
+    "id": "yzhao062/agent-style",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T21:41:50.877Z"
+  },
+  {
+    "id": "youart-open-source/awesome-gpt-image-2-5-prompts",
+    "reason": "llm: 该仓库为精选提示词列表和参考库，非教学性质，无成套课程体系。",
+    "excludedAt": "2026-09-30T21:41:54.578Z"
+  },
+  {
+    "id": "multigroupco/dmg-data-science-awesome",
+    "reason": "llm: 该仓库是外部资源链接的 Awesome 列表，属于资料汇编，非原创的课程、书籍或成套教学章节内容。",
+    "excludedAt": "2026-09-30T21:41:58.788Z"
+  },
+  {
+    "id": "nvidia-ai-iot/nanoowl",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T21:41:59.546Z"
+  },
+  {
+    "id": "amplifying-ai/awesome-generative-engine-optimization",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T21:42:00.446Z"
+  },
+  {
+    "id": "jindonggu/awesome-prompting-on-vision-language-model",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T21:42:01.295Z"
+  },
+  {
+    "id": "undertone0809/promptulate",
+    "reason": "llm: 该仓库是LLM应用开发框架/库，非教程或课程材料。",
+    "excludedAt": "2026-09-30T21:42:03.995Z"
+  },
+  {
+    "id": "dokhacgiakhoa/agent-skills-4-vibe-coding-cli",
+    "reason": "llm: 该仓库是 CLI 安装工具和 Agent 配置包，非教学课程",
+    "excludedAt": "2026-09-30T21:42:11.466Z"
+  },
+  {
+    "id": "kesslernity/awesome-copilot-studio-agents",
+    "reason": "llm: 内容为可即插即用的AI Agent提示词工具库，非教学课程、书籍或成套教程材料，不满足教学性质要求。",
+    "excludedAt": "2026-09-30T21:42:15.520Z"
+  },
+  {
+    "id": "zdhnarsil/awesome-gflownets",
+    "reason": "llm: 属于 Awesome 资源列表，非成套教学课程或书籍，不满足结构要求。",
+    "excludedAt": "2026-09-30T21:42:20.672Z"
+  },
+  {
+    "id": "0aicoder0/ultimate-chatgpt-image-and-nano-banana-pro-collection",
+    "reason": "llm: 该仓库是图像提示词集合，非教学课程或书籍。",
+    "excludedAt": "2026-09-30T21:42:24.416Z"
+  },
+  {
+    "id": "cporter202/ai-agent-tools",
+    "reason": "llm: 内容为工具目录列表，缺乏教学章节结构，且包含大量商业推广，非教程书籍。",
+    "excludedAt": "2026-09-30T21:42:27.076Z"
+  },
+  {
+    "id": "mxyhi/ok-skills",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T21:42:27.863Z"
+  },
+  {
+    "id": "langgptai/awesome-gemini-prompts",
+    "reason": "llm: 内容为提示词示例集合，缺乏成套章节或系统性课程结构。",
+    "excludedAt": "2026-09-30T21:42:31.429Z"
+  },
+  {
+    "id": "jalaalrd/anti-ai-slop-writing",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T21:42:36.003Z"
+  },
+  {
+    "id": "agentskillos/skillanything",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T21:42:39.307Z"
+  },
+  {
+    "id": "wanshuiyin/hero-anti-overdefense",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T21:42:40.242Z"
+  },
+  {
+    "id": "receyuki/comfyui-prompt-reader-node",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T21:42:40.982Z"
+  },
+  {
+    "id": "brhiza/mingyu",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T21:42:52.447Z"
+  },
+  {
+    "id": "smixs/visual-skills",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T21:42:54.407Z"
+  },
+  {
+    "id": "kareldo/xmc.dspy",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T21:42:58.752Z"
+  },
+  {
+    "id": "ashleymcnamara/learn_to_code",
+    "reason": "llm: 该仓库是编程学习资源索引列表，非成套AI/机器学习课程教材。",
+    "excludedAt": "2026-09-30T21:43:02.820Z"
+  },
+  {
+    "id": "clawplays/ospec",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T21:43:03.819Z"
+  },
+  {
+    "id": "nimbleboxai/chainfury",
+    "reason": "archived",
+    "excludedAt": "2026-09-30T21:43:04.082Z"
+  },
+  {
+    "id": "jnmetacode/ai-shortfilm-prompts",
+    "reason": "llm: 仓库核心为提示词模板与工具插件，非成套教学课程",
+    "excludedAt": "2026-09-30T21:43:07.543Z"
+  },
+  {
+    "id": "createapi/createapi",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T21:43:08.540Z"
+  },
+  {
+    "id": "chr15m/runprompt",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T21:43:09.383Z"
+  },
+  {
+    "id": "datascienceid/machine-learning-resources",
+    "reason": "llm: 该仓库是资源链接列表，非成套教学课程或书籍，属于聚合索引。",
+    "excludedAt": "2026-09-30T21:43:12.372Z"
+  },
+  {
+    "id": "disler/single-file-agents",
+    "reason": "llm: 该仓库是单文件Agent工具集合，非成套教学课程或书籍",
+    "excludedAt": "2026-09-30T21:43:15.394Z"
+  },
+  {
+    "id": "baskduf/fablecodex",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T21:43:16.048Z"
   }
 ]

@@ -79,10 +79,9 @@
 - [gpu-perf-engineering-resources (wafer-ai)](https://github.com/wafer-ai/gpu-perf-engineering-resources): 系统性的AI性能工程资源列表，涵盖GPU基础到分布式推理
 - [scikit-learn-videos (justmarkham)](https://github.com/justmarkham/scikit-learn-videos): Data School出品的scikit-learn机器学习入门系列课程，含10个视频及对应Jupyter笔记本。
 - [course22 (fastai)](https://github.com/fastai/course22): fast.ai 2022版深度学习实战课程官方教材，含全套教学笔记本与课件。
-- [how-to-train-your-gpt (raiyanyahya)](https://github.com/raiyanyahya/how-to-train-your-gpt): 待人工复核后展示。
+- [how-to-train-your-gpt (raiyanyahya)](https://github.com/raiyanyahya/how-to-train-your-gpt): 从零构建LLM的12章交互式教材，含每行注释代码与配套笔记本
 - [nndl-practice (nndl)](https://github.com/nndl/nndl-practice): 邱锡鹏《神经网络与深度学习：案例与实践》第二版配套教材，提供PyTorch实现与Notebook。
-- [Vibe-Skills (foryourhealth111-pixel)](https://github.com/foryourhealth111-pixel/Vibe-Skills): 待人工复核后展示。
-- [machine-learning (ethen8181)](https://github.com/ethen8181/machine-learning): 待人工复核后展示。
+- [machine-learning (ethen8181)](https://github.com/ethen8181/machine-learning): 全面的机器学习与深度学习教程，涵盖从零实现到LLM前沿应用的Notebook系列。
 - [Machine-Learning-with-Python (tirthajyoti)](https://github.com/tirthajyoti/Machine-Learning-with-Python): 基于Python的机器学习实践教程，涵盖回归、分类、聚类等算法的代码演练与详解
 - [openvino_notebooks (openvinotoolkit)](https://github.com/openvinotoolkit/openvino_notebooks): OpenVINO官方深度学习与计算机视觉推理教程集合，含多章节笔记本。
 - [uvadlc_notebooks (phlippe)](https://github.com/phlippe/uvadlc_notebooks): 阿姆斯特丹大学深度学习课程的官方Jupyter Notebook教程系列，涵盖从PyTorch基础到Transformer和GNN的成套章节。
@@ -90,9 +89,7 @@
 - [harness-books (wquguru)](https://github.com/wquguru/harness-books): 两本关于Harness工程的书籍，深入解析Claude Code与Codex的架构设计哲学及代理系统控制机制。
 - [deep-learning-keras-tensorflow (leriomaggio)](https://github.com/leriomaggio/deep-learning-keras-tensorflow): 基于Keras和TensorFlow的深度学习入门教程，涵盖神经网络、CNN、RNN等核心主题及实战代码。
 - [computer-vision-in-action (Charmve)](https://github.com/Charmve/computer-vision-in-action): 《计算机视觉实战演练》在线电子书，含完整章节、理论解析与可运行PyTorch代码。
-- [easy-tensorflow (easy-tensorflow)](https://github.com/easy-tensorflow/easy-tensorflow): 待人工复核后展示。
-- [yao-open-prompts (yaojingang)](https://github.com/yaojingang/yao-open-prompts): 待人工复核后展示。
-- [OpenPipe (OpenPipe)](https://github.com/OpenPipe/OpenPipe): 待人工复核后展示。
+- [easy-tensorflow (easy-tensorflow)](https://github.com/easy-tensorflow/easy-tensorflow): 一套完整的TensorFlow深度学习教育资源，涵盖从环境搭建到卷积神经网络。
 - [Stable-Diffusion (FurkanGozukara)](https://github.com/FurkanGozukara/Stable-Diffusion): 这是一个生成式AI教程合集，涵盖Stable Diffusion等工具的教学视频、代码示例及操作指南。
 - [aicodeguide (automata)](https://github.com/automata/aicodeguide): 一份指导开发者利用LLM进行AI辅助编程的路线图教程，涵盖工具选择与提示词技巧。
 - [Getting-Things-Done-with-Pytorch (curiousily)](https://github.com/curiousily/Getting-Things-Done-with-Pytorch): 基于 PyTorch 解决实际问题的深度学习教程，涵盖计算机视觉、NLP 及时间序列实战。
@@ -138,7 +135,17 @@
 - [human-skill-tree (24kchengYe)](https://github.com/24kchengYe/human-skill-tree): 基于认知科学的AI教学技能树，涵盖K-12至职场全阶段学习路径
 - [ai-coding-guide (jnMetaCode)](https://github.com/jnMetaCode/ai-coding-guide): 涵盖10款AI编程工具实战技巧、配置模板及工作流设计的系统性中文教程。
 - [Awesome-AGI (ArronAI007)](https://github.com/ArronAI007/Awesome-AGI): 系统整理LLM基础理论、微调技术、提示工程及部署应用的AI学习资源库。
+- [designing-real-world-ai-agents-workshop (iusztinpaul)](https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop): 构建多智能体系统的动手工作坊，含Deep Research与写作工作流代码及视频教程。
+- [code_search (hamelsmu)](https://github.com/hamelsmu/code_search): 待人工复核后展示。
+- [awesome-playcanvas (playcanvas)](https://github.com/playcanvas/awesome-playcanvas): 待人工复核后展示。
+- [chipper (TilmanGriesel)](https://github.com/TilmanGriesel/chipper): 待人工复核后展示。
+- [prompt-decorators (smkalami)](https://github.com/smkalami/prompt-decorators): 待人工复核后展示。
+- [research-writing-skill (alfonso0512)](https://github.com/alfonso0512/research-writing-skill): 待人工复核后展示。
+- [Technical-eBooks (com-puter-tips)](https://github.com/com-puter-tips/Technical-eBooks): 待人工复核后展示。
+- [AI-Practices (zimingttkx)](https://github.com/zimingttkx/AI-Practices): 待人工复核后展示。
+- [ICLR2020-OpenReviewData (shaohua0116)](https://github.com/shaohua0116/ICLR2020-OpenReviewData): 待人工复核后展示。
 - [learn-low-code-agentic-ai (panaversity)](https://github.com/panaversity/learn-low-code-agentic-ai): 基于n8n和MCP的低代码AI智能体开发课程，含提示工程教程及视频。
+- [machine-learning-research (imteekay)](https://github.com/imteekay/machine-learning-research): 一个包含 Agentic AI 等成套交互式课程和练习的机器学习资料仓库。
 - [hls4ml-tutorial (fastmachinelearning)](https://github.com/fastmachinelearning/hls4ml-tutorial): 一套关于使用hls4ml将机器学习模型部署到FPGA的交互教程，包含从模型训练到硬件综合的完整章节。
 - [machine-learning-repos (recodehive)](https://github.com/recodehive/machine-learning-repos): 收录机器学习理论、数学基础、框架教程及多个实战项目代码的综合性学习资料库。
 - [start-ai-engineering (louisfb01)](https://github.com/louisfb01/start-ai-engineering): 一份面向初学者的全面AI工程入门指南，包含视频、书籍及实战项目
