@@ -6763,5 +6763,145 @@
     "id": "binghe1980/promptlens",
     "reason": "education signal too weak (1 readme terms, 0 lesson files)",
     "excludedAt": "2026-09-30T02:50:52.230Z"
+  },
+  {
+    "id": "requie/ai-red-teaming-guide",
+    "reason": "llm: 该仓库包含大量第三方引流（如 $249 付费工具、广告），且核心内容被截断，缺乏成套章节或课程材料，不符合教学书籍标准。",
+    "excludedAt": "2026-09-30T11:41:10.712Z"
+  },
+  {
+    "id": "riccardobiosas/awesome-mlsecops",
+    "reason": "llm: 内容为工具和资源链接列表（Curated List），非成套教学章节或课程材料。",
+    "excludedAt": "2026-09-30T11:41:25.506Z"
+  },
+  {
+    "id": "ulab-uiuc/agi-survey",
+    "reason": "llm: 这是聚合论文链接的综述资源（Awesome List），缺乏课程章节与教学练习，属于参考文献列表而非教程。",
+    "excludedAt": "2026-09-30T11:41:33.439Z"
+  },
+  {
+    "id": "ibm/wxflows",
+    "reason": "archived",
+    "excludedAt": "2026-09-30T11:41:39.624Z"
+  },
+  {
+    "id": "yash-kavaiya/genai-learning",
+    "reason": "llm: 仓库为外部课程链接索引，非自有成套教学内容，属于资源聚合而非书籍或独立课程体系。",
+    "excludedAt": "2026-09-30T11:41:43.455Z"
+  },
+  {
+    "id": "abhijithvijayan/awesome-stars",
+    "reason": "llm: 该仓库是GitHub Star列表，并非教学课程或书籍",
+    "excludedAt": "2026-09-30T11:41:48.709Z"
+  },
+  {
+    "id": "supertone-oss-archive/supertonic-py",
+    "reason": "archived",
+    "excludedAt": "2026-09-30T11:41:49.040Z"
+  },
+  {
+    "id": "wpdevup/ai-wordpress",
+    "reason": "llm: 该仓库为AI WordPress插件和资源的聚合列表，属于资源索引而非成套教学课程或书籍。",
+    "excludedAt": "2026-09-30T11:41:53.261Z"
+  },
+  {
+    "id": "parthapray/llm-learning-sources",
+    "reason": "llm: 仅为外部链接和资源列表，无自带成套章节或课程材料，不符合教学性质目录要求。",
+    "excludedAt": "2026-09-30T11:41:57.115Z"
+  },
+  {
+    "id": "melocream/awesome-llm-study",
+    "reason": "llm: 属于 Awesome 资源链接列表，非成套教材或课程结构",
+    "excludedAt": "2026-09-30T11:42:07.434Z"
+  },
+  {
+    "id": "themperek/spicebind",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T11:42:11.186Z"
+  },
+  {
+    "id": "reinaldosimoes/design-resources",
+    "reason": "llm: 该仓库为设计资源链接汇总，非AI教学内容，不属于教程/课程。",
+    "excludedAt": "2026-09-30T11:42:14.359Z"
+  },
+  {
+    "id": "raprealai/awesome-notebooklm-prompts",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T11:42:19.769Z"
+  },
+  {
+    "id": "kmbro/langextract-typescript",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T11:42:22.068Z"
+  },
+  {
+    "id": "itgoyo/hermes-skills",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T11:42:25.204Z"
+  },
+  {
+    "id": "ankurkumarz/agentic-ai-knowledge-base",
+    "reason": "education signal too weak (2 readme terms, 1 lesson files)",
+    "excludedAt": "2026-09-30T11:43:19.881Z"
+  },
+  {
+    "id": "ai-atlaas/ai-atlaas",
+    "reason": "llm: 该仓库是AI工具目录/链接列表，非教学课程或书籍结构，不满足教学性质条件。",
+    "excludedAt": "2026-09-30T11:43:24.155Z"
+  },
+  {
+    "id": "umitkacar/awesome-interview",
+    "reason": "llm: 属于技术面试资源链接汇总，非教学课程或成套章节，不符合收录标准。",
+    "excludedAt": "2026-09-30T11:43:35.806Z"
+  },
+  {
+    "id": "kazunori279/my-sessions-and-bio",
+    "reason": "llm: 该仓库为个人主页，仅包含简历和个人博客/演示索引，缺乏成套教材结构。",
+    "excludedAt": "2026-09-30T11:43:43.242Z"
+  },
+  {
+    "id": "nahid-sparktales/agent-dispatcher",
+    "reason": "llm: 该仓库是一个针对Claude Code和Codex的代码检索与上下文引擎工具，属于开发者自动化插件，并非教学性质的课程或教程材料。",
+    "excludedAt": "2026-09-30T11:43:47.729Z"
+  },
+  {
+    "id": "dizzymii/fable-skills",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T11:43:48.616Z"
+  },
+  {
+    "id": "chang416/im-human",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T11:43:49.472Z"
+  },
+  {
+    "id": "github30/reproducible-photorealistic-nano-banana-pro-json-prompts",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T11:43:50.680Z"
+  },
+  {
+    "id": "junhan2/oh-my-fable",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T11:43:51.552Z"
+  },
+  {
+    "id": "atlascloudai/awesome-gpt-image-2-prompts",
+    "reason": "llm: 该仓库是提示词集合（Awesome List），非成套教材或课程，不满足教学内容及结构要求。",
+    "excludedAt": "2026-09-30T11:43:55.130Z"
+  },
+  {
+    "id": "1haschwalth/prompt-engineering",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T11:43:56.105Z"
+  },
+  {
+    "id": "aloth/awesome-ai-agents",
+    "reason": "llm: 这是一个资源列表（Awesome List），不是成套的教学课程或书籍。",
+    "excludedAt": "2026-09-30T11:44:02.454Z"
+  },
+  {
+    "id": "noobezlol/aletheia-llama-3.2-3b",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-09-30T11:44:03.451Z"
   }
 ]
