@@ -136,14 +136,7 @@
 - [ai-coding-guide (jnMetaCode)](https://github.com/jnMetaCode/ai-coding-guide): 涵盖10款AI编程工具实战技巧、配置模板及工作流设计的系统性中文教程。
 - [Awesome-AGI (ArronAI007)](https://github.com/ArronAI007/Awesome-AGI): 系统整理LLM基础理论、微调技术、提示工程及部署应用的AI学习资源库。
 - [designing-real-world-ai-agents-workshop (iusztinpaul)](https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop): 构建多智能体系统的动手工作坊，含Deep Research与写作工作流代码及视频教程。
-- [code_search (hamelsmu)](https://github.com/hamelsmu/code_search): 待人工复核后展示。
-- [awesome-playcanvas (playcanvas)](https://github.com/playcanvas/awesome-playcanvas): 待人工复核后展示。
-- [chipper (TilmanGriesel)](https://github.com/TilmanGriesel/chipper): 待人工复核后展示。
-- [prompt-decorators (smkalami)](https://github.com/smkalami/prompt-decorators): 待人工复核后展示。
-- [research-writing-skill (alfonso0512)](https://github.com/alfonso0512/research-writing-skill): 待人工复核后展示。
-- [Technical-eBooks (com-puter-tips)](https://github.com/com-puter-tips/Technical-eBooks): 待人工复核后展示。
-- [AI-Practices (zimingttkx)](https://github.com/zimingttkx/AI-Practices): 待人工复核后展示。
-- [ICLR2020-OpenReviewData (shaohua0116)](https://github.com/shaohua0116/ICLR2020-OpenReviewData): 待人工复核后展示。
+- [AI-Practices (zimingttkx)](https://github.com/zimingttkx/AI-Practices): 一套涵盖从机器学习基础到大模型与智能体系统的全栈AI实战教程，含280+交互笔记。
 - [learn-low-code-agentic-ai (panaversity)](https://github.com/panaversity/learn-low-code-agentic-ai): 基于n8n和MCP的低代码AI智能体开发课程，含提示工程教程及视频。
 - [machine-learning-research (imteekay)](https://github.com/imteekay/machine-learning-research): 一个包含 Agentic AI 等成套交互式课程和练习的机器学习资料仓库。
 - [hls4ml-tutorial (fastmachinelearning)](https://github.com/fastmachinelearning/hls4ml-tutorial): 一套关于使用hls4ml将机器学习模型部署到FPGA的交互教程，包含从模型训练到硬件综合的完整章节。
@@ -183,8 +176,13 @@
 - [Neural-Networks-from-Scratch (lionelmessi6410)](https://github.com/lionelmessi6410/Neural-Networks-from-Scratch): 基于NumPy从零构建神经网络的基础教程，涵盖架构、反向传播及优化器实现。
 - [prompt-engineering-skills (treylom)](https://github.com/treylom/prompt-engineering-skills): 涵盖多模型提示词工程策略与实战指南的结构化教学资源
 - [llm-course-lecture (NJUDeepEngine)](https://github.com/NJUDeepEngine/llm-course-lecture): 南京大学大语言模型基础课程，含完整讲义、代码Notebook及作业，从零实现LLM核心组件
+- [AtomisticSkills (learningmatter-mit)](https://github.com/learningmatter-mit/AtomisticSkills): MIT开发的原子模拟AI代理技能框架，提供层级化教程以自动化材料研究。
 - [kdd2021-tutorial (causal-machine-learning)](https://github.com/causal-machine-learning/kdd2021-tutorial): KDD 2021因果推断与机器学习实战教程，含EconML/CausalML案例。
+- [gtm (gtm-skills)](https://github.com/gtm-skills/gtm): AI销售Agent工具包，包含教程、MCP服务器和提示词。
+- [awesome-q-developer (cremich)](https://github.com/cremich/awesome-q-developer): Amazon Q AI开发助手的学习资源列表，包含工作坊、教程及提示工程指南。
+- [llms-deep-dive-tutorials (springer-llms-deep-dive)](https://github.com/springer-llms-deep-dive/llms-deep-dive-tutorials): 待人工复核后展示。
 - [python-tutorial-notebooks (dcavar)](https://github.com/dcavar/python-tutorial-notebooks): 印第安纳大学讲师整理的NLP、机器学习与LLM交互式Python教程笔记。
+- [awesome-microsoft-agent-framework (webmaxru)](https://github.com/webmaxru/awesome-microsoft-agent-framework): 待人工复核后展示。
 - [AgenticCookBook (microsoft)](https://github.com/microsoft/AgenticCookBook): 微软出品的AI Agent开发指南，基于AutoGen框架提供从入门到实战的系列教程。
 - [context-engineering (bonigarcia)](https://github.com/bonigarcia/context-engineering): Manning 出版书籍《Context Engineering》的官方配套代码库，涵盖提示词、RAG、Agent 及记忆管理等实战案例。
 - [AI-Data-Science-Roadmap (erencice)](https://github.com/erencice/AI-Data-Science-Roadmap): 一份为期约64周的系统化AI与数据科学学习路线图，涵盖基础数学至LLM工程。

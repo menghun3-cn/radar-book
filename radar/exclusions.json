@@ -7228,5 +7228,215 @@
     "id": "baskduf/fablecodex",
     "reason": "education signal too weak (0 readme terms, 0 lesson files)",
     "excludedAt": "2026-09-30T21:43:16.048Z"
+  },
+  {
+    "id": "hamelsmu/code_search",
+    "reason": "llm: 代码已弃用，仅为单篇博客配套示例，非成套课程或教程。",
+    "excludedAt": "2026-10-01T02:57:17.281Z"
+  },
+  {
+    "id": "playcanvas/awesome-playcanvas",
+    "reason": "llm: 该仓库为 PlayCanvas 游戏引擎的资源列表，核心内容是 WebGL/游戏开发，非 AI/ML 教程。",
+    "excludedAt": "2026-10-01T02:57:20.768Z"
+  },
+  {
+    "id": "tilmangriesel/chipper",
+    "reason": "llm: 这是一个可运行的RAG工具和代理服务器，并非系统性教程或课程资料",
+    "excludedAt": "2026-10-01T02:57:23.790Z"
+  },
+  {
+    "id": "smkalami/prompt-decorators",
+    "reason": "llm: 内容是单一提示词技术框架文档，非成套课程体系或教材，属于工具/方法论说明。",
+    "excludedAt": "2026-10-01T02:57:27.534Z"
+  },
+  {
+    "id": "alfonso0512/research-writing-skill",
+    "reason": "llm: 属于提示词工具集而非系统化教学课程，缺乏成套章节结构。",
+    "excludedAt": "2026-10-01T02:57:32.106Z"
+  },
+  {
+    "id": "com-puter-tips/technical-ebooks",
+    "reason": "llm: 是通用编程电子书PDF合集，非系统性AI课程，仅含少量ML书",
+    "excludedAt": "2026-10-01T02:57:35.446Z"
+  },
+  {
+    "id": "shaohua0116/iclr2020-openreviewdata",
+    "reason": "llm: 该仓库主要展示爬虫脚本和数据分析结果，属于特定数据集的案例演示，非系统性AI教程课程。",
+    "excludedAt": "2026-10-01T02:57:56.713Z"
+  },
+  {
+    "id": "f20240684-cmd/ai-tutorial-solutions",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-01T02:58:29.265Z"
+  },
+  {
+    "id": "yzfly/awesome-context-engineering",
+    "reason": "llm: 该仓库为资源链接汇总，非成套课程或书籍，不满足教学结构要求。",
+    "excludedAt": "2026-10-01T02:58:33.230Z"
+  },
+  {
+    "id": "whwu95/gpt4vis",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:58:33.846Z"
+  },
+  {
+    "id": "obsidian-typings/obsidian-typings",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:58:34.580Z"
+  },
+  {
+    "id": "ybeven/4d-are",
+    "reason": "education signal too weak (0 readme terms, 2 lesson files)",
+    "excludedAt": "2026-10-01T02:58:35.234Z"
+  },
+  {
+    "id": "newdee/prompt-shelf",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:58:35.961Z"
+  },
+  {
+    "id": "xiongqvq/ai_find_customer",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:58:36.685Z"
+  },
+  {
+    "id": "nemovonnirgend/nemoengine",
+    "reason": "llm: 仓库是角色扮演的提示词预设配置，非教学课程或书籍",
+    "excludedAt": "2026-10-01T02:58:40.599Z"
+  },
+  {
+    "id": "theneoai/awesome-skills",
+    "reason": "llm: 仓库为AI角色提示词技能库资源集合，非系统性教学课程或书籍，不符合教学性质要求。",
+    "excludedAt": "2026-10-01T02:58:45.908Z"
+  },
+  {
+    "id": "repello-ai/whistleblower",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:58:46.690Z"
+  },
+  {
+    "id": "myscale/chatdata",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:58:47.522Z"
+  },
+  {
+    "id": "video-db/promptclip",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:58:48.220Z"
+  },
+  {
+    "id": "imbad0202/tw-formal-writing",
+    "reason": "llm: 仓库为AI提示词技能包（Skill），非教学课程或书籍，不符合教程收录标准。",
+    "excludedAt": "2026-10-01T02:58:53.812Z"
+  },
+  {
+    "id": "smixs/skill-conductor",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:58:54.550Z"
+  },
+  {
+    "id": "hqhq1025/skill-optimizer",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:58:55.188Z"
+  },
+  {
+    "id": "promptpartner/agentsmith",
+    "reason": "llm: 该仓库是AI Agent的操作配置工具，非教学课程或教程。",
+    "excludedAt": "2026-10-01T02:58:58.691Z"
+  },
+  {
+    "id": "calix-l/awesome-latex-skills",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:58:59.292Z"
+  },
+  {
+    "id": "holarissun/panelgpt",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:59:00.162Z"
+  },
+  {
+    "id": "ethicalml/awesome-production-agentic-systems",
+    "reason": "llm: 该仓库是开源库精选列表，非教学课程或书籍，不满足教学性质和成套章节条件。",
+    "excludedAt": "2026-10-01T02:59:03.575Z"
+  },
+  {
+    "id": "gaasher/agent-loop-skills",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:59:04.189Z"
+  },
+  {
+    "id": "dipampaul17/agentguard",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:59:09.500Z"
+  },
+  {
+    "id": "vuk97/forward-implementation-first",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:59:10.210Z"
+  },
+  {
+    "id": "khalilzhang0825/boring-is-all-you-need",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:59:11.037Z"
+  },
+  {
+    "id": "interactivetech/awesome-matplotlib",
+    "reason": "no AI/ML signal",
+    "excludedAt": "2026-10-01T02:59:11.713Z"
+  },
+  {
+    "id": "wholiver/metis",
+    "reason": "llm: 仓库为AI编码代理工具，非教学课程或书籍内容",
+    "excludedAt": "2026-10-01T02:59:16.751Z"
+  },
+  {
+    "id": "eljulians/skillfile",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:59:17.510Z"
+  },
+  {
+    "id": "wellwelwel/lagune",
+    "reason": "education signal too weak (2 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-01T02:59:18.355Z"
+  },
+  {
+    "id": "takashiishida/arxiv-to-prompt",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:59:22.662Z"
+  },
+  {
+    "id": "marmbiz/humanizer-de",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:59:28.733Z"
+  },
+  {
+    "id": "anbeeld/agents.md",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:59:30.678Z"
+  },
+  {
+    "id": "microsoft/promptpex",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T02:59:31.563Z"
+  },
+  {
+    "id": "extremesarova/ds_resources",
+    "reason": "llm: 资源链接集合，非成套课程或教学材料",
+    "excludedAt": "2026-10-01T02:59:46.085Z"
+  },
+  {
+    "id": "babelcloud/llm-rgb",
+    "reason": "llm: 该仓库是LLM性能评测基准工具，非教学内容，不满足收录条件。",
+    "excludedAt": "2026-10-01T02:59:49.252Z"
+  },
+  {
+    "id": "primefoldtools/andon",
+    "reason": "education signal too weak (0 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-01T02:59:50.204Z"
+  },
+  {
+    "id": "nlpfromscratch/nlp-llms-resources",
+    "reason": "llm: 该仓库仅包含外部资源链接列表，无内部成套课程章节或教材正文，不符合教学材料结构要求。",
+    "excludedAt": "2026-10-01T02:59:54.126Z"
   }
 ]
