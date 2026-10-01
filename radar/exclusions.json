@@ -7623,5 +7623,165 @@
     "id": "laxmimerit/all-csv-ml-data-files-download",
     "reason": "llm: 仓库本质是课程推广链接集合，无实际教学内容或章节，不符合教程书籍定义",
     "excludedAt": "2026-10-01T12:12:52.026Z"
+  },
+  {
+    "id": "hoonjet/nvidia-physicsnemo-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-01T18:01:14.517Z"
+  },
+  {
+    "id": "9lordisgod/ai-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-01T18:01:14.749Z"
+  },
+  {
+    "id": "chenweiphd/largelanguagemodel-and-gpt-4-resourcemap",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T18:01:15.723Z"
+  },
+  {
+    "id": "chaconnewu/awesome-augmented",
+    "reason": "llm: 这是各类编程领域的资源链接索引，非AI专题教学材料，不符合课程书籍定义。",
+    "excludedAt": "2026-10-01T18:01:19.810Z"
+  },
+  {
+    "id": "victor-explore/machine-learning-library",
+    "reason": "llm: 属于外部资源链接汇总列表，非自有成套课程或书籍结构",
+    "excludedAt": "2026-10-01T18:01:22.897Z"
+  },
+  {
+    "id": "vidyasagarmsc/awesome-ai",
+    "reason": "llm: 该仓库为资源链接列表（Awesome List），非成套课程或书籍实体，不满足条件3。",
+    "excludedAt": "2026-10-01T18:01:28.418Z"
+  },
+  {
+    "id": "johnpaulada/awesome-learning-collections",
+    "reason": "llm: 该仓库是通用学习资源链接列表，缺乏成套课程结构，且主题涵盖面过广，非专门的 AI/ML 教学材料。",
+    "excludedAt": "2026-10-01T18:01:32.112Z"
+  },
+  {
+    "id": "0ex/more-awesome",
+    "reason": "llm: 这是一个资源链接索引列表（Awesome List），并非教学课程或书籍，不符合“教学性质”和“成套章节”的要求。",
+    "excludedAt": "2026-10-01T18:01:35.998Z"
+  },
+  {
+    "id": "caocao485/awesome-racket-and-scheme",
+    "reason": "llm: Racket/Scheme资源列表，非AI主题教学材料",
+    "excludedAt": "2026-10-01T18:01:43.156Z"
+  },
+  {
+    "id": "djunicode/resources",
+    "reason": "llm: 该仓库主要是软件开发资源链接汇总，AI相关部分极少且无成套课程结构，不符合教学书籍/课程要求。",
+    "excludedAt": "2026-10-01T18:01:48.172Z"
+  },
+  {
+    "id": "harrysun-code/awesome-with-star",
+    "reason": "llm: 这是资源列表汇总，非教学课程或书籍，不符合收录标准",
+    "excludedAt": "2026-10-01T18:01:52.665Z"
+  },
+  {
+    "id": "imboyeong/fact-vs-fiction-llm-test-",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T18:01:53.751Z"
+  },
+  {
+    "id": "andsnw/directory-of-software-eng-resources",
+    "reason": "llm: 该仓库是泛软件工程资源链接目录，非AI专项成套教材",
+    "excludedAt": "2026-10-01T18:01:56.840Z"
+  },
+  {
+    "id": "sgaofen/vibe-schooling",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T18:01:57.718Z"
+  },
+  {
+    "id": "automatika-robotics/emos",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T18:01:58.912Z"
+  },
+  {
+    "id": "freedomintelligence/awesome-specialized-medical-llms",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T18:02:15.855Z"
+  },
+  {
+    "id": "haleshot/marimo-tutorials",
+    "reason": "llm: 仓库结构仅含占位说明，无实际成套教学章节内容",
+    "excludedAt": "2026-10-01T18:02:22.827Z"
+  },
+  {
+    "id": "neopragma/online-learning-resources",
+    "reason": "llm: 该仓库为通用软件技能资源链接清单，非专属AI课程体系。",
+    "excludedAt": "2026-10-01T18:02:27.650Z"
+  },
+  {
+    "id": "miesnerjacob/learn-prompting",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T18:02:28.677Z"
+  },
+  {
+    "id": "kimyx0207/goalpro",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T18:02:29.775Z"
+  },
+  {
+    "id": "62656456/ai-film-skills",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T18:02:30.912Z"
+  },
+  {
+    "id": "fareedkhan-dev/ai-long-task",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T18:02:31.880Z"
+  },
+  {
+    "id": "bradybry/chatxml",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T18:02:32.875Z"
+  },
+  {
+    "id": "shuaikeang/opensupercv",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T18:02:33.795Z"
+  },
+  {
+    "id": "hackerlibs/code-hacker",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T18:02:34.731Z"
+  },
+  {
+    "id": "askroundtable/expert-skills",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T18:02:35.581Z"
+  },
+  {
+    "id": "chad-syntax/agentsmith",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T18:02:36.662Z"
+  },
+  {
+    "id": "chainlit/literalai-cookbooks",
+    "reason": "archived",
+    "excludedAt": "2026-10-01T18:02:36.960Z"
+  },
+  {
+    "id": "s1m0n38/dspy-arxiv",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T18:02:38.012Z"
+  },
+  {
+    "id": "yhoshi3/ralle",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T18:02:38.959Z"
+  },
+  {
+    "id": "war851/ai-governance-architecture",
+    "reason": "llm: 内容属于架构设计模式与工程实践指南，非系统性AI教程或课程材料。",
+    "excludedAt": "2026-10-01T18:02:42.427Z"
+  },
+  {
+    "id": "danielsobrado/ainovelprompter",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T18:02:43.351Z"
   }
 ]
