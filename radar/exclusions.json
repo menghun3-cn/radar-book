@@ -7438,5 +7438,190 @@
     "id": "nlpfromscratch/nlp-llms-resources",
     "reason": "llm: 该仓库仅包含外部资源链接列表，无内部成套课程章节或教材正文，不符合教学材料结构要求。",
     "excludedAt": "2026-10-01T02:59:54.126Z"
+  },
+  {
+    "id": "webmaxru/awesome-microsoft-agent-framework",
+    "reason": "llm: 该仓库是资源链接列表（Awesome List），非成套教学章节或课程材料，不满足结构要求。",
+    "excludedAt": "2026-10-01T12:10:23.267Z"
+  },
+  {
+    "id": "tejaswinisamanta/tokens-to-transformers-genai-x-llm-course-",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-01T12:10:42.652Z"
+  },
+  {
+    "id": "symisc/pixlab",
+    "reason": "llm: 内容主要为商业API推广与杂散教程，缺乏成套结构化课程。",
+    "excludedAt": "2026-10-01T12:10:57.048Z"
+  },
+  {
+    "id": "azbigboss66-oss/skillfoo-v3",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:10:58.045Z"
+  },
+  {
+    "id": "travisjneuman/.claude",
+    "reason": "education signal too weak (2 readme terms, 2 lesson files)",
+    "excludedAt": "2026-10-01T12:10:58.962Z"
+  },
+  {
+    "id": "mai-xiyu/codex-prompt",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:10:59.842Z"
+  },
+  {
+    "id": "zhouwei713/fpv-immersive-video-prompting",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:11:00.671Z"
+  },
+  {
+    "id": "thiientv/godmode",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:11:01.497Z"
+  },
+  {
+    "id": "liatrio-labs/spec-driven-workflow",
+    "reason": "llm: 该仓库是用于规范驱动开发的 AI 协作工作流工具/提示词集，非系统性 AI/ML 课程教材。",
+    "excludedAt": "2026-10-01T12:11:14.394Z"
+  },
+  {
+    "id": "abduznik/portfolio-dumper",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:11:15.277Z"
+  },
+  {
+    "id": "petrobras/geoslicer",
+    "reason": "llm: 该软件是用于数字岩心图像分析的工业工具平台，并非教学课程或书籍，不符合收录标准。",
+    "excludedAt": "2026-10-01T12:11:20.854Z"
+  },
+  {
+    "id": "dyci2/somax2",
+    "reason": "llm: 是 Max 音乐即兴软件工具，非教学课程或书籍，不满足收录条件",
+    "excludedAt": "2026-10-01T12:11:24.432Z"
+  },
+  {
+    "id": "zapier/wade-skills",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:11:25.276Z"
+  },
+  {
+    "id": "jpshag/ai-tools",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:11:26.274Z"
+  },
+  {
+    "id": "takashiishida/paper2slides",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:11:28.126Z"
+  },
+  {
+    "id": "leonid20000/odinrunes",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:11:28.994Z"
+  },
+  {
+    "id": "hyprmcp/mcp-gateway",
+    "reason": "archived",
+    "excludedAt": "2026-10-01T12:11:29.242Z"
+  },
+  {
+    "id": "thu-maic/awesome-ai-era-edu",
+    "reason": "llm: 该仓库为学术论文精选列表，非教学课程或结构化教程。",
+    "excludedAt": "2026-10-01T12:11:33.199Z"
+  },
+  {
+    "id": "apoo711/context-engineering",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:11:33.980Z"
+  },
+  {
+    "id": "miint-sunny/nai5-prompting",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:11:34.999Z"
+  },
+  {
+    "id": "ksylvan/fabric-mcp",
+    "reason": "llm: 该仓库是一个MCP服务器工具，用于集成Fabric框架，属于开发库而非教学课程或书籍。",
+    "excludedAt": "2026-10-01T12:11:44.175Z"
+  },
+  {
+    "id": "vasilyu1983/ai-agents-public",
+    "reason": "llm: 内容为AI Agent提示词与技能库，非AI主题教程或课程。",
+    "excludedAt": "2026-10-01T12:12:20.615Z"
+  },
+  {
+    "id": "mmlong818/skillforge",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:12:21.677Z"
+  },
+  {
+    "id": "waynejin0918/omni-rewriter",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:12:22.641Z"
+  },
+  {
+    "id": "vicuna-tools/stablediffy",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:12:23.587Z"
+  },
+  {
+    "id": "appboypov/pew-pew-plaza-packs",
+    "reason": "llm: 该仓库是AI提示词工程框架/工具集，非教学性质的课程或书籍。",
+    "excludedAt": "2026-10-01T12:12:30.139Z"
+  },
+  {
+    "id": "davidegat/happy-prompts",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:12:31.208Z"
+  },
+  {
+    "id": "pixelnull/sillytavern-deeplore",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:12:32.165Z"
+  },
+  {
+    "id": "hpc203/groundingdino-onnxrun",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:12:32.998Z"
+  },
+  {
+    "id": "tavernai/tavernai",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:12:33.899Z"
+  },
+  {
+    "id": "anugurthi/devops_roadmap",
+    "reason": "llm: 主题核心为 DevOps 工程实践，非 AI/ML 教学体系，不符合收录范围",
+    "excludedAt": "2026-10-01T12:12:43.245Z"
+  },
+  {
+    "id": "mturac/promptguard",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:12:44.250Z"
+  },
+  {
+    "id": "jaxon1216/interview-analyzer-skill",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:12:45.439Z"
+  },
+  {
+    "id": "thetacursed/illustrious-noobai-style-explorer",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:12:46.587Z"
+  },
+  {
+    "id": "jiangmuran/claude-image",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:12:47.358Z"
+  },
+  {
+    "id": "offline-ai/cli",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T12:12:48.177Z"
+  },
+  {
+    "id": "laxmimerit/all-csv-ml-data-files-download",
+    "reason": "llm: 仓库本质是课程推广链接集合，无实际教学内容或章节，不符合教程书籍定义",
+    "excludedAt": "2026-10-01T12:12:52.026Z"
   }
 ]

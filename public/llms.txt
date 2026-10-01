@@ -124,8 +124,8 @@
 - [mlops-coding-course (MLOps-Courses)](https://github.com/MLOps-Courses/mlops-coding-course): MLOps Coding Course 的工程化教程，聚焦生产级机器学习项目的实践方法与可运行代码示例。
 - [LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing (ghimiresunil)](https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing): LLM核心技术与实战教程，涵盖架构、训练、推理及对齐等完整课程。
 - [ai-engineer-roadmap (dswh)](https://github.com/dswh/ai-engineer-roadmap): 面向AI工程师的分阶段学习路线图，涵盖技能、资源及实战项目建议
-- [awesome-r-learning-resources (iamericfletcher)](https://github.com/iamericfletcher/awesome-r-learning-resources): 这是一个整理 R 语言学习资料的项目，包含课程、书籍、博客和社区资源链接。
 - [ai-engineer-notebooks (calmrocks)](https://github.com/calmrocks/ai-engineer-notebooks): 面向AI工程师的动手实践笔记本，涵盖LLM、RAG及Agent开发。
+- [awesome-r-learning-resources (iamericfletcher)](https://github.com/iamericfletcher/awesome-r-learning-resources): 这是一个整理 R 语言学习资料的项目，包含课程、书籍、博客和社区资源链接。
 - [free-ai-tips (business-science)](https://github.com/business-science/free-ai-tips): Business Science提供的免费每周AI/ML实战教程，涵盖生成式AI、LLM及数据分析Agent开发。
 - [agent-interview-hub (Zchary1106)](https://github.com/Zchary1106/agent-interview-hub): 面向AI Agent工程师的面试准备知识库，含16周路线图、300+题解及6个实操项目。
 - [cs329s-ml-deployment-tutorial (mrdbourke)](https://github.com/mrdbourke/cs329s-ml-deployment-tutorial): 斯坦福CS329s机器学习模型部署教程配套代码，涵盖GCP与Docker实践
@@ -155,8 +155,8 @@
 - [dliss-tutorial (dpressel)](https://github.com/dpressel/dliss-tutorial): 2019年国际深度学习暑期学校的NLP教程，涵盖预训练词嵌入、上下文向量及模型微调。
 - [agents-in-action (traversaal-ai)](https://github.com/traversaal-ai/agents-in-action): 一套16章的AI Agent实战课程，结合n8n和Lovable构建智能工作流
 - [Awesome_ai_learning (h9-tec)](https://github.com/h9-tec/Awesome_ai_learning): 2026版无水分AI学习指南，分两轨四阶段精选课程与书籍
-- [TeachingDataScience (yogeshhk)](https://github.com/yogeshhk/TeachingDataScience): 开源数据科学课程资料，含讲义与代码。
 - [Intro-Cultural-Analytics (melaniewalsh)](https://github.com/melaniewalsh/Intro-Cultural-Analytics): 面向人文学科的 Python 文化分析在线教程与教材
+- [TeachingDataScience (yogeshhk)](https://github.com/yogeshhk/TeachingDataScience): 开源数据科学课程资料，含讲义与代码。
 - [curriculum (ai-builders)](https://github.com/ai-builders/curriculum): 8 周 AI Builders 课程，覆盖 AI 基础、SGD、Agentic、视觉、NLP、表格数据与部署。
 - [Context-Engineering-for-Multi-Agent-Systems (Denis2054)](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems): 多智能体系统上下文工程实战指南，含章节代码与MCP/RAG架构
 - [prompt-eng-ollama-interactive-tutorial (ivanfioravanti)](https://github.com/ivanfioravanti/prompt-eng-ollama-interactive-tutorial): 基于Ollama的交互式提示词工程课程，含9章教程与实战练习。
@@ -180,15 +180,15 @@
 - [kdd2021-tutorial (causal-machine-learning)](https://github.com/causal-machine-learning/kdd2021-tutorial): KDD 2021因果推断与机器学习实战教程，含EconML/CausalML案例。
 - [gtm (gtm-skills)](https://github.com/gtm-skills/gtm): AI销售Agent工具包，包含教程、MCP服务器和提示词。
 - [awesome-q-developer (cremich)](https://github.com/cremich/awesome-q-developer): Amazon Q AI开发助手的学习资源列表，包含工作坊、教程及提示工程指南。
-- [llms-deep-dive-tutorials (springer-llms-deep-dive)](https://github.com/springer-llms-deep-dive/llms-deep-dive-tutorials): 待人工复核后展示。
+- [llms-deep-dive-tutorials (springer-llms-deep-dive)](https://github.com/springer-llms-deep-dive/llms-deep-dive-tutorials): 《LLMs: A Deep Dive》官方配套教程，含8章Notebook
 - [python-tutorial-notebooks (dcavar)](https://github.com/dcavar/python-tutorial-notebooks): 印第安纳大学讲师整理的NLP、机器学习与LLM交互式Python教程笔记。
-- [awesome-microsoft-agent-framework (webmaxru)](https://github.com/webmaxru/awesome-microsoft-agent-framework): 待人工复核后展示。
 - [AgenticCookBook (microsoft)](https://github.com/microsoft/AgenticCookBook): 微软出品的AI Agent开发指南，基于AutoGen框架提供从入门到实战的系列教程。
 - [context-engineering (bonigarcia)](https://github.com/bonigarcia/context-engineering): Manning 出版书籍《Context Engineering》的官方配套代码库，涵盖提示词、RAG、Agent 及记忆管理等实战案例。
 - [AI-Data-Science-Roadmap (erencice)](https://github.com/erencice/AI-Data-Science-Roadmap): 一份为期约64周的系统化AI与数据科学学习路线图，涵盖基础数学至LLM工程。
 - [scipy-2017-cython-tutorial (kwmsmith)](https://github.com/kwmsmith/scipy-2017-cython-tutorial): 针对 SciPy 会议的 Cython 高级教程，包含从 CPython 底层到性能优化的多章 Jupyter 练习。
 - [AI-roadmap (h9-tec)](https://github.com/h9-tec/AI-roadmap): 面向零基础用户的AI学习路线图，按数学、CS及专业赛道组织免费资源。
 - [LLM-GenAI-Transformers-Notebooks (avikumart)](https://github.com/avikumart/LLM-GenAI-Transformers-Notebooks): 涵盖LLM从零构建、微调及RAG的配套教程笔记本
+- [nlp_workshop_odsc_europe20 (dipanjanS)](https://github.com/dipanjanS/nlp_workshop_odsc_europe20): ODSC欧洲会议高级NLP工作坊教程，涵盖基础到深度学习的全流程实践。
 - [pydata-chicago2016-ml-tutorial (rasbt)](https://github.com/rasbt/pydata-chicago2016-ml-tutorial): PyData芝加哥2016机器学习入门教程，包含幻灯片和代码笔记本。
 - [Awesome-ML-AI-Tutorial (nileshhadalgi016)](https://github.com/nileshhadalgi016/Awesome-ML-AI-Tutorial): 包含线性代数等理论笔记及回归、SVM等算法练习的ML基础教程。
 - [sktime-tutorial-pydata-amsterdam-2020 (sktime)](https://github.com/sktime/sktime-tutorial-pydata-amsterdam-2020): 基于 sktime 和 scikit-learn 的时间序列机器学习系列教程，涵盖预测与分类任务。
@@ -205,8 +205,11 @@
 - [llm-scratch-pytorch (skyloevil)](https://github.com/skyloevil/llm-scratch-pytorch): 基于PyTorch的LLM从零实现教程，涵盖GPT2与LLaMA架构及底层优化。
 - [OpenAI-Assistants-Template (pranavgupta2603)](https://github.com/pranavgupta2603/OpenAI-Assistants-Template): 基于OpenAI Assistant API构建智能对话助手的实战教程，含代码示例与最佳实践
 - [claude-code-mastery (ShipWithAI)](https://github.com/ShipWithAI/claude-code-mastery): 一套免费的结构化Claude Code高级课程，含16阶段64模块及双语教程。
+- [contextual-engineering-guide (FareedKhan-dev)](https://github.com/FareedKhan-dev/contextual-engineering-guide): 基于 LangGraph 的 AI Agent 上下文工程实战教程
 - [Generative-AI-Tutorial (pittisl)](https://github.com/pittisl/Generative-AI-Tutorial): 一份涵盖神经网络、Transformer、LLM、扩散模型等主题的生成式AI学习路线图
 - [AI-PhD-S26 (rphilipzhang)](https://github.com/rphilipzhang/AI-PhD-S26): 港中文 DOTE 6635 博士课程完整材料，涵盖强化学习、Agentic AI 及商业应用。
+- [claude-architect (timothywarner-org)](https://github.com/timothywarner-org/claude-architect): 面向Claude认证考试的O'Reilly完整课程，涵盖Agent架构、MCP集成及提示工程实战
+- [Notebook-Git-Colab (JonusNattapong)](https://github.com/JonusNattapong/Notebook-Git-Colab): 一份包含25个章节的AI/LLM外部学习资源与演示代码索引目录
 - [AI-Conversation (TyrealQ)](https://github.com/TyrealQ/AI-Conversation): 体育管理领域 AI 应用教程，含 NLP、LLM 及 Agent 实战项目与课程资源。
 - [Complete-GenAI-Course-Python-Langchain (techsimpluslearning)](https://github.com/techsimpluslearning/Complete-GenAI-Course-Python-Langchain): 一个包含45多个视频教程、10个实战项目和完整代码的生成式AI课程资源包。
 - [dspy-code (SuperagenticAI)](https://github.com/SuperagenticAI/dspy-code): 一套包含教程、示例和CLI指南的DSPy开发助手，帮助学习者掌握LLM程序优化与构建。
