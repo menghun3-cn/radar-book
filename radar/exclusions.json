@@ -7783,5 +7783,150 @@
     "id": "danielsobrado/ainovelprompter",
     "reason": "education signal too weak (1 readme terms, 0 lesson files)",
     "excludedAt": "2026-10-01T18:02:43.351Z"
+  },
+  {
+    "id": "urbanophile/awesome-sat-solvers",
+    "reason": "llm: 该仓库是布尔可满足性问题的资源列表，属于纯工具/文档汇总，非AI教学课程。",
+    "excludedAt": "2026-10-01T22:19:47.372Z"
+  },
+  {
+    "id": "mathworks/ev-with-matlab-and-simulink",
+    "reason": "llm: 该仓库为电动汽车工程资源集合，非AI教学主题，不符合AI教程书籍收录标准。",
+    "excludedAt": "2026-10-01T22:19:51.151Z"
+  },
+  {
+    "id": "satyendrabanjare/plt-formal-methods-resources",
+    "reason": "llm: 主题为形式化方法而非AI核心领域，且主要为资源链接集合，非成套教学材料。",
+    "excludedAt": "2026-10-01T22:19:56.405Z"
+  },
+  {
+    "id": "wakoma/offlineai",
+    "reason": "llm: 该仓库为本地/离线 AI 工具资源目录，属于链接聚合，非成套教学课程或书籍。",
+    "excludedAt": "2026-10-01T22:20:00.218Z"
+  },
+  {
+    "id": "nicepkg/aide",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T22:20:08.691Z"
+  },
+  {
+    "id": "waylau/books-collection",
+    "reason": "llm: 仓库为多领域资源链接列表，非独立成套AI教材，且主体非AI教学。",
+    "excludedAt": "2026-10-01T22:20:18.157Z"
+  },
+  {
+    "id": "zerolu/awesome-seedance",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T22:20:25.594Z"
+  },
+  {
+    "id": "griptape-ai/griptape",
+    "reason": "llm: 该仓库是Python开发框架而非教学资料，虽提及外部课程但本身无成套章节",
+    "excludedAt": "2026-10-01T22:20:29.931Z"
+  },
+  {
+    "id": "microsoft/codex-cli",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T22:20:36.555Z"
+  },
+  {
+    "id": "eon01/awesome-chatgpt",
+    "reason": "llm: 该仓库是资源链接列表，非成套课程或教程，不符合收录标准。",
+    "excludedAt": "2026-10-01T22:20:39.704Z"
+  },
+  {
+    "id": "prompt-engineering/click-prompt",
+    "reason": "archived",
+    "excludedAt": "2026-10-01T22:20:39.930Z"
+  },
+  {
+    "id": "uptrain-ai/uptrain",
+    "reason": "llm: 主要为开源评估工具库，非成套教学课程",
+    "excludedAt": "2026-10-01T22:20:43.575Z"
+  },
+  {
+    "id": "denissergeevitch/agents-best-practices",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T22:20:44.383Z"
+  },
+  {
+    "id": "erickwendel/semana-javascript-expert07",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T22:20:45.362Z"
+  },
+  {
+    "id": "lioensky/vcptoolbox",
+    "reason": "education signal too weak (0 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-01T22:20:48.060Z"
+  },
+  {
+    "id": "mattnigh/chatgpt-free-prompt-list",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T22:20:48.984Z"
+  },
+  {
+    "id": "gammalabtechnologies/harmonist",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T22:20:49.884Z"
+  },
+  {
+    "id": "egoalpha/prompt-in-context-learning",
+    "reason": "llm: 该仓库为论文与资源列表集合（Awesome list），非成套教学课程或书籍，不满足结构条件。",
+    "excludedAt": "2026-10-01T22:20:53.760Z"
+  },
+  {
+    "id": "zerolu/awesome-gpt-image",
+    "reason": "llm: 内容为提示词示例集，缺乏系统性课程章节，不符合教学资料标准。",
+    "excludedAt": "2026-10-01T22:20:56.650Z"
+  },
+  {
+    "id": "break-into-data/ai-engineer-toolkit",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T22:20:57.652Z"
+  },
+  {
+    "id": "leoyeai/openclaw-master-skills",
+    "reason": "llm: 这是AI Agent的技能提示词集合，非系统性教程或课程材料，属于工具/资源列表。",
+    "excludedAt": "2026-10-01T22:21:09.413Z"
+  },
+  {
+    "id": "yival/yival",
+    "reason": "llm: 该仓库是自动提示词工程框架/工具，虽有演示Notebook，但本质是软件库而非成套教材或课程。",
+    "excludedAt": "2026-10-01T22:21:22.405Z"
+  },
+  {
+    "id": "jtmuller5/the-hustlegpt-challenge",
+    "reason": "llm: 内容为创业项目案例列表，非教学课程或书籍，缺乏系统性教程章节。",
+    "excludedAt": "2026-10-01T22:21:26.854Z"
+  },
+  {
+    "id": "microsoft/promptcraft-robotics",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T22:21:29.607Z"
+  },
+  {
+    "id": "4thfever/cultivation-world-simulator",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T22:21:31.169Z"
+  },
+  {
+    "id": "innovation-cat/awesome-federated-machine-learning",
+    "reason": "llm: 这是论文、代码和工具链接的汇总列表（Awesome List），并非结构化教学课程或书籍，不满足教学性质与成套章节的要求。",
+    "excludedAt": "2026-10-01T22:21:35.362Z"
+  },
+  {
+    "id": "google/mantis",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T22:21:36.295Z"
+  },
+  {
+    "id": "amazon-science/auto-cot",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-01T22:21:38.590Z"
+  },
+  {
+    "id": "janhq/awesome-local-ai",
+    "reason": "llm: 这是工具链接列表而非教程书籍，无成套章节或课程材料，不符合教学性质要求。",
+    "excludedAt": "2026-10-01T22:21:45.770Z"
   }
 ]

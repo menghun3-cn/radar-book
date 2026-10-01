@@ -92,10 +92,25 @@
 - [easy-tensorflow (easy-tensorflow)](https://github.com/easy-tensorflow/easy-tensorflow): 一套完整的TensorFlow深度学习教育资源，涵盖从环境搭建到卷积神经网络。
 - [Stable-Diffusion (FurkanGozukara)](https://github.com/FurkanGozukara/Stable-Diffusion): 这是一个生成式AI教程合集，涵盖Stable Diffusion等工具的教学视频、代码示例及操作指南。
 - [aicodeguide (automata)](https://github.com/automata/aicodeguide): 一份指导开发者利用LLM进行AI辅助编程的路线图教程，涵盖工具选择与提示词技巧。
+- [generative-ai (genieincodebottle)](https://github.com/genieincodebottle/generative-ai): 提供生成式AI、RAG及Agent成套教程、项目实战与面试准备资源。
+- [HY-Motion-1.0 (Tencent-Hunyuan)](https://github.com/Tencent-Hunyuan/HY-Motion-1.0): 待人工复核后展示。
+- [agentic-ai-prompt-research (Leonxlnx)](https://github.com/Leonxlnx/agentic-ai-prompt-research): 待人工复核后展示。
 - [Getting-Things-Done-with-Pytorch (curiousily)](https://github.com/curiousily/Getting-Things-Done-with-Pytorch): 基于 PyTorch 解决实际问题的深度学习教程，涵盖计算机视觉、NLP 及时间序列实战。
+- [AutonomousDrivingCookbook (microsoft)](https://github.com/microsoft/AutonomousDrivingCookbook): 待人工复核后展示。
+- [drama-skills (zenstory-ai)](https://github.com/zenstory-ai/drama-skills): 待人工复核后展示。
+- [resource-stream (gpu-mode)](https://github.com/gpu-mode/resource-stream): 待人工复核后展示。
 - [TensorFlow-and-DeepLearning-Tutorial (CreatCodeBuild)](https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial): 一套包含TensorFlow基础、全连接及卷积神经网络的深度学习教学课程。
 - [generative-ai-docs (google)](https://github.com/google/generative-ai-docs): Google Gemini API 官方教程仓库，提供快速上手 Notebook 与 Python 示例。
+- [spreadsheet-is-all-you-need (dabochen)](https://github.com/dabochen/spreadsheet-is-all-you-need): 通过交互式电子表格完整还原NanoGPT推理流程，以视觉化方式深度讲解Transformer内部计算机制。
+- [evaluation-guidebook (huggingface)](https://github.com/huggingface/evaluation-guidebook): Hugging Face 发布的 LLM 评估指南，涵盖自动基准、人类评估及 LLM 作为评判者的理论与实战技巧。
+- [Interactive-Tutorials (4GeeksAcademy)](https://github.com/4GeeksAcademy/Interactive-Tutorials): 待人工复核后展示。
+- [Neurite (satellitecomponent)](https://github.com/satellitecomponent/Neurite): 待人工复核后展示。
+- [pytorch-cpp (prabhuomkar)](https://github.com/prabhuomkar/pytorch-cpp): 待人工复核后展示。
+- [ChatGPT-Prompt-Engineering-for-Developers-in-Chinese (GitHubDaily)](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese): 待人工复核后展示。
+- [TensorFlow-Tutorials (golbin)](https://github.com/golbin/TensorFlow-Tutorials): 待人工复核后展示。
+- [awesome-seedance-2-prompts (YouMind-OpenLab)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts): 待人工复核后展示。
 - [langchain-kr (teddylee777)](https://github.com/teddylee777/langchain-kr): LangChain韩文教程，含分章Notebook与实用案例。
+- [ai-creator-academy (Anil-matcha)](https://github.com/Anil-matcha/ai-creator-academy): 面向创作者的生成式AI变现课程，含多轨多模块教程。
 - [data-science-complete-tutorial (edyoda)](https://github.com/edyoda/data-science-complete-tutorial): 涵盖16节课程和8个案例的数据科学与机器学习教程，包含代码与项目实战。
 - [Large-Language-Model-Notebooks-Course (peremartra)](https://github.com/peremartra/Large-Language-Model-Notebooks-Course): 基于Apress书籍的LLM实战课程，涵盖LangChain、微调及评估等核心技术。
 - [edgeai-for-beginners (microsoft)](https://github.com/microsoft/edgeai-for-beginners): 微软出品的边缘AI入门课程，涵盖SLM优化、本地部署及多智能体实战，含交互式教程。
@@ -214,19 +229,15 @@
 - [Complete-GenAI-Course-Python-Langchain (techsimpluslearning)](https://github.com/techsimpluslearning/Complete-GenAI-Course-Python-Langchain): 一个包含45多个视频教程、10个实战项目和完整代码的生成式AI课程资源包。
 - [dspy-code (SuperagenticAI)](https://github.com/SuperagenticAI/dspy-code): 一套包含教程、示例和CLI指南的DSPy开发助手，帮助学习者掌握LLM程序优化与构建。
 - [Seeed_Studio_Courses (Seeed-Studio)](https://github.com/Seeed-Studio/Seeed_Studio_Courses): Seeed Studio的Edge AI与TinyML课程，结合Jetson和Wio Terminal硬件讲解AI部署。
-- [XAI-Tutorials (HelmholtzAI-Consultants-Munich)](https://github.com/HelmholtzAI-Consultants-Munich/XAI-Tutorials): 待人工复核后展示。
+- [XAI-Tutorials (HelmholtzAI-Consultants-Munich)](https://github.com/HelmholtzAI-Consultants-Munich/XAI-Tutorials): 赫尔姆霍兹AI顾问提供的可解释AI互动教程，涵盖SHAP、Grad-CAM等方法的理论与实操。
 - [doc-adk-training (mauripsale)](https://github.com/mauripsale/doc-adk-training): 基于Google ADK的40模块AI Agent开发实战培训教程
-- [Trilha-de-Estudos-de-Data-Science (HinePo)](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science): 待人工复核后展示。
+- [Trilha-de-Estudos-de-Data-Science (HinePo)](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science): 涵盖数据科学各领域学习路线与优质资源推荐
 - [ontology-tutorial (bio-ontology-research-group)](https://github.com/bio-ontology-research-group/ontology-tutorial): 面向计算生物学的中级教程，讲解本体学基础、语义相似度计算及其在机器学习中的应用。
-- [awesome-sat-solvers (urbanophile)](https://github.com/urbanophile/awesome-sat-solvers): 待人工复核后展示。
-- [EV-with-MATLAB-and-Simulink (mathworks)](https://github.com/mathworks/EV-with-MATLAB-and-Simulink): 待人工复核后展示。
 - [DeepLearning-Gdansk2019-tutorial (rasbt)](https://github.com/rasbt/DeepLearning-Gdansk2019-tutorial): 2019年深度学习暑期学校教程，系统讲解序数回归与PyTorch实现
 - [zero-to-ai (PavanMudigonda)](https://github.com/PavanMudigonda/zero-to-ai): 免费在线AI/ML课程，含33个阶段950+笔记本，覆盖Python至LLM Agent全流程。
 - [ai-for-javascript-course (thestriver)](https://github.com/thestriver/ai-for-javascript-course): 面向JS开发者的AI应用开发开源课程，含LLM与提示工程实战项目。
-- [plt-formal-methods-resources (SatyendraBanjare)](https://github.com/SatyendraBanjare/plt-formal-methods-resources): 待人工复核后展示。
 - [oreilly-ai-k8s-tutorial (dwhitena)](https://github.com/dwhitena/oreilly-ai-k8s-tutorial): O'Reilly教程材料，指导在K8s上部署端到端AI工作流。
-- [OfflineAI (Wakoma)](https://github.com/Wakoma/OfflineAI): 待人工复核后展示。
-- [programming-in-python (widmi)](https://github.com/widmi/programming-in-python): 待人工复核后展示。
+- [programming-in-python (widmi)](https://github.com/widmi/programming-in-python): 面向初学者的Python机器学习交互式课程，涵盖基础语法至PyTorch神经网络实战
 - [mlx-llm-tutorial (ddttom)](https://github.com/ddttom/mlx-llm-tutorial): 基于Apple MLX框架的LLM构建教程，含理论与代码实践
 - [stable-diffusion-model-tutorial (azad-academy)](https://github.com/azad-academy/stable-diffusion-model-tutorial): 一份关于潜在扩散模型（Stable Diffusion）的简易交互式教程及 Jupyter Notebook。
 - [Machine-Learning (dr-mushtaq)](https://github.com/dr-mushtaq/Machine-Learning): 包含Python机器学习算法实现、特征选择及统计方法的完整A-Z教程与练习
