@@ -7928,5 +7928,190 @@
     "id": "janhq/awesome-local-ai",
     "reason": "llm: 这是工具链接列表而非教程书籍，无成套章节或课程材料，不符合教学性质要求。",
     "excludedAt": "2026-10-01T22:21:45.770Z"
+  },
+  {
+    "id": "tencent-hunyuan/hy-motion-1.0",
+    "reason": "llm: 该仓库为模型推理代码与部署工具，非教学课程或成套章节材料",
+    "excludedAt": "2026-10-02T02:55:30.866Z"
+  },
+  {
+    "id": "leonxlnx/agentic-ai-prompt-research",
+    "reason": "llm: 该仓库为逆向工程研究文档，包含系统提示词参考和架构分析，非系统性教学课程。",
+    "excludedAt": "2026-10-02T02:55:37.552Z"
+  },
+  {
+    "id": "zenstory-ai/drama-skills",
+    "reason": "llm: 为 AI 短剧创作工具/技能包，属生产工具而非课程或教程，不满足教学性质条件。",
+    "excludedAt": "2026-10-02T02:55:45.771Z"
+  },
+  {
+    "id": "4geeksacademy/interactive-tutorials",
+    "reason": "llm: 该仓库主要为通用编程（HTML/JS/Python）教程索引，AI 内容极少且非核心主题",
+    "excludedAt": "2026-10-02T02:55:56.005Z"
+  },
+  {
+    "id": "satellitecomponent/neurite",
+    "reason": "llm: 这是一个AI思维导图/多智能体交互工具，而非教学课程或书籍，不符合收录标准。",
+    "excludedAt": "2026-10-02T02:56:00.347Z"
+  },
+  {
+    "id": "angel291592/intent-router",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:57:26.536Z"
+  },
+  {
+    "id": "omerbsezer/fast-pytorch",
+    "reason": "archived",
+    "excludedAt": "2026-10-02T02:57:31.124Z"
+  },
+  {
+    "id": "cjyyx/ai_gen_novel",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:57:31.831Z"
+  },
+  {
+    "id": "tizzy916/humanities-writing-companion",
+    "reason": "llm: 该仓库是一个用于辅助写作的人文科 Agent 技能工具，属于纯工具而非教学课程或书籍。",
+    "excludedAt": "2026-10-02T02:58:14.658Z"
+  },
+  {
+    "id": "devcxl/mattpocock-skills-zh",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:58:15.502Z"
+  },
+  {
+    "id": "kimtth/azure-openai-llm-notes",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:58:16.315Z"
+  },
+  {
+    "id": "evolinkai/awesome-seedance-2.5-guide",
+    "reason": "llm: 内容主要为工具演示和API调用示例，缺乏系统性的教程章节，不符合教学书籍标准",
+    "excludedAt": "2026-10-02T02:58:24.113Z"
+  },
+  {
+    "id": "gsuuon/model.nvim",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:58:50.596Z"
+  },
+  {
+    "id": "rockbite/localforge",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:58:51.462Z"
+  },
+  {
+    "id": "kkkkhazix/sun-style-writing",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:58:52.183Z"
+  },
+  {
+    "id": "sahith02/machine-learning-algorithms",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:58:53.074Z"
+  },
+  {
+    "id": "rediumvex/ai-video-generator-claude",
+    "reason": "llm: 这是特定工具（Seedance/Higgsfield）的提示词模板集，属于工具/示例集，非系统性课程书籍。",
+    "excludedAt": "2026-10-02T02:58:58.737Z"
+  },
+  {
+    "id": "trigaten/the_prompt_report",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:59:05.351Z"
+  },
+  {
+    "id": "b1lli/billygpt",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:59:15.554Z"
+  },
+  {
+    "id": "tensoropsai/llmstudio",
+    "reason": "llm: 核心为LLM代理框架工具，示例仅作API演示，非系统性教学课程或书籍。",
+    "excludedAt": "2026-10-02T02:59:20.536Z"
+  },
+  {
+    "id": "backnotprop/prompt-tower",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:59:21.326Z"
+  },
+  {
+    "id": "clduab11/gemini-flow",
+    "reason": "archived",
+    "excludedAt": "2026-10-02T02:59:21.579Z"
+  },
+  {
+    "id": "mrwogu/promptscript",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:59:22.712Z"
+  },
+  {
+    "id": "hannesfrank/awesome-remnote",
+    "reason": "llm: 主要聚焦于 RemNote 工具使用与资源链接，而非 AI/ML 系统性教学课程或书籍。",
+    "excludedAt": "2026-10-02T02:59:31.166Z"
+  },
+  {
+    "id": "zmedelis/bosquet",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:59:32.216Z"
+  },
+  {
+    "id": "socialpranker/deepdive",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:59:33.013Z"
+  },
+  {
+    "id": "aws-samples/amazon-neptune-samples",
+    "reason": "llm: 内容为图数据库实操示例，非结构化 AI/LLM 课程体系。",
+    "excludedAt": "2026-10-02T02:59:36.076Z"
+  },
+  {
+    "id": "anbeeld/writing.md",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:59:36.743Z"
+  },
+  {
+    "id": "design-edit/designedit",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:59:37.581Z"
+  },
+  {
+    "id": "yunwei37/prompt-hacker-collections",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:59:38.573Z"
+  },
+  {
+    "id": "pkmital/pycadl",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:59:39.347Z"
+  },
+  {
+    "id": "bayue-syj/shuixian-prompts",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:59:40.172Z"
+  },
+  {
+    "id": "shroominic/codebox-api",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:59:40.973Z"
+  },
+  {
+    "id": "nerority/advanced-gpts",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:59:41.793Z"
+  },
+  {
+    "id": "devswha/patina",
+    "reason": "llm: 这是一个用于改写文本以模拟人写作的AI工具，而非教学课程或书籍",
+    "excludedAt": "2026-10-02T02:59:49.293Z"
+  },
+  {
+    "id": "maitrix-org/promptagent",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:59:54.198Z"
+  },
+  {
+    "id": "hi0001234d/nexpath",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T02:59:55.160Z"
   }
 ]

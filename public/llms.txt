@@ -93,21 +93,16 @@
 - [Stable-Diffusion (FurkanGozukara)](https://github.com/FurkanGozukara/Stable-Diffusion): 这是一个生成式AI教程合集，涵盖Stable Diffusion等工具的教学视频、代码示例及操作指南。
 - [aicodeguide (automata)](https://github.com/automata/aicodeguide): 一份指导开发者利用LLM进行AI辅助编程的路线图教程，涵盖工具选择与提示词技巧。
 - [generative-ai (genieincodebottle)](https://github.com/genieincodebottle/generative-ai): 提供生成式AI、RAG及Agent成套教程、项目实战与面试准备资源。
-- [HY-Motion-1.0 (Tencent-Hunyuan)](https://github.com/Tencent-Hunyuan/HY-Motion-1.0): 待人工复核后展示。
-- [agentic-ai-prompt-research (Leonxlnx)](https://github.com/Leonxlnx/agentic-ai-prompt-research): 待人工复核后展示。
 - [Getting-Things-Done-with-Pytorch (curiousily)](https://github.com/curiousily/Getting-Things-Done-with-Pytorch): 基于 PyTorch 解决实际问题的深度学习教程，涵盖计算机视觉、NLP 及时间序列实战。
-- [AutonomousDrivingCookbook (microsoft)](https://github.com/microsoft/AutonomousDrivingCookbook): 待人工复核后展示。
-- [drama-skills (zenstory-ai)](https://github.com/zenstory-ai/drama-skills): 待人工复核后展示。
-- [resource-stream (gpu-mode)](https://github.com/gpu-mode/resource-stream): 待人工复核后展示。
+- [AutonomousDrivingCookbook (microsoft)](https://github.com/microsoft/AutonomousDrivingCookbook): 微软推出的自动驾驶教程，提供端到端深度学习与强化学习实战Notebook。
+- [resource-stream (gpu-mode)](https://github.com/gpu-mode/resource-stream): 一个汇集CUDA、Triton及GPU性能优化相关课程、书籍和资源的导航仓库。
 - [TensorFlow-and-DeepLearning-Tutorial (CreatCodeBuild)](https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial): 一套包含TensorFlow基础、全连接及卷积神经网络的深度学习教学课程。
 - [generative-ai-docs (google)](https://github.com/google/generative-ai-docs): Google Gemini API 官方教程仓库，提供快速上手 Notebook 与 Python 示例。
 - [spreadsheet-is-all-you-need (dabochen)](https://github.com/dabochen/spreadsheet-is-all-you-need): 通过交互式电子表格完整还原NanoGPT推理流程，以视觉化方式深度讲解Transformer内部计算机制。
 - [evaluation-guidebook (huggingface)](https://github.com/huggingface/evaluation-guidebook): Hugging Face 发布的 LLM 评估指南，涵盖自动基准、人类评估及 LLM 作为评判者的理论与实战技巧。
-- [Interactive-Tutorials (4GeeksAcademy)](https://github.com/4GeeksAcademy/Interactive-Tutorials): 待人工复核后展示。
-- [Neurite (satellitecomponent)](https://github.com/satellitecomponent/Neurite): 待人工复核后展示。
-- [pytorch-cpp (prabhuomkar)](https://github.com/prabhuomkar/pytorch-cpp): 待人工复核后展示。
-- [ChatGPT-Prompt-Engineering-for-Developers-in-Chinese (GitHubDaily)](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese): 待人工复核后展示。
-- [TensorFlow-Tutorials (golbin)](https://github.com/golbin/TensorFlow-Tutorials): 待人工复核后展示。
+- [pytorch-cpp (prabhuomkar)](https://github.com/prabhuomkar/pytorch-cpp): 用 C++ 实现 PyTorch 经典教程，涵盖基础到高级神经网络模型训练。
+- [ChatGPT-Prompt-Engineering-for-Developers-in-Chinese (GitHubDaily)](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese): 收录 DeepLearning.AI 提示词工程官方课程笔记及中英双语字幕，适合开发者系统学习 LLM 应用。
+- [TensorFlow-Tutorials (golbin)](https://github.com/golbin/TensorFlow-Tutorials): 配套书籍的 TensorFlow 深度学习教程代码，涵盖从基础到 GAN、DQN 等 12 个章节。
 - [awesome-seedance-2-prompts (YouMind-OpenLab)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts): 待人工复核后展示。
 - [langchain-kr (teddylee777)](https://github.com/teddylee777/langchain-kr): LangChain韩文教程，含分章Notebook与实用案例。
 - [ai-creator-academy (Anil-matcha)](https://github.com/Anil-matcha/ai-creator-academy): 面向创作者的生成式AI变现课程，含多轨多模块教程。
@@ -157,11 +152,19 @@
 - [hls4ml-tutorial (fastmachinelearning)](https://github.com/fastmachinelearning/hls4ml-tutorial): 一套关于使用hls4ml将机器学习模型部署到FPGA的交互教程，包含从模型训练到硬件综合的完整章节。
 - [machine-learning-repos (recodehive)](https://github.com/recodehive/machine-learning-repos): 收录机器学习理论、数学基础、框架教程及多个实战项目代码的综合性学习资料库。
 - [start-ai-engineering (louisfb01)](https://github.com/louisfb01/start-ai-engineering): 一份面向初学者的全面AI工程入门指南，包含视频、书籍及实战项目
+- [Prysai-LLM-Playbook (Prysai)](https://github.com/Prysai/Prysai-LLM-Playbook): 一套结构化的LLM实践教程，包含核心课程、多语言章节及验证练习，旨在掌握提示工程与AI代理。
 - [Awesome-Agentic-Clinical-Dialogue (xqz614)](https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue): 面向医疗对话领域的AI Agent教程与课程资源集合，含微调实践
+- [lanshu-awesome-ai-video-kit (cclank)](https://github.com/cclank/lanshu-awesome-ai-video-kit): 涵盖15个主流视频模型与21篇SOP的AI视频提示词工程实战教程库。
+- [ms-cookbook (modelscope)](https://github.com/modelscope/ms-cookbook): 面向开发者的开源模型应用实战指南，包含35章完整教程。
+- [opencode-primer (wesammustafa)](https://github.com/wesammustafa/opencode-primer): OpenCode开源AI编码代理的完整入门指南，含设置、提示工程与插件教程。
+- [llms (IbrahimSobh)](https://github.com/IbrahimSobh/llms): 涵盖LLM理论、GPT/BERT实践及RAG的交互式教程
 - [RNA-FM (ml4bio)](https://github.com/ml4bio/RNA-FM): RNA-FM模型官方教程库，涵盖从环境配置到UTR功能预测模型实现的完整学习路径。
+- [Learn-Prompt-Hacking (TrustAI-laboratory)](https://github.com/TrustAI-laboratory/Learn-Prompt-Hacking): 综合性提示词工程与LLM安全教程，含基础到攻击实战
 - [Kind-PyTorch-Tutorial (GunhoChoi)](https://github.com/GunhoChoi/Kind-PyTorch-Tutorial): 面向初学者的PyTorch系统性教程，包含12个章节，涵盖张量、自动求导、CNN及GAN等内容。
 - [MachineLearningRoadmap (justxor)](https://github.com/justxor/MachineLearningRoadmap): 面向俄语社区的全面机器学习学习路线图，涵盖从基础到LLM开发的七个阶段及实践任务。
+- [agentic-ai-engineering (agenticloops-ai)](https://github.com/agenticloops-ai/agentic-ai-engineering): 一套从零构建AI Agent的实战教程，覆盖LLM调用、提示工程、Agent循环及评估测试。
 - [llm-course-chn (friendmine)](https://github.com/friendmine/llm-course-chn): mlabonne《LLM Course》的中文授权翻译，覆盖 LLM 基础、LLM Scientist 与 LLM Engineer 三部分。
+- [AIPM-Wiki (archlizheng)](https://github.com/archlizheng/AIPM-Wiki): 一套针对AI产品经理的系统化知识库，包含学习路线、案例拆解及面试题库。
 - [Comprehensive-Data-Science-AI-Project-Portfolio (MelihGulum)](https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio): 涵盖ML、DL、数据工程等主题的教学项目与教程合集
 - [Robotics-Object-Pose-Estimation (Unity-Technologies)](https://github.com/Unity-Technologies/Robotics-Object-Pose-Estimation): 通过Unity与ROS演示对象姿态估计从数据到部署的全流程教程。
 - [ai-agent-camp (minicoohei)](https://github.com/minicoohei/ai-agent-camp): 面向非技术背景人员的AI Agent实战培训体系，含62章课程与多工具实操。
