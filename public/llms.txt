@@ -189,11 +189,11 @@
 - [tutorial (SalvatoreRa)](https://github.com/SalvatoreRa/tutorial): 面向 AI、机器学习和数据科学的教程合集，覆盖计算机视觉、NLP 与生物医学案例，配套 Python/R 与 Notebook。
 - [rl-handbook (lubludrova)](https://github.com/lubludrova/rl-handbook): 一份系统讲解强化学习算法与代码的实践型教科书，从基础到高级。
 - [awesome-agent-evolution (Shiyao-Huang)](https://github.com/Shiyao-Huang/awesome-agent-evolution): 面向 AI Agent 自进化领域的开放 Survey 与教材式课程资料库
+- [claude-code-pro-course (justxor)](https://github.com/justxor/claude-code-pro-course): 俄语Claude Code高级实战课程，涵盖代理配置、实验及提示工程。
 - [Diffusion_models_tutorial (FilippoMB)](https://github.com/FilippoMB/Diffusion_models_tutorial): 一套完整的扩散模型教程，涵盖理论、从零实现代码、Stable Diffusion 脚本及提示工程指南。
 - [Neural-Networks-from-Scratch (lionelmessi6410)](https://github.com/lionelmessi6410/Neural-Networks-from-Scratch): 基于NumPy从零构建神经网络的基础教程，涵盖架构、反向传播及优化器实现。
 - [prompt-engineering-skills (treylom)](https://github.com/treylom/prompt-engineering-skills): 涵盖多模型提示词工程策略与实战指南的结构化教学资源
 - [llm-course-lecture (NJUDeepEngine)](https://github.com/NJUDeepEngine/llm-course-lecture): 南京大学大语言模型基础课程，含完整讲义、代码Notebook及作业，从零实现LLM核心组件
-- [claude-code-pro-course (justxor)](https://github.com/justxor/claude-code-pro-course): 俄语Claude Code高级实战课程，涵盖代理配置、实验及提示工程。
 - [AtomisticSkills (learningmatter-mit)](https://github.com/learningmatter-mit/AtomisticSkills): MIT开发的原子模拟AI代理技能框架，提供层级化教程以自动化材料研究。
 - [kdd2021-tutorial (causal-machine-learning)](https://github.com/causal-machine-learning/kdd2021-tutorial): KDD 2021因果推断与机器学习实战教程，含EconML/CausalML案例。
 - [gtm (gtm-skills)](https://github.com/gtm-skills/gtm): AI销售Agent工具包，包含教程、MCP服务器和提示词。
@@ -259,3 +259,10 @@
 - [agentic-loop-engineering-course (FareedKhan-dev)](https://github.com/FareedKhan-dev/agentic-loop-engineering-course): 一套18个Notebook的Agent循环工程实战课程，基于实测数据解析LLM组件优化。
 - [tf2-tutorial (Alireza-Akhavan)](https://github.com/Alireza-Akhavan/tf2-tutorial): TensorFlow 2与Keras入门进阶教程，含MNIST实战及数据管道详解。
 - [sktime-tutorial-pydata-global-2021 (sktime)](https://github.com/sktime/sktime-tutorial-pydata-global-2021): sktime时序机器学习框架的PyData会议实战教程
+- [copilot-agents-dojo (andreaswasita)](https://github.com/andreaswasita/copilot-agents-dojo): Copilot 智能体纪律框架，提供互动式教程、技能系统及工作流。
+- [quiron (ilien-dev)](https://github.com/ilien-dev/quiron): 待人工复核后展示。
+- [claude-code-docs (costiash)](https://github.com/costiash/claude-code-docs): 待人工复核后展示。
+- [LLM-Agents-for-Simulation (giammy677dev)](https://github.com/giammy677dev/LLM-Agents-for-Simulation): 待人工复核后展示。
+- [SKILLS_All-in-one (eric861129)](https://github.com/eric861129/SKILLS_All-in-one): 待人工复核后展示。
+- [claude-for-researchers (Mexregkan)](https://github.com/Mexregkan/claude-for-researchers): 待人工复核后展示。
+- [ai-agent-architecture (Drobiazkin)](https://github.com/Drobiazkin/ai-agent-architecture): 一本关于构建可控LLM系统的开源工程书籍及实操课程，涵盖架构、RAG、Agent及模型部署。

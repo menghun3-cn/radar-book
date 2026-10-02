@@ -8463,5 +8463,170 @@
     "id": "davidlequnchen/vlm-cadfeaturerecognition",
     "reason": "llm: 该仓库是学术论文的代码复现，侧重研究实验与工具演示，缺乏系统化的教学章节或课程体系。",
     "excludedAt": "2026-10-02T17:04:39.334Z"
+  },
+  {
+    "id": "muhammadsalek/python-data-science-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-02T21:40:56.892Z"
+  },
+  {
+    "id": "0xor0ne/awesome-list",
+    "reason": "llm: 内容是网络安全工具与文章聚合列表，非AI系统教学课程",
+    "excludedAt": "2026-10-02T21:41:00.406Z"
+  },
+  {
+    "id": "cavo789/vscode_tips",
+    "reason": "llm: 内容是VS Code编辑器使用教程，不属于AI/机器学习等指定主题范畴。",
+    "excludedAt": "2026-10-02T21:41:04.314Z"
+  },
+  {
+    "id": "pndy/gamedev-list",
+    "reason": "llm: 内容为游戏开发资源链接列表，非AI/ML教学课程或书籍，不符合收录条件。",
+    "excludedAt": "2026-10-02T21:41:08.350Z"
+  },
+  {
+    "id": "agricidaniel/anti-slop",
+    "reason": "llm: 该仓库是用于检测AI生成缺陷的工程工具插件，并非包含成套章节的教学课程或书籍。",
+    "excludedAt": "2026-10-02T21:41:11.602Z"
+  },
+  {
+    "id": "gmh5225/awesome-ai-security",
+    "reason": "llm: 仓库为资源链接列表，非成套教学课程或书籍，不满足结构条件。",
+    "excludedAt": "2026-10-02T21:41:14.627Z"
+  },
+  {
+    "id": "teradata-labs/loom",
+    "reason": "llm: 该仓库为Go语言LLM多智能体框架，属于生产级开发工具，非教学课程或书籍。",
+    "excludedAt": "2026-10-02T21:41:18.638Z"
+  },
+  {
+    "id": "siberpone/lazy-pony-prompter",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:41:23.515Z"
+  },
+  {
+    "id": "kaka-cheaper/codesee",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:41:25.367Z"
+  },
+  {
+    "id": "apurvrdx1/tagore",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:41:26.291Z"
+  },
+  {
+    "id": "outlinedriven/outline-driven-development",
+    "reason": "llm: 这是 AI 编码方法论文档与工具集，非系统性教学课程或书籍",
+    "excludedAt": "2026-10-02T21:41:29.523Z"
+  },
+  {
+    "id": "balavenkatesh3322/free-ai-certification",
+    "reason": "llm: 仅是认证链接列表和工具，非成套教学课程材料",
+    "excludedAt": "2026-10-02T21:41:32.886Z"
+  },
+  {
+    "id": "adykalra/awesome-of-awesomes",
+    "reason": "llm: 该仓库是通用的技术资源链接聚合列表，非成套AI教程，且AI内容占比极小。",
+    "excludedAt": "2026-10-02T21:41:39.968Z"
+  },
+  {
+    "id": "alkwbfkagbfcagib/claude-cli-mcp-bridge",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:41:40.994Z"
+  },
+  {
+    "id": "llliao1113/zcode-plus",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:41:42.000Z"
+  },
+  {
+    "id": "ebringelvissanchez/image-ai-generator-2026",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:41:42.841Z"
+  },
+  {
+    "id": "rasros/lx",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:41:43.662Z"
+  },
+  {
+    "id": "wassermanproductions/scriptbreak",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:41:44.689Z"
+  },
+  {
+    "id": "xqlin98/instinct",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:41:45.513Z"
+  },
+  {
+    "id": "yigitkonur/cli-repo-to-prompt",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:41:48.897Z"
+  },
+  {
+    "id": "iapro-community/orquestrador-maestro",
+    "reason": "education signal too weak (1 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-02T21:41:49.818Z"
+  },
+  {
+    "id": "xiyu519/motionvault",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:41:51.943Z"
+  },
+  {
+    "id": "guwidoe/pi-prompt-suggester",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:41:54.278Z"
+  },
+  {
+    "id": "sugarcane-ai/sugarcane-ai",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:41:55.069Z"
+  },
+  {
+    "id": "delphicleancode/delphi-spec-kit",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:41:55.892Z"
+  },
+  {
+    "id": "jiemianduan/poster-style-transfer",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:41:57.888Z"
+  },
+  {
+    "id": "liqiongyu/lenny_skills_plus",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:41:58.729Z"
+  },
+  {
+    "id": "sorbh/interview-me",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:42:01.027Z"
+  },
+  {
+    "id": "radekamirko/c.r.i.s.p",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:42:01.971Z"
+  },
+  {
+    "id": "ariffazil/arifos",
+    "reason": "llm: 这是 AI 治理工具内核，非教学课程",
+    "excludedAt": "2026-10-02T21:42:10.164Z"
+  },
+  {
+    "id": "amair-lab/piflow",
+    "reason": "education signal too weak (2 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-02T21:42:15.222Z"
+  },
+  {
+    "id": "dimitrigilbert/litechat",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T21:42:16.108Z"
+  },
+  {
+    "id": "ibm/watsonx-ai-platform-demos",
+    "reason": "archived",
+    "excludedAt": "2026-10-02T21:42:16.319Z"
   }
 ]
