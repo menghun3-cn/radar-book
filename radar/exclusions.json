@@ -8288,5 +8288,180 @@
     "id": "ai-in-transportation-lab/awesome-tinyml",
     "reason": "llm: 该仓库是 Awesome 类型的资源列表，主要聚合外部链接，缺乏成套课程材料或系统性教学章节结构。",
     "excludedAt": "2026-10-02T11:46:09.918Z"
+  },
+  {
+    "id": "taskade/awesome-vibe-coding",
+    "reason": "llm: 资源列表（Awesome List），非结构化课程或书籍。",
+    "excludedAt": "2026-10-02T17:02:59.079Z"
+  },
+  {
+    "id": "skymanbp/cc-tree",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:00.072Z"
+  },
+  {
+    "id": "devbrones/llama-prompts",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:01.044Z"
+  },
+  {
+    "id": "simota/agent-skills",
+    "reason": "llm: 该仓库是90个专用AI Agent的工具包和技能集，用于开发协作，而非提供教学课程、教程或书籍内容，不符合收录标准。",
+    "excludedAt": "2026-10-02T17:03:07.082Z"
+  },
+  {
+    "id": "lennonkc/ai-tools-map",
+    "reason": "llm: 这是 AI 工具链接目录，非教学课程或书籍，不符合收录标准。",
+    "excludedAt": "2026-10-02T17:03:11.968Z"
+  },
+  {
+    "id": "ooocooc/open-skill-sunset",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:19.037Z"
+  },
+  {
+    "id": "nelsonwerd/idea-to-ship-skills",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:20.258Z"
+  },
+  {
+    "id": "promptmixerdev/prompt-mixer-app-ce",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:21.561Z"
+  },
+  {
+    "id": "pleasedodisturb/awesome-llm-token-optimization",
+    "reason": "llm: 该仓库为资源链接列表（Awesome List），非成套教学课程或书籍，不满足结构要求。",
+    "excludedAt": "2026-10-02T17:03:25.499Z"
+  },
+  {
+    "id": "study8677/architecture-copilot",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:26.474Z"
+  },
+  {
+    "id": "ischca/awesome-agents-md",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:27.546Z"
+  },
+  {
+    "id": "jarvispei/scope",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:28.368Z"
+  },
+  {
+    "id": "fanzr-arch/phil-design-skills",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:29.203Z"
+  },
+  {
+    "id": "yanpengqi7/ai-reliability-copilot",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:30.271Z"
+  },
+  {
+    "id": "itsjwill/gsd-pro",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:31.149Z"
+  },
+  {
+    "id": "moonlin1213/muted-zine-poster-v01",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:31.911Z"
+  },
+  {
+    "id": "anthonystepvoy/caveman-opencode",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:32.812Z"
+  },
+  {
+    "id": "kddubey/cappr",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:33.725Z"
+  },
+  {
+    "id": "work-fisher/reference-first-motion-director",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:34.806Z"
+  },
+  {
+    "id": "chengzhi-c/natural-talk",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:35.751Z"
+  },
+  {
+    "id": "parea-ai/parea-sdk-py",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:36.736Z"
+  },
+  {
+    "id": "gy-hou/karp-wiki",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:37.518Z"
+  },
+  {
+    "id": "fishsb/dsh-prompt-enhancer",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:38.433Z"
+  },
+  {
+    "id": "ga642381/speechprompt-v2",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:39.714Z"
+  },
+  {
+    "id": "seojoonkim/agentlinter",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:41.672Z"
+  },
+  {
+    "id": "obrenoalvim/zero-drift",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:42.799Z"
+  },
+  {
+    "id": "geekjourneyx/awesome-ai-video-prompts",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:03:57.306Z"
+  },
+  {
+    "id": "fofr/comfyui-prompter-fofrai",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:04:17.913Z"
+  },
+  {
+    "id": "ramonguthrie/comfyui-rbg-smartseedvariance",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:04:18.953Z"
+  },
+  {
+    "id": "securelayer7/promptpurify",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:04:19.827Z"
+  },
+  {
+    "id": "ruashots/open-h3-ir",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:04:20.783Z"
+  },
+  {
+    "id": "mushroomfleet/djz-nodes",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:04:28.761Z"
+  },
+  {
+    "id": "tensormux/kernel-skills",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:04:29.808Z"
+  },
+  {
+    "id": "obsfx/trekker",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-02T17:04:30.800Z"
+  },
+  {
+    "id": "davidlequnchen/vlm-cadfeaturerecognition",
+    "reason": "llm: 该仓库是学术论文的代码复现，侧重研究实验与工具演示，缺乏系统化的教学章节或课程体系。",
+    "excludedAt": "2026-10-02T17:04:39.334Z"
   }
 ]
