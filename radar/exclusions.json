@@ -8778,5 +8778,195 @@
     "id": "open-source-legal/opencontracts",
     "reason": "llm: not verified",
     "excludedAt": "2026-10-03T02:54:14.589Z"
+  },
+  {
+    "id": "openmindclub/awesome-chatgpt",
+    "reason": "llm: 该仓库为资源链接汇总列表（Awesome List），非结构化教学课程或书籍，不满足教学性质与成套章节要求。",
+    "excludedAt": "2026-10-03T10:55:31.010Z"
+  },
+  {
+    "id": "code-with-beto/snapai",
+    "reason": "llm: SnapAI是图标生成CLI工具，非教学课程或教程内容",
+    "excludedAt": "2026-10-03T10:55:37.713Z"
+  },
+  {
+    "id": "snwfdhmp/awesome-gpt-prompt-engineering",
+    "reason": "llm: 属于资源导航列表（Awesome List），仅汇总外部链接，非自成体系的教学课程或书籍。",
+    "excludedAt": "2026-10-03T10:55:49.278Z"
+  },
+  {
+    "id": "dreambigou/eli5",
+    "reason": "llm: 这是一个Claude Code技能工具，非成套教学材料，不符合收录条件。",
+    "excludedAt": "2026-10-03T10:56:01.790Z"
+  },
+  {
+    "id": "andresvourakis/data-scientist-handbook",
+    "reason": "llm: 内容仅为资源链接汇总，非成套课程或教程材料",
+    "excludedAt": "2026-10-03T10:56:26.758Z"
+  },
+  {
+    "id": "alphatrait/100000-ai-prompts-by-contentifyai",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T10:57:25.752Z"
+  },
+  {
+    "id": "momegas/megabots",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T10:57:26.453Z"
+  },
+  {
+    "id": "context-hub/generator",
+    "reason": "llm: 仓库为MCP上下文管理工具，非教学课程或书籍，不符合收录标准",
+    "excludedAt": "2026-10-03T10:57:32.310Z"
+  },
+  {
+    "id": "geffzhang/awesome-semantickernel",
+    "reason": "llm: 这是资源链接汇总列表（Awesome List），非成套教学课程或书籍结构",
+    "excludedAt": "2026-10-03T10:57:42.734Z"
+  },
+  {
+    "id": "awekrx/chatgpt-midjourney-prompt",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T10:57:43.416Z"
+  },
+  {
+    "id": "roboflow/dji-aerial-georeferencing",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T10:57:44.123Z"
+  },
+  {
+    "id": "inhouseseo/superseo-skills",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T10:57:44.766Z"
+  },
+  {
+    "id": "kydlikebtc/awesome-grokbot",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T10:57:45.368Z"
+  },
+  {
+    "id": "vibe-log/vibe-log-cli",
+    "reason": "llm: 该仓库是CLI分析工具，非教学性质的课程、教程或书籍材料。",
+    "excludedAt": "2026-10-03T10:57:49.054Z"
+  },
+  {
+    "id": "marketingjuliancongdanh79-pixel/skill-generator",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T10:57:49.726Z"
+  },
+  {
+    "id": "nickpittas/directorsconsole",
+    "reason": "llm: 该仓库是用于电影制作的Web应用程序，非教学材料。",
+    "excludedAt": "2026-10-03T10:58:06.413Z"
+  },
+  {
+    "id": "dicklesworthstone/acip",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T10:58:07.194Z"
+  },
+  {
+    "id": "toxtli/awesome-machine-learning-jupyter-notebooks-for-colab",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T10:58:53.847Z"
+  },
+  {
+    "id": "mlops-guide/mlops-guide.github.io",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-03T10:58:54.630Z"
+  },
+  {
+    "id": "github-education-resources/teacher-toolbox",
+    "reason": "llm: 资源链接集合，非成套AI课程",
+    "excludedAt": "2026-10-03T10:58:58.943Z"
+  },
+  {
+    "id": "yiqunchen/genept",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T10:58:59.516Z"
+  },
+  {
+    "id": "anil-matcha/awesome-seedance-2.5-api-prompts",
+    "reason": "llm: 主要为特定视频模型的API接口参考与提示词示例集，缺乏系统性课程、章节结构或教学大纲。",
+    "excludedAt": "2026-10-03T10:59:11.495Z"
+  },
+  {
+    "id": "tripogrowthlab/awesome-astra-prompts",
+    "reason": "llm: 这是提示词示例集合，非成套教学章节，不满足教程结构要求",
+    "excludedAt": "2026-10-03T10:59:15.473Z"
+  },
+  {
+    "id": "skaplanofficial/raycast-promptlab",
+    "reason": "llm: 该仓库是 Raycast 扩展工具的文档，属于纯工具/应用，非教学课程或书籍，不满足教学性质条件。",
+    "excludedAt": "2026-10-03T10:59:18.840Z"
+  },
+  {
+    "id": "onewave-ai/claude-skills",
+    "reason": "llm: 该仓库是生产级Claude技能库，非教学课程或书籍，不满足目录收录标准。",
+    "excludedAt": "2026-10-03T10:59:22.471Z"
+  },
+  {
+    "id": "ibm/prompt-declaration-language",
+    "reason": "llm: 属于开发工具/语言规范，非成套教学章节。",
+    "excludedAt": "2026-10-03T10:59:48.763Z"
+  },
+  {
+    "id": "nolanoorg/cformers",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T10:59:49.651Z"
+  },
+  {
+    "id": "libraryofcelsus/aetherius_ai_assistant",
+    "reason": "llm: 该仓库是一个本地运行的 AI 助手框架工具，属于可执行软件而非成套的教学课程或书籍内容。",
+    "excludedAt": "2026-10-03T10:59:53.574Z"
+  },
+  {
+    "id": "green-pt/honey-for-devs",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T10:59:54.278Z"
+  },
+  {
+    "id": "trinib/zorg-jailbreak-prompt-text",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T10:59:54.962Z"
+  },
+  {
+    "id": "aicademyorg/aicademy",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T10:59:56.911Z"
+  },
+  {
+    "id": "sleuth-io/sx",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T10:59:57.702Z"
+  },
+  {
+    "id": "jonathanraiman/theano_lstm",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T10:59:58.417Z"
+  },
+  {
+    "id": "superzhang21/ghostwriter",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T10:59:59.041Z"
+  },
+  {
+    "id": "a-cat-with-carrots/onlyshot",
+    "reason": "llm: 该仓库是Claude Code的AI短剧生产工具/技能，属于工程实践流水线，而非系统性的教学课程或书籍。",
+    "excludedAt": "2026-10-03T11:00:04.975Z"
+  },
+  {
+    "id": "shobrook/promptimal",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T11:00:11.441Z"
+  },
+  {
+    "id": "kagurananaga/official-document-writing-skill",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T11:00:12.205Z"
+  },
+  {
+    "id": "fuxiaoliu/lrv-instruction",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T11:00:12.818Z"
   }
 ]
