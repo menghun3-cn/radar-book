@@ -9163,5 +9163,190 @@
     "id": "hermes-labs-ai/lintlang",
     "reason": "education signal too weak (2 readme terms, 0 lesson files)",
     "excludedAt": "2026-10-03T15:25:41.281Z"
+  },
+  {
+    "id": "rylaispirit/cinematic-video-prompt-skill",
+    "reason": "llm: 虽含结构化资料，但本质为工具/速查表而非教学课程，不满足教学性质条件。",
+    "excludedAt": "2026-10-03T20:21:01.101Z"
+  },
+  {
+    "id": "karanb192/awesome-claude-skills",
+    "reason": "llm: 该仓库是Claude技能的工具列表和索引，属于纯工具/资源聚合，缺乏成套的教学章节或课程材料，不满足教学性质要求。",
+    "excludedAt": "2026-10-03T20:21:28.515Z"
+  },
+  {
+    "id": "metcalfsolutions/satori",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:21:29.390Z"
+  },
+  {
+    "id": "josefalbers/roy",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:21:30.428Z"
+  },
+  {
+    "id": "katsumiok/pyaskit",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:21:31.554Z"
+  },
+  {
+    "id": "uucz/moyu",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:21:32.402Z"
+  },
+  {
+    "id": "kerberosclaw/kc_ai_skills",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:21:33.190Z"
+  },
+  {
+    "id": "apoorvjain25/frontier",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:21:34.058Z"
+  },
+  {
+    "id": "doganarif/promptpilot",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:21:34.928Z"
+  },
+  {
+    "id": "waynesutton/promptstack",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:21:40.856Z"
+  },
+  {
+    "id": "moeru-ai/velin",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:21:41.872Z"
+  },
+  {
+    "id": "levi-qiao/longgraph-skill",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:21:42.687Z"
+  },
+  {
+    "id": "aviflombaum/prompt_engine",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:21:43.611Z"
+  },
+  {
+    "id": "chen3tu/interview-master-skill",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:21:44.415Z"
+  },
+  {
+    "id": "humancompatibleai/tensor-trust",
+    "reason": "llm: 该仓库是用于对抗性ML研究数据收集的网页游戏及后端代码，非教学课程或教程材料。",
+    "excludedAt": "2026-10-03T20:21:48.090Z"
+  },
+  {
+    "id": "amirrezasalimi/comfyez",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:21:49.004Z"
+  },
+  {
+    "id": "pgasawa/origin",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:21:50.159Z"
+  },
+  {
+    "id": "fr-e-d/ai-governor-framework",
+    "reason": "archived",
+    "excludedAt": "2026-10-03T20:21:50.387Z"
+  },
+  {
+    "id": "pikho/ppromptor",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:21:58.256Z"
+  },
+  {
+    "id": "ericgandrade/claude-superskills",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:21:59.278Z"
+  },
+  {
+    "id": "login-tb/claude-skills",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:22:00.179Z"
+  },
+  {
+    "id": "shizhengyan/powerfulpromptft",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:22:01.116Z"
+  },
+  {
+    "id": "tance-mang/chinese-webnovel-skills",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:22:02.029Z"
+  },
+  {
+    "id": "terrylica/cc-skills",
+    "reason": "llm: 该仓库是Claude Code插件市场，属于工具集合，非教学课程或书籍",
+    "excludedAt": "2026-10-03T20:22:09.902Z"
+  },
+  {
+    "id": "walkpod1007/claude-project-ops",
+    "reason": "llm: 内容属于特定工具的操作规范文档，非通用AI教学课程或书籍。",
+    "excludedAt": "2026-10-03T20:22:15.001Z"
+  },
+  {
+    "id": "vonarmen-wq/forward-deployed-selling",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:22:15.806Z"
+  },
+  {
+    "id": "oprogramadorreal/optimus-claude",
+    "reason": "llm: 该仓库是提升AI辅助编码效率的Claude Code插件/工具，非教学课程或书籍。",
+    "excludedAt": "2026-10-03T20:22:19.579Z"
+  },
+  {
+    "id": "wobushannes/drehbuch--referenzanker-generator",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:22:20.482Z"
+  },
+  {
+    "id": "vlad-ko/claude-wizard",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:22:24.567Z"
+  },
+  {
+    "id": "langfuse/langfuse-java",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:22:25.491Z"
+  },
+  {
+    "id": "laxmimerit/langgraph-and-ollama",
+    "reason": "llm: 该仓库仅为外部付费课程的营销目录和链接汇总，不包含实际教学内容。",
+    "excludedAt": "2026-10-03T20:22:28.968Z"
+  },
+  {
+    "id": "roedyrustam/vibes-plug",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:22:32.912Z"
+  },
+  {
+    "id": "outerspacee/claude-emotion-prompting",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:22:33.984Z"
+  },
+  {
+    "id": "shiphrahx/ai-for-engineering-leaders",
+    "reason": "llm: 该仓库为提示词模板库，缺乏系统性的教学课程、章节结构或理论讲解，不符合教材定义。",
+    "excludedAt": "2026-10-03T20:22:37.891Z"
+  },
+  {
+    "id": "tuxsharxsec/jailbreaks",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:22:38.700Z"
+  },
+  {
+    "id": "promptfoo/promptfoo-action",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:22:39.663Z"
+  },
+  {
+    "id": "bydtesla1609/research-solution-supervisor",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T20:22:40.585Z"
   }
 ]
