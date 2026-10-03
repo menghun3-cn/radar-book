@@ -8628,5 +8628,155 @@
     "id": "ibm/watsonx-ai-platform-demos",
     "reason": "archived",
     "excludedAt": "2026-10-02T21:42:16.319Z"
+  },
+  {
+    "id": "ilien-dev/quiron",
+    "reason": "llm: not verified",
+    "excludedAt": "2026-10-03T02:52:12.002Z"
+  },
+  {
+    "id": "costiash/claude-code-docs",
+    "reason": "llm: 主体为文档检索插件，非静态成套教程；课程为运行时生成，不满足固定课程材料结构要求。",
+    "excludedAt": "2026-10-03T02:52:16.546Z"
+  },
+  {
+    "id": "giammy677dev/llm-agents-for-simulation",
+    "reason": "llm: 该仓库为论文与资源链接列表，非成套教学课程或教材结构。",
+    "excludedAt": "2026-10-03T02:52:22.662Z"
+  },
+  {
+    "id": "eric861129/skills_all-in-one",
+    "reason": "llm: 该仓库是AI Agent技能包分发平台，非系统性教学课程或书籍。",
+    "excludedAt": "2026-10-03T02:52:30.451Z"
+  },
+  {
+    "id": "tqchen/tinyflow",
+    "reason": "archived",
+    "excludedAt": "2026-10-03T02:52:38.671Z"
+  },
+  {
+    "id": "youngfish42/awesome-fl",
+    "reason": "llm: 资源列表（Awesome List），非成套教程或课程材料",
+    "excludedAt": "2026-10-03T02:52:41.645Z"
+  },
+  {
+    "id": "bohyy/academic-ai-prompt",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T02:52:42.287Z"
+  },
+  {
+    "id": "shcherbak-ai/contextgem",
+    "reason": "llm: 该项目是LLM文档提取开发框架，虽含教程Notebook，但核心为软件工具而非成套教材。",
+    "excludedAt": "2026-10-03T02:52:50.805Z"
+  },
+  {
+    "id": "glebkudr/shotgun_code",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T02:52:51.542Z"
+  },
+  {
+    "id": "pavelgrigoryevds/awesome-data-analysis",
+    "reason": "llm: 属于资源链接聚合列表（Awesome List），非原创课程、书籍或成套教学章节。",
+    "excludedAt": "2026-10-03T02:52:55.693Z"
+  },
+  {
+    "id": "mrgediao/shuorenhua",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T02:52:56.296Z"
+  },
+  {
+    "id": "filiksyos/gitreverse",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T02:53:07.446Z"
+  },
+  {
+    "id": "youmind-openlab/nano-banana-pro-prompts-recommend-skill",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T02:53:10.187Z"
+  },
+  {
+    "id": "hironsan/awesome-embedding-models",
+    "reason": "education signal too weak (1 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-03T02:53:10.919Z"
+  },
+  {
+    "id": "microsoft/onnxjs",
+    "reason": "archived",
+    "excludedAt": "2026-10-03T02:53:11.092Z"
+  },
+  {
+    "id": "b3o/gpts-prompt-collection",
+    "reason": "llm: 该仓库为GPTs提示词列表集合，非结构化教学课程或书籍。",
+    "excludedAt": "2026-10-03T02:53:24.239Z"
+  },
+  {
+    "id": "jau123/meigen-ai-design-mcp",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T02:53:24.851Z"
+  },
+  {
+    "id": "neomatrix369/awesome-ai-ml-dl",
+    "reason": "llm: 该仓库为资源链接聚合列表，非结构化课程教材",
+    "excludedAt": "2026-10-03T02:53:28.324Z"
+  },
+  {
+    "id": "noopstudios/interactive-feedback-mcp",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T02:53:29.921Z"
+  },
+  {
+    "id": "learnprompt/awesome-seedance",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T02:53:38.496Z"
+  },
+  {
+    "id": "graykode/distribution-is-all-you-need",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T02:53:39.151Z"
+  },
+  {
+    "id": "bowang-lab/scgpt",
+    "reason": "llm: 仓库核心为工具库及预训练模型，教程仅为特定任务示例，非成套课程体系。",
+    "excludedAt": "2026-10-03T02:53:44.309Z"
+  },
+  {
+    "id": "qingsongedu/awesome-ai-for-time-series-papers",
+    "reason": "llm: 该仓库为论文、教程和综述的资源列表（Awesome List），非系统教学课程。",
+    "excludedAt": "2026-10-03T02:53:48.153Z"
+  },
+  {
+    "id": "liyue-aigc/female-portrait-director",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T02:53:49.715Z"
+  },
+  {
+    "id": "tin2tin/pallaidium",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-03T02:53:51.159Z"
+  },
+  {
+    "id": "protectai/rebuff",
+    "reason": "archived",
+    "excludedAt": "2026-10-03T02:53:57.459Z"
+  },
+  {
+    "id": "firmai/awesome-google-colab",
+    "reason": "llm: 该仓库是外部教程资源的链接列表（Curated List），而非包含成套章节内容的教程书籍或课程本身。",
+    "excludedAt": "2026-10-03T02:54:00.354Z"
+  },
+  {
+    "id": "krishnaik06/complete-roadmap-to-learn-ai",
+    "reason": "llm: 该仓库仅为链接索引，无实质课程章节或教学内容",
+    "excludedAt": "2026-10-03T02:54:10.059Z"
+  },
+  {
+    "id": "h2oai/h2o-tutorials",
+    "reason": "archived",
+    "excludedAt": "2026-10-03T02:54:10.303Z"
+  },
+  {
+    "id": "open-source-legal/opencontracts",
+    "reason": "llm: not verified",
+    "excludedAt": "2026-10-03T02:54:14.589Z"
   }
 ]

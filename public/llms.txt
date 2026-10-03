@@ -103,16 +103,30 @@
 - [pytorch-cpp (prabhuomkar)](https://github.com/prabhuomkar/pytorch-cpp): 用 C++ 实现 PyTorch 经典教程，涵盖基础到高级神经网络模型训练。
 - [ChatGPT-Prompt-Engineering-for-Developers-in-Chinese (GitHubDaily)](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese): 收录 DeepLearning.AI 提示词工程官方课程笔记及中英双语字幕，适合开发者系统学习 LLM 应用。
 - [TensorFlow-Tutorials (golbin)](https://github.com/golbin/TensorFlow-Tutorials): 配套书籍的 TensorFlow 深度学习教程代码，涵盖从基础到 GAN、DQN 等 12 个章节。
-- [langchain-kr (teddylee777)](https://github.com/teddylee777/langchain-kr): LangChain韩文教程，含分章Notebook与实用案例。
 - [ai-creator-academy (Anil-matcha)](https://github.com/Anil-matcha/ai-creator-academy): 面向创作者的生成式AI变现课程，含多轨多模块教程。
+- [langchain-kr (teddylee777)](https://github.com/teddylee777/langchain-kr): LangChain韩文教程，含分章Notebook与实用案例。
+- [MachineLearningStocks (robertmartin8)](https://github.com/robertmartin8/MachineLearningStocks): 一个使用Python和scikit-learn进行股票预测的教学项目，包含详细指南和代码。
+- [DeepLearningForNLPInPytorch (rguthrie3)](https://github.com/rguthrie3/DeepLearningForNLPInPytorch): Georgia Tech NLP课程教程，涵盖PyTorch基础至结构预测。
+- [awesome-chatgpt (OpenMindClub)](https://github.com/OpenMindClub/awesome-chatgpt): 待人工复核后展示。
+- [snapai (Code-with-Beto)](https://github.com/Code-with-Beto/snapai): 待人工复核后展示。
 - [data-science-complete-tutorial (edyoda)](https://github.com/edyoda/data-science-complete-tutorial): 涵盖16节课程和8个案例的数据科学与机器学习教程，包含代码与项目实战。
 - [Large-Language-Model-Notebooks-Course (peremartra)](https://github.com/peremartra/Large-Language-Model-Notebooks-Course): 基于Apress书籍的LLM实战课程，涵盖LangChain、微调及评估等核心技术。
+- [deepschool.io (sachinruk)](https://github.com/sachinruk/deepschool.io): DeepSchool.io提供成套的Jupyter Notebook深度学习与贝叶斯统计教程，结合视频与代码。
 - [edgeai-for-beginners (microsoft)](https://github.com/microsoft/edgeai-for-beginners): 微软出品的边缘AI入门课程，涵盖SLM优化、本地部署及多智能体实战，含交互式教程。
+- [EffectivePyTorch (vahidk)](https://github.com/vahidk/EffectivePyTorch): 待人工复核后展示。
 - [langchain-course (emarco177)](https://github.com/emarco177/langchain-course): 基于LangChain和LangGraph的AI Agent实战课程，含7个完整项目
+- [spark-py-notebooks (jadianes)](https://github.com/jadianes/spark-py-notebooks): 一套基于Apache Spark和Python的交互式教程，涵盖RDD原理及MLlib机器学习应用
+- [awesome-gpt-prompt-engineering (snwfdhmp)](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering): 待人工复核后展示。
 - [Controllable-RAG-Agent (NirDiamant)](https://github.com/NirDiamant/Controllable-RAG-Agent): 基于LangGraph的可控RAG智能体项目，含详细教程与课程
+- [ELI5 (DreambigOu)](https://github.com/DreambigOu/ELI5): 待人工复核后展示。
 - [NL2SQL_Handbook (HKUSTDial)](https://github.com/HKUSTDial/NL2SQL_Handbook): 针对 LLM 时代的 Text-to-SQL 技术指南，含章节、基准与错误分析。
 - [philoagents-course (neural-maze)](https://github.com/neural-maze/philoagents-course): 6 模块课程，教你构建以 AI 智能体模拟哲学家对话的游戏引擎，覆盖 Agentic RAG、LLM 与 LLMOps。
+- [devops-ai-guidelines (VersusControl)](https://github.com/VersusControl/devops-ai-guidelines): 面向DevOps工程师的AI转型课程，涵盖LLM基础、提示工程及Agent实战。
 - [Awesome_Think_With_Images (zhaochen0110)](https://github.com/zhaochen0110/Awesome_Think_With_Images): 基于综述的多模态推理论文列表，分三阶段展示 LVLM 视觉思考方法。
+- [CADL (pkmital)](https://github.com/pkmital/CADL): 待人工复核后展示。
+- [pytorch-tutorials-examples-and-books (bat67)](https://github.com/bat67/pytorch-tutorials-examples-and-books): 汇总PyTorch基础教程、Udacity课程笔记及多本深度学习书籍PDF的综合学习仓库。
+- [data-scientist-handbook (andresvourakis)](https://github.com/andresvourakis/data-scientist-handbook): 待人工复核后展示。
+- [ai-hands-on (Ramakm)](https://github.com/Ramakm/ai-hands-on): 待人工复核后展示。
 - [awesome-conformal-prediction (valeman)](https://github.com/valeman/awesome-conformal-prediction): Conformal Prediction领域权威教程与课程资源合集。
 - [Play-with-Machine-Learning-Algorithms (liuyubobobo)](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms): 刘宇波慕课网《Python3 入门机器学习》官方配套代码库，含多章笔记与练习。
 - [Evolutionary-Algorithm (MorvanZhou)](https://github.com/MorvanZhou/Evolutionary-Algorithm): 莫烦Python进化算法教程，涵盖遗传算法与进化策略，配套可视化代码。
@@ -153,8 +167,8 @@
 - [start-ai-engineering (louisfb01)](https://github.com/louisfb01/start-ai-engineering): 一份面向初学者的全面AI工程入门指南，包含视频、书籍及实战项目
 - [Prysai-LLM-Playbook (Prysai)](https://github.com/Prysai/Prysai-LLM-Playbook): 一套结构化的LLM实践教程，包含核心课程、多语言章节及验证练习，旨在掌握提示工程与AI代理。
 - [Awesome-Agentic-Clinical-Dialogue (xqz614)](https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue): 面向医疗对话领域的AI Agent教程与课程资源集合，含微调实践
-- [ms-cookbook (modelscope)](https://github.com/modelscope/ms-cookbook): 面向开发者的开源模型应用实战指南，包含35章完整教程。
 - [lanshu-awesome-ai-video-kit (cclank)](https://github.com/cclank/lanshu-awesome-ai-video-kit): 涵盖15个主流视频模型与21篇SOP的AI视频提示词工程实战教程库。
+- [ms-cookbook (modelscope)](https://github.com/modelscope/ms-cookbook): 面向开发者的开源模型应用实战指南，包含35章完整教程。
 - [opencode-primer (wesammustafa)](https://github.com/wesammustafa/opencode-primer): OpenCode开源AI编码代理的完整入门指南，含设置、提示工程与插件教程。
 - [llms (IbrahimSobh)](https://github.com/IbrahimSobh/llms): 涵盖LLM理论、GPT/BERT实践及RAG的交互式教程
 - [RNA-FM (ml4bio)](https://github.com/ml4bio/RNA-FM): RNA-FM模型官方教程库，涵盖从环境配置到UTR功能预测模型实现的完整学习路径。
@@ -260,9 +274,5 @@
 - [tf2-tutorial (Alireza-Akhavan)](https://github.com/Alireza-Akhavan/tf2-tutorial): TensorFlow 2与Keras入门进阶教程，含MNIST实战及数据管道详解。
 - [sktime-tutorial-pydata-global-2021 (sktime)](https://github.com/sktime/sktime-tutorial-pydata-global-2021): sktime时序机器学习框架的PyData会议实战教程
 - [copilot-agents-dojo (andreaswasita)](https://github.com/andreaswasita/copilot-agents-dojo): Copilot 智能体纪律框架，提供互动式教程、技能系统及工作流。
-- [quiron (ilien-dev)](https://github.com/ilien-dev/quiron): 待人工复核后展示。
-- [claude-code-docs (costiash)](https://github.com/costiash/claude-code-docs): 待人工复核后展示。
-- [LLM-Agents-for-Simulation (giammy677dev)](https://github.com/giammy677dev/LLM-Agents-for-Simulation): 待人工复核后展示。
-- [SKILLS_All-in-one (eric861129)](https://github.com/eric861129/SKILLS_All-in-one): 待人工复核后展示。
-- [claude-for-researchers (Mexregkan)](https://github.com/Mexregkan/claude-for-researchers): 待人工复核后展示。
+- [claude-for-researchers (Mexregkan)](https://github.com/Mexregkan/claude-for-researchers): 面向科研人员的Claude Code实战教程，涵盖安装、配置及核心工作流。
 - [ai-agent-architecture (Drobiazkin)](https://github.com/Drobiazkin/ai-agent-architecture): 一本关于构建可控LLM系统的开源工程书籍及实操课程，涵盖架构、RAG、Agent及模型部署。
