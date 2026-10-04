@@ -9543,5 +9543,145 @@
     "id": "driftkit-ai/driftkit-framework",
     "reason": "below 50 stars",
     "excludedAt": "2026-10-04T03:15:08.889Z"
+  },
+  {
+    "id": "writer/writer-framework",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T11:33:09.133Z"
+  },
+  {
+    "id": "unclecheng-li/ai_animation",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T11:33:09.766Z"
+  },
+  {
+    "id": "mohitagw15856/pm-claude-skills",
+    "reason": "llm: 这是提示词技能库和工具集，非成套教程或课程",
+    "excludedAt": "2026-10-04T11:33:19.297Z"
+  },
+  {
+    "id": "metrofun/machine-learning-surveys",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T11:33:19.896Z"
+  },
+  {
+    "id": "eurus-holmes/awesome-multimodal-research",
+    "reason": "llm: 仓库为多模态研究资源列表（课程/教程链接汇总），非成套教学章节，不满足结构要求。",
+    "excludedAt": "2026-10-04T11:33:25.671Z"
+  },
+  {
+    "id": "poloclub/diffusiondb",
+    "reason": "education signal too weak (1 readme terms, 2 lesson files)",
+    "excludedAt": "2026-10-04T11:33:26.517Z"
+  },
+  {
+    "id": "wuji-labs/nopua",
+    "reason": "llm: 这是单一AI Agent提示词技巧工具，非成套课程或教学书籍，不符合目录收录标准。",
+    "excludedAt": "2026-10-04T11:33:29.653Z"
+  },
+  {
+    "id": "explosion/spacy-llm",
+    "reason": "llm: 这是将LLM集成到spaCy管道的代码库，属于开发工具，不是教学书籍。",
+    "excludedAt": "2026-10-04T11:33:45.260Z"
+  },
+  {
+    "id": "margaretmz/awesome-tensorflow-lite",
+    "reason": "llm: 属于资源链接列表（Awesome List），非成套课程或教材，不符合教学性质要求。",
+    "excludedAt": "2026-10-04T11:33:48.223Z"
+  },
+  {
+    "id": "xstongxue/best-prompts",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T11:33:48.922Z"
+  },
+  {
+    "id": "snflkd/fluent-korean",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T11:33:49.574Z"
+  },
+  {
+    "id": "paralleldrive/sudolang",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T11:33:50.332Z"
+  },
+  {
+    "id": "petergyang/human-review",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T11:33:51.037Z"
+  },
+  {
+    "id": "opendrivelab/drivelm",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T11:33:51.800Z"
+  },
+  {
+    "id": "receyuki/stable-diffusion-prompt-reader",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T11:33:52.449Z"
+  },
+  {
+    "id": "spielewoy/autoprompt-skill",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T11:34:09.328Z"
+  },
+  {
+    "id": "utkusen/promptmap",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T11:34:17.326Z"
+  },
+  {
+    "id": "amaiya/ktrain",
+    "reason": "llm: 本质是Python机器学习库，非独立教程书籍",
+    "excludedAt": "2026-10-04T11:34:25.158Z"
+  },
+  {
+    "id": "jbrownlee/datasets",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T11:34:25.806Z"
+  },
+  {
+    "id": "codersjx/ai-resources-central",
+    "reason": "llm: 该仓库为AI开源项目资源列表，非教学课程或书籍，不满足教学性质及成套章节要求。",
+    "excludedAt": "2026-10-04T11:34:32.599Z"
+  },
+  {
+    "id": "dataexpert-io/ai-engineer-handbook",
+    "reason": "llm: 仅为资源链接目录，无自有教学章节或课程材料，属纯工具/文档集合。",
+    "excludedAt": "2026-10-04T11:34:42.900Z"
+  },
+  {
+    "id": "scale3-labs/langtrace",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T11:34:43.687Z"
+  },
+  {
+    "id": "vmayoral/basic_reinforcement_learning",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T11:34:44.457Z"
+  },
+  {
+    "id": "thu-coai/safety-prompts",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T11:34:45.147Z"
+  },
+  {
+    "id": "hollyadele/awesome-programming-for-kids",
+    "reason": "llm: 内容是通用编程入门资源列表，非AI/ML主题，且为链接合集而非成套课程。",
+    "excludedAt": "2026-10-04T11:34:48.295Z"
+  },
+  {
+    "id": "googlecloudplatform/genmedia-creative-studio",
+    "reason": "education signal too weak (2 readme terms, 2 lesson files)",
+    "excludedAt": "2026-10-04T11:34:49.101Z"
+  },
+  {
+    "id": "timqian/openprompt.co",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T11:34:49.818Z"
+  },
+  {
+    "id": "character-ai/prompt-poet",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T11:34:56.859Z"
   }
 ]

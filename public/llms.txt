@@ -122,12 +122,24 @@
 - [CADL (pkmital)](https://github.com/pkmital/CADL): 基于TensorFlow的创意深度学习三阶段MOOC课程资料
 - [pytorch-tutorials-examples-and-books (bat67)](https://github.com/bat67/pytorch-tutorials-examples-and-books): 汇总PyTorch基础教程、Udacity课程笔记及多本深度学习书籍PDF的综合学习仓库。
 - [ai-hands-on (Ramakm)](https://github.com/Ramakm/ai-hands-on): 一套完整的AI工程实践教程，涵盖数学基础到LLM、RAG与OCR等模块。
+- [Prompt-Engineering-Guide-Chinese (wangxuqi)](https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese): 源自英文热门项目的中文版提示工程指南，含实战笔记、核心概念讲解及最新资源索引。
 - [awesome-conformal-prediction (valeman)](https://github.com/valeman/awesome-conformal-prediction): Conformal Prediction领域权威教程与课程资源合集。
+- [easy-few-shot-learning (sicara)](https://github.com/sicara/easy-few-shot-learning): 基于PyTorch的少样本图像分类教程库，提供经典与事件式训练Notebook及多种前沿算法实现。
+- [zero_to_gpt (VikParuchuri)](https://github.com/VikParuchuri/zero_to_gpt): 从零开始学习深度学习和GPT模型的完整课程。
 - [Play-with-Machine-Learning-Algorithms (liuyubobobo)](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms): 刘宇波慕课网《Python3 入门机器学习》官方配套代码库，含多章笔记与练习。
+- [road-to-machine-learning (NabidAlam)](https://github.com/NabidAlam/road-to-machine-learning): 一套从零基础到进阶的机器学习系统化教程，含26个模块和23个实战项目。
+- [generative-ai-with-javascript (microsoft)](https://github.com/microsoft/generative-ai-with-javascript): 微软推出的生成式AI JavaScript课程，通过8个章节结合时间旅行故事教学。
+- [thereisnospoon (dreddnafious)](https://github.com/dreddnafious/thereisnospoon): 面向工程师的机器学习初级教程，通过工程类比喻系统讲解ML底层核心原理。
 - [Evolutionary-Algorithm (MorvanZhou)](https://github.com/MorvanZhou/Evolutionary-Algorithm): 莫烦Python进化算法教程，涵盖遗传算法与进化策略，配套可视化代码。
+- [claude-code-prompts (repowise-dev)](https://github.com/repowise-dev/claude-code-prompts): 该仓库提供了一整套用于构建AI编码代理的提示模板，涵盖系统提示、工具使用及多智能体协调等核心模式。
 - [reinforcement_learning_course_materials (upb-lea)](https://github.com/upb-lea/reinforcement_learning_course_materials): 帕德博恩大学强化学习课程全套资料，含课件、12个练习及视频。
+- [oneAPI-samples (oneapi-src)](https://github.com/oneapi-src/oneAPI-samples): 待人工复核后展示。
 - [ai-engineering-from-scratch-zh (fancyboi999)](https://github.com/fancyboi999/ai-engineering-from-scratch-zh): AI工程零基础到精通的中文全套课程，含523节课及AI导师。
+- [vibecode-pro-max-kit (withkynam)](https://github.com/withkynam/vibecode-pro-max-kit): 待人工复核后展示。
+- [awesome-gpt-6-astra (Anil-matcha)](https://github.com/Anil-matcha/awesome-gpt-6-astra): 待人工复核后展示。
+- [elastic-labs (elastic)](https://github.com/elastic/elastic-labs): 待人工复核后展示。
 - [machine-learning-curriculum (offchan42)](https://github.com/offchan42/machine-learning-curriculum): 一份全面且结构化的机器学习、深度学习及强化学习课程资源清单。
+- [label-studio-ml-backend (HumanSignal)](https://github.com/HumanSignal/label-studio-ml-backend): 待人工复核后展示。
 - [Agent_Memory_Techniques (NirDiamant)](https://github.com/NirDiamant/Agent_Memory_Techniques): 包含30个可运行笔记本的LLM Agent记忆技术教程，覆盖短期记忆、长期存储及生产级框架。
 - [Deep-Learning-For-Hackers (curiousily)](https://github.com/curiousily/Deep-Learning-For-Hackers): 基于TensorFlow 2和Keras的机器学习实践教程，涵盖LSTM、BERT等主题。
 - [Awesome-Long-Horizon-Agents (RUC-NLPIR)](https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents): 系统化梳理长时程 AI Agent 的理论基础、工程实现及前沿挑战的综合教程。
@@ -141,8 +153,8 @@
 - [Trace (microsoft)](https://github.com/microsoft/Trace): Microsoft推出的AI Agent端到端生成式优化工具，提供从基础到高级的成套教程。
 - [mlops-coding-course (MLOps-Courses)](https://github.com/MLOps-Courses/mlops-coding-course): MLOps Coding Course 的工程化教程，聚焦生产级机器学习项目的实践方法与可运行代码示例。
 - [LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing (ghimiresunil)](https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing): LLM核心技术与实战教程，涵盖架构、训练、推理及对齐等完整课程。
-- [ai-engineer-roadmap (dswh)](https://github.com/dswh/ai-engineer-roadmap): 面向AI工程师的分阶段学习路线图，涵盖技能、资源及实战项目建议
 - [ai-engineer-notebooks (calmrocks)](https://github.com/calmrocks/ai-engineer-notebooks): 面向AI工程师的动手实践笔记本，涵盖LLM、RAG及Agent开发。
+- [ai-engineer-roadmap (dswh)](https://github.com/dswh/ai-engineer-roadmap): 面向AI工程师的分阶段学习路线图，涵盖技能、资源及实战项目建议
 - [awesome-r-learning-resources (iamericfletcher)](https://github.com/iamericfletcher/awesome-r-learning-resources): 这是一个整理 R 语言学习资料的项目，包含课程、书籍、博客和社区资源链接。
 - [agent-interview-hub (Zchary1106)](https://github.com/Zchary1106/agent-interview-hub): 面向AI Agent工程师的面试准备知识库，含16周路线图、300+题解及6个实操项目。
 - [free-ai-tips (business-science)](https://github.com/business-science/free-ai-tips): Business Science提供的免费每周AI/ML实战教程，涵盖生成式AI、LLM及数据分析Agent开发。
@@ -202,9 +214,9 @@
 - [llm-rl-environments-lil-course (anakin87)](https://github.com/anakin87/llm-rl-environments-lil-course): 通过10章课程和实战项目，教学如何用强化学习环境训练和评估LLM。
 - [claude-code (timothywarner-org)](https://github.com/timothywarner-org/claude-code): O'Reilly Live课程，涵盖Claude Code安装、上下文管理、Agent工作流及MCP集成。
 - [r-course-material (ccs-amsterdam)](https://github.com/ccs-amsterdam/r-course-material): 阿姆斯特丹自由大学R语言课程资料，含LLM与数据分析教程
+- [claude-code-pro-course (justxor)](https://github.com/justxor/claude-code-pro-course): 俄语Claude Code高级实战课程，涵盖代理配置、实验及提示工程。
 - [tutorial (SalvatoreRa)](https://github.com/SalvatoreRa/tutorial): 面向 AI、机器学习和数据科学的教程合集，覆盖计算机视觉、NLP 与生物医学案例，配套 Python/R 与 Notebook。
 - [rl-handbook (lubludrova)](https://github.com/lubludrova/rl-handbook): 一份系统讲解强化学习算法与代码的实践型教科书，从基础到高级。
-- [claude-code-pro-course (justxor)](https://github.com/justxor/claude-code-pro-course): 俄语Claude Code高级实战课程，涵盖代理配置、实验及提示工程。
 - [awesome-agent-evolution (Shiyao-Huang)](https://github.com/Shiyao-Huang/awesome-agent-evolution): 面向 AI Agent 自进化领域的开放 Survey 与教材式课程资料库
 - [Diffusion_models_tutorial (FilippoMB)](https://github.com/FilippoMB/Diffusion_models_tutorial): 一套完整的扩散模型教程，涵盖理论、从零实现代码、Stable Diffusion 脚本及提示工程指南。
 - [Neural-Networks-from-Scratch (lionelmessi6410)](https://github.com/lionelmessi6410/Neural-Networks-from-Scratch): 基于NumPy从零构建神经网络的基础教程，涵盖架构、反向传播及优化器实现。
