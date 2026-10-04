@@ -9683,5 +9683,210 @@
     "id": "character-ai/prompt-poet",
     "reason": "education signal too weak (0 readme terms, 0 lesson files)",
     "excludedAt": "2026-10-04T11:34:56.859Z"
+  },
+  {
+    "id": "oneapi-src/oneapi-samples",
+    "reason": "llm: 主要为工具示例代码，非成套 AI 教程或书籍课程。",
+    "excludedAt": "2026-10-04T16:10:29.011Z"
+  },
+  {
+    "id": "withkynam/vibecode-pro-max-kit",
+    "reason": "llm: 该仓库是AI编码代理的工作流框架和工具集，而非用于教学的课程或教程书籍。",
+    "excludedAt": "2026-10-04T16:10:36.497Z"
+  },
+  {
+    "id": "anil-matcha/awesome-gpt-6-astra",
+    "reason": "llm: 内容为GPT-6用例参考与提示词列表，缺乏成套教学章节，属于资源合集而非教程。",
+    "excludedAt": "2026-10-04T16:10:44.988Z"
+  },
+  {
+    "id": "elastic/elastic-labs",
+    "reason": "llm: 仓库内容为Elasticsearch平台的示例代码和Notebook集合，属于官方产品演示与工具库，并非系统性的教学课程或教材。",
+    "excludedAt": "2026-10-04T16:10:49.246Z"
+  },
+  {
+    "id": "humansignal/label-studio-ml-backend",
+    "reason": "llm: 这是Label Studio的ML后端SDK和示例集合，属于工具和示例，而非教学性质的课程或书籍。",
+    "excludedAt": "2026-10-04T16:10:53.115Z"
+  },
+  {
+    "id": "barazan19/hf-llm-course-journey",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-04T16:11:49.803Z"
+  },
+  {
+    "id": "stoyan-stoyanov/llmflows",
+    "reason": "llm: 该仓库是一个LLM开发框架（工具库），而非教学课程或书籍。",
+    "excludedAt": "2026-10-04T16:11:57.060Z"
+  },
+  {
+    "id": "tushar-semwal/awesome-federated-computing",
+    "reason": "llm: 该仓库是 awesome-list 链接集合，非成套课程或书籍，不满足教学结构要求。",
+    "excludedAt": "2026-10-04T16:12:00.977Z"
+  },
+  {
+    "id": "nurettincoban/ai-prd-workflow",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:01.544Z"
+  },
+  {
+    "id": "kyjohnso/skysplat_blender",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:02.214Z"
+  },
+  {
+    "id": "arkya-ai/claude-context-os",
+    "reason": "education signal too weak (1 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-04T16:12:03.826Z"
+  },
+  {
+    "id": "gautamvhavle/catgpt-gateway",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:04.598Z"
+  },
+  {
+    "id": "langgptai/awesome-multimodal-prompts",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:05.416Z"
+  },
+  {
+    "id": "majiayu000/spellbook",
+    "reason": "llm: 这是跨运行时 AI 编程代理的技能插件库，属于开发工具和提示词模板集合，而非成套的教学课程或书籍。",
+    "excludedAt": "2026-10-04T16:12:10.194Z"
+  },
+  {
+    "id": "mrm8488/shared_colab_notebooks",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:10.855Z"
+  },
+  {
+    "id": "milvlg/prophet",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:35.522Z"
+  },
+  {
+    "id": "kingleojr/awesome-vibe-coding-prompt-code-templates",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:36.248Z"
+  },
+  {
+    "id": "nevespl/revitdbexplorer",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:37.005Z"
+  },
+  {
+    "id": "t8mars/minimax-h3-prompt-skill-t8",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:37.873Z"
+  },
+  {
+    "id": "intelligentnode/intellinode",
+    "reason": "llm: 该仓库为统一多模型调用的JavaScript库，属开发工具而非教学课程",
+    "excludedAt": "2026-10-04T16:12:41.395Z"
+  },
+  {
+    "id": "muratcankoylan/the-rosetta-prompt",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:42.117Z"
+  },
+  {
+    "id": "blrchen/chatgpt-lite",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:42.861Z"
+  },
+  {
+    "id": "devanshug2307/awesome-ai-image-prompts",
+    "reason": "llm: 资源为提示词集合而非教学课程，不符合教学性质与成套章节要求。",
+    "excludedAt": "2026-10-04T16:12:46.016Z"
+  },
+  {
+    "id": "jbilcke/latent-browser",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:46.731Z"
+  },
+  {
+    "id": "detroittommy879/aicodeprep-gui",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:47.351Z"
+  },
+  {
+    "id": "loulanyue/awesome-claude-notes",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:48.246Z"
+  },
+  {
+    "id": "jamesponddotco/llm-prompts",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:48.994Z"
+  },
+  {
+    "id": "poloclub/wordflow",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:49.730Z"
+  },
+  {
+    "id": "thuml/autotimes",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:50.496Z"
+  },
+  {
+    "id": "kushalj001/pytorch-question-answering",
+    "reason": "llm: 虽含教程形式，但属于特定论文实现代码，非成套课程体系",
+    "excludedAt": "2026-10-04T16:12:58.631Z"
+  },
+  {
+    "id": "lixiaoxiao9888-create/short-drama-factory",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:12:59.351Z"
+  },
+  {
+    "id": "krzysztofdudek/researcherskill",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:13:00.177Z"
+  },
+  {
+    "id": "summerjava/awesome_agent_dev",
+    "reason": "llm: 仅为资源链接汇总，缺乏原创教学章节或课程内容，不符合成套教材标准。",
+    "excludedAt": "2026-10-04T16:13:06.340Z"
+  },
+  {
+    "id": "twhsi/skills",
+    "reason": "education signal too weak (2 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-04T16:13:11.490Z"
+  },
+  {
+    "id": "haloshin/ip-diagram-creator",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:13:12.124Z"
+  },
+  {
+    "id": "prakhar21/50-days-of-ml",
+    "reason": "llm: 仅为个人学习日程清单，链接外部资源，缺乏独立成套的教学内容体系",
+    "excludedAt": "2026-10-04T16:13:19.625Z"
+  },
+  {
+    "id": "hongfamonvai/oh-my-cover-design",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:13:20.317Z"
+  },
+  {
+    "id": "hao0321/ai-media-generator",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:13:21.031Z"
+  },
+  {
+    "id": "vivek100/oneshotcodegen",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:13:21.742Z"
+  },
+  {
+    "id": "austin-starks/eod-gpt",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T16:13:22.380Z"
+  },
+  {
+    "id": "brandonhimpfen/awesome-prompt-engineering",
+    "reason": "llm: 该仓库为资源列表（Awesome List），非成套教学课程或书籍，不满足目录收录条件。",
+    "excludedAt": "2026-10-04T16:13:32.951Z"
   }
 ]
