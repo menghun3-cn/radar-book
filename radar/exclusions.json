@@ -9348,5 +9348,200 @@
     "id": "bydtesla1609/research-solution-supervisor",
     "reason": "education signal too weak (0 readme terms, 0 lesson files)",
     "excludedAt": "2026-10-03T20:22:40.585Z"
+  },
+  {
+    "id": "doncheli/don-cheli-sdd",
+    "reason": "education signal too weak (2 readme terms, 2 lesson files)",
+    "excludedAt": "2026-10-04T03:14:11.770Z"
+  },
+  {
+    "id": "0xmariowu/agentlint",
+    "reason": "education signal too weak (2 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-04T03:14:12.643Z"
+  },
+  {
+    "id": "simranjeet97/75dayhard_genai_llm_challenge",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T03:14:13.466Z"
+  },
+  {
+    "id": "banyanoutcomes/just_say_no",
+    "reason": "archived",
+    "excludedAt": "2026-10-04T03:14:13.701Z"
+  },
+  {
+    "id": "v-songbird/hush",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T03:14:14.399Z"
+  },
+  {
+    "id": "future-agi/futureagi-sdk",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T03:14:15.160Z"
+  },
+  {
+    "id": "majiayu000/awesome-goal-prompts",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T03:14:15.924Z"
+  },
+  {
+    "id": "dianfangsihuo/comfyui-webui-prompt-bridge",
+    "reason": "education signal too weak (1 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-04T03:14:16.680Z"
+  },
+  {
+    "id": "josephhampton/awesome-gemini-cli-subagents",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T03:14:17.487Z"
+  },
+  {
+    "id": "swarmclawai/andrej-karpathy-skills",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T03:14:18.882Z"
+  },
+  {
+    "id": "hazrat-ali9/prompt-engineering",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T03:14:27.955Z"
+  },
+  {
+    "id": "yanliudesign/resume-builder-skill",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T03:14:28.825Z"
+  },
+  {
+    "id": "richardadonnell/ai-prompts-tools-and-more",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T03:14:29.582Z"
+  },
+  {
+    "id": "fu-jie/open-webui-prompt-plus",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T03:14:30.336Z"
+  },
+  {
+    "id": "corralm/awesome-prompting",
+    "reason": "llm: 内容属于技巧/模式目录，非成套课程或书籍结构",
+    "excludedAt": "2026-10-04T03:14:34.051Z"
+  },
+  {
+    "id": "bluegalaxy111/awesome-vibe-coding",
+    "reason": "llm: 主要是工具资源清单（Awesome List），非成套课程体系。",
+    "excludedAt": "2026-10-04T03:14:40.303Z"
+  },
+  {
+    "id": "rongnianxin/chatgpt-workflows",
+    "reason": "llm: 内容为特定工具（ChatGPT/Codex）的内部工作流规则与操作手册，属于工具配置文档，非系统性AI教程或课程。",
+    "excludedAt": "2026-10-04T03:14:49.415Z"
+  },
+  {
+    "id": "bish-x/creator-vibe",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T03:14:50.231Z"
+  },
+  {
+    "id": "ibm/responsible-prompting-api",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T03:14:51.156Z"
+  },
+  {
+    "id": "yahyambk57-stack/ai-object-isolation-toolkit",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T03:14:51.854Z"
+  },
+  {
+    "id": "chojondocho/vowline",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T03:14:52.556Z"
+  },
+  {
+    "id": "sangddn/prompt_builder",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T03:14:53.300Z"
+  },
+  {
+    "id": "lemos999/singulari-tea-codex-prompt-for-gemini",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T03:14:53.956Z"
+  },
+  {
+    "id": "avasol/galadriel-public",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-04T03:14:54.841Z"
+  },
+  {
+    "id": "amadeusitgroup/ai-primitives-hub",
+    "reason": "education signal too weak (1 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-04T03:14:55.668Z"
+  },
+  {
+    "id": "yanliang3612/awesome-generative-ai-for-material-discovery",
+    "reason": "llm: 仓库为论文和资源清单，属于Awesome列表，非成套教学课程或书籍材料。",
+    "excludedAt": "2026-10-04T03:14:59.269Z"
+  },
+  {
+    "id": "alex067/techskillup",
+    "reason": "llm: 该仓库是广泛的综合技术资源链接列表（目录），而非针对AI/ML主题的成套教学章节或课程。",
+    "excludedAt": "2026-10-04T03:15:06.395Z"
+  },
+  {
+    "id": "jgravelle/grompt",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-04T03:15:06.663Z"
+  },
+  {
+    "id": "henryz838978/deepseek-harness",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-04T03:15:06.840Z"
+  },
+  {
+    "id": "terjanq/hack-a-prompt",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-04T03:15:07.015Z"
+  },
+  {
+    "id": "evolinkai/awesome-claude-fable-5",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-04T03:15:07.209Z"
+  },
+  {
+    "id": "geiserx/lynxprompt",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-04T03:15:07.423Z"
+  },
+  {
+    "id": "ibm/granite-workshop",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-04T03:15:07.667Z"
+  },
+  {
+    "id": "supermarsx/sora-json-prompt-crafter",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-04T03:15:07.898Z"
+  },
+  {
+    "id": "merlo-team/jailbreak",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-04T03:15:08.116Z"
+  },
+  {
+    "id": "j-nowcow/awesome-korean-agent-skills",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-04T03:15:08.300Z"
+  },
+  {
+    "id": "1712n/dn-institute",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-04T03:15:08.502Z"
+  },
+  {
+    "id": "madeval/mindfluence",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-04T03:15:08.693Z"
+  },
+  {
+    "id": "driftkit-ai/driftkit-framework",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-04T03:15:08.889Z"
   }
 ]
