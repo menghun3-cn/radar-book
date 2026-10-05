@@ -10068,5 +10068,205 @@
     "id": "vikashjeyaraman/opencouncil-contract-inspector",
     "reason": "education signal too weak (0 readme terms, 0 lesson files)",
     "excludedAt": "2026-10-04T20:43:04.620Z"
+  },
+  {
+    "id": "gonzaroman/acornix",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:48:54.392Z"
+  },
+  {
+    "id": "callirra-ai/gpt-image-2-5-prompt-atlas",
+    "reason": "llm: 这是提示词案例集合与工具导航，并非系统的课程或教程书籍，缺乏教学章节结构。",
+    "excludedAt": "2026-10-05T02:48:59.555Z"
+  },
+  {
+    "id": "kangarooking/design-image-studio",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:49:00.195Z"
+  },
+  {
+    "id": "chuwu57/chuwu-pr-os",
+    "reason": "llm: 该仓库为AI驱动的个人公关操作工具集，属于工作流与提示词工具，非系统性教学课程。",
+    "excludedAt": "2026-10-05T02:49:06.234Z"
+  },
+  {
+    "id": "tronghieu/agent-skills",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:49:07.030Z"
+  },
+  {
+    "id": "alterlab-ieu/alterlab-academic-skills",
+    "reason": "llm: 仓库为面向学术研究的 Claude AI 技能插件集（工具/Agent），非教学性质的课程或教程书籍。",
+    "excludedAt": "2026-10-05T02:49:14.621Z"
+  },
+  {
+    "id": "laurian/context-compression-experiments-2508",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:49:15.473Z"
+  },
+  {
+    "id": "jplenio/comfyui-minimax-music-production-toolkit",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:49:16.459Z"
+  },
+  {
+    "id": "zizwar/awesome-suno",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:49:17.224Z"
+  },
+  {
+    "id": "nomie7/nano-banana-slides-prompter",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:49:17.976Z"
+  },
+  {
+    "id": "learnprompt/carl-skills",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:49:18.695Z"
+  },
+  {
+    "id": "kdmdelhincr/events",
+    "reason": "llm: 内容为会议演讲索引和外部链接，非成套课程材料",
+    "excludedAt": "2026-10-05T02:49:22.894Z"
+  },
+  {
+    "id": "fagemx/gstack-game",
+    "reason": "llm: 属于Claude Code工作流工具包，非教学课程或书籍",
+    "excludedAt": "2026-10-05T02:49:27.019Z"
+  },
+  {
+    "id": "ursisterbtw/ccprompts",
+    "reason": "llm: 内容为工具插件，非教学课程",
+    "excludedAt": "2026-10-05T02:49:34.740Z"
+  },
+  {
+    "id": "cyber-immortal/cyber-figures",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:49:35.626Z"
+  },
+  {
+    "id": "hao0321/ai-short-drama",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:49:36.345Z"
+  },
+  {
+    "id": "seaworld008/commonly-used-high-value-skills",
+    "reason": "llm: 该仓库为可执行AI技能库/工具集，非教学性质的课程、书籍或成套教程，不满足教学材料要求。",
+    "excludedAt": "2026-10-05T02:49:42.445Z"
+  },
+  {
+    "id": "crystian/skill-map",
+    "reason": "llm: 该仓库是AI Agent审计与映射工具，而非教学书籍或课程。",
+    "excludedAt": "2026-10-05T02:49:53.305Z"
+  },
+  {
+    "id": "huyle82us/awesome-seedance-prompts",
+    "reason": "llm: 内容为提示词模板集合与资源库，缺乏系统性课程结构或教学章节，属于工具/示例集。",
+    "excludedAt": "2026-10-05T02:50:02.415Z"
+  },
+  {
+    "id": "apeironics/prompt-refine-skill",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:50:03.187Z"
+  },
+  {
+    "id": "siliconeshojo/tagforge",
+    "reason": "archived",
+    "excludedAt": "2026-10-05T02:50:03.444Z"
+  },
+  {
+    "id": "sbsaga/toon",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:50:04.318Z"
+  },
+  {
+    "id": "danielmeppiel/genesis",
+    "reason": "llm: 该仓库是一个 LLM 技能框架/架构库，属于开发工具和参考手册，非结构化课程或教程书籍。",
+    "excludedAt": "2026-10-05T02:50:09.349Z"
+  },
+  {
+    "id": "nanahou/awesome-bandwidth-extension",
+    "reason": "llm: 这是资源列表（Awesome List）而非教学课程，缺乏成套章节结构",
+    "excludedAt": "2026-10-05T02:50:12.804Z"
+  },
+  {
+    "id": "ricar66/omnistack-agent",
+    "reason": "llm: 这是AI编程智能体工具集，非教学课程。",
+    "excludedAt": "2026-10-05T02:50:19.902Z"
+  },
+  {
+    "id": "k-kolomeitsev/data-structure-protocol",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:50:20.662Z"
+  },
+  {
+    "id": "alexferrari88/prompt-scanner",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:50:21.564Z"
+  },
+  {
+    "id": "srvsngh99/genai-testing-journey",
+    "reason": "llm: 仅为个人学习日志，课程中断，非成套公开教材。",
+    "excludedAt": "2026-10-05T02:50:26.661Z"
+  },
+  {
+    "id": "gadaalabs/claude-code-on-steroids",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:50:27.397Z"
+  },
+  {
+    "id": "openscilab/memor",
+    "reason": "education signal too weak (2 readme terms, 2 lesson files)",
+    "excludedAt": "2026-10-05T02:50:29.201Z"
+  },
+  {
+    "id": "shauryagangrade/awesome-ai-prompts",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:50:29.989Z"
+  },
+  {
+    "id": "zerolu/awesome-happy-horse",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:50:30.699Z"
+  },
+  {
+    "id": "drobins25/craft",
+    "reason": "llm: 该仓库是一个 Claude Code 开发插件工具，而非结构化的 AI 教程或课程书籍。",
+    "excludedAt": "2026-10-05T02:50:39.303Z"
+  },
+  {
+    "id": "ericyoung-183/alpha-insights",
+    "reason": "education signal too weak (1 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-05T02:50:40.090Z"
+  },
+  {
+    "id": "tsaol/awesome-claude",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:50:40.894Z"
+  },
+  {
+    "id": "kenangain/kenangain",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:50:41.991Z"
+  },
+  {
+    "id": "anjalisilva/testingpackage",
+    "reason": "llm: 虽为生物信息学课程作业，但核心是R包示例而非AI/LLM主题，不符合AI教程目录要求。",
+    "excludedAt": "2026-10-05T02:50:54.077Z"
+  },
+  {
+    "id": "promptsail/prompt_sail",
+    "reason": "llm: 该仓库是LLM代理工具而非教程，主要用于捕获和记录API交互，不符合教学性质要求。",
+    "excludedAt": "2026-10-05T02:51:09.261Z"
+  },
+  {
+    "id": "anchildress1/awesome-ai",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:51:10.205Z"
+  },
+  {
+    "id": "funagent/build-claude-code-cli",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T02:51:11.109Z"
   }
 ]
