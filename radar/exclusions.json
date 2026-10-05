@@ -10268,5 +10268,195 @@
     "id": "funagent/build-claude-code-cli",
     "reason": "education signal too weak (1 readme terms, 0 lesson files)",
     "excludedAt": "2026-10-05T02:51:11.109Z"
+  },
+  {
+    "id": "quesmaorg/awesome-ai-tokenomics",
+    "reason": "llm: 该仓库为工具和资源清单，非成套教学章节，不符合教程书籍标准。",
+    "excludedAt": "2026-10-05T13:03:12.441Z"
+  },
+  {
+    "id": "eimantahir027/mcp-powered-agentic-rag",
+    "reason": "education signal too weak (2 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-05T13:03:13.386Z"
+  },
+  {
+    "id": "gauravvij/autoprompter",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T13:03:14.342Z"
+  },
+  {
+    "id": "1arry1iu/archetype",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T13:03:27.195Z"
+  },
+  {
+    "id": "banana-prompts/awesome-nano-banana-prompts",
+    "reason": "llm: 该仓库为图像生成提示词示例集合（awesome list），不属于教学性质的课程或书籍，不满足收录条件。",
+    "excludedAt": "2026-10-05T13:03:31.872Z"
+  },
+  {
+    "id": "geeknik/my-awesome-stars",
+    "reason": "llm: 个人GitHub星标列表，非教学资料",
+    "excludedAt": "2026-10-05T13:03:37.064Z"
+  },
+  {
+    "id": "dvbs2000/visible-ai",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:47.065Z"
+  },
+  {
+    "id": "ruqyai/chatbard",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:47.297Z"
+  },
+  {
+    "id": "yokomakes/awesome-ai-tools",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:47.551Z"
+  },
+  {
+    "id": "kwistzzqq-byte/image2-ads-studio",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:47.786Z"
+  },
+  {
+    "id": "wubo0927/xiaoyou-aigc-cinematic-director",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:47.981Z"
+  },
+  {
+    "id": "stunspot/stunspots-guide-to-ai-systems",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:48.223Z"
+  },
+  {
+    "id": "naodeng/awesome-qa-prompt",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:48.444Z"
+  },
+  {
+    "id": "xiaobei930/cc-best",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:48.724Z"
+  },
+  {
+    "id": "vita-group/dp-opt",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:49.967Z"
+  },
+  {
+    "id": "armanshirzad/socialmediacontentcreationandpostingautomationplatform",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:50.243Z"
+  },
+  {
+    "id": "bestdeejay-design/awesome-ai-handbook",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:50.491Z"
+  },
+  {
+    "id": "gptsafe/promptguard",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:50.711Z"
+  },
+  {
+    "id": "timothywarner-org/prompt-pro",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:50.949Z"
+  },
+  {
+    "id": "cysecbench/dataset",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:51.217Z"
+  },
+  {
+    "id": "manutopik/awesome-stars",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:51.427Z"
+  },
+  {
+    "id": "sourangshupal/agentic-rag-project",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:51.656Z"
+  },
+  {
+    "id": "zahwab/ai-analytics-agent",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:51.878Z"
+  },
+  {
+    "id": "openfheorg/awesome-openfhe",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:52.107Z"
+  },
+  {
+    "id": "aarambhdevhub/exam-cheating-detection",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:52.331Z"
+  },
+  {
+    "id": "jhaizhou-ops/pinrule",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:52.607Z"
+  },
+  {
+    "id": "modelscope/promptscope",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:52.837Z"
+  },
+  {
+    "id": "ctxray/ctxray",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:53.073Z"
+  },
+  {
+    "id": "lostoxygen/llm-confidentiality",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:53.290Z"
+  },
+  {
+    "id": "xiaoliu07-sudo/xiaoliu-pojia",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:53.592Z"
+  },
+  {
+    "id": "izam-mohammed/ragrank",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:53.835Z"
+  },
+  {
+    "id": "cletrics/finops-agents",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:54.085Z"
+  },
+  {
+    "id": "twaldin/hone",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:54.323Z"
+  },
+  {
+    "id": "mshojaei77/awesome-prompts",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:54.535Z"
+  },
+  {
+    "id": "deathcats4/scholar-ppt-cn",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:54.741Z"
+  },
+  {
+    "id": "joeylearnstocode/prompt-studio",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:54.971Z"
+  },
+  {
+    "id": "xmm/codex-bmad-skills",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:55.244Z"
+  },
+  {
+    "id": "rohanmistry231/deep-learning-projects",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-05T13:03:55.443Z"
   }
 ]
