@@ -10458,5 +10458,175 @@
     "id": "rohanmistry231/deep-learning-projects",
     "reason": "below 50 stars",
     "excludedAt": "2026-10-05T13:03:55.443Z"
+  },
+  {
+    "id": "bishwaghimire/ai-learning-roadmaps",
+    "reason": "llm: 内容为资源链接汇总与路线图，缺乏成套教程章节或交互式学习材料，属于导航仓库而非教学课程。",
+    "excludedAt": "2026-10-05T23:30:23.216Z"
+  },
+  {
+    "id": "lastmile-ai/aiconfig",
+    "reason": "llm: 该仓库是一个开源开发框架和工具，非教学性质的书籍、课程或教程集合。",
+    "excludedAt": "2026-10-05T23:30:27.440Z"
+  },
+  {
+    "id": "kalyanks-nlp/llm-interview-questions-and-answers-hub",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:30:28.392Z"
+  },
+  {
+    "id": "judgmentlabs/judgeval",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:30:32.762Z"
+  },
+  {
+    "id": "doccker/cc-use-exp",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:30:33.807Z"
+  },
+  {
+    "id": "emilwallner/coloring-greyscale-images",
+    "reason": "llm: 属于深度学习项目演示与代码实现，非系统化教程书籍或课程。",
+    "excludedAt": "2026-10-05T23:31:00.391Z"
+  },
+  {
+    "id": "kongruksiamza/ebook-for-education",
+    "reason": "llm: 内容虽含教学性质，但主要面向编程基础（C/Java/Python/前端等），非AI/ML/LLM主题，仅一节提示工程不满足核心条件",
+    "excludedAt": "2026-10-05T23:31:15.802Z"
+  },
+  {
+    "id": "sunpy/sunpy",
+    "reason": "llm: SunPy 是日地物理学的 Python 科学工具库，非 AI/ML 教程或课程。",
+    "excludedAt": "2026-10-05T23:31:20.224Z"
+  },
+  {
+    "id": "towardsai/tutorials",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:31:21.173Z"
+  },
+  {
+    "id": "krishnaik06/roadmap-to-learn-agentic-ai",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:31:22.159Z"
+  },
+  {
+    "id": "raymondhou0917/speak-human-tw",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:31:23.059Z"
+  },
+  {
+    "id": "youssefhosni/awesome-ai-data-github-repos",
+    "reason": "llm: 该仓库是 Awesome 列表，仅汇总链接，无成套教学章节或课程材料，不符合收录标准。",
+    "excludedAt": "2026-10-05T23:31:27.380Z"
+  },
+  {
+    "id": "open-logic/open-logic",
+    "reason": "llm: 仓库为 FPGA VHDL 标准库，非 AI/ML 教学课程，不满足主题与结构要求",
+    "excludedAt": "2026-10-05T23:31:32.379Z"
+  },
+  {
+    "id": "aiwaves-cn/recurrentgpt",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:31:33.257Z"
+  },
+  {
+    "id": "whylabs/langkit",
+    "reason": "llm: 仓库核心是LLM监控开源工具包（Toolkit），非成套课程或教学书籍，仅含单个示例教程。",
+    "excludedAt": "2026-10-05T23:31:37.461Z"
+  },
+  {
+    "id": "technomadcode/ai-product-development-toolkit",
+    "reason": "llm: 该仓库是产品开发的提示词工具和Agent配置指南，属于工作流/工具集，非系统性AI/ML/LLM技术教程或课程。",
+    "excludedAt": "2026-10-05T23:31:42.087Z"
+  },
+  {
+    "id": "zhu1090093659/spec_driven_develop",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:31:42.947Z"
+  },
+  {
+    "id": "salesforceairesearch/promptomatix",
+    "reason": "llm: 仓库为AI自动提示词优化工具框架，非教学性课程或成套教程书籍",
+    "excludedAt": "2026-10-05T23:32:01.574Z"
+  },
+  {
+    "id": "russellenvy/three-man-team",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:32:21.356Z"
+  },
+  {
+    "id": "ferrislucas/promptr",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:32:22.503Z"
+  },
+  {
+    "id": "baranzinilab/kg_rag",
+    "reason": "llm: 属于科研代码工具库，非成套教程或课程体系",
+    "excludedAt": "2026-10-05T23:32:30.550Z"
+  },
+  {
+    "id": "repoprompt/repoprompt-ce",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:32:31.793Z"
+  },
+  {
+    "id": "plastic-labs/tutor-gpt",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:32:37.200Z"
+  },
+  {
+    "id": "thegeekyb0y/learnpython",
+    "reason": "llm: 内容为资源链接汇总，非成套教学材料",
+    "excludedAt": "2026-10-05T23:32:45.579Z"
+  },
+  {
+    "id": "celadaniel/free-ai-resources-x",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:32:46.666Z"
+  },
+  {
+    "id": "heynina101/generative_ai_project",
+    "reason": "llm: 该仓库是生产级项目代码模板，非教学课程或书籍，不符合收录标准。",
+    "excludedAt": "2026-10-05T23:32:54.894Z"
+  },
+  {
+    "id": "kendryte/nncase",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:32:56.118Z"
+  },
+  {
+    "id": "exocija/zetalib",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:32:57.208Z"
+  },
+  {
+    "id": "avinash201199/free-courses-with-certificates",
+    "reason": "llm: 这是一个免费课程链接聚合列表，并非自有的教学书籍或成套课程材料，不符合收录标准。",
+    "excludedAt": "2026-10-05T23:33:01.047Z"
+  },
+  {
+    "id": "lb623/no-negative-echo",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:33:02.023Z"
+  },
+  {
+    "id": "pnp/copilot-prompts",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:33:03.314Z"
+  },
+  {
+    "id": "disler/multi-agent-postgres-data-analytics",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:33:04.268Z"
+  },
+  {
+    "id": "promptdriven/pdd",
+    "reason": "llm: 这是PDD开发工具链，非系统性AI教程或书籍，不满足教学目录收录条件。",
+    "excludedAt": "2026-10-05T23:33:16.842Z"
+  },
+  {
+    "id": "alirezarezvani/claude-code-skill-factory",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-05T23:33:17.848Z"
   }
 ]
