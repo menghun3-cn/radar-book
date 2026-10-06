@@ -85,8 +85,8 @@
 - [Machine-Learning-with-Python (tirthajyoti)](https://github.com/tirthajyoti/Machine-Learning-with-Python): 基于Python的机器学习实践教程，涵盖回归、分类、聚类等算法的代码演练与详解
 - [openvino_notebooks (openvinotoolkit)](https://github.com/openvinotoolkit/openvino_notebooks): OpenVINO官方深度学习与计算机视觉推理教程集合，含多章节笔记本。
 - [uvadlc_notebooks (phlippe)](https://github.com/phlippe/uvadlc_notebooks): 阿姆斯特丹大学深度学习课程的官方Jupyter Notebook教程系列，涵盖从PyTorch基础到Transformer和GNN的成套章节。
-- [loopy (Forward-Future)](https://github.com/Forward-Future/loopy): 一套用于设计、运行和审计AI Agent循环工作流的教程及可安装技能库。
 - [harness-books (wquguru)](https://github.com/wquguru/harness-books): 两本关于Harness工程的书籍，深入解析Claude Code与Codex的架构设计哲学及代理系统控制机制。
+- [loopy (Forward-Future)](https://github.com/Forward-Future/loopy): 一套用于设计、运行和审计AI Agent循环工作流的教程及可安装技能库。
 - [deep-learning-keras-tensorflow (leriomaggio)](https://github.com/leriomaggio/deep-learning-keras-tensorflow): 基于Keras和TensorFlow的深度学习入门教程，涵盖神经网络、CNN、RNN等核心主题及实战代码。
 - [computer-vision-in-action (Charmve)](https://github.com/Charmve/computer-vision-in-action): 《计算机视觉实战演练》在线电子书，含完整章节、理论解析与可运行PyTorch代码。
 - [easy-tensorflow (easy-tensorflow)](https://github.com/easy-tensorflow/easy-tensorflow): 一套完整的TensorFlow深度学习教育资源，涵盖从环境搭建到卷积神经网络。
@@ -212,12 +212,17 @@
 - [appl (appl-team)](https://github.com/appl-team/appl): APPL提示编程语言的官方教程，涵盖安装、入门示例及核心概念解析。
 - [PyTorch-101-Tutorial-Series (Paperspace)](https://github.com/Paperspace/PyTorch-101-Tutorial-Series): Paperspace 官方 PyTorch 101 实战教程，从计算图、自动求导到自定义网络架构，配套完整 Jupyter Notebook。
 - [prompt-engineering-note (isLinXu)](https://github.com/isLinXu/prompt-engineering-note): DeepLearning.AI提示工程课程中文笔记，含9章内容及Jupyter实践代码。
+- [Applied-Machine-Learning-Explainability-Techniques (PacktPublishing)](https://github.com/PacktPublishing/Applied-Machine-Learning-Explainability-Techniques): Packt出版的《应用机器学习可解释性技术》书籍配套代码，涵盖LIME、SHAP等XAI方法章节
 - [PANDAS-TUTORIAL (TirendazAcademy)](https://github.com/TirendazAcademy/PANDAS-TUTORIAL): 一套面向初学者的Python Pandas数据分析教程，包含系列Notebooks和配套视频。
 - [modern_ai_for_beginners (chunhuizhang)](https://github.com/chunhuizhang/modern_ai_for_beginners): 面向初学者的现代AI课程，包含N-gram推导等实战笔记本及B站视频配套
 - [acordeon-ia-900 (josejesusguzman)](https://github.com/josejesusguzman/acordeon-ia-900): 微软AI-900认证的非官方综合教程，包含分单元笔记、实践练习及补充资源。
+- [genai-cookbook (dmatrix)](https://github.com/dmatrix/genai-cookbook): 一套面向初学者的生成式AI实战教程，涵盖提示工程、Agent及RAG等核心主题的笔记本与指南。
 - [claude-code-pro-course (justxor)](https://github.com/justxor/claude-code-pro-course): 俄语Claude Code高级实战课程，涵盖代理配置、实验及提示工程。
+- [context-engineering-dspy (avbiswas)](https://github.com/avbiswas/context-engineering-dspy): DSPy上下文工程配套课程代码，涵盖提示、多轮交互、评估、工具及RAG五个层级实践。
 - [bert-classification-tutorial (hppRC)](https://github.com/hppRC/bert-classification-tutorial): 基于PyTorch和Transformers的BERT文本分类结构化教程
+- [modern-llm-notebook (walkinglabs)](https://github.com/walkinglabs/modern-llm-notebook): 一套从零开始的现代LLM实战课程，包含BPE、预训练、SFT、推理及高级技术的可运行Notebook。
 - [llm-rl-environments-lil-course (anakin87)](https://github.com/anakin87/llm-rl-environments-lil-course): 通过10章课程和实战项目，教学如何用强化学习环境训练和评估LLM。
+- [DiffusionFromScratch (Animadversio)](https://github.com/Animadversio/DiffusionFromScratch): 哈佛ML系列的Stable Diffusion从零构建教程，含代码、幻灯片及练习。
 - [claude-code (timothywarner-org)](https://github.com/timothywarner-org/claude-code): O'Reilly Live课程，涵盖Claude Code安装、上下文管理、Agent工作流及MCP集成。
 - [r-course-material (ccs-amsterdam)](https://github.com/ccs-amsterdam/r-course-material): 阿姆斯特丹自由大学R语言课程资料，含LLM与数据分析教程
 - [rl-handbook (lubludrova)](https://github.com/lubludrova/rl-handbook): 一份系统讲解强化学习算法与代码的实践型教科书，从基础到高级。
@@ -252,10 +257,10 @@
 - [hands-on-llm (FRS2003)](https://github.com/FRS2003/hands-on-llm): 从零构建LLM的完整中文实战教程，覆盖原理、手搓、微调、Agent与RAG落地。
 - [sktime-tutorial-pydata-amsterdam-2020 (sktime)](https://github.com/sktime/sktime-tutorial-pydata-amsterdam-2020): 基于 sktime 和 scikit-learn 的时间序列机器学习系列教程，涵盖预测与分类任务。
 - [Hello-Agents (Reyzowter)](https://github.com/Reyzowter/Hello-Agents): 从零构建生产级多智能体系统的开源完整课程，含代码与实践。
+- [zero-to-ai (PavanMudigonda)](https://github.com/PavanMudigonda/zero-to-ai): 免费在线AI/ML课程，含33个阶段950+笔记本，覆盖Python至LLM Agent全流程。
 - [ClaudeCode-Workflow-Lab (Frisher1)](https://github.com/Frisher1/ClaudeCode-Workflow-Lab): 基于Claude Code思想的AI工作流对抗性验证引擎，提供15章课程与14个实战实验。
 - [The-Kaggle-Book-2nd-Edition (PacktPublishing)](https://github.com/PacktPublishing/The-Kaggle-Book-2nd-Edition): 《Kaggle实战指南》第二版官方代码库，涵盖机器学习与LLM竞赛技巧。
 - [AI-PhD-S24 (rphilipzhang)](https://github.com/rphilipzhang/AI-PhD-S24): CUHK 2024春季AI商业研究博士课程全套资料，含ML/NLP/DL课件、代码及作业。
-- [zero-to-ai (PavanMudigonda)](https://github.com/PavanMudigonda/zero-to-ai): 免费在线AI/ML课程，含33个阶段950+笔记本，覆盖Python至LLM Agent全流程。
 - [InterviewMentor (PrepLabsAI)](https://github.com/PrepLabsAI/InterviewMentor): 基于AI代理的程序员面试模拟教程，含多角色技能包与练习
 - [PocketFlow-Tutorial-Website-Chatbot (The-Pocket)](https://github.com/The-Pocket/PocketFlow-Tutorial-Website-Chatbot): PocketFlow 官方教程项目，演示如何构建低维护的网站 AI 客服，自动读取网页内容并回答用户问题。
 - [ai-tutorial (lgy1027)](https://github.com/lgy1027/ai-tutorial): 系统讲解 LangChain、RAG 及 Agent 的 AI 应用开发教程。

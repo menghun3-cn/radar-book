@@ -10628,5 +10628,180 @@
     "id": "alirezarezvani/claude-code-skill-factory",
     "reason": "education signal too weak (2 readme terms, 0 lesson files)",
     "excludedAt": "2026-10-05T23:33:17.848Z"
+  },
+  {
+    "id": "anxforever/stylekit",
+    "reason": "llm: 该仓库是视觉风格库与工具，而非教学课程或教材",
+    "excludedAt": "2026-10-06T03:42:40.151Z"
+  },
+  {
+    "id": "mdpsec/bug-bounty-hunting-prompts",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:42:41.164Z"
+  },
+  {
+    "id": "higoalv/higoalvita",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:42:42.381Z"
+  },
+  {
+    "id": "esipfed/awesome-earth-artificial-intelligence",
+    "reason": "llm: 该仓库是链接列表（Awesome List），非成套教学材料，不满足结构要求",
+    "excludedAt": "2026-10-06T03:42:49.526Z"
+  },
+  {
+    "id": "kaomei/hand-drawn-video-prompts",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:43:04.992Z"
+  },
+  {
+    "id": "mk2112/nn-zero-to-hero-notes",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:43:06.133Z"
+  },
+  {
+    "id": "entropyvortex/meta-llm-charter",
+    "reason": "llm: 核心是LLM代理行为准则工具，非成套教学课程或书籍，缺乏系统教学章节。",
+    "excludedAt": "2026-10-06T03:43:11.516Z"
+  },
+  {
+    "id": "promplate/partial-json-parser-js",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:43:12.713Z"
+  },
+  {
+    "id": "smixs/creative-director-skill",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:43:13.674Z"
+  },
+  {
+    "id": "526christian/ai-image-promptgenerator",
+    "reason": "archived",
+    "excludedAt": "2026-10-06T03:43:13.910Z"
+  },
+  {
+    "id": "fkiene/llmtrim",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:43:14.834Z"
+  },
+  {
+    "id": "doi-usgs/isis3",
+    "reason": "llm: 这是行星遥感图像处理的软件包，非AI/ML教学材料",
+    "excludedAt": "2026-10-06T03:43:35.524Z"
+  },
+  {
+    "id": "telagod/code-abyss",
+    "reason": "llm: 该仓库为AI Agent配置工具，非教学课程或书籍。",
+    "excludedAt": "2026-10-06T03:43:54.332Z"
+  },
+  {
+    "id": "gaur-avvv/xgpt-wormgpt",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:43:55.624Z"
+  },
+  {
+    "id": "eas4ai/engineered-meta-cognitive-workflow-architecture",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:43:56.704Z"
+  },
+  {
+    "id": "asgard-ai-platform/skills",
+    "reason": "llm: 内容为供Agent调用的技能参考库，非系统性课程或书籍，缺乏教学闭环结构。",
+    "excludedAt": "2026-10-06T03:44:17.666Z"
+  },
+  {
+    "id": "naodeng/awesome-qa-skills",
+    "reason": "llm: 仓库为Agent技能库/工具集合，非成套教学课程或书籍",
+    "excludedAt": "2026-10-06T03:44:43.998Z"
+  },
+  {
+    "id": "jdrhyne/agent-skills",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:44:45.097Z"
+  },
+  {
+    "id": "yazdi9/talking_face_avatar",
+    "reason": "llm: 主要为SadTalker工具展示，缺乏成套教学章节。",
+    "excludedAt": "2026-10-06T03:45:00.858Z"
+  },
+  {
+    "id": "learnprompt/cc-harness-skills",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:45:01.891Z"
+  },
+  {
+    "id": "itsinseong/value-for-fable",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:45:02.949Z"
+  },
+  {
+    "id": "holtwood/awesome-cursorrules-zh",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:45:03.929Z"
+  },
+  {
+    "id": "w95/awesome-claude-corporate-skills",
+    "reason": "llm: 该仓库是生产级技能包集合（Prompt/Workflow库），非系统性课程或书籍，缺乏教学进阶结构。",
+    "excludedAt": "2026-10-06T03:45:14.470Z"
+  },
+  {
+    "id": "evomap/awesome-agent-evolution",
+    "reason": "llm: 该仓库为资源列表（awesome list），非系统性教程或课程，不满足教学内容及章节结构要求。",
+    "excludedAt": "2026-10-06T03:45:20.537Z"
+  },
+  {
+    "id": "ju-bezdek/langchain-decorators",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:45:40.194Z"
+  },
+  {
+    "id": "jiabaobei/skills-constitution",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:45:41.340Z"
+  },
+  {
+    "id": "moskoo/xxg-portrait-rebuild-light",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:45:42.656Z"
+  },
+  {
+    "id": "clipcat-ai/clipcat-skill",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:45:43.823Z"
+  },
+  {
+    "id": "lling0000/vibe_coding_guide",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:45:45.105Z"
+  },
+  {
+    "id": "evolinkai/gpt-image-2.5-for-e-commerce",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:45:47.093Z"
+  },
+  {
+    "id": "sheet0/npi",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:45:48.004Z"
+  },
+  {
+    "id": "google-gemini/workshops",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:46:02.825Z"
+  },
+  {
+    "id": "digital-media/hagenbergthesis",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:46:04.134Z"
+  },
+  {
+    "id": "elie222/botdirectory.ai",
+    "reason": "education signal too weak (0 readme terms, 2 lesson files)",
+    "excludedAt": "2026-10-06T03:46:05.117Z"
+  },
+  {
+    "id": "ztrimus/resumeflow",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-06T03:46:06.048Z"
   }
 ]
