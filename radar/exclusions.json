@@ -11358,5 +11358,165 @@
     "id": "nick088official/superprompt-v1",
     "reason": "below 50 stars",
     "excludedAt": "2026-10-07T03:07:49.651Z"
+  },
+  {
+    "id": "laolaoshiren/claude-code-skills-zh",
+    "reason": "llm: 主要为资源导航和工具技能库，非结构化教学课程或书籍，缺乏成套章节。",
+    "excludedAt": "2026-10-07T12:18:17.003Z"
+  },
+  {
+    "id": "thu-vu92/local-llms-analyse-finance",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-07T12:18:18.784Z"
+  },
+  {
+    "id": "promptise-com/foundry",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:18:19.735Z"
+  },
+  {
+    "id": "agnostiqhq/covalent",
+    "reason": "llm: 核心是工作流编排工具，教程仅为示例文档，非独立成套课程。",
+    "excludedAt": "2026-10-07T12:18:35.708Z"
+  },
+  {
+    "id": "abhimishra91/transformers-tutorials",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:18:36.488Z"
+  },
+  {
+    "id": "spring-ai-community/awesome-spring-ai",
+    "reason": "llm: 该仓库是资源链接聚合列表（awesome-list），并非自有的成套课程或教材，不满足结构条件。",
+    "excludedAt": "2026-10-07T12:18:52.491Z"
+  },
+  {
+    "id": "feichanggege/ecommerce-visual-copywriting-skill",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:18:53.275Z"
+  },
+  {
+    "id": "oneirocom/magick",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:18:54.138Z"
+  },
+  {
+    "id": "3641397194-wq/gpt6-astra",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:18:54.897Z"
+  },
+  {
+    "id": "agnosticui/agnosticui",
+    "reason": "llm: 该仓库是一个前端UI组件库工具，而非教学性质的课程或书籍，不符合收录条件。",
+    "excludedAt": "2026-10-07T12:19:05.455Z"
+  },
+  {
+    "id": "dave1010/tree-of-thought-prompting",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:19:06.162Z"
+  },
+  {
+    "id": "cyrusbehr/tensorrt-cpp-api",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:19:07.067Z"
+  },
+  {
+    "id": "xianyu110/awesome-nanobananapro-prompts",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:19:09.468Z"
+  },
+  {
+    "id": "chats-lab/verbalized-sampling",
+    "reason": "llm: 内容为Python库/工具包，虽有教程Notebook，但核心是软件实现而非成套课程书籍。",
+    "excludedAt": "2026-10-07T12:19:19.287Z"
+  },
+  {
+    "id": "context-space/context-space",
+    "reason": "llm: 主要是一个MCP工具和服务集成平台，并非教学性质的课程或书籍内容。",
+    "excludedAt": "2026-10-07T12:19:36.208Z"
+  },
+  {
+    "id": "jesselau76/gpt-prompts",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:19:37.007Z"
+  },
+  {
+    "id": "omerbsezer/reinforcement_learning_tutorial_with_demo",
+    "reason": "archived",
+    "excludedAt": "2026-10-07T12:19:37.243Z"
+  },
+  {
+    "id": "insaanimanav/prompt-forge",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:19:37.981Z"
+  },
+  {
+    "id": "wantongc/journal-adapt-writing-skill",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:19:38.797Z"
+  },
+  {
+    "id": "svjan5/gnns-for-nlp",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:19:51.051Z"
+  },
+  {
+    "id": "zerolu/awesome-gemini-ai",
+    "reason": "llm: 该仓库为提示词资源列表，非成套教学课程或书籍",
+    "excludedAt": "2026-10-07T12:20:21.108Z"
+  },
+  {
+    "id": "magnivorg/prompt-layer-library",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:20:21.955Z"
+  },
+  {
+    "id": "krishnaik06/data-science-gen-ai-playlist-2024",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:20:27.480Z"
+  },
+  {
+    "id": "dongshuyan/compass-skills",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:20:33.049Z"
+  },
+  {
+    "id": "mathworks/awesome-matlab-students",
+    "reason": "llm: 这是资源列表而非教学课程，主要指向前端工具及通用资源，不符合成套教材标准",
+    "excludedAt": "2026-10-07T12:20:36.933Z"
+  },
+  {
+    "id": "promptlabs/prompt-hacking-resources",
+    "reason": "llm: 该仓库为外部资源链接合集，非原创成套教学材料",
+    "excludedAt": "2026-10-07T12:20:43.735Z"
+  },
+  {
+    "id": "jau123/nanobanana-trending-prompts",
+    "reason": "llm: 该仓库是提示词示例列表而非教学材料，不满足“成套课程章节”这一结构化要求。",
+    "excludedAt": "2026-10-07T12:20:48.800Z"
+  },
+  {
+    "id": "freemanzxp/gbdt_simple_tutorial",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-07T12:20:49.579Z"
+  },
+  {
+    "id": "kadevin/ilab-conjure",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:20:50.496Z"
+  },
+  {
+    "id": "ptcodes/awesome-aws-certifications",
+    "reason": "llm: 该仓库为AWS认证资料链接汇总，非AI/ML教学课程或书籍，主题不符。",
+    "excludedAt": "2026-10-07T12:21:15.061Z"
+  },
+  {
+    "id": "jatinshah/ufldl_tutorial",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:21:54.038Z"
+  },
+  {
+    "id": "alfianlosari/chatgptswiftui",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-07T12:21:54.942Z"
   }
 ]
