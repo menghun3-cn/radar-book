@@ -11863,5 +11863,200 @@
     "id": "ruvnet/symbolic-scribe",
     "reason": "education signal too weak (2 readme terms, 0 lesson files)",
     "excludedAt": "2026-10-08T03:27:58.575Z"
+  },
+  {
+    "id": "codecrack3/recursive-language-models-rlm-with-dspy",
+    "reason": "llm: 该项目是RLM技术库代码实现，非教学课程或成套教程。",
+    "excludedAt": "2026-10-08T12:31:51.645Z"
+  },
+  {
+    "id": "zahiruddin586-cpu/ai-web-forge",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T12:32:12.210Z"
+  },
+  {
+    "id": "gurpreetkaurjethra/image-to-speech-genai-tool-using-llm",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T12:32:13.046Z"
+  },
+  {
+    "id": "tjadamlee/gpts-prompts",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T12:32:13.953Z"
+  },
+  {
+    "id": "cobibean/soul-grader-skill",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T12:32:14.797Z"
+  },
+  {
+    "id": "laxmimerit/multi-agent-deep-rag",
+    "reason": "llm: 仓库主要是 Udemy 课程推广聚合页，而非直接提供成套教学章节材料",
+    "excludedAt": "2026-10-08T12:32:20.484Z"
+  },
+  {
+    "id": "laurigates/claude-plugins",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T12:32:21.394Z"
+  },
+  {
+    "id": "bighardperson/computer-science-skills-collection",
+    "reason": "llm: 这是AI Agent技能/提示词库，属工具模板集，非成套教学课程。",
+    "excludedAt": "2026-10-08T12:32:30.934Z"
+  },
+  {
+    "id": "giovanniouterleys/mcto3d",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T12:32:31.856Z"
+  },
+  {
+    "id": "supervertaler/supervertaler-workbench",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T12:32:32.863Z"
+  },
+  {
+    "id": "jiaxuan-tao/vibe-coding-lab",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T12:32:34.105Z"
+  },
+  {
+    "id": "modelstudioai/skills",
+    "reason": "llm: 这是一个AI Agent技能市场/工具集合，并非结构化的教学课程、书籍或教程体系，不符合收录条件。",
+    "excludedAt": "2026-10-08T12:32:58.580Z"
+  },
+  {
+    "id": "scarvy/ghostreader-prompts",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T12:32:59.561Z"
+  },
+  {
+    "id": "mindaxis-ai/alchemy-furnace",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T12:33:00.666Z"
+  },
+  {
+    "id": "open-prompting/knowledge-base",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T12:33:01.560Z"
+  },
+  {
+    "id": "bigcash/awesome-ai-list-guide",
+    "reason": "llm: 内容为资源链接聚合列表（Awesome List），非成套课程、书籍或结构化教学章节，属于普通文档。",
+    "excludedAt": "2026-10-08T12:33:07.159Z"
+  },
+  {
+    "id": "ashalogic/persian-sentiment-analyzer",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T12:33:08.319Z"
+  },
+  {
+    "id": "yuchen20/memory-plus",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T12:33:09.276Z"
+  },
+  {
+    "id": "accenture/airefinery-sdk",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T12:33:10.218Z"
+  },
+  {
+    "id": "getstream/chat-ai-samples",
+    "reason": "llm: 该仓库为Stream Chat与AI集成的代码示例库，包含iOS/Android/React等平台的组件演示及后端集成代码，属于工具SDK配套示例，非结构化教学课程或书籍",
+    "excludedAt": "2026-10-08T12:33:16.690Z"
+  },
+  {
+    "id": "autoresearch-factory/agon",
+    "reason": "education signal too weak (1 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-08T12:33:17.618Z"
+  },
+  {
+    "id": "ajcanepa/practica_ffdd_gis",
+    "reason": "llm: 该仓库是布戈斯大学课程的学生作业提交库及参考链接集合，非标准化AI教材或系统课程。",
+    "excludedAt": "2026-10-08T12:33:38.970Z"
+  },
+  {
+    "id": "agency-ai-solutions/openai-codex-mcp",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T12:33:39.874Z"
+  },
+  {
+    "id": "moorcheh-ai/moorcheh-python-sdk",
+    "reason": "llm: 这是商业SDK库，非教学课程",
+    "excludedAt": "2026-10-08T12:33:43.511Z"
+  },
+  {
+    "id": "not-elm/orzma",
+    "reason": "llm: 该仓库是终端模拟器工具，非教学课程或教程，不满足收录条件。",
+    "excludedAt": "2026-10-08T12:34:03.978Z"
+  },
+  {
+    "id": "arogyareddy/composiohq-awesome-claude-skills",
+    "reason": "llm: 内容是可复用的 Claude Skills 资源列表，属于工具集而非成套课程体系",
+    "excludedAt": "2026-10-08T12:34:09.324Z"
+  },
+  {
+    "id": "projects-developer/top-30-artificial-intelligence-project-ideas-in-2025",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-08T12:34:09.621Z"
+  },
+  {
+    "id": "raunakdoesdev/claudescholar",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-08T12:34:09.829Z"
+  },
+  {
+    "id": "dubverse-ai/rvc-data-prep",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-08T12:34:10.149Z"
+  },
+  {
+    "id": "chrisilson/free-cybersecurity-resources",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-08T12:34:10.397Z"
+  },
+  {
+    "id": "kliewerdaniel/workflow",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-08T12:34:10.649Z"
+  },
+  {
+    "id": "bonfirer/lingxibi",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-08T12:34:10.915Z"
+  },
+  {
+    "id": "anil-matcha/nano-banana-2.1-api",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-08T12:34:11.173Z"
+  },
+  {
+    "id": "adilshamim8/ml-roadmap-and-notes",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-08T12:34:11.443Z"
+  },
+  {
+    "id": "laxmimerit/agentic-rag-with-langgraph-and-ollama",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-08T12:34:11.677Z"
+  },
+  {
+    "id": "laxmimerit/dog-cat-full-dataset",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-08T12:34:11.876Z"
+  },
+  {
+    "id": "bgoonz/awesome-4-new-developers",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-08T12:34:12.130Z"
+  },
+  {
+    "id": "frostant/awesome-claude-skills",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-08T12:34:12.385Z"
+  },
+  {
+    "id": "hellotinah/ai-projects",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-08T12:34:12.596Z"
   }
 ]
