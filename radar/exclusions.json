@@ -11678,5 +11678,190 @@
     "id": "harikrishna8121999/antigravity-workflows",
     "reason": "education signal too weak (1 readme terms, 1 lesson files)",
     "excludedAt": "2026-10-07T22:27:47.198Z"
+  },
+  {
+    "id": "juyongjiang/codellmsurvey",
+    "reason": "llm: 该仓库是学术论文的配套资料，主要汇集相关文献列表，属于纯文档/综述资源，非结构化教学课程。",
+    "excludedAt": "2026-10-08T03:24:04.207Z"
+  },
+  {
+    "id": "apimartc30lq1/unified-ai-tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-08T03:24:43.456Z"
+  },
+  {
+    "id": "vorniches/snap2txt",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:24:44.228Z"
+  },
+  {
+    "id": "aws-samples/amazon-transcribe-post-call-analytics",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:24:45.169Z"
+  },
+  {
+    "id": "nayjest/ai-microcore",
+    "reason": "llm: 该仓库为LLM开发用的Python库/框架，非教学课程或书籍，不满足教学性质及成套章节结构要求。",
+    "excludedAt": "2026-10-08T03:24:51.948Z"
+  },
+  {
+    "id": "hajimides/sd-anima-prompt-studio",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:24:52.847Z"
+  },
+  {
+    "id": "mattmireles/flatty",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:24:53.540Z"
+  },
+  {
+    "id": "litmux4ai/litmux",
+    "reason": "llm: Litmux是AI提示词测试与评估的CLI工具库，非教程或书籍，虽含示例但本质为开发工具。",
+    "excludedAt": "2026-10-08T03:25:03.130Z"
+  },
+  {
+    "id": "vincentkoc/dotskills",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:25:03.915Z"
+  },
+  {
+    "id": "kesslernity/awesome-copilot-chat-agents",
+    "reason": "llm: 该仓库是82个预制AI Agent模板的集合，属于工具/资源库，缺乏成套的教学章节或课程结构，不满足教学性质要求。",
+    "excludedAt": "2026-10-08T03:25:17.091Z"
+  },
+  {
+    "id": "elliotxie/cassia",
+    "reason": "llm: 内容为生物信息学领域的专业评估框架，非教学性质的书籍或课程。",
+    "excludedAt": "2026-10-08T03:25:25.323Z"
+  },
+  {
+    "id": "vstorm-co/awesome-pydantic-ai",
+    "reason": "llm: 属于资源汇总列表（Awesome List），非成套教程或书籍，不满足教学结构要求。",
+    "excludedAt": "2026-10-08T03:25:32.678Z"
+  },
+  {
+    "id": "jonathanbertholet/promptmanager",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:25:33.395Z"
+  },
+  {
+    "id": "narenaryan/vidura",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:25:34.151Z"
+  },
+  {
+    "id": "xayan/rules.txt",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:25:34.869Z"
+  },
+  {
+    "id": "cozytab/fable5-mode",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:25:35.589Z"
+  },
+  {
+    "id": "stephenhaney/dear-diary-ai",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:25:36.455Z"
+  },
+  {
+    "id": "tanbryan/ai-mv-generator",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:25:37.143Z"
+  },
+  {
+    "id": "connectai-e/prompt-engineering-tutior",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:25:37.820Z"
+  },
+  {
+    "id": "thibaultyou/prompt-library",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:25:38.554Z"
+  },
+  {
+    "id": "kgoedecke/promptclip",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:25:39.360Z"
+  },
+  {
+    "id": "winter-soren/quantum-ml-handbook",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:25:40.027Z"
+  },
+  {
+    "id": "spinnerappreciate/glm-flash-offline-client",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:25:40.819Z"
+  },
+  {
+    "id": "ilang-ai/autocode",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:25:41.512Z"
+  },
+  {
+    "id": "manasseh-zw/apollo",
+    "reason": "llm: 该仓库为 Apollo 多智能体研究应用的代码实现，属于工程工具/项目，而非教学性质的课程、教程或书籍。",
+    "excludedAt": "2026-10-08T03:25:46.130Z"
+  },
+  {
+    "id": "liquid-legal-institute/legal-llms-gpts",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:25:47.037Z"
+  },
+  {
+    "id": "vishnukanduri/credit-risk-modeling-in-python",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-08T03:25:47.848Z"
+  },
+  {
+    "id": "jannctu/python-backend-developer-roadmap",
+    "reason": "llm: 核心为Python后端开发路线图，AI仅作为其中一小节，非专注AI教学",
+    "excludedAt": "2026-10-08T03:26:21.376Z"
+  },
+  {
+    "id": "data-centric-ai-community/awesome-python-for-data-science",
+    "reason": "llm: 该仓库主要是资源链接聚合列表（awesome-list），而非自成体系的教学课程材料，不符合“成套章节”要求。",
+    "excludedAt": "2026-10-08T03:26:37.252Z"
+  },
+  {
+    "id": "onelonecoder/olcpixelgameengine3",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:26:38.086Z"
+  },
+  {
+    "id": "vgventures/dash_ai_search",
+    "reason": "archived",
+    "excludedAt": "2026-10-08T03:26:38.325Z"
+  },
+  {
+    "id": "dmitryryumin/wacv-2024-papers",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:26:39.119Z"
+  },
+  {
+    "id": "aws-samples/serverless-genai-food-analyzer-app",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:26:39.922Z"
+  },
+  {
+    "id": "adityasoni19031997/machine-learning",
+    "reason": "llm: 仅为外部课程与博客的链接清单，缺乏自有的成套章节或原创教学材料。",
+    "excludedAt": "2026-10-08T03:26:46.879Z"
+  },
+  {
+    "id": "datawhalechina/llm-research",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:26:47.734Z"
+  },
+  {
+    "id": "jim-schwoebel/voice_gender_detection",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:26:48.531Z"
+  },
+  {
+    "id": "ruvnet/symbolic-scribe",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-08T03:27:58.575Z"
   }
 ]

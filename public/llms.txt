@@ -183,8 +183,8 @@
 - [machine-learning-repos (recodehive)](https://github.com/recodehive/machine-learning-repos): 收录机器学习理论、数学基础、框架教程及多个实战项目代码的综合性学习资料库。
 - [start-ai-engineering (louisfb01)](https://github.com/louisfb01/start-ai-engineering): 一份面向初学者的全面AI工程入门指南，包含视频、书籍及实战项目
 - [Prysai-LLM-Playbook (Prysai)](https://github.com/Prysai/Prysai-LLM-Playbook): 一套结构化的LLM实践教程，包含核心课程、多语言章节及验证练习，旨在掌握提示工程与AI代理。
-- [Awesome-Agentic-Clinical-Dialogue (xqz614)](https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue): 面向医疗对话领域的AI Agent教程与课程资源集合，含微调实践
 - [ms-cookbook (modelscope)](https://github.com/modelscope/ms-cookbook): 面向开发者的开源模型应用实战指南，包含35章完整教程。
+- [Awesome-Agentic-Clinical-Dialogue (xqz614)](https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue): 面向医疗对话领域的AI Agent教程与课程资源集合，含微调实践
 - [lanshu-awesome-ai-video-kit (cclank)](https://github.com/cclank/lanshu-awesome-ai-video-kit): 涵盖15个主流视频模型与21篇SOP的AI视频提示词工程实战教程库。
 - [opencode-primer (wesammustafa)](https://github.com/wesammustafa/opencode-primer): OpenCode开源AI编码代理的完整入门指南，含设置、提示工程与插件教程。
 - [MachineLearningRoadmap (justxor)](https://github.com/justxor/MachineLearningRoadmap): 面向俄语社区的全面机器学习学习路线图，涵盖从基础到LLM开发的七个阶段及实践任务。
@@ -236,11 +236,10 @@
 - [Prompt-Engineering-Jumpstart (arorarishi)](https://github.com/arorarishi/Prompt-Engineering-Jumpstart): 这是一本面向初学者的开源提示工程教程书，包含14个章节，通过简单类比和实战示例教用户高效与AI交互。
 - [rl-handbook (lubludrova)](https://github.com/lubludrova/rl-handbook): 一份系统讲解强化学习算法与代码的实践型教科书，从基础到高级。
 - [ai-agents (viktoriasemaan)](https://github.com/viktoriasemaan/ai-agents): 一份基于AWS Bedrock构建AI解决方案架构师智能体的实战教程，涵盖RAG、IaC生成及成本估算。
-- [minimind-notes (joyehuang)](https://github.com/joyehuang/minimind-notes): 待人工复核后展示。
-- [intelligent-app-workshop (Azure)](https://github.com/Azure/intelligent-app-workshop): 待人工复核后展示。
+- [minimind-notes (joyehuang)](https://github.com/joyehuang/minimind-notes): 基于MiniMind的LLM训练原理教程，含归一化、注意力等模块的理论与对比实验。
+- [intelligent-app-workshop (Azure)](https://github.com/Azure/intelligent-app-workshop): 基于Azure Copilot栈的成套AI应用开发教学工作坊，含架构与实操。
 - [tutorial (SalvatoreRa)](https://github.com/SalvatoreRa/tutorial): 面向 AI、机器学习和数据科学的教程合集，覆盖计算机视觉、NLP 与生物医学案例，配套 Python/R 与 Notebook。
 - [claude-code-handbook (ThamJiaHe)](https://github.com/ThamJiaHe/claude-code-handbook): 待人工复核后展示。
-- [CodeLLMSurvey (juyongjiang)](https://github.com/juyongjiang/CodeLLMSurvey): 待人工复核后展示。
 - [AI_tools_nontechnical (h9-tec)](https://github.com/h9-tec/AI_tools_nontechnical): 面向非技术人员的12周免费AI学习路线图，涵盖工具实践、提示词技巧及课程推荐。
 - [awesome-agent-evolution (Shiyao-Huang)](https://github.com/Shiyao-Huang/awesome-agent-evolution): 面向 AI Agent 自进化领域的开放 Survey 与教材式课程资料库
 - [Machine-Learning-101 (muhammadanas0716)](https://github.com/muhammadanas0716/Machine-Learning-101): 系统整理机器学习与深度学习教程、项目及速查表的开源学习资源
@@ -294,6 +293,10 @@
 - [Generative-AI-Tutorial (pittisl)](https://github.com/pittisl/Generative-AI-Tutorial): 一份涵盖神经网络、Transformer、LLM、扩散模型等主题的生成式AI学习路线图
 - [claude-architect (timothywarner-org)](https://github.com/timothywarner-org/claude-architect): 面向Claude认证考试的O'Reilly完整课程，涵盖Agent架构、MCP集成及提示工程实战
 - [AI-PhD-S26 (rphilipzhang)](https://github.com/rphilipzhang/AI-PhD-S26): 港中文 DOTE 6635 博士课程完整材料，涵盖强化学习、Agentic AI 及商业应用。
+- [Fast-LLM-Agent-MCP (omerbsezer)](https://github.com/omerbsezer/Fast-LLM-Agent-MCP): 涵盖LLM原理及多框架Agent开发的系统化教程与实操示例。
+- [LLM-Workshop (tylerelyt)](https://github.com/tylerelyt/LLM-Workshop): 基于动手项目的LLM开发工作坊，涵盖RAG、多智能体及微调等8个章节
+- [awesome-ai-agent-learning (2182977liu-bit)](https://github.com/2182977liu-bit/awesome-ai-agent-learning): 一套从零构建 AI Agent 的中文保姆级教程，涵盖原理、代码与实战
+- [Recursive-Language-Models-RLM-with-DSpy (codecrack3)](https://github.com/codecrack3/Recursive-Language-Models-RLM-with-DSpy): 待人工复核后展示。
 - [Notebook-Git-Colab (JonusNattapong)](https://github.com/JonusNattapong/Notebook-Git-Colab): 一份包含25个章节的AI/LLM外部学习资源与演示代码索引目录
 - [system-design-vibecoding (nimin1)](https://github.com/nimin1/system-design-vibecoding): 一套包含71章的系统设计教程，重点讲解如何利用AI工具进行系统架构设计与优化
 - [AI-Conversation (TyrealQ)](https://github.com/TyrealQ/AI-Conversation): 体育管理领域 AI 应用教程，含 NLP、LLM 及 Agent 实战项目与课程资源。
