@@ -29,41 +29,41 @@
       "name": "repositories: topic:ai-education fork:false",
       "status": "bounded",
       "count": 200,
-      "total": 475,
+      "total": 477,
       "pages": 2,
-      "firstPage": 1
+      "firstPage": 3
     },
     {
       "name": "repositories: topic:prompt-engineering fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 19946,
+      "total": 19989,
       "pages": 2,
-      "firstPage": 7
+      "firstPage": 9
     },
     {
       "name": "repositories: topic:machine-learning tutorial fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 2243,
+      "total": 2244,
       "pages": 2,
-      "firstPage": 7
+      "firstPage": 9
     },
     {
       "name": "repositories: topic:deep-learning tutorial fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 1425,
+      "total": 1426,
       "pages": 2,
-      "firstPage": 7
+      "firstPage": 9
     },
     {
       "name": "repositories: topic:generative-ai tutorial fork:false",
-      "status": "ok",
-      "count": 5,
-      "total": 205,
-      "pages": 1,
-      "firstPage": 3
+      "status": "bounded",
+      "count": 200,
+      "total": 206,
+      "pages": 2,
+      "firstPage": 1
     },
     {
       "name": "repositories: topic:jupyter-notebooks course fork:false",
@@ -79,15 +79,15 @@
       "count": 200,
       "total": 765,
       "pages": 2,
-      "firstPage": 1
+      "firstPage": 3
     },
     {
       "name": "repositories: \"prompt engineering\" interactive in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 63825,
+      "total": 63917,
       "pages": 2,
-      "firstPage": 7
+      "firstPage": 9
     },
     {
       "name": "repositories: \"LLM course\" in:readme fork:false",
@@ -95,23 +95,23 @@
       "count": 200,
       "total": 2887,
       "pages": 2,
-      "firstPage": 7
+      "firstPage": 9
     },
     {
       "name": "repositories: \"generative AI\" \"tutorial\" in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 17595,
+      "total": 17604,
       "pages": 2,
-      "firstPage": 7
+      "firstPage": 9
     },
     {
       "name": "repositories: \"AI tutorial\" in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 3692,
+      "total": 3697,
       "pages": 2,
-      "firstPage": 7
+      "firstPage": 9
     },
     {
       "name": "code: \"interactive tutorial\" \"prompt\" path:README.md",
@@ -124,12 +124,11 @@
     },
     {
       "name": "code: \"LLM\" \"course\" path:README.md",
-      "status": "unavailable",
-      "count": 0,
-      "total": 0,
-      "pages": 0,
-      "firstPage": 1,
-      "error": "GitHub API request failed after 4 attempts: https://api.github.com/search/code?q=%22LLM%22%20%22course%22%20path%3AREADME.md&page=1&per_page=100"
+      "status": "ok",
+      "count": 3,
+      "total": 3,
+      "pages": 1,
+      "firstPage": 1
     },
     {
       "name": "code: \"generative AI\" \"tutorial\" path:README.md",
@@ -148,27 +147,27 @@
       "firstPage": 1
     }
   ],
-  "newProjects": 2,
+  "newProjects": 0,
   "metadata": {
-    "ok": 337,
+    "ok": 338,
     "failed": 0
   },
   "pendingReview": {
-    "pending": 2,
-    "promoted": 1,
-    "rejected": 1,
+    "pending": 0,
+    "promoted": 0,
+    "rejected": 0,
     "unavailable": 0
   },
   "discovery": {
-    "candidates": 1341,
-    "checked": 2,
-    "rejected": 38,
-    "deferred": 1301,
+    "candidates": 1664,
+    "checked": 0,
+    "rejected": 40,
+    "deferred": 1624,
     "sources": 18
   },
   "totalProjects": 338,
-  "projectsSha256": "fc3efa6fdaba0cef737e77f7514efa6b01d87a23dd355fffba755bb13f29ff5f",
-  "runUrl": "https://github.com/menghun3-cn/radar-book/actions/runs/37776433445",
+  "projectsSha256": "56677b4ccc6362ee13177ab089753feba6d3807873e5ab86881204d6089c3cb5",
+  "runUrl": "https://github.com/menghun3-cn/radar-book/actions/runs/37854402521",
   "dryRun": false,
-  "lastRunAt": "2026-10-08T12:34:12.603Z"
+  "lastRunAt": "2026-10-08T22:42:39.228Z"
 }
