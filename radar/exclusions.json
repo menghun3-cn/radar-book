@@ -12388,5 +12388,195 @@
     "id": "elizalo/data-science",
     "reason": "llm: 该仓库是数据科学资源链接索引（awesome list），并非成套教学课程或书籍内容，不符合收录条件。",
     "excludedAt": "2026-10-09T03:33:36.313Z"
+  },
+  {
+    "id": "harish-garg/gemini-cli-prompt-library",
+    "reason": "llm: 内容为提示词模板集合，非成套章节或系统化课程，不符合结构要求",
+    "excludedAt": "2026-10-09T12:24:02.128Z"
+  },
+  {
+    "id": "skortmann/power-system-optimization-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-09T12:25:06.704Z"
+  },
+  {
+    "id": "skortmann/ai-power-systems-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-09T12:25:06.896Z"
+  },
+  {
+    "id": "commissarma/crowd_counting_from_scratch",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:25:07.644Z"
+  },
+  {
+    "id": "phonellm/awesome-llm-powered-phone-gui-agents",
+    "reason": "llm: 该仓库是 TMLR 论文配套资源，属于论文列表（Awesome 列表）而非成套教学章节或课程材料，不满足教学目录收录标准。",
+    "excludedAt": "2026-10-09T12:25:16.768Z"
+  },
+  {
+    "id": "bino5150/lumina",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:25:17.942Z"
+  },
+  {
+    "id": "mgroncki/ipythonscripts",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-09T12:25:18.787Z"
+  },
+  {
+    "id": "getstream/android-samples",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:25:23.463Z"
+  },
+  {
+    "id": "moein-shariatnia/deep-learning",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:25:24.267Z"
+  },
+  {
+    "id": "mattermost/openops",
+    "reason": "archived",
+    "excludedAt": "2026-10-09T12:25:24.530Z"
+  },
+  {
+    "id": "zhengyuzhao/ai-security-and-privacy-events",
+    "reason": "llm: 仅是学术活动与教程链接的列表，非成套教学材料，不符合课程/书籍收录标准。",
+    "excludedAt": "2026-10-09T12:25:28.558Z"
+  },
+  {
+    "id": "kevinwlu/iot",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:25:29.332Z"
+  },
+  {
+    "id": "coolgiserz/awesome-traffic-prediction",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:25:30.453Z"
+  },
+  {
+    "id": "ni79ls/har-keras-cnn",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:25:31.254Z"
+  },
+  {
+    "id": "sanidhyy/brainwave",
+    "reason": "llm: 该仓库是一个现代化的 SaaS 落地页项目，而非 AI 教学材料，不满足教学性质及成套课程结构的要求。",
+    "excludedAt": "2026-10-09T12:25:38.343Z"
+  },
+  {
+    "id": "nkvision428/tasks_for_rookies",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-09T12:25:39.172Z"
+  },
+  {
+    "id": "yangkevin2/doc-story-generation",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:25:39.920Z"
+  },
+  {
+    "id": "yanhua1010/zero-to-ai-fullstack",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:25:40.737Z"
+  },
+  {
+    "id": "socaity/py_audio2face",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:25:41.557Z"
+  },
+  {
+    "id": "nvidia-ai-iot/jetson-device-skills",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:25:42.354Z"
+  },
+  {
+    "id": "khuyentran1401/reproducible-data-science",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:25:43.223Z"
+  },
+  {
+    "id": "abdullahtarek/coffee_shop_customer_service_chatbot",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:25:44.017Z"
+  },
+  {
+    "id": "googlecloudplatform/gcc-creative-studio",
+    "reason": "llm: 该项目是生成式AI媒体创作平台的部署参考实现，非成套教学章节或课程。",
+    "excludedAt": "2026-10-09T12:25:56.726Z"
+  },
+  {
+    "id": "wel3kxial/aigc_resources",
+    "reason": "llm: 仅为论文链接资源汇总，缺乏教学课程结构。",
+    "excludedAt": "2026-10-09T12:26:04.082Z"
+  },
+  {
+    "id": "yjg30737/pyqt-openai",
+    "reason": "llm: 这是一个 PySide6 开发的桌面聊天软件工具，而非 AI 教程或课程体系。",
+    "excludedAt": "2026-10-09T12:26:14.533Z"
+  },
+  {
+    "id": "lukasrinder/normalizing-flows",
+    "reason": "llm: 虽是课程作业且包含教程，但核心是模型实现代码，非成套章节书籍或互动课程。",
+    "excludedAt": "2026-10-09T12:26:18.738Z"
+  },
+  {
+    "id": "nirdiamant/nirdiamant",
+    "reason": "llm: 这是个人主页/索引仓库，仅列出其他教程仓库的链接，本身不包含成套教学章节或课程内容。",
+    "excludedAt": "2026-10-09T12:26:34.182Z"
+  },
+  {
+    "id": "niekverw/deep-learning-based-ecg-annotator",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:26:35.136Z"
+  },
+  {
+    "id": "zhangzhengde0225/cdnet",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:26:36.045Z"
+  },
+  {
+    "id": "jwangkun/pi-multi-agent",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:26:43.494Z"
+  },
+  {
+    "id": "runwayml/learn",
+    "reason": "archived",
+    "excludedAt": "2026-10-09T12:26:43.824Z"
+  },
+  {
+    "id": "microsoft/minecraftcodex",
+    "reason": "archived",
+    "excludedAt": "2026-10-09T12:26:44.017Z"
+  },
+  {
+    "id": "sugarforever/01coder-agent-skills",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:26:50.879Z"
+  },
+  {
+    "id": "openmlsys/openmlsys-cuda",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-09T12:26:51.845Z"
+  },
+  {
+    "id": "tugkanboz/awesome-ai-testing",
+    "reason": "llm: 该仓库为工具资源聚合列表，非结构化教程或课程体系，不符合教学性质要求。",
+    "excludedAt": "2026-10-09T12:26:57.346Z"
+  },
+  {
+    "id": "ahmedbesbes/how-to-score-0.8134-in-titanic-kaggle-challenge",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T12:26:58.101Z"
+  },
+  {
+    "id": "xavidop/awesome-genkit",
+    "reason": "llm: 这是资源列表（awesome list），而非成套教材或课程。",
+    "excludedAt": "2026-10-09T12:27:06.001Z"
+  },
+  {
+    "id": "muellerberndt/awesome-ai-security",
+    "reason": "llm: 该仓库是精选资源列表（Awesome List），并非成套的教学课程或书籍，不满足“结构上有成套章节或课程材料”的条件。",
+    "excludedAt": "2026-10-09T12:27:22.599Z"
   }
 ]
