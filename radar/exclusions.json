@@ -12258,5 +12258,135 @@
     "id": "jiaaqiliu/awesome-harness-engineering",
     "reason": "below 50 stars",
     "excludedAt": "2026-10-08T22:42:39.216Z"
+  },
+  {
+    "id": "dipakkr/awesome-ai-engineering",
+    "reason": "llm: 该仓库是通用学生资源汇总清单，非成套AI课程，不符合教学书籍/课程目录要求。",
+    "excludedAt": "2026-10-09T03:29:18.948Z"
+  },
+  {
+    "id": "nishant-tiwari24/skills-for-hackathon",
+    "reason": "llm: 仅为外部链接汇总，非成套教学材料",
+    "excludedAt": "2026-10-09T03:29:39.400Z"
+  },
+  {
+    "id": "sipheragi/sd-webui-agent-scheduler",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T03:29:40.389Z"
+  },
+  {
+    "id": "jdtoscano94/nabla-sciml",
+    "reason": "llm: 虽含教程，但核心为科研代码库，结构非成套教材",
+    "excludedAt": "2026-10-09T03:29:45.111Z"
+  },
+  {
+    "id": "openstory-so/openstory",
+    "reason": "education signal too weak (2 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-09T03:29:51.593Z"
+  },
+  {
+    "id": "infiolab/infio-copilot",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T03:29:52.561Z"
+  },
+  {
+    "id": "aws-neuron/aws-neuron-sdk",
+    "reason": "llm: 仓库主体为 SDK 开发工具包，教程仅为特定硬件的部署配置文档，非成套 AI 教学课程。",
+    "excludedAt": "2026-10-09T03:30:02.717Z"
+  },
+  {
+    "id": "western-oc2-lab/automl-implementation-for-static-and-dynamic-data-analytics",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T03:30:03.751Z"
+  },
+  {
+    "id": "avinash201199/awesome-github-repositories",
+    "reason": "llm: 仅为外部仓库链接的目录索引，非成套教学内容，且主题不专一。",
+    "excludedAt": "2026-10-09T03:30:24.717Z"
+  },
+  {
+    "id": "tannergilbert/tutorials",
+    "reason": "archived",
+    "excludedAt": "2026-10-09T03:30:51.451Z"
+  },
+  {
+    "id": "hades217/awesome-ai",
+    "reason": "llm: 该仓库是AI资源列表（Awesome List），主要罗列工具和链接，缺乏成套的课程或教材内容。",
+    "excludedAt": "2026-10-09T03:31:00.288Z"
+  },
+  {
+    "id": "haoranzhuexplorer/world-models-autonomous-driving-survey",
+    "reason": "llm: 该仓库为论文资源列表（Curated List），非系统性课程或教程，不满足教学性质要求。",
+    "excludedAt": "2026-10-09T03:31:09.310Z"
+  },
+  {
+    "id": "jihoo-kim/awesome-production-llm",
+    "reason": "llm: 该仓库是LLM相关开源库的精选列表（Curated List），属于导航/索引性质，并非提供成套章节或课程内容的教学材料。",
+    "excludedAt": "2026-10-09T03:31:39.328Z"
+  },
+  {
+    "id": "ancoleman/ai-design-components",
+    "reason": "llm: 该仓库为Claude Code工具插件集，非教学课程或书籍。",
+    "excludedAt": "2026-10-09T03:31:52.203Z"
+  },
+  {
+    "id": "neurocult/agency",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T03:31:53.150Z"
+  },
+  {
+    "id": "alteryx/open_source_demos",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T03:32:30.563Z"
+  },
+  {
+    "id": "curated-awesome-lists/awesome-ai-music-generation",
+    "reason": "llm: 这是一个链接聚合列表（awesome list），非原创教程课程或书籍内容",
+    "excludedAt": "2026-10-09T03:32:42.492Z"
+  },
+  {
+    "id": "preset-io/promptimize",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T03:32:43.611Z"
+  },
+  {
+    "id": "redis-developer/redis-ai-resources",
+    "reason": "llm: 内容是资源聚合列表和零散代码示例，非成套系统课程或书籍",
+    "excludedAt": "2026-10-09T03:32:48.342Z"
+  },
+  {
+    "id": "arm-examples/ml-examples",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-09T03:32:49.244Z"
+  },
+  {
+    "id": "viveknaskar/everything-ai-ml",
+    "reason": "llm: 仅为外部资源链接的聚合目录，缺乏原生的成套教学材料、代码示例或课程讲义。",
+    "excludedAt": "2026-10-09T03:32:58.176Z"
+  },
+  {
+    "id": "qualcomm/ai-hub-apps",
+    "reason": "llm: 内容是部署示例应用集合，非系统性教程或课程",
+    "excludedAt": "2026-10-09T03:33:03.382Z"
+  },
+  {
+    "id": "ruvnet/ruv-dev",
+    "reason": "llm: 该仓库是一个CLI脚手架工具（create-sparc），用于生成项目结构和配置文件，而非成套教学材料或课程书籍。",
+    "excludedAt": "2026-10-09T03:33:24.609Z"
+  },
+  {
+    "id": "ahkarami/great-deep-learning-tutorials",
+    "reason": "llm: 该仓库为外部教程链接列表（awesome list），非自身成套教学材料",
+    "excludedAt": "2026-10-09T03:33:28.083Z"
+  },
+  {
+    "id": "alexioannides/kubernetes-mlops",
+    "reason": "archived",
+    "excludedAt": "2026-10-09T03:33:28.272Z"
+  },
+  {
+    "id": "elizalo/data-science",
+    "reason": "llm: 该仓库是数据科学资源链接索引（awesome list），并非成套教学课程或书籍内容，不符合收录条件。",
+    "excludedAt": "2026-10-09T03:33:36.313Z"
   }
 ]
