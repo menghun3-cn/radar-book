@@ -213,8 +213,8 @@
 - [awesome-adk-agents (Sri-Krishna-V)](https://github.com/Sri-Krishna-V/awesome-adk-agents): 精选谷歌ADK智能体开发资源，含教程、模板及实战案例，助用户掌握AI Agent构建。
 - [ai-agent-camp (minicoohei)](https://github.com/minicoohei/ai-agent-camp): 面向非技术背景人员的AI Agent实战培训体系，含62章课程与多工具实操。
 - [applied-reinforcement-learning (mimoralea)](https://github.com/mimoralea/applied-reinforcement-learning): 一套直观易懂的强化学习教程，包含分章节讲解、动手实验和配套代码。
-- [recipe-chatbot (ai-evals-course)](https://github.com/ai-evals-course/recipe-chatbot): 基于配方聊天机器人的AI评估课程，含5个渐进式作业及实践指南
 - [ghost-ai (adrianhajdin)](https://github.com/adrianhajdin/ghost-ai): JavaScript Mastery 的 AI 系统架构构建器教程代码，通过视频指导逐步实现 Gemini 代理和协作功能。
+- [recipe-chatbot (ai-evals-course)](https://github.com/ai-evals-course/recipe-chatbot): 基于配方聊天机器人的AI评估课程，含5个渐进式作业及实践指南
 - [MLE-DS-Interview-Prep-Guide (whaleonearth)](https://github.com/whaleonearth/MLE-DS-Interview-Prep-Guide): 面向MLE/DS的3个月结构化AI面试备考指南，覆盖算法、系统设计及LLM。
 - [dliss-tutorial (dpressel)](https://github.com/dpressel/dliss-tutorial): 2019年国际深度学习暑期学校的NLP教程，涵盖预训练词嵌入、上下文向量及模型微调。
 - [AI-Engineering-Lab (zorost)](https://github.com/zorost/AI-Engineering-Lab): 一套包含24周结构化课程、43个可运行笔记本及综合案例的免费AI工程自学指南。
@@ -248,8 +248,8 @@
 - [rl-handbook (lubludrova)](https://github.com/lubludrova/rl-handbook): 一份系统讲解强化学习算法与代码的实践型教科书，从基础到高级。
 - [Prompt-Engineering-Jumpstart (arorarishi)](https://github.com/arorarishi/Prompt-Engineering-Jumpstart): 这是一本面向初学者的开源提示工程教程书，包含14个章节，通过简单类比和实战示例教用户高效与AI交互。
 - [r-course-material (ccs-amsterdam)](https://github.com/ccs-amsterdam/r-course-material): 阿姆斯特丹自由大学R语言课程资料，含LLM与数据分析教程
-- [ai-agents (viktoriasemaan)](https://github.com/viktoriasemaan/ai-agents): 一份基于AWS Bedrock构建AI解决方案架构师智能体的实战教程，涵盖RAG、IaC生成及成本估算。
 - [minimind-notes (joyehuang)](https://github.com/joyehuang/minimind-notes): 基于MiniMind的LLM训练原理教程，含归一化、注意力等模块的理论与对比实验。
+- [ai-agents (viktoriasemaan)](https://github.com/viktoriasemaan/ai-agents): 一份基于AWS Bedrock构建AI解决方案架构师智能体的实战教程，涵盖RAG、IaC生成及成本估算。
 - [intelligent-app-workshop (Azure)](https://github.com/Azure/intelligent-app-workshop): 基于Azure Copilot栈的成套AI应用开发教学工作坊，含架构与实操。
 - [tutorial (SalvatoreRa)](https://github.com/SalvatoreRa/tutorial): 面向 AI、机器学习和数据科学的教程合集，覆盖计算机视觉、NLP 与生物医学案例，配套 Python/R 与 Notebook。
 - [claude-code-handbook (ThamJiaHe)](https://github.com/ThamJiaHe/claude-code-handbook): Claude提示词工程与Agent开发综合教程，含多章节指南和实战模板。
@@ -261,8 +261,8 @@
 - [prompt-engineering-skills (treylom)](https://github.com/treylom/prompt-engineering-skills): 涵盖多模型提示词工程策略与实战指南的结构化教学资源
 - [llm-course-lecture (NJUDeepEngine)](https://github.com/NJUDeepEngine/llm-course-lecture): 南京大学大语言模型基础课程，含完整讲义、代码Notebook及作业，从零实现LLM核心组件
 - [app_generative_ai (jeffheaton)](https://github.com/jeffheaton/app_generative_ai): 华盛顿大学Jeff Heaton的生成式AI课程，含LangChain、RAG及提示工程实战教程。
-- [AtomisticSkills (learningmatter-mit)](https://github.com/learningmatter-mit/AtomisticSkills): MIT开发的原子模拟AI代理技能框架，提供层级化教程以自动化材料研究。
 - [gtm (gtm-skills)](https://github.com/gtm-skills/gtm): AI销售Agent工具包，包含教程、MCP服务器和提示词。
+- [AtomisticSkills (learningmatter-mit)](https://github.com/learningmatter-mit/AtomisticSkills): MIT开发的原子模拟AI代理技能框架，提供层级化教程以自动化材料研究。
 - [AI-Engineer-Interview-Questions (ombharatiya)](https://github.com/ombharatiya/AI-Engineer-Interview-Questions): 面向AI工程师的系统化面试题库，涵盖ML基础、LLM、RAG、Agent及33家热门公司真题与实战编码题。
 - [kdd2021-tutorial (causal-machine-learning)](https://github.com/causal-machine-learning/kdd2021-tutorial): KDD 2021因果推断与机器学习实战教程，含EconML/CausalML案例。
 - [awesome-q-developer (cremich)](https://github.com/cremich/awesome-q-developer): Amazon Q AI开发助手的学习资源列表，包含工作坊、教程及提示工程指南。
@@ -334,22 +334,15 @@
 - [Segmentation (IbrahimSobh)](https://github.com/IbrahimSobh/Segmentation): 基于MMSegmentation的语义分割教程，涵盖10种模型推理、微调及自定义模型训练。
 - [AI-ML (dotaiz)](https://github.com/dotaiz/AI-ML): 提供AI/ML/LLM及Agent领域的动手实践笔记本、RAG系统教程及面试准备资源。
 - [ontology-tutorial (bio-ontology-research-group)](https://github.com/bio-ontology-research-group/ontology-tutorial): 面向计算生物学的中级教程，讲解本体学基础、语义相似度计算及其在机器学习中的应用。
-- [OvercookedGPT (BladeTransformerLLC)](https://github.com/BladeTransformerLLC/OvercookedGPT): 待人工复核后展示。
-- [kubeflow-bootstrap (treebeardtech)](https://github.com/treebeardtech/kubeflow-bootstrap): 待人工复核后展示。
 - [DeepLearning-Gdansk2019-tutorial (rasbt)](https://github.com/rasbt/DeepLearning-Gdansk2019-tutorial): 2019年深度学习暑期学校教程，系统讲解序数回归与PyTorch实现
-- [Object-Detection (IbrahimSobh)](https://github.com/IbrahimSobh/Object-Detection): 待人工复核后展示。
+- [Object-Detection (IbrahimSobh)](https://github.com/IbrahimSobh/Object-Detection): 基于MMDetection的对象检测教程，涵盖十种预训练模型推理、微调及自定义设计训练
 - [ai-for-javascript-course (thestriver)](https://github.com/thestriver/ai-for-javascript-course): 面向JS开发者的AI应用开发开源课程，含LLM与提示工程实战项目。
 - [claude-code-game-development (HermeticOrmus)](https://github.com/HermeticOrmus/claude-code-game-development): 基于Claude Code的游戏开发综合教程，含80章文档及插件工具。
-- [awesome-time-series-analysis (qhliu26)](https://github.com/qhliu26/awesome-time-series-analysis): 待人工复核后展示。
-- [shelLM (stratosphereips)](https://github.com/stratosphereips/shelLM): 待人工复核后展示。
-- [awesome-testcontainers (collabnix)](https://github.com/collabnix/awesome-testcontainers): 待人工复核后展示。
 - [awesome-loop-engineering (invincible04)](https://github.com/invincible04/awesome-loop-engineering): 一套系统化的AI循环工程教程，包含章节、提示词库及可运行示例。
-- [MachineLearningWG (dlab-berkeley)](https://github.com/dlab-berkeley/MachineLearningWG): 待人工复核后展示。
-- [FastWhisperAPI (3choff)](https://github.com/3choff/FastWhisperAPI): 待人工复核后展示。
-- [openclawnet (elbruno)](https://github.com/elbruno/openclawnet): 待人工复核后展示。
+- [openclawnet (elbruno)](https://github.com/elbruno/openclawnet): 基于.NET 10的AI Agent平台分4节Reactor直播课程及配套实战材料
 - [oreilly-ai-k8s-tutorial (dwhitena)](https://github.com/dwhitena/oreilly-ai-k8s-tutorial): O'Reilly教程材料，指导在K8s上部署端到端AI工作流。
 - [prompt_engineering_guide (DATANOMIQ)](https://github.com/DATANOMIQ/prompt_engineering_guide): 基于Streamlit和Notebook的提示工程实战工作坊，涵盖CoT、ReAct等8种核心技术
-- [genai-for-dotnet (mehmetozkaya)](https://github.com/mehmetozkaya/genai-for-dotnet): 待人工复核后展示。
+- [genai-for-dotnet (mehmetozkaya)](https://github.com/mehmetozkaya/genai-for-dotnet): 基于.NET的GenAI实战课程代码，涵盖聊天、RAG及向量搜索等七个章节项目。
 - [awesome-code-docs (johnxie)](https://github.com/johnxie/awesome-code-docs): 涵盖203个AI/LLM工具的深度教程，采用统一八章节结构，适合系统学习AI开发。
 - [programming-in-python (widmi)](https://github.com/widmi/programming-in-python): 面向初学者的Python机器学习交互式课程，涵盖基础语法至PyTorch神经网络实战
 - [tt-lang (tenstorrent)](https://github.com/tenstorrent/tt-lang): 待人工复核后展示。
@@ -358,14 +351,11 @@
 - [Awesome-DiffComm (qin-jingyun)](https://github.com/qin-jingyun/Awesome-DiffComm): 基于IEEE教程的扩散模型与语义通信教育资源库，含数学基础、精选论文及课程。
 - [stable-diffusion-model-tutorial (azad-academy)](https://github.com/azad-academy/stable-diffusion-model-tutorial): 一份关于潜在扩散模型（Stable Diffusion）的简易交互式教程及 Jupyter Notebook。
 - [Machine-Learning (dr-mushtaq)](https://github.com/dr-mushtaq/Machine-Learning): 包含Python机器学习算法实现、特征选择及统计方法的完整A-Z教程与练习
-- [Awesome-Computational-Structural-Biology (pengzhangzhi)](https://github.com/pengzhangzhi/Awesome-Computational-Structural-Biology): 待人工复核后展示。
 - [learn-ai-in-12-weeks (seshakiran)](https://github.com/seshakiran/learn-ai-in-12-weeks): 面向初学者的12周AI智能体课程，涵盖LLM基础、RAG、多智能体及伦理安全。
-- [awesome-dotnet-machine-learning (coderonion)](https://github.com/coderonion/awesome-dotnet-machine-learning): 待人工复核后展示。
 - [agentic-loop-engineering-course (FareedKhan-dev)](https://github.com/FareedKhan-dev/agentic-loop-engineering-course): 一套18个Notebook的Agent循环工程实战课程，基于实测数据解析LLM组件优化。
 - [Cyber-Ming-Protocol (blackzhanzhan)](https://github.com/blackzhanzhan/Cyber-Ming-Protocol): 一套关于深水区AI编码的人机协作治理协议，含完整双语教学手册
 - [AI-30-Day-Challenge (Lee985-cmd)](https://github.com/Lee985-cmd/AI-30-Day-Challenge): 待人工复核后展示。
 - [tf2-tutorial (Alireza-Akhavan)](https://github.com/Alireza-Akhavan/tf2-tutorial): TensorFlow 2与Keras入门进阶教程，含MNIST实战及数据管道详解。
-- [commonsense-papers (adapt-sjtu)](https://github.com/adapt-sjtu/commonsense-papers): 待人工复核后展示。
 - [sktime-tutorial-pydata-global-2021 (sktime)](https://github.com/sktime/sktime-tutorial-pydata-global-2021): sktime时序机器学习框架的PyData会议实战教程
 - [copilot-agents-dojo (andreaswasita)](https://github.com/andreaswasita/copilot-agents-dojo): Copilot 智能体纪律框架，提供互动式教程、技能系统及工作流。
 - [arbitrum-vibekit (EmberAGI)](https://github.com/EmberAGI/arbitrum-vibekit): 提供关于构建自主DeFi智能体、LLM编排及Vibe Coding的结构化教程课程。

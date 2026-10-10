@@ -12683,5 +12683,255 @@
     "id": "noworneverev/awesome-rag",
     "reason": "education signal too weak (1 readme terms, 0 lesson files)",
     "excludedAt": "2026-10-09T22:06:32.667Z"
+  },
+  {
+    "id": "bladetransformerllc/overcookedgpt",
+    "reason": "llm: 该仓库是一个用于评估LLM规划能力的Gym环境/代码工具，而非成套的教学章节或课程教材。",
+    "excludedAt": "2026-10-10T03:08:54.436Z"
+  },
+  {
+    "id": "treebeardtech/kubeflow-bootstrap",
+    "reason": "llm: 这是Kubeflow基础设施部署工具，非AI教学内容",
+    "excludedAt": "2026-10-10T03:08:59.054Z"
+  },
+  {
+    "id": "qhliu26/awesome-time-series-analysis",
+    "reason": "llm: 该仓库是精选资源列表，并非成套的教学课程或书籍结构。",
+    "excludedAt": "2026-10-10T03:09:13.532Z"
+  },
+  {
+    "id": "stratosphereips/shellm",
+    "reason": "llm: 这是一个LLM安全蜜罐工具及其测试代码，属于应用工程与网络安全研究，非面向大众的AI系统教学课程或书籍。",
+    "excludedAt": "2026-10-10T03:09:26.384Z"
+  },
+  {
+    "id": "collabnix/awesome-testcontainers",
+    "reason": "llm: 内容为 Testcontainers 资源列表，非 AI 教学课程或书籍",
+    "excludedAt": "2026-10-10T03:09:30.820Z"
+  },
+  {
+    "id": "dlab-berkeley/machinelearningwg",
+    "reason": "llm: 属于学术工作小组的活动记录，非系统性教程书籍或课程材料。",
+    "excludedAt": "2026-10-10T03:09:35.948Z"
+  },
+  {
+    "id": "3choff/fastwhisperapi",
+    "reason": "llm: 该仓库是基于FastAPI的语音转写服务工具，非教学课程或书籍",
+    "excludedAt": "2026-10-10T03:09:39.876Z"
+  },
+  {
+    "id": "pengzhangzhi/awesome-computational-structural-biology",
+    "reason": "llm: 属于资源列表而非成套教学课程或书籍",
+    "excludedAt": "2026-10-10T03:09:59.061Z"
+  },
+  {
+    "id": "coderonion/awesome-dotnet-machine-learning",
+    "reason": "llm: 资源列表性质，非成套课程或书籍，不符合教学材料结构要求",
+    "excludedAt": "2026-10-10T03:10:04.633Z"
+  },
+  {
+    "id": "adapt-sjtu/commonsense-papers",
+    "reason": "llm: 主要为论文清单和资源索引，缺乏成套教学章节、练习或课程材料，不符合教材定义。",
+    "excludedAt": "2026-10-10T03:10:14.857Z"
+  },
+  {
+    "id": "haunglibo/llm-course-project",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:19.025Z"
+  },
+  {
+    "id": "pxticks/vlo",
+    "reason": "llm: 该仓库是一个开源视频编辑器软件，并非AI教程或课程材料。",
+    "excludedAt": "2026-10-10T03:10:23.171Z"
+  },
+  {
+    "id": "badhope/awesome-ai-devkit",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T03:10:23.954Z"
+  },
+  {
+    "id": "anotherhollow1125/hooq",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:24.212Z"
+  },
+  {
+    "id": "center-for-complex-systems-science/causationentropy",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:24.414Z"
+  },
+  {
+    "id": "ayoisio/genai-on-google-cloud",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:24.621Z"
+  },
+  {
+    "id": "chanzuckerberg/alhazen",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:24.823Z"
+  },
+  {
+    "id": "beyefendi/awesome-llm-security",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:25.046Z"
+  },
+  {
+    "id": "zzhang-cn/llm4llm",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:25.289Z"
+  },
+  {
+    "id": "hazrat-ali9/generative-ai-engineer",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:25.486Z"
+  },
+  {
+    "id": "rubixml/mnist",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:25.677Z"
+  },
+  {
+    "id": "cnrture/gemini-chat-samples",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:25.876Z"
+  },
+  {
+    "id": "maxxxara/linear-agent",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:26.069Z"
+  },
+  {
+    "id": "najielkotob/awesome-ml",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:26.263Z"
+  },
+  {
+    "id": "hazrat-ali9/domain-specific-ml-for-researchers",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:26.471Z"
+  },
+  {
+    "id": "hazrat-ali9/ai-engineer",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:26.675Z"
+  },
+  {
+    "id": "microsoft/windowsml",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:26.916Z"
+  },
+  {
+    "id": "hazrat-ali9/nlp-engineer",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:27.142Z"
+  },
+  {
+    "id": "akimach/esoterictensorflow",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:27.380Z"
+  },
+  {
+    "id": "roboflow/blackjack-basic-strategy",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:27.586Z"
+  },
+  {
+    "id": "hamzaamir97/saas_ai_website_builder",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:27.826Z"
+  },
+  {
+    "id": "parthapray/curated-list-of-generative-ai-tools",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:28.012Z"
+  },
+  {
+    "id": "ahirtonlopes/mastering-machine-learning",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:28.202Z"
+  },
+  {
+    "id": "earlyaidopters/gumroad-resources",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:28.403Z"
+  },
+  {
+    "id": "wrab12/awesome-spatial-transcriptomics",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:28.596Z"
+  },
+  {
+    "id": "dr-mushtaq/deep-learning",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:28.807Z"
+  },
+  {
+    "id": "rubixml/credit",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:28.996Z"
+  },
+  {
+    "id": "myttyyytytyyttt/polyagent",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:29.217Z"
+  },
+  {
+    "id": "mscbuild/e-learning-free-courses",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:29.439Z"
+  },
+  {
+    "id": "goldboy225/ai-for-research",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:29.649Z"
+  },
+  {
+    "id": "yeonwoosung/ai_book",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:29.840Z"
+  },
+  {
+    "id": "pbarnaghi/ml4ns",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:30.052Z"
+  },
+  {
+    "id": "garth-wells/ia-maths-jupyter",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:30.247Z"
+  },
+  {
+    "id": "royvillasana/figma-to-ai-prompter",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:30.459Z"
+  },
+  {
+    "id": "gaianet-ai/awesome-gaia",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:30.692Z"
+  },
+  {
+    "id": "mr-ubik/machine-learning-for-dummies",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:30.983Z"
+  },
+  {
+    "id": "kennethleungty/kennethleungty",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:31.216Z"
+  },
+  {
+    "id": "surfalytics/claudecode101",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:31.466Z"
+  },
+  {
+    "id": "sarweshwargoud/ai-roadmap-zero2hero",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:31.668Z"
+  },
+  {
+    "id": "snrazavi/deep-learning-for-nlp",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T03:10:31.858Z"
   }
 ]
