@@ -164,8 +164,8 @@
 - [deep-learning-notes (datawhalechina)](https://github.com/datawhalechina/deep-learning-notes): 系统整理从神经网络到LLM的深度学习教程，含公式推导与代码实践
 - [time-series-forecasting-with-python (jiwidi)](https://github.com/jiwidi/time-series-forecasting-with-python): 基于真实数据集的系统性时序预测教程，涵盖数据分析、特征工程及多种模型对比。
 - [edu (wandb)](https://github.com/wandb/edu): W&B 官方 AI 学院课程资料，涵盖 LLM、MLOps 及机器学习实践。
-- [ai-engineer-notebooks (calmrocks)](https://github.com/calmrocks/ai-engineer-notebooks): 面向AI工程师的动手实践笔记本，涵盖LLM、RAG及Agent开发。
 - [agent-interview-hub (Zchary1106)](https://github.com/Zchary1106/agent-interview-hub): 面向AI Agent工程师的面试准备知识库，含16周路线图、300+题解及6个实操项目。
+- [ai-engineer-notebooks (calmrocks)](https://github.com/calmrocks/ai-engineer-notebooks): 面向AI工程师的动手实践笔记本，涵盖LLM、RAG及Agent开发。
 - [ai-engineer-roadmap (dswh)](https://github.com/dswh/ai-engineer-roadmap): 面向AI工程师的分阶段学习路线图，涵盖技能、资源及实战项目建议
 - [tf-estimator-tutorials (GoogleCloudPlatform)](https://github.com/GoogleCloudPlatform/tf-estimator-tutorials): TensorFlow Estimator API的系统教程，涵盖分类、回归等机器学习任务。
 - [awesome-r-learning-resources (iamericfletcher)](https://github.com/iamericfletcher/awesome-r-learning-resources): 这是一个整理 R 语言学习资料的项目，包含课程、书籍、博客和社区资源链接。
@@ -268,8 +268,8 @@
 - [awesome-q-developer (cremich)](https://github.com/cremich/awesome-q-developer): Amazon Q AI开发助手的学习资源列表，包含工作坊、教程及提示工程指南。
 - [llms-deep-dive-tutorials (springer-llms-deep-dive)](https://github.com/springer-llms-deep-dive/llms-deep-dive-tutorials): 《LLMs: A Deep Dive》官方配套教程，含8章Notebook
 - [python-tutorial-notebooks (dcavar)](https://github.com/dcavar/python-tutorial-notebooks): 印第安纳大学讲师整理的NLP、机器学习与LLM交互式Python教程笔记。
-- [context-engineering (bonigarcia)](https://github.com/bonigarcia/context-engineering): Manning 出版书籍《Context Engineering》的官方配套代码库，涵盖提示词、RAG、Agent 及记忆管理等实战案例。
 - [rag-interview-system (ather-techie)](https://github.com/ather-techie/rag-interview-system): 系统化的RAG面试题库与教程，含学习路径、52种架构详解及代码实验。
+- [context-engineering (bonigarcia)](https://github.com/bonigarcia/context-engineering): Manning 出版书籍《Context Engineering》的官方配套代码库，涵盖提示词、RAG、Agent 及记忆管理等实战案例。
 - [Langchain-and-Ollama (laxmimerit)](https://github.com/laxmimerit/Langchain-and-Ollama): 基于LangChain和Ollama的本地LLM应用开发实战教程，含多章节Notebook。
 - [AgenticCookBook (microsoft)](https://github.com/microsoft/AgenticCookBook): 微软出品的AI Agent开发指南，基于AutoGen框架提供从入门到实战的系列教程。
 - [codex-claude-code-config (AnastasiyaW)](https://github.com/AnastasiyaW/codex-claude-code-config): 一套针对Claude Code和Codex的AI代理配置系统，涵盖架构原则、钩子及验证工作流
@@ -325,8 +325,8 @@
 - [XAI-Tutorials (HelmholtzAI-Consultants-Munich)](https://github.com/HelmholtzAI-Consultants-Munich/XAI-Tutorials): 赫尔姆霍兹AI顾问提供的可解释AI互动教程，涵盖SHAP、Grad-CAM等方法的理论与实操。
 - [ml.recipes (JesperDramsch)](https://github.com/JesperDramsch/ml.recipes): 一套关于提升机器学习科研可复现性的实战教程。
 - [Foundry_Toolkit_Samples (Azure-Samples)](https://github.com/Azure-Samples/Foundry_Toolkit_Samples): 一套基于 VS Code 扩展的教学工作坊，通过分步模块指导开发者利用 Foundry Toolkit 构建 AI 智能体。
-- [dspy-code (SuperagenticAI)](https://github.com/SuperagenticAI/dspy-code): 一套包含教程、示例和CLI指南的DSPy开发助手，帮助学习者掌握LLM程序优化与构建。
 - [Seeed_Studio_Courses (Seeed-Studio)](https://github.com/Seeed-Studio/Seeed_Studio_Courses): Seeed Studio的Edge AI与TinyML课程，结合Jetson和Wio Terminal硬件讲解AI部署。
+- [dspy-code (SuperagenticAI)](https://github.com/SuperagenticAI/dspy-code): 一套包含教程、示例和CLI指南的DSPy开发助手，帮助学习者掌握LLM程序优化与构建。
 - [vibe-coding-with-base44 (cporter202)](https://github.com/cporter202/vibe-coding-with-base44): 面向零代码用户的Base44 AI应用构建实战教程，含完整课程章节
 - [doc-adk-training (mauripsale)](https://github.com/mauripsale/doc-adk-training): 基于Google ADK的40模块AI Agent开发实战培训教程
 - [Trilha-de-Estudos-de-Data-Science (HinePo)](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science): 涵盖数据科学各领域学习路线与优质资源推荐
@@ -345,7 +345,6 @@
 - [genai-for-dotnet (mehmetozkaya)](https://github.com/mehmetozkaya/genai-for-dotnet): 基于.NET的GenAI实战课程代码，涵盖聊天、RAG及向量搜索等七个章节项目。
 - [awesome-code-docs (johnxie)](https://github.com/johnxie/awesome-code-docs): 涵盖203个AI/LLM工具的深度教程，采用统一八章节结构，适合系统学习AI开发。
 - [programming-in-python (widmi)](https://github.com/widmi/programming-in-python): 面向初学者的Python机器学习交互式课程，涵盖基础语法至PyTorch神经网络实战
-- [tt-lang (tenstorrent)](https://github.com/tenstorrent/tt-lang): 待人工复核后展示。
 - [mlx-llm-tutorial (ddttom)](https://github.com/ddttom/mlx-llm-tutorial): 基于Apple MLX框架的LLM构建教程，含理论与代码实践
 - [CIFAR-10 (RubixML)](https://github.com/RubixML/CIFAR-10): 基于PHP和Rubix ML库的CIFAR-10图像识别深度神经网络教程。
 - [Awesome-DiffComm (qin-jingyun)](https://github.com/qin-jingyun/Awesome-DiffComm): 基于IEEE教程的扩散模型与语义通信教育资源库，含数学基础、精选论文及课程。
@@ -354,11 +353,12 @@
 - [learn-ai-in-12-weeks (seshakiran)](https://github.com/seshakiran/learn-ai-in-12-weeks): 面向初学者的12周AI智能体课程，涵盖LLM基础、RAG、多智能体及伦理安全。
 - [agentic-loop-engineering-course (FareedKhan-dev)](https://github.com/FareedKhan-dev/agentic-loop-engineering-course): 一套18个Notebook的Agent循环工程实战课程，基于实测数据解析LLM组件优化。
 - [Cyber-Ming-Protocol (blackzhanzhan)](https://github.com/blackzhanzhan/Cyber-Ming-Protocol): 一套关于深水区AI编码的人机协作治理协议，含完整双语教学手册
-- [AI-30-Day-Challenge (Lee985-cmd)](https://github.com/Lee985-cmd/AI-30-Day-Challenge): 待人工复核后展示。
+- [AI-30-Day-Challenge (Lee985-cmd)](https://github.com/Lee985-cmd/AI-30-Day-Challenge): 零基础AI入门30天挑战课程，涵盖Python基础、机器学习、深度学习及Agent应用实战。
 - [tf2-tutorial (Alireza-Akhavan)](https://github.com/Alireza-Akhavan/tf2-tutorial): TensorFlow 2与Keras入门进阶教程，含MNIST实战及数据管道详解。
 - [sktime-tutorial-pydata-global-2021 (sktime)](https://github.com/sktime/sktime-tutorial-pydata-global-2021): sktime时序机器学习框架的PyData会议实战教程
 - [copilot-agents-dojo (andreaswasita)](https://github.com/andreaswasita/copilot-agents-dojo): Copilot 智能体纪律框架，提供互动式教程、技能系统及工作流。
 - [arbitrum-vibekit (EmberAGI)](https://github.com/EmberAGI/arbitrum-vibekit): 提供关于构建自主DeFi智能体、LLM编排及Vibe Coding的结构化教程课程。
+- [justin-sun-alan-shao-ai-notes (wousp112)](https://github.com/wousp112/justin-sun-alan-shao-ai-notes): 基于孙宇晨访谈整理的15篇AI应用教程，含工具推荐和Agent提示词。
 - [claude-for-researchers (Mexregkan)](https://github.com/Mexregkan/claude-for-researchers): 面向科研人员的Claude Code实战教程，涵盖安装、配置及核心工作流。
 - [ai-agent-architecture (Drobiazkin)](https://github.com/Drobiazkin/ai-agent-architecture): 一本关于构建可控LLM系统的开源工程书籍及实操课程，涵盖架构、RAG、Agent及模型部署。
 - [knowledge-repository (niderhoff)](https://github.com/niderhoff/knowledge-repository): 汇集数据科学与机器学习学习资源、课程链接及代码示例的结构化知识库。
