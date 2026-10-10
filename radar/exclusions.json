@@ -13133,5 +13133,150 @@
     "id": "drayline/rootnode-skills",
     "reason": "below 50 stars",
     "excludedAt": "2026-10-10T11:44:38.669Z"
+  },
+  {
+    "id": "morvanzhou/train-robot-arm-from-scratch",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T16:43:30.926Z"
+  },
+  {
+    "id": "langchain-ai/langchain-google",
+    "reason": "llm: 该仓库为Google接口的代码集成库，属于开发工具而非教学书籍或课程。",
+    "excludedAt": "2026-10-10T16:43:36.518Z"
+  },
+  {
+    "id": "pfliu-nlp/nlpedia-pretrain",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T16:43:43.508Z"
+  },
+  {
+    "id": "alternbits/awesome-ai-newsletters",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T16:43:44.555Z"
+  },
+  {
+    "id": "gokadin/ai-simplest-network",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T16:43:45.483Z"
+  },
+  {
+    "id": "shreyans29/thesemicolon",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T16:44:09.339Z"
+  },
+  {
+    "id": "bourdakos1/capsnet-visualization",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T16:44:10.755Z"
+  },
+  {
+    "id": "getstream/gemini-android",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T16:44:11.632Z"
+  },
+  {
+    "id": "neozng/vision_tutorial",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-10T16:44:12.875Z"
+  },
+  {
+    "id": "deepsystems/supervisely-tutorials",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T16:44:13.852Z"
+  },
+  {
+    "id": "z3n70/frida-script-runner",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T16:44:14.787Z"
+  },
+  {
+    "id": "snowflake-labs/snowflake-demo-notebooks",
+    "reason": "llm: 仓库主要为 Snowflake 数据工程与工具演示，非以 AI 课程或系统教学为核心。",
+    "excludedAt": "2026-10-10T16:44:23.310Z"
+  },
+  {
+    "id": "anshaneja5/mldl.study",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T16:44:24.401Z"
+  },
+  {
+    "id": "pytorchkr/tutorials-kr",
+    "reason": "education signal too weak (0 readme terms, 2 lesson files)",
+    "excludedAt": "2026-10-10T16:44:25.970Z"
+  },
+  {
+    "id": "adrianhajdin/roomify",
+    "reason": "llm: 该仓库为AI应用项目代码，非独立课程教材，教学价值依附于外部视频。",
+    "excludedAt": "2026-10-10T16:44:41.334Z"
+  },
+  {
+    "id": "code-with-antonio/polaris",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T16:44:42.286Z"
+  },
+  {
+    "id": "data-centric-ai-community/awesome-data-centric-ai",
+    "reason": "llm: 该仓库主要是外部资源链接的合集（Awesome List），虽含少量演示 notebook，但非成套教学课程或书籍。",
+    "excludedAt": "2026-10-10T16:45:12.229Z"
+  },
+  {
+    "id": "xandie985/data-scientist-roadmap2024",
+    "reason": "llm: 主要是一份数据科学家学习路线图和工具清单，虽含少量笔记和链接，但缺乏成套结构化课程或章节，不符合“成套章节”要求。",
+    "excludedAt": "2026-10-10T16:45:34.516Z"
+  },
+  {
+    "id": "houchenll/origin-llm",
+    "reason": "llm: 该仓库主要是资源链接汇总（List），缺乏自带的成套课程章节或教学材料，不符合结构化教程标准。",
+    "excludedAt": "2026-10-10T16:46:07.491Z"
+  },
+  {
+    "id": "mikexcohen/llm_course",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T16:46:08.682Z"
+  },
+  {
+    "id": "wq19901103wq/machine-learning-books",
+    "reason": "no readable README",
+    "excludedAt": "2026-10-10T16:46:09.754Z"
+  },
+  {
+    "id": "aitomatic/openssa",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T16:46:10.762Z"
+  },
+  {
+    "id": "jankrepl/mildlyoverfitted",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T16:46:11.775Z"
+  },
+  {
+    "id": "bourdakos1/custom-object-detection",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T16:46:13.039Z"
+  },
+  {
+    "id": "unknown-person00lie/kawaiigpt",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T16:46:13.931Z"
+  },
+  {
+    "id": "paperspace/dinoruntutorial",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T16:47:08.421Z"
+  },
+  {
+    "id": "samuraigpt/ai-influencer-generator",
+    "reason": "llm: 这是一个用于创建虚拟AI影响者的开源工具/SaaS模板，而非教学课程或书籍。",
+    "excludedAt": "2026-10-10T16:47:36.018Z"
+  },
+  {
+    "id": "lightning-ai/tutorials",
+    "reason": "archived",
+    "excludedAt": "2026-10-10T16:47:43.623Z"
+  },
+  {
+    "id": "noahgift/functional_intro_to_python",
+    "reason": "llm: 核心内容为Python编程基础教程，非AI/ML专项课程，虽提及ML但主体为通用Python入门。",
+    "excludedAt": "2026-10-10T16:47:49.843Z"
   }
 ]
