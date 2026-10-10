@@ -13278,5 +13278,135 @@
     "id": "noahgift/functional_intro_to_python",
     "reason": "llm: 核心内容为Python编程基础教程，非AI/ML专项课程，虽提及ML但主体为通用Python入门。",
     "excludedAt": "2026-10-10T16:47:49.843Z"
+  },
+  {
+    "id": "elef1sh/llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-10T20:53:13.665Z"
+  },
+  {
+    "id": "philipperemy/tensorflow-ctc-speech-recognition",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T20:53:19.347Z"
+  },
+  {
+    "id": "brightxiaohan/facedetector",
+    "reason": "llm: 核心为MTCNN人脸检测库实现，教程仅占局部，非成套教学课程",
+    "excludedAt": "2026-10-10T20:53:24.401Z"
+  },
+  {
+    "id": "wenjiedu/brewpots",
+    "reason": "llm: 仓库为PyPOTS库的入门示例代码，非成套教学课程或书籍",
+    "excludedAt": "2026-10-10T20:53:30.589Z"
+  },
+  {
+    "id": "lium-lst/nmtpy",
+    "reason": "archived",
+    "excludedAt": "2026-10-10T20:53:30.933Z"
+  },
+  {
+    "id": "infosecredd/darkgpt-lite",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T20:53:36.036Z"
+  },
+  {
+    "id": "datascienceid/deep-learning-resources",
+    "reason": "llm: 仅是资源链接列表（Awesome List），非成套章节或课程教材，不满足结构要求。",
+    "excludedAt": "2026-10-10T20:53:40.507Z"
+  },
+  {
+    "id": "kunlun-zhu/awesome-agents-research",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T20:53:41.372Z"
+  },
+  {
+    "id": "aju22/documentgpt",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T20:53:42.339Z"
+  },
+  {
+    "id": "timtech4u/awesome-cloudbuild",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T20:53:49.130Z"
+  },
+  {
+    "id": "capybaracrowporation/houdini-comfyui-bridge",
+    "reason": "llm: 该仓库是 Houdini 与 ComfyUI 的集成开发工具，非教学课程或书籍。",
+    "excludedAt": "2026-10-10T20:53:52.031Z"
+  },
+  {
+    "id": "microsoft/aitour-interact-with-llms",
+    "reason": "archived",
+    "excludedAt": "2026-10-10T20:53:52.245Z"
+  },
+  {
+    "id": "camel-ai/multi-agent-streamlit-ui",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T20:54:00.744Z"
+  },
+  {
+    "id": "microsoft/intelligence-toolkit",
+    "reason": "llm: 这是AI情报分析工具，非教学课程或教程书籍",
+    "excludedAt": "2026-10-10T20:54:04.995Z"
+  },
+  {
+    "id": "microsoft/batch-inference",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T20:54:16.446Z"
+  },
+  {
+    "id": "aws-samples/aws-bedrock-with-rag-and-react",
+    "reason": "archived",
+    "excludedAt": "2026-10-10T20:54:16.870Z"
+  },
+  {
+    "id": "hkproj/pytorch-transformer-distributed",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T20:54:23.843Z"
+  },
+  {
+    "id": "hoya012/carrier-of-tricks-for-classification-pytorch",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T20:54:24.923Z"
+  },
+  {
+    "id": "neerjad/machinelearning",
+    "reason": "llm: 内容仅为零散算法实现教程，非成套章节或系统课程，结构松散",
+    "excludedAt": "2026-10-10T20:54:29.369Z"
+  },
+  {
+    "id": "zlatko-minev/zlatko-minev-quantum-repository",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T20:54:30.453Z"
+  },
+  {
+    "id": "dsdanielpark/open-llm-datasets",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T20:54:31.500Z"
+  },
+  {
+    "id": "kleinyuan/easy-yolo",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T20:54:41.221Z"
+  },
+  {
+    "id": "elemento24/journey-with-artificial-intelligence",
+    "reason": "llm: 仓库为资源链接与电子书的索引列表，缺乏自身成套的课程章节或教程内容，不符合结构化教学材料要求。",
+    "excludedAt": "2026-10-10T20:55:15.036Z"
+  },
+  {
+    "id": "normal-computing-oss/branches",
+    "reason": "archived",
+    "excludedAt": "2026-10-10T20:55:15.412Z"
+  },
+  {
+    "id": "aipengineer/awesome-ai-engineering-reads",
+    "reason": "llm: 该仓库是外部链接聚合列表，非自身包含成套教学内容的课程或书籍。",
+    "excludedAt": "2026-10-10T20:55:20.616Z"
+  },
+  {
+    "id": "amirbayat0/amirbayat0",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-10T20:55:30.562Z"
   }
 ]
