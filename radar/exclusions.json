@@ -13408,5 +13408,200 @@
     "id": "amirbayat0/amirbayat0",
     "reason": "education signal too weak (1 readme terms, 0 lesson files)",
     "excludedAt": "2026-10-10T20:55:30.562Z"
+  },
+  {
+    "id": "dr-jam/gameplayprogramming",
+    "reason": "llm: 该仓库是 UCSB/UC Davis 的游戏编程课程大纲，主题属于游戏开发与传统软件工程，不包含 AI、机器学习或 LLM 核心教学内容。",
+    "excludedAt": "2026-10-11T02:40:06.410Z"
+  },
+  {
+    "id": "sarvasvkulpati/awesome-gan-resources",
+    "reason": "llm: 属于资源链接列表而非成套课程，不满足结构要求",
+    "excludedAt": "2026-10-11T02:40:34.544Z"
+  },
+  {
+    "id": "webmachinelearning/awesome-webnn",
+    "reason": "llm: 该仓库为WebNN生态资源的精选链接列表（Awesome List），并非成套的教学课程或书籍，不符合教学性质的收录标准。",
+    "excludedAt": "2026-10-11T02:40:40.392Z"
+  },
+  {
+    "id": "askjohngeorge/askjg-claude-agents",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T02:41:06.294Z"
+  },
+  {
+    "id": "addyosmani/context-buddy",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T02:41:06.939Z"
+  },
+  {
+    "id": "john3/awesome-torque3d",
+    "reason": "llm: 该仓库是 Torque3D 游戏引擎的资源列表，属于非 AI 领域的工具集合，不符合收录标准。",
+    "excludedAt": "2026-10-11T02:41:25.842Z"
+  },
+  {
+    "id": "inai-sandy/inai-wiki",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T02:41:26.612Z"
+  },
+  {
+    "id": "deepsynthesis/reactionseek",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T02:41:27.496Z"
+  },
+  {
+    "id": "tirendazacademy/chatgpt-with-examples",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T02:41:28.191Z"
+  },
+  {
+    "id": "baniasbaabe/learning-data-science",
+    "reason": "llm: 内容是外部资源链接的索引列表，非原创教学章节或课程材料，不满足成套章节要求。",
+    "excludedAt": "2026-10-11T02:41:38.093Z"
+  },
+  {
+    "id": "vlameiras/ai-ml-resources",
+    "reason": "llm: 该仓库仅为外部资源链接列表，无自身教学章节或成套课程材料，不满足结构条件。",
+    "excludedAt": "2026-10-11T02:41:48.567Z"
+  },
+  {
+    "id": "garyblankenship/awesome-php-ai",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:00.511Z"
+  },
+  {
+    "id": "florentpoux/awesome-3d",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:00.723Z"
+  },
+  {
+    "id": "pgm-lab/probai-2021-pyro",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:00.969Z"
+  },
+  {
+    "id": "ajaybhat/tensorflow-for-beginners",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:01.160Z"
+  },
+  {
+    "id": "aws-samples/llm-evaluation-methodology",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:01.403Z"
+  },
+  {
+    "id": "leslieleung/ptpt",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:01.633Z"
+  },
+  {
+    "id": "doggy8088/doggy8088",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:01.802Z"
+  },
+  {
+    "id": "younes-toumi/youtube-channel",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:01.976Z"
+  },
+  {
+    "id": "feststelltaste/awesome-agentic-software-modernization",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:02.150Z"
+  },
+  {
+    "id": "whiax/bert-transformer-pytorch",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:02.332Z"
+  },
+  {
+    "id": "kevindegila/construire-un-llm-de-zero",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:02.510Z"
+  },
+  {
+    "id": "timothywarner/copilot-dev",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:02.740Z"
+  },
+  {
+    "id": "peernagy/lob_bench",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:02.900Z"
+  },
+  {
+    "id": "qxy661/uav-wm-vla-learning",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:03.114Z"
+  },
+  {
+    "id": "tinhnguyen2312/ai-resource",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:03.304Z"
+  },
+  {
+    "id": "fernandolpz/kubeflow_pipelines",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:03.541Z"
+  },
+  {
+    "id": "mogons/solana-ai-agent",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:03.716Z"
+  },
+  {
+    "id": "penguinmod/penguinmod-extensionsgallery",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:03.905Z"
+  },
+  {
+    "id": "noahgift/managed_ml_systems_and_iot",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:04.074Z"
+  },
+  {
+    "id": "curated-awesome-lists/awesome-auto-gpt",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:04.271Z"
+  },
+  {
+    "id": "decode-ai-by-sanjeev/decode-aiml",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:04.481Z"
+  },
+  {
+    "id": "khuyentran1401/codecut-blog",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:04.651Z"
+  },
+  {
+    "id": "anirudhsengar/mathvizai",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:04.888Z"
+  },
+  {
+    "id": "aws-samples/aws-genai-rfpassistant",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:05.154Z"
+  },
+  {
+    "id": "ni79ls/har-keras-coreml",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:05.372Z"
+  },
+  {
+    "id": "timothywarner-org/ab100",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:05.687Z"
+  },
+  {
+    "id": "dhanushnehru/ultimate-ai-resources",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:05.883Z"
+  },
+  {
+    "id": "nati112/prompt-architect",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-11T02:42:06.066Z"
   }
 ]
