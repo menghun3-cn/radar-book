@@ -14003,5 +14003,125 @@
     "id": "buddhi19/awesome-ai-from-scratch",
     "reason": "below 50 stars",
     "excludedAt": "2026-10-11T17:00:14.248Z"
+  },
+  {
+    "id": "khuangaf/pytorch-geometric-yoochoose",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T21:19:47.266Z"
+  },
+  {
+    "id": "jax-ml/jax-ai-stack",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T21:19:48.255Z"
+  },
+  {
+    "id": "youssefhosni/getting-started-with-generative-ai",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T21:19:49.227Z"
+  },
+  {
+    "id": "lgy112112/ikan",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T21:19:54.803Z"
+  },
+  {
+    "id": "aifsh/comfyui-hallo",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T21:19:55.591Z"
+  },
+  {
+    "id": "global-fde/awesome-fde-resources",
+    "reason": "llm: 该仓库为资源链接汇总列表，非独立开发的成套课程或书籍内容",
+    "excludedAt": "2026-10-11T21:20:02.746Z"
+  },
+  {
+    "id": "adeshpande3/generative-adversarial-networks",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T21:20:08.501Z"
+  },
+  {
+    "id": "hadxu/machine-learning",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T21:20:10.019Z"
+  },
+  {
+    "id": "spandan-madan/pytorch_fine_tuning_tutorial",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T21:20:10.951Z"
+  },
+  {
+    "id": "yuneming/deeplearningtutorial",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-11T21:20:11.729Z"
+  },
+  {
+    "id": "rasgointelligence/feature-engineering-tutorials",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T21:20:12.576Z"
+  },
+  {
+    "id": "vocab-apps/anki-hyper-tts",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-11T21:20:17.948Z"
+  },
+  {
+    "id": "adilshamim8/100-ai-machine-learning-deep-learnin-projects",
+    "reason": "llm: 该仓库主要是项目链接列表，属于资源索引而非自带完整章节的课程或书籍。",
+    "excludedAt": "2026-10-11T21:20:21.835Z"
+  },
+  {
+    "id": "wikit-ai/awesome-llm-courses",
+    "reason": "archived",
+    "excludedAt": "2026-10-11T21:20:22.060Z"
+  },
+  {
+    "id": "john-science/scipy_con_2019",
+    "reason": "llm: 仅为会议链接索引，非成套教程内容，不符合收录标准",
+    "excludedAt": "2026-10-11T21:20:40.393Z"
+  },
+  {
+    "id": "langchain-ai/langchain-teacher",
+    "reason": "archived",
+    "excludedAt": "2026-10-11T21:20:40.603Z"
+  },
+  {
+    "id": "harveyslash/tsne-umap-embedding-visualisation",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T21:20:50.679Z"
+  },
+  {
+    "id": "baehyunsol/ragit",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T21:20:51.537Z"
+  },
+  {
+    "id": "kivy-cn/ml-for-humans-zh",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T21:20:53.722Z"
+  },
+  {
+    "id": "promptslab/llmtuner",
+    "reason": "llm: 该仓库是一个用于微调 LLM 的 Python 开发框架/工具，而非教学课程或书籍。",
+    "excludedAt": "2026-10-11T21:20:57.582Z"
+  },
+  {
+    "id": "olivieralter/claude-certified-architect-foundations-certification-exam",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T21:20:58.248Z"
+  },
+  {
+    "id": "henryndubuaku/cuda-tutorials",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T21:21:00.471Z"
+  },
+  {
+    "id": "krishnaik06/generative-ai-with-cloud",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T21:21:02.899Z"
+  },
+  {
+    "id": "jindongwang/deep-learning-activity-recognition",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-11T21:21:03.790Z"
   }
 ]
