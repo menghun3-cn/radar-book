@@ -14123,5 +14123,165 @@
     "id": "jindongwang/deep-learning-activity-recognition",
     "reason": "education signal too weak (1 readme terms, 0 lesson files)",
     "excludedAt": "2026-10-11T21:21:03.790Z"
+  },
+  {
+    "id": "intellabs/vdms",
+    "reason": "archived",
+    "excludedAt": "2026-10-12T03:13:38.140Z"
+  },
+  {
+    "id": "junhua/awesome-llm-agents",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-12T03:13:38.876Z"
+  },
+  {
+    "id": "parulnith/data-science-articles",
+    "reason": "llm: 内容为博客/文章链接的索引集合，虽含代码但缺乏成套课程结构，非系统性教材",
+    "excludedAt": "2026-10-12T03:13:44.355Z"
+  },
+  {
+    "id": "jinglescode/python-signal-processing",
+    "reason": "llm: 主题主要是信号处理而非AI/ML/LLM核心，虽涉及部分机器学习方法但不符合目录定位",
+    "excludedAt": "2026-10-12T03:14:14.845Z"
+  },
+  {
+    "id": "ndpvt-web/prompt-improver",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-12T03:14:15.587Z"
+  },
+  {
+    "id": "botwiki/botwiki.org",
+    "reason": "no AI/ML signal",
+    "excludedAt": "2026-10-12T03:14:16.867Z"
+  },
+  {
+    "id": "microsoft/codex-babylon",
+    "reason": "archived",
+    "excludedAt": "2026-10-12T03:14:17.065Z"
+  },
+  {
+    "id": "dnkirill/allstate_capstone",
+    "reason": "llm: 这是单个Kaggle竞赛的Capstone项目，非成套教学课程或书籍，属于实践案例。",
+    "excludedAt": "2026-10-12T03:14:24.732Z"
+  },
+  {
+    "id": "finxter/ai-engineering-learning-resources",
+    "reason": "llm: 内容为外部资源链接列表，非自带成套课程材料或书籍内容",
+    "excludedAt": "2026-10-12T03:14:28.880Z"
+  },
+  {
+    "id": "curated-awesome-lists/awesome-google-gemini-ai",
+    "reason": "llm: 该仓库是资源链接聚合列表，包含文章、课程、书籍等外链，并非仓库内自带的成套教学章节或课程材料，不符合收录标准。",
+    "excludedAt": "2026-10-12T03:14:39.110Z"
+  },
+  {
+    "id": "ankonzoid/nn-scratch",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-12T03:14:39.848Z"
+  },
+  {
+    "id": "stratosphereips/vellmes-ai-deception-framework",
+    "reason": "llm: 该项目是用于安全防御的LLM蜜罐工具，包含单元测试，并非用于教学的课程、教程或书籍。",
+    "excludedAt": "2026-10-12T03:14:45.781Z"
+  },
+  {
+    "id": "infiniteaicreations/awesome-llm-projects",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-12T03:14:46.530Z"
+  },
+  {
+    "id": "jassics/awesome-genai-security",
+    "reason": "llm: 仓库是AI安全主题的外部资源链接汇总（书籍、课程等），并非自身的教学材料或课程目录。",
+    "excludedAt": "2026-10-12T03:14:58.851Z"
+  },
+  {
+    "id": "rominirani/awesome-gemini-for-google-cloud",
+    "reason": "llm: 这是外部资源链接的策展列表（Awesome List），并非仓库自有的成套教程或书籍内容。",
+    "excludedAt": "2026-10-12T03:15:03.808Z"
+  },
+  {
+    "id": "dem108/awesome-azure-advanced-analytics",
+    "reason": "llm: 该仓库为Azure高级分析资源的链接集合（Awesome列表），属于导航目录而非成套的教学课程或书籍。",
+    "excludedAt": "2026-10-12T03:15:09.613Z"
+  },
+  {
+    "id": "ethicalml/awesome-agentic-engineering-resources",
+    "reason": "llm: 这是资源链接列表（Awesome List），而非自成体系的课程或教材，不满足教学性质及成套章节结构的要求。",
+    "excludedAt": "2026-10-12T03:15:25.655Z"
+  },
+  {
+    "id": "matteo-convertino/vosk-build-model",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-12T03:15:26.449Z"
+  },
+  {
+    "id": "jwalsh/aif-c01",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-12T03:15:27.204Z"
+  },
+  {
+    "id": "aianytime/multi-agents-system-from-scratch",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-12T03:15:33.389Z"
+  },
+  {
+    "id": "bigdevsoon/100-days-of-code",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-12T03:15:34.296Z"
+  },
+  {
+    "id": "mauriciolauffer/awesome-cap",
+    "reason": "llm: 仓库是SAP CAP框架的资源导航列表，非AI/ML教学课程，主题不符。",
+    "excludedAt": "2026-10-12T03:16:29.638Z"
+  },
+  {
+    "id": "ww-w-ai/bkit-codex",
+    "reason": "llm: 这是一个针对OpenAI Codex的AI开发工作流工具插件，属于工具/框架，而非教学课程或书籍。",
+    "excludedAt": "2026-10-12T03:16:36.355Z"
+  },
+  {
+    "id": "voytas75/gptprompts",
+    "reason": "llm: 内容是提示词集合而非成套课程，缺乏系统教学结构，不符合收录标准",
+    "excludedAt": "2026-10-12T03:16:41.681Z"
+  },
+  {
+    "id": "chiphuyen/metaflow-transformers-tutorials",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-12T03:16:42.497Z"
+  },
+  {
+    "id": "juliangerhard21/bert_spacy_rasa",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-12T03:16:43.277Z"
+  },
+  {
+    "id": "npatta01/mobile-deep-learning-classifier",
+    "reason": "llm: 内容为单个移动应用部署教程，缺乏成套章节，属工具/示例而非教学书籍",
+    "excludedAt": "2026-10-12T03:16:47.113Z"
+  },
+  {
+    "id": "microsoft/aifluency",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-12T03:16:51.625Z"
+  },
+  {
+    "id": "jasjung/machine_learning",
+    "reason": "llm: 个人学习笔记和外部课程资源链接，非原创成套教程体系",
+    "excludedAt": "2026-10-12T03:17:03.825Z"
+  },
+  {
+    "id": "vlgiitr/dmn-plus",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-12T03:17:04.617Z"
+  },
+  {
+    "id": "mcgilldinglab/unagi",
+    "reason": "llm: 属于生物医学AI工具，含教程但非通用AI课程目录范围",
+    "excludedAt": "2026-10-12T03:17:15.044Z"
+  },
+  {
+    "id": "vincentwei1021/kronos-guide-cn",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-12T03:17:15.774Z"
   }
 ]
