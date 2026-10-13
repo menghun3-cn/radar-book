@@ -14883,5 +14883,145 @@
     "id": "datascienceworld-kan/aucodb",
     "reason": "below 50 stars",
     "excludedAt": "2026-10-13T04:22:42.838Z"
+  },
+  {
+    "id": "azminewasi/online-ml-university",
+    "reason": "llm: 内容仅为外部课程链接列表，无自有教学材料或成套章节，不符合教材定义。",
+    "excludedAt": "2026-10-13T13:19:48.454Z"
+  },
+  {
+    "id": "emmethalm/ai",
+    "reason": "llm: 仅为资源链接列表，无成套章节或原创教程内容",
+    "excludedAt": "2026-10-13T13:19:53.359Z"
+  },
+  {
+    "id": "lululxvi/tutorials",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T13:19:54.461Z"
+  },
+  {
+    "id": "bipark/my_ollama_app",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T13:19:56.244Z"
+  },
+  {
+    "id": "mluogh/eastworld",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T13:19:57.003Z"
+  },
+  {
+    "id": "usail-hkust/awesome-urban-foundation-models",
+    "reason": "llm: 这是论文资源列表（Awesome List），非成套教程、课程或书籍。",
+    "excludedAt": "2026-10-13T13:20:02.862Z"
+  },
+  {
+    "id": "zhimin-z/awesome-awesome-artificial-intelligence",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T13:20:03.876Z"
+  },
+  {
+    "id": "jrieke/shape-detection",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T13:20:04.783Z"
+  },
+  {
+    "id": "zhangchenchen/awesome_sora2_prompt",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T13:20:05.637Z"
+  },
+  {
+    "id": "h9-tec/genai_graduation_projects",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T13:20:10.610Z"
+  },
+  {
+    "id": "jymsuper/speakerrecognition_tutorial",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T13:20:12.015Z"
+  },
+  {
+    "id": "pieces-app/genai-101",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T13:20:12.984Z"
+  },
+  {
+    "id": "google-aai/sc17",
+    "reason": "archived",
+    "excludedAt": "2026-10-13T13:20:13.255Z"
+  },
+  {
+    "id": "shudima/notebooks",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T13:20:31.392Z"
+  },
+  {
+    "id": "projectprorepo/agentic-ai",
+    "reason": "llm: 仓库仅为外部链接聚合目录，无实质性教程或课程代码，不符合成套材料要求",
+    "excludedAt": "2026-10-13T13:20:46.017Z"
+  },
+  {
+    "id": "kuleuven-micas/zigzag",
+    "reason": "llm: 该仓库是深度学习加速器硬件架构映射的自动化探索工具/框架，属于工程工具而非教学课程或书籍。",
+    "excludedAt": "2026-10-13T13:21:05.278Z"
+  },
+  {
+    "id": "lsjsj92/recommender_system_with_python",
+    "reason": "education signal too weak (1 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-13T13:21:19.066Z"
+  },
+  {
+    "id": "sadanandpai/ai-learning-kit",
+    "reason": "llm: 该仓库仅为外部学习资源链接的策展合集，不含课程代码、教材章节或练习系统，不满足独立教学材料结构要求。",
+    "excludedAt": "2026-10-13T13:21:33.459Z"
+  },
+  {
+    "id": "tdi/awesome-private-ai",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T13:21:40.750Z"
+  },
+  {
+    "id": "ai4lam/awesome-ai4lam",
+    "reason": "llm: 这是资源列表（Awesome List），不是教学课程或书籍，缺乏成套章节结构。",
+    "excludedAt": "2026-10-13T13:21:45.282Z"
+  },
+  {
+    "id": "sbccas/sbccas",
+    "reason": "llm: README为机构宣传页，无具体课程章节或成套教材内容。",
+    "excludedAt": "2026-10-13T13:22:00.119Z"
+  },
+  {
+    "id": "preferredai/tutorials",
+    "reason": "llm: 教程数量过少，缺乏完整成套课程结构",
+    "excludedAt": "2026-10-13T13:22:15.907Z"
+  },
+  {
+    "id": "fuzer/studytensorflow",
+    "reason": "archived",
+    "excludedAt": "2026-10-13T13:22:16.167Z"
+  },
+  {
+    "id": "maxnorm8650/medagentsim",
+    "reason": "llm: 这是MICCAI 2025论文配套的开源仿真框架，属于工具/代码库，而非结构化教程或课程。",
+    "excludedAt": "2026-10-13T13:22:26.189Z"
+  },
+  {
+    "id": "mradovic38/football-analysis",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T13:22:27.077Z"
+  },
+  {
+    "id": "aws-samples/awesome-sagemaker",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T13:22:28.067Z"
+  },
+  {
+    "id": "googlecloudplatform/terraform-genai-knowledge-base",
+    "reason": "education signal too weak (2 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-13T13:22:29.006Z"
+  },
+  {
+    "id": "langchain4j/awesome-langchain4j",
+    "reason": "llm: 这是一个资源列表（Awesome list），而非成套的教学课程或书籍结构。",
+    "excludedAt": "2026-10-13T13:22:33.939Z"
   }
 ]
