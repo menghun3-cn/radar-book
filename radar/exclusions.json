@@ -15023,5 +15023,190 @@
     "id": "langchain4j/awesome-langchain4j",
     "reason": "llm: 这是一个资源列表（Awesome list），而非成套的教学课程或书籍结构。",
     "excludedAt": "2026-10-13T13:22:33.939Z"
+  },
+  {
+    "id": "wuchulan47/awesome-ai-tools",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:08.905Z"
+  },
+  {
+    "id": "googlecloudplatform/batch-samples",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:09.846Z"
+  },
+  {
+    "id": "dirty-data-science/python",
+    "reason": "education signal too weak (1 readme terms, 2 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-13T22:17:10.598Z"
+  },
+  {
+    "id": "drewnf/build-deep-learning-env-with-tensorflow-python-opencv",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:11.369Z"
+  },
+  {
+    "id": "specstoryai/awesome-software-composers",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:12.232Z"
+  },
+  {
+    "id": "gokumohandas/oreilly-pytorch",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:13.069Z"
+  },
+  {
+    "id": "lablab-ai/google-vertexai-fastapi",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:17.816Z"
+  },
+  {
+    "id": "araffin/rl-handson-rlvs21",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:18.607Z"
+  },
+  {
+    "id": "alex-haochenli/goal-oriented-prompt-engineering",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:19.448Z"
+  },
+  {
+    "id": "project-luminate/luminate",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:20.141Z"
+  },
+  {
+    "id": "ngshya/easyrag",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:20.933Z"
+  },
+  {
+    "id": "topaidirectories/awesome-ai-directories",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:21.755Z"
+  },
+  {
+    "id": "47thtechcorner/raycodes_omniroute-explorer",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:22.580Z"
+  },
+  {
+    "id": "nawfaltachfine/predictionapi",
+    "reason": "archived",
+    "excludedAt": "2026-10-13T22:17:22.795Z"
+  },
+  {
+    "id": "solygambas/python-openai-projects",
+    "reason": "llm: 本质是13个代码项目集合，非系统教学章节，属于工具/示例库",
+    "excludedAt": "2026-10-13T22:17:25.996Z"
+  },
+  {
+    "id": "erikaduan/python_data_science_tips",
+    "reason": "llm: 内容零散，仅少量笔记，非成套课程章节",
+    "excludedAt": "2026-10-13T22:17:29.216Z"
+  },
+  {
+    "id": "iamwangyunkai/rl-gallery",
+    "reason": "llm: 这是一个链接聚合（Gallery）仓库，仅罗列外部教程和资源，本身不提供成套的教学章节或课程内容。",
+    "excludedAt": "2026-10-13T22:17:33.234Z"
+  },
+  {
+    "id": "whiax/neuralnetworkcpp",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:33.994Z"
+  },
+  {
+    "id": "mrexodia/user-feedback-mcp",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:34.750Z"
+  },
+  {
+    "id": "panaversity/learn-physical-ai-humanoid-robotics",
+    "reason": "llm: 仅为外部课程链接汇总，无实际教学章节或课程材料",
+    "excludedAt": "2026-10-13T22:17:43.028Z"
+  },
+  {
+    "id": "rvinothrajendran/microsoftsemantickernelsamples",
+    "reason": "llm: 仓库为配套视频代码示例集，缺乏独立成套的章节或系统性课程材料，不满足结构要求。",
+    "excludedAt": "2026-10-13T22:17:47.254Z"
+  },
+  {
+    "id": "alea-institute/folio",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:48.009Z"
+  },
+  {
+    "id": "r4ghu/ios-coreml-inceptionv3",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-13T22:17:48.810Z"
+  },
+  {
+    "id": "benckx/dnn-movie-posters",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:49.580Z"
+  },
+  {
+    "id": "aistream-peelout/flow_tutorials",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:50.289Z"
+  },
+  {
+    "id": "kennyyao2001/16824-caloraify",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-13T22:17:51.073Z"
+  },
+  {
+    "id": "vanshgehlot/agi",
+    "reason": "llm: 该仓库是资源链接集合（curated list），不是成套的课程或教程书籍。",
+    "excludedAt": "2026-10-13T22:17:55.723Z"
+  },
+  {
+    "id": "wenston-dev/cat-thinking",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-13T22:17:56.579Z"
+  },
+  {
+    "id": "adilbaaj/unsupervised-image-retrieval",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-13T22:17:56.826Z"
+  },
+  {
+    "id": "tomasbeuzen/deep-learning-with-pytorch",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-13T22:17:57.023Z"
+  },
+  {
+    "id": "fallomai/simkit",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-13T22:17:57.227Z"
+  },
+  {
+    "id": "sumilao/zynq-7000-dpu-trd",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-13T22:17:57.407Z"
+  },
+  {
+    "id": "aivietnamresearch/aio_documents",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-13T22:17:57.630Z"
+  },
+  {
+    "id": "2015xli/dbn",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-13T22:17:57.868Z"
+  },
+  {
+    "id": "ml-nagpur/cool-notebooks",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-13T22:17:58.066Z"
+  },
+  {
+    "id": "sebp/survival-cnn-estimator",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-13T22:17:58.250Z"
+  },
+  {
+    "id": "nerority/ai-library",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-13T22:17:58.469Z"
   }
 ]
