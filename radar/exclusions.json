@@ -15808,5 +15808,140 @@
     "id": "bystritskiy/elevenspeak",
     "reason": "below 50 stars",
     "excludedAt": "2026-10-14T16:12:59.225Z"
+  },
+  {
+    "id": "sherlcok314159/ml",
+    "reason": "education signal too weak (1 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-14T21:17:01.897Z"
+  },
+  {
+    "id": "rajshah4/llm-evaluation",
+    "reason": "llm: 内容为工作坊幻灯片及外部链接汇总，非成套教程书籍或系统化课程材料。",
+    "excludedAt": "2026-10-14T21:17:21.991Z"
+  },
+  {
+    "id": "zhangruiskyline/deeplearning",
+    "reason": "llm: 仓库主要是外部资源链接汇总，缺乏原创的成套教学章节或课程内容。",
+    "excludedAt": "2026-10-14T21:17:26.775Z"
+  },
+  {
+    "id": "cablate/claude-code-research",
+    "reason": "llm: 该仓库为逆向工程研究报告，属于技术分析而非系统性教学课程或书籍。",
+    "excludedAt": "2026-10-14T21:17:33.340Z"
+  },
+  {
+    "id": "qingsongedu/awesome-ai-tutorials-surveys",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-14T21:17:34.373Z"
+  },
+  {
+    "id": "damo-di-ml/ai-for-time-series-papers-tutorials-surveys",
+    "reason": "llm: 本质为论文和资源链接清单，缺乏成套教学章节或课程材料，非书籍/课程。",
+    "excludedAt": "2026-10-14T21:17:42.066Z"
+  },
+  {
+    "id": "reziamini/awesome-github",
+    "reason": "llm: 这是一份通用资源链接聚合列表（Awesome List），缺乏自身原创的教学章节或成套课程内容，不属于独立教程书籍。",
+    "excludedAt": "2026-10-14T21:17:46.130Z"
+  },
+  {
+    "id": "natnew/awesome-data-science",
+    "reason": "education signal too weak (0 readme terms, 2 lesson files)",
+    "excludedAt": "2026-10-14T21:17:46.914Z"
+  },
+  {
+    "id": "googlecloudplatform/terraform-genai-doc-summarization",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-14T21:17:51.603Z"
+  },
+  {
+    "id": "hamzafarooq/claude-certified-architect",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-14T21:17:52.501Z"
+  },
+  {
+    "id": "chando0185/multiverse_of_100-_data_science_project_series",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-14T21:17:59.549Z"
+  },
+  {
+    "id": "dipeshpal/jarvis-assisant",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-14T21:18:05.509Z"
+  },
+  {
+    "id": "nerority/prompt-engineering-mastery",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-14T21:18:10.524Z"
+  },
+  {
+    "id": "nathanrooy/evolving-simple-organisms",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-14T21:18:14.509Z"
+  },
+  {
+    "id": "microsoft/onnxjs-demo",
+    "reason": "archived",
+    "excludedAt": "2026-10-14T21:18:17.470Z"
+  },
+  {
+    "id": "dataforscience/deeplearning",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-14T21:18:18.179Z"
+  },
+  {
+    "id": "hamelsmu/seq2seq_tutorial",
+    "reason": "education signal too weak (2 readme terms, 2 lesson files)",
+    "excludedAt": "2026-10-14T21:18:22.161Z"
+  },
+  {
+    "id": "berkayalan/data-science-tutorials",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-14T21:18:22.986Z"
+  },
+  {
+    "id": "kushalvijay/datascience-roadmap-2025",
+    "reason": "llm: 仅为资源链接与项目列表汇编，无成套章节课程材料，不满足教学结构要求。",
+    "excludedAt": "2026-10-14T21:18:26.094Z"
+  },
+  {
+    "id": "jhl-hust/nagphormer",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-14T21:18:27.105Z"
+  },
+  {
+    "id": "ml-gde/e2e-tflite-tutorials",
+    "reason": "llm: 该仓库是项目跟踪与管理列表，实际教程分散在外部链接，自身无成套课程章节。",
+    "excludedAt": "2026-10-14T21:18:30.635Z"
+  },
+  {
+    "id": "aws-samples/text-to-sql-bedrock-workshop",
+    "reason": "archived",
+    "excludedAt": "2026-10-14T21:18:30.881Z"
+  },
+  {
+    "id": "luxonis/ai-tutorials",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-14T21:18:37.908Z"
+  },
+  {
+    "id": "suji04/normalizednerd",
+    "reason": "education signal too weak (0 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-14T21:18:38.801Z"
+  },
+  {
+    "id": "chuanenlin/optical-flow",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-14T21:18:39.591Z"
+  },
+  {
+    "id": "francoisporcher/awesome-ai-tutorials",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-14T21:18:40.930Z"
+  },
+  {
+    "id": "dataforscience/probability",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-14T21:18:41.761Z"
   }
 ]
