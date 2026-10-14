@@ -202,8 +202,8 @@
 - [MachineLearningRoadmap (justxor)](https://github.com/justxor/MachineLearningRoadmap): 面向俄语社区的全面机器学习学习路线图，涵盖从基础到LLM开发的七个阶段及实践任务。
 - [Easy-deep-learning-with-Keras (buomsoo-kim)](https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras): 基于Keras的深度学习入门教程，涵盖MLP、CNN、RNN及无监督学习等章节
 - [opencode-primer (wesammustafa)](https://github.com/wesammustafa/opencode-primer): OpenCode开源AI编码代理的完整入门指南，含设置、提示工程与插件教程。
-- [TensorFlow-Tutorials-Chinese (Hvass-Labs)](https://github.com/Hvass-Labs/TensorFlow-Tutorials-Chinese): Hvass-Labs TensorFlow中文教程，包含23章从线性模型到NLP的深度交互练习。
 - [AIPM-Wiki (archlizheng)](https://github.com/archlizheng/AIPM-Wiki): 一套针对AI产品经理的系统化知识库，包含学习路线、案例拆解及面试题库。
+- [TensorFlow-Tutorials-Chinese (Hvass-Labs)](https://github.com/Hvass-Labs/TensorFlow-Tutorials-Chinese): Hvass-Labs TensorFlow中文教程，包含23章从线性模型到NLP的深度交互练习。
 - [llms (IbrahimSobh)](https://github.com/IbrahimSobh/llms): 涵盖LLM理论、GPT/BERT实践及RAG的交互式教程
 - [Learn-Prompt-Hacking (TrustAI-laboratory)](https://github.com/TrustAI-laboratory/Learn-Prompt-Hacking): 综合性提示词工程与LLM安全教程，含基础到攻击实战
 - [RNA-FM (ml4bio)](https://github.com/ml4bio/RNA-FM): RNA-FM模型官方教程库，涵盖从环境配置到UTR功能预测模型实现的完整学习路径。
@@ -304,8 +304,8 @@
 - [AtomisticSkills (learningmatter-mit)](https://github.com/learningmatter-mit/AtomisticSkills): MIT开发的原子模拟AI代理技能框架，提供层级化教程以自动化材料研究。
 - [kdd2021-tutorial (causal-machine-learning)](https://github.com/causal-machine-learning/kdd2021-tutorial): KDD 2021因果推断与机器学习实战教程，含EconML/CausalML案例。
 - [awesome-q-developer (cremich)](https://github.com/cremich/awesome-q-developer): Amazon Q AI开发助手的学习资源列表，包含工作坊、教程及提示工程指南。
-- [llms-deep-dive-tutorials (springer-llms-deep-dive)](https://github.com/springer-llms-deep-dive/llms-deep-dive-tutorials): 《LLMs: A Deep Dive》官方配套教程，含8章Notebook
 - [context-engineering (bonigarcia)](https://github.com/bonigarcia/context-engineering): Manning 出版书籍《Context Engineering》的官方配套代码库，涵盖提示词、RAG、Agent 及记忆管理等实战案例。
+- [llms-deep-dive-tutorials (springer-llms-deep-dive)](https://github.com/springer-llms-deep-dive/llms-deep-dive-tutorials): 《LLMs: A Deep Dive》官方配套教程，含8章Notebook
 - [python-tutorial-notebooks (dcavar)](https://github.com/dcavar/python-tutorial-notebooks): 印第安纳大学讲师整理的NLP、机器学习与LLM交互式Python教程笔记。
 - [rag-interview-system (ather-techie)](https://github.com/ather-techie/rag-interview-system): 系统化的RAG面试题库与教程，含学习路径、52种架构详解及代码实验。
 - [Langchain-and-Ollama (laxmimerit)](https://github.com/laxmimerit/Langchain-and-Ollama): 基于LangChain和Ollama的本地LLM应用开发实战教程，含多章节Notebook。
@@ -315,9 +315,9 @@
 - [AcousticsML (RAMshades)](https://github.com/RAMshades/AcousticsML): 面向声学领域的机器学习教程，涵盖从信号处理到深度学习的六章成套 Jupyter Notebook 课程材料。
 - [scipy-2017-cython-tutorial (kwmsmith)](https://github.com/kwmsmith/scipy-2017-cython-tutorial): 针对 SciPy 会议的 Cython 高级教程，包含从 CPython 底层到性能优化的多章 Jupyter 练习。
 - [AI-roadmap (h9-tec)](https://github.com/h9-tec/AI-roadmap): 面向零基础用户的AI学习路线图，按数学、CS及专业赛道组织免费资源。
+- [justin-sun-alan-shao-ai-notes (wousp112)](https://github.com/wousp112/justin-sun-alan-shao-ai-notes): 基于孙宇晨访谈整理的15篇AI应用教程，含工具推荐和Agent提示词。
 - [Awesome-LLM-Interview (laoshan-song)](https://github.com/laoshan-song/Awesome-LLM-Interview): 系统化的LLM面试知识点笔记，涵盖原理、训练、推理及工程实践，含题库与项目实战。
 - [LLM-GenAI-Transformers-Notebooks (avikumart)](https://github.com/avikumart/LLM-GenAI-Transformers-Notebooks): 涵盖LLM从零构建、微调及RAG的配套教程笔记本
-- [justin-sun-alan-shao-ai-notes (wousp112)](https://github.com/wousp112/justin-sun-alan-shao-ai-notes): 基于孙宇晨访谈整理的15篇AI应用教程，含工具推荐和Agent提示词。
 - [nlp_workshop_odsc_europe20 (dipanjanS)](https://github.com/dipanjanS/nlp_workshop_odsc_europe20): ODSC欧洲会议高级NLP工作坊教程，涵盖基础到深度学习的全流程实践。
 - [zero-to-ai (PavanMudigonda)](https://github.com/PavanMudigonda/zero-to-ai): 免费在线AI/ML课程，含33个阶段950+笔记本，覆盖Python至LLM Agent全流程。
 - [Eng.-Mohamed-Hammad-AI-Recommendations (AhmedUZaki)](https://github.com/AhmedUZaki/Eng.-Mohamed-Hammad-AI-Recommendations): 基于专家推荐的AI/数据科学自学路线图，按阶段整理书籍与教程。
@@ -366,8 +366,8 @@
 - [awesome-ai-agent-learning (2182977liu-bit)](https://github.com/2182977liu-bit/awesome-ai-agent-learning): 一套从零构建 AI Agent 的中文保姆级教程，涵盖原理、代码与实战
 - [LearningfromAudio (theadamsabra)](https://github.com/theadamsabra/LearningfromAudio): 一套从数字信号处理基础到音频特征提取的机器学习入门教程，配有代码。
 - [Pretrain-Vision-and-Large-Language-Models-in-Python (PacktPublishing)](https://github.com/PacktPublishing/Pretrain-Vision-and-Large-Language-Models-in-Python): Packt出版基础模型预训练与微调书籍配套代码，基于AWS SageMaker实践。
-- [Notebook-Git-Colab (JonusNattapong)](https://github.com/JonusNattapong/Notebook-Git-Colab): 一份包含25个章节的AI/LLM外部学习资源与演示代码索引目录
 - [ecommerce-ai-skills (kangise)](https://github.com/kangise/ecommerce-ai-skills): 面向跨境电商的AI知识库，含69章教程、878个提示词及Agent技能包，支持多语言阅读与安装。
+- [Notebook-Git-Colab (JonusNattapong)](https://github.com/JonusNattapong/Notebook-Git-Colab): 一份包含25个章节的AI/LLM外部学习资源与演示代码索引目录
 - [system-design-vibecoding (nimin1)](https://github.com/nimin1/system-design-vibecoding): 一套包含71章的系统设计教程，重点讲解如何利用AI工具进行系统架构设计与优化
 - [AI-Conversation (TyrealQ)](https://github.com/TyrealQ/AI-Conversation): 体育管理领域 AI 应用教程，含 NLP、LLM 及 Agent 实战项目与课程资源。
 - [Complete-GenAI-Course-Python-Langchain (techsimpluslearning)](https://github.com/techsimpluslearning/Complete-GenAI-Course-Python-Langchain): 一个包含45多个视频教程、10个实战项目和完整代码的生成式AI课程资源包。
@@ -384,10 +384,10 @@
 - [dspy-code (SuperagenticAI)](https://github.com/SuperagenticAI/dspy-code): 一套包含教程、示例和CLI指南的DSPy开发助手，帮助学习者掌握LLM程序优化与构建。
 - [vibe-coding-with-base44 (cporter202)](https://github.com/cporter202/vibe-coding-with-base44): 面向零代码用户的Base44 AI应用构建实战教程，含完整课程章节
 - [doc-adk-training (mauripsale)](https://github.com/mauripsale/doc-adk-training): 基于Google ADK的40模块AI Agent开发实战培训教程
+- [deep-learning-notes (jshn9515)](https://github.com/jshn9515/deep-learning-notes): 系统化深度学习笔记，从基础到LLM推理，含代码与教程网站。
 - [Trilha-de-Estudos-de-Data-Science (HinePo)](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science): 涵盖数据科学各领域学习路线与优质资源推荐
 - [awesome-agentic-ai-resources (The-Gen-Academy)](https://github.com/The-Gen-Academy/awesome-agentic-ai-resources): Agentic AI认证课程资源包，含7周结构化学习路径与精选教程。
 - [Segmentation (IbrahimSobh)](https://github.com/IbrahimSobh/Segmentation): 基于MMSegmentation的语义分割教程，涵盖10种模型推理、微调及自定义模型训练。
-- [deep-learning-notes (jshn9515)](https://github.com/jshn9515/deep-learning-notes): 系统化深度学习笔记，从基础到LLM推理，含代码与教程网站。
 - [AI-ML (dotaiz)](https://github.com/dotaiz/AI-ML): 提供AI/ML/LLM及Agent领域的动手实践笔记本、RAG系统教程及面试准备资源。
 - [300DaysOFMachineLearning-DeepLearning-LLM (Utshav-paudel)](https://github.com/Utshav-paudel/300DaysOFMachineLearning-DeepLearning-LLM): 记录ML/DL/LLM学习旅程，包含每日主题、配套代码项目及外部课程完成状态。
 - [ontology-tutorial (bio-ontology-research-group)](https://github.com/bio-ontology-research-group/ontology-tutorial): 面向计算生物学的中级教程，讲解本体学基础、语义相似度计算及其在机器学习中的应用。
