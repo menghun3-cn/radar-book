@@ -292,9 +292,9 @@
 - [cvessentials (onlyphantom)](https://github.com/onlyphantom/cvessentials): 数学优先的计算机视觉基础课程，涵盖变换、卷积及边缘检测等核心内容。
 - [AI_tools_nontechnical (h9-tec)](https://github.com/h9-tec/AI_tools_nontechnical): 面向非技术人员的12周免费AI学习路线图，涵盖工具实践、提示词技巧及课程推荐。
 - [Machine-Learning-101 (muhammadanas0716)](https://github.com/muhammadanas0716/Machine-Learning-101): 系统整理机器学习与深度学习教程、项目及速查表的开源学习资源
+- [AI-Engineer-Interview-Questions (ombharatiya)](https://github.com/ombharatiya/AI-Engineer-Interview-Questions): 面向AI工程师的系统化面试题库，涵盖ML基础、LLM、RAG、Agent及33家热门公司真题与实战编码题。
 - [Diffusion_models_tutorial (FilippoMB)](https://github.com/FilippoMB/Diffusion_models_tutorial): 一套完整的扩散模型教程，涵盖理论、从零实现代码、Stable Diffusion 脚本及提示工程指南。
 - [Tensorflow-101 (c1mone)](https://github.com/c1mone/Tensorflow-101): 中文Tensorflow深度学习教程，包含RNN、GAN等15个Jupyter Notebook章节。
-- [AI-Engineer-Interview-Questions (ombharatiya)](https://github.com/ombharatiya/AI-Engineer-Interview-Questions): 面向AI工程师的系统化面试题库，涵盖ML基础、LLM、RAG、Agent及33家热门公司真题与实战编码题。
 - [Neural-Networks-from-Scratch (lionelmessi6410)](https://github.com/lionelmessi6410/Neural-Networks-from-Scratch): 基于NumPy从零构建神经网络的基础教程，涵盖架构、反向传播及优化器实现。
 - [prompt-engineering-skills (treylom)](https://github.com/treylom/prompt-engineering-skills): 涵盖多模型提示词工程策略与实战指南的结构化教学资源
 - [reComputer-Jetson-for-Beginners (Seeed-Projects)](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners): 基于Jetson平台的AI入门课程，涵盖计算机视觉、离线大模型及ROS机器人开发。
@@ -309,30 +309,28 @@
 - [llms-deep-dive-tutorials (springer-llms-deep-dive)](https://github.com/springer-llms-deep-dive/llms-deep-dive-tutorials): 《LLMs: A Deep Dive》官方配套教程，含8章Notebook
 - [python-tutorial-notebooks (dcavar)](https://github.com/dcavar/python-tutorial-notebooks): 印第安纳大学讲师整理的NLP、机器学习与LLM交互式Python教程笔记。
 - [rag-interview-system (ather-techie)](https://github.com/ather-techie/rag-interview-system): 系统化的RAG面试题库与教程，含学习路径、52种架构详解及代码实验。
-- [Langchain-and-Ollama (laxmimerit)](https://github.com/laxmimerit/Langchain-and-Ollama): 基于LangChain和Ollama的本地LLM应用开发实战教程，含多章节Notebook。
 - [codex-claude-code-config (AnastasiyaW)](https://github.com/AnastasiyaW/codex-claude-code-config): 一套针对Claude Code和Codex的AI代理配置系统，涵盖架构原则、钩子及验证工作流
+- [Langchain-and-Ollama (laxmimerit)](https://github.com/laxmimerit/Langchain-and-Ollama): 基于LangChain和Ollama的本地LLM应用开发实战教程，含多章节Notebook。
 - [relataly-public-python-tutorials (flo7up)](https://github.com/flo7up/relataly-public-python-tutorials): 一套结构完整的Python数据科学与AI实践教程集，涵盖机器学习到生成式AI。
 - [AgenticCookBook (microsoft)](https://github.com/microsoft/AgenticCookBook): 微软出品的AI Agent开发指南，基于AutoGen框架提供从入门到实战的系列教程。
 - [genai-for-developers (GoogleCloudPlatform)](https://github.com/GoogleCloudPlatform/genai-for-developers): Google Cloud为开发者提供的生成式AI实战教程，涵盖Gemini集成与Agent开发。
 - [llm-rag-vectordb-python (build-on-aws)](https://github.com/build-on-aws/llm-rag-vectordb-python): 一套关于Amazon Bedrock、LLM提示工程及RAG的Python交互式教程项目
 - [DeepLearningTutorial (Flowingsun007)](https://github.com/Flowingsun007/DeepLearningTutorial): 面向初学者的深度学习CV教程，涵盖经典网络代码实现、论文解读及目标检测资源。
-- [pymovements (pymovements)](https://github.com/pymovements/pymovements): 待人工复核后展示。
-- [semantic-kernel-workshop (Azure-Samples)](https://github.com/Azure-Samples/semantic-kernel-workshop): 待人工复核后展示。
+- [semantic-kernel-workshop (Azure-Samples)](https://github.com/Azure-Samples/semantic-kernel-workshop): 微软开源课程，通过五个模块的笔记本系统讲解语义内核框架、AI智能体及流程框架实战。
 - [AI-Data-Science-Roadmap (erencice)](https://github.com/erencice/AI-Data-Science-Roadmap): 一份为期约64周的系统化AI与数据科学学习路线图，涵盖基础数学至LLM工程。
-- [Claude-PHP-SDK (claude-php)](https://github.com/claude-php/Claude-PHP-SDK): 待人工复核后展示。
-- [dotnet-ai-resources (jmatthiesen)](https://github.com/jmatthiesen/dotnet-ai-resources): 待人工复核后展示。
-- [data-science-on-aws (aws-samples)](https://github.com/aws-samples/data-science-on-aws): 待人工复核后展示。
+- [Claude-PHP-SDK (claude-php)](https://github.com/claude-php/Claude-PHP-SDK): Claude PHP SDK附带17节Agentic AI实战教程
+- [data-science-on-aws (aws-samples)](https://github.com/aws-samples/data-science-on-aws): 基于O'Reilly书籍的AWS生成式AI与数据科学实战课程，含5个部分及Jupyter实操
 - [AcousticsML (RAMshades)](https://github.com/RAMshades/AcousticsML): 面向声学领域的机器学习教程，涵盖从信号处理到深度学习的六章成套 Jupyter Notebook 课程材料。
 - [justin-sun-alan-shao-ai-notes (wousp112)](https://github.com/wousp112/justin-sun-alan-shao-ai-notes): 基于孙宇晨访谈整理的15篇AI应用教程，含工具推荐和Agent提示词。
-- [btp-cap-genai-rag (SAP-samples)](https://github.com/SAP-samples/btp-cap-genai-rag): 待人工复核后展示。
+- [btp-cap-genai-rag (SAP-samples)](https://github.com/SAP-samples/btp-cap-genai-rag): SAP BTP GenAI邮件洞察教程，涵盖RAG集成与LangChain实战部署
 - [scipy-2017-cython-tutorial (kwmsmith)](https://github.com/kwmsmith/scipy-2017-cython-tutorial): 针对 SciPy 会议的 Cython 高级教程，包含从 CPython 底层到性能优化的多章 Jupyter 练习。
 - [AI-roadmap (h9-tec)](https://github.com/h9-tec/AI-roadmap): 面向零基础用户的AI学习路线图，按数学、CS及专业赛道组织免费资源。
 - [Awesome-LLM-Interview (laoshan-song)](https://github.com/laoshan-song/Awesome-LLM-Interview): 系统化的LLM面试知识点笔记，涵盖原理、训练、推理及工程实践，含题库与项目实战。
 - [LLM-GenAI-Transformers-Notebooks (avikumart)](https://github.com/avikumart/LLM-GenAI-Transformers-Notebooks): 涵盖LLM从零构建、微调及RAG的配套教程笔记本
-- [nlp_workshop_odsc_europe20 (dipanjanS)](https://github.com/dipanjanS/nlp_workshop_odsc_europe20): ODSC欧洲会议高级NLP工作坊教程，涵盖基础到深度学习的全流程实践。
 - [zero-to-ai (PavanMudigonda)](https://github.com/PavanMudigonda/zero-to-ai): 免费在线AI/ML课程，含33个阶段950+笔记本，覆盖Python至LLM Agent全流程。
+- [nlp_workshop_odsc_europe20 (dipanjanS)](https://github.com/dipanjanS/nlp_workshop_odsc_europe20): ODSC欧洲会议高级NLP工作坊教程，涵盖基础到深度学习的全流程实践。
 - [tutorials (h2oai)](https://github.com/h2oai/tutorials): H2O.ai官方机器学习与AI自动化工具教程集
-- [python_ml_tutorial (djib2011)](https://github.com/djib2011/python_ml_tutorial): 待人工复核后展示。
+- [python_ml_tutorial (djib2011)](https://github.com/djib2011/python_ml_tutorial): Python数据分析与机器学习完整教程，从零开始，含多章节Notebook。
 - [Eng.-Mohamed-Hammad-AI-Recommendations (AhmedUZaki)](https://github.com/AhmedUZaki/Eng.-Mohamed-Hammad-AI-Recommendations): 基于专家推荐的AI/数据科学自学路线图，按阶段整理书籍与教程。
 - [evalstats (ianarawjo)](https://github.com/ianarawjo/evalstats): AI评估统计工具及教程，含提示词与模型比较指南。
 - [pydata-chicago2016-ml-tutorial (rasbt)](https://github.com/rasbt/pydata-chicago2016-ml-tutorial): PyData芝加哥2016机器学习入门教程，包含幻灯片和代码笔记本。

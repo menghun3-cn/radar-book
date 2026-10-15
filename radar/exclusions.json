@@ -15943,5 +15943,215 @@
     "id": "dataforscience/probability",
     "reason": "education signal too weak (0 readme terms, 0 lesson files)",
     "excludedAt": "2026-10-14T21:18:41.761Z"
+  },
+  {
+    "id": "pymovements/pymovements",
+    "reason": "llm: 该仓库是眼动数据处理工具库，虽有教程但核心为工具，非AI主题课程。",
+    "excludedAt": "2026-10-15T02:12:54.898Z"
+  },
+  {
+    "id": "jmatthiesen/dotnet-ai-resources",
+    "reason": "llm: 该仓库是资源链接清单（awesome list），非成套课程或书籍，不满足结构要求。",
+    "excludedAt": "2026-10-15T02:13:13.930Z"
+  },
+  {
+    "id": "gt-corp/programming-practice",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:33.333Z"
+  },
+  {
+    "id": "c3se/alvis-intro",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:33.598Z"
+  },
+  {
+    "id": "murufeng/awesome-machine-learning",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:33.812Z"
+  },
+  {
+    "id": "theanig/ner-lstm-cnn-pytorch",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:34.053Z"
+  },
+  {
+    "id": "gsa/masteringagenticaisystems_supplementals",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:34.315Z"
+  },
+  {
+    "id": "ligengen/egom2p",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:34.551Z"
+  },
+  {
+    "id": "kaihangshi/ai-for-chemical-engineers_ub",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:34.761Z"
+  },
+  {
+    "id": "puru2901is/aicrashcourse",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:34.976Z"
+  },
+  {
+    "id": "oleksiyrudenko/gha-git-credentials",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:35.219Z"
+  },
+  {
+    "id": "theinfinitydev/techweekly",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:35.485Z"
+  },
+  {
+    "id": "sinanptm/hospital-management-system",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:35.681Z"
+  },
+  {
+    "id": "dr-mushtaq/awesome-python-resources",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:35.877Z"
+  },
+  {
+    "id": "mirzayasirabdullahbaig07/prompt-engineering-toolkit",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:36.062Z"
+  },
+  {
+    "id": "codingforentrepreneurs/super-me-photo-ai-api",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:36.321Z"
+  },
+  {
+    "id": "anil-matcha/ai-voice-agent",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:36.541Z"
+  },
+  {
+    "id": "yingchaojiefeng/promptmagician",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:36.786Z"
+  },
+  {
+    "id": "yhydhx/samaug",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:37.019Z"
+  },
+  {
+    "id": "olcf/ai-training-series",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:37.243Z"
+  },
+  {
+    "id": "kingabzpro/automating-machine-learning-testing",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:37.449Z"
+  },
+  {
+    "id": "creativeinquiry/friendlydockermltutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:37.707Z"
+  },
+  {
+    "id": "gauntlet-aidp/rag-cookbook",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:37.970Z"
+  },
+  {
+    "id": "datacanvasio/lmpm",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:38.184Z"
+  },
+  {
+    "id": "yg42/iptutorials",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:38.532Z"
+  },
+  {
+    "id": "aplpolaris/promptfx",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:38.756Z"
+  },
+  {
+    "id": "genisysai/nlu",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:38.978Z"
+  },
+  {
+    "id": "hardikbansal/fader-networks-tensorflow",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:39.174Z"
+  },
+  {
+    "id": "saaries/cs5489",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:39.382Z"
+  },
+  {
+    "id": "connectry-io/connectrylab-architect-cert-mcp",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:39.674Z"
+  },
+  {
+    "id": "redis-developer/gcp-redis-llm-stack",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:39.927Z"
+  },
+  {
+    "id": "skilltester-ai/skilltester",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:40.147Z"
+  },
+  {
+    "id": "maviccprp/svm",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:40.430Z"
+  },
+  {
+    "id": "jimmyc96/awesome-llm-fm-wireless-communication-networking",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:40.685Z"
+  },
+  {
+    "id": "azure-samples/deepseek-azure-javascript",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:40.910Z"
+  },
+  {
+    "id": "linux-kdevops/kdevops",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:41.154Z"
+  },
+  {
+    "id": "ai2es/waf_ml_tutorial_part2",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:41.421Z"
+  },
+  {
+    "id": "pipidog/keras_to_tensorflow",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:41.622Z"
+  },
+  {
+    "id": "seonghoon-yu/mocov2_pytorch_tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:41.887Z"
+  },
+  {
+    "id": "ydataai/academy",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:42.148Z"
+  },
+  {
+    "id": "blushine/minecraft-gan-city-generator",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:42.437Z"
+  },
+  {
+    "id": "farisology/machinelearningarabic",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-15T02:14:42.653Z"
   }
 ]
