@@ -189,8 +189,8 @@
 - [ms-cookbook (modelscope)](https://github.com/modelscope/ms-cookbook): 面向开发者的开源模型应用实战指南，包含35章完整教程。
 - [learn-low-code-agentic-ai (panaversity)](https://github.com/panaversity/learn-low-code-agentic-ai): 基于n8n和MCP的低代码AI智能体开发课程，含提示工程教程及视频。
 - [machine-learning-research (imteekay)](https://github.com/imteekay/machine-learning-research): 一个包含 Agentic AI 等成套交互式课程和练习的机器学习资料仓库。
-- [AI-Practices (zimingttkx)](https://github.com/zimingttkx/AI-Practices): 一套涵盖从机器学习基础到大模型与智能体系统的全栈AI实战教程，含280+交互笔记。
 - [start-ai-engineering (louisfb01)](https://github.com/louisfb01/start-ai-engineering): 一份面向初学者的全面AI工程入门指南，包含视频、书籍及实战项目
+- [AI-Practices (zimingttkx)](https://github.com/zimingttkx/AI-Practices): 一套涵盖从机器学习基础到大模型与智能体系统的全栈AI实战教程，含280+交互笔记。
 - [hls4ml-tutorial (fastmachinelearning)](https://github.com/fastmachinelearning/hls4ml-tutorial): 一套关于使用hls4ml将机器学习模型部署到FPGA的交互教程，包含从模型训练到硬件综合的完整章节。
 - [machine-learning-repos (recodehive)](https://github.com/recodehive/machine-learning-repos): 收录机器学习理论、数学基础、框架教程及多个实战项目代码的综合性学习资料库。
 - [Python-Data-Science-Handbook (wangyingsm)](https://github.com/wangyingsm/Python-Data-Science-Handbook): Jake Vanderplas著《Python数据科学手册》官方风格中文译本，含完整Notebook课程章节。
@@ -299,8 +299,8 @@
 - [reComputer-Jetson-for-Beginners (Seeed-Projects)](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners): 基于Jetson平台的AI入门课程，涵盖计算机视觉、离线大模型及ROS机器人开发。
 - [llm-course-lecture (NJUDeepEngine)](https://github.com/NJUDeepEngine/llm-course-lecture): 南京大学大语言模型基础课程，含完整讲义、代码Notebook及作业，从零实现LLM核心组件
 - [AILearningGuide (Fazmin)](https://github.com/Fazmin/AILearningGuide): 提供51个互动实验，覆盖从基础ML到LLM微调的完整AI学习路径。
-- [app_generative_ai (jeffheaton)](https://github.com/jeffheaton/app_generative_ai): 华盛顿大学Jeff Heaton的生成式AI课程，含LangChain、RAG及提示工程实战教程。
 - [codex-claude-code-config (AnastasiyaW)](https://github.com/AnastasiyaW/codex-claude-code-config): 一套针对Claude Code和Codex的AI代理配置系统，涵盖架构原则、钩子及验证工作流
+- [app_generative_ai (jeffheaton)](https://github.com/jeffheaton/app_generative_ai): 华盛顿大学Jeff Heaton的生成式AI课程，含LangChain、RAG及提示工程实战教程。
 - [AtomisticSkills (learningmatter-mit)](https://github.com/learningmatter-mit/AtomisticSkills): MIT开发的原子模拟AI代理技能框架，提供层级化教程以自动化材料研究。
 - [gtm (gtm-skills)](https://github.com/gtm-skills/gtm): AI销售Agent工具包，包含教程、MCP服务器和提示词。
 - [kdd2021-tutorial (causal-machine-learning)](https://github.com/causal-machine-learning/kdd2021-tutorial): KDD 2021因果推断与机器学习实战教程，含EconML/CausalML案例。
@@ -318,8 +318,8 @@
 - [DeepLearningTutorial (Flowingsun007)](https://github.com/Flowingsun007/DeepLearningTutorial): 面向初学者的深度学习CV教程，涵盖经典网络代码实现、论文解读及目标检测资源。
 - [semantic-kernel-workshop (Azure-Samples)](https://github.com/Azure-Samples/semantic-kernel-workshop): 微软开源课程，通过五个模块的笔记本系统讲解语义内核框架、AI智能体及流程框架实战。
 - [AI-Data-Science-Roadmap (erencice)](https://github.com/erencice/AI-Data-Science-Roadmap): 一份为期约64周的系统化AI与数据科学学习路线图，涵盖基础数学至LLM工程。
-- [Claude-PHP-SDK (claude-php)](https://github.com/claude-php/Claude-PHP-SDK): Claude PHP SDK附带17节Agentic AI实战教程
 - [justin-sun-alan-shao-ai-notes (wousp112)](https://github.com/wousp112/justin-sun-alan-shao-ai-notes): 基于孙宇晨访谈整理的15篇AI应用教程，含工具推荐和Agent提示词。
+- [Claude-PHP-SDK (claude-php)](https://github.com/claude-php/Claude-PHP-SDK): Claude PHP SDK附带17节Agentic AI实战教程
 - [zero-to-ai (PavanMudigonda)](https://github.com/PavanMudigonda/zero-to-ai): 免费在线AI/ML课程，含33个阶段950+笔记本，覆盖Python至LLM Agent全流程。
 - [data-science-on-aws (aws-samples)](https://github.com/aws-samples/data-science-on-aws): 基于O'Reilly书籍的AWS生成式AI与数据科学实战课程，含5个部分及Jupyter实操
 - [AcousticsML (RAMshades)](https://github.com/RAMshades/AcousticsML): 面向声学领域的机器学习教程，涵盖从信号处理到深度学习的六章成套 Jupyter Notebook 课程材料。
