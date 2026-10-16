@@ -16748,5 +16748,165 @@
     "id": "qwed-ai/qwed-learning",
     "reason": "below 50 stars",
     "excludedAt": "2026-10-15T20:42:51.483Z"
+  },
+  {
+    "id": "mahdikordian/mahdikordian",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-16T02:04:05.308Z"
+  },
+  {
+    "id": "xiaomait/nega",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-16T02:04:06.229Z"
+  },
+  {
+    "id": "tirendazacademy/awesome-data-science-resources",
+    "reason": "llm: 属于资源链接集合(Awesome List)，无成套教程章节，不满足教学性质要求",
+    "excludedAt": "2026-10-16T02:04:12.293Z"
+  },
+  {
+    "id": "creativeguru97/youtube_tutorial",
+    "reason": "llm: 仓库为p5.js创意编程代码合集，属Web/API类视频配套，非AI/ML主题系统性教程书籍。",
+    "excludedAt": "2026-10-16T02:04:24.079Z"
+  },
+  {
+    "id": "acecoooool/mlf-mlt",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-16T02:04:25.137Z"
+  },
+  {
+    "id": "devanshi14malhotra/bibliodrift",
+    "reason": "llm: 该仓库是一个具体的Web应用项目，包含代码实现和部署文档，属于工具而非成套教学课程或书籍。",
+    "excludedAt": "2026-10-16T02:04:29.542Z"
+  },
+  {
+    "id": "akondas/php-grandmaster",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-16T02:04:30.436Z"
+  },
+  {
+    "id": "dataprofessor/python",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-16T02:04:31.388Z"
+  },
+  {
+    "id": "svilupp/awesome-generative-ai-meets-julia-language",
+    "reason": "llm: 该仓库是资源列表，非成套课程，不符合收录条件。",
+    "excludedAt": "2026-10-16T02:04:36.109Z"
+  },
+  {
+    "id": "jihoo-kim/awesome-context-engineering",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-16T02:04:37.083Z"
+  },
+  {
+    "id": "azure-samples/azure-search-sample-data",
+    "reason": "llm: 纯数据资源库，非教学课程或书籍，仅作为示例数据使用",
+    "excludedAt": "2026-10-16T02:05:00.047Z"
+  },
+  {
+    "id": "festvox/festvox",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-16T02:05:01.154Z"
+  },
+  {
+    "id": "arjunprabhulal/adk-vertex-ai-rag-engine",
+    "reason": "llm: 这是生产级RAG工具框架，非教学课程，虽引用教材但本身为代码实现",
+    "excludedAt": "2026-10-16T02:05:17.391Z"
+  },
+  {
+    "id": "donvito/learngo",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-16T02:05:18.405Z"
+  },
+  {
+    "id": "deptofdefense/llms-at-dod",
+    "reason": "archived",
+    "excludedAt": "2026-10-16T02:05:18.730Z"
+  },
+  {
+    "id": "microsoft/aitour-concept-to-creation-ai-studio",
+    "reason": "archived",
+    "excludedAt": "2026-10-16T02:05:18.976Z"
+  },
+  {
+    "id": "getstream/ai-chat-android",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-16T02:05:19.923Z"
+  },
+  {
+    "id": "relai-ai/relai-sdk",
+    "reason": "llm: 该仓库是 AI Agent 开发 SDK 工具库，非教学课程或书籍。",
+    "excludedAt": "2026-10-16T02:05:34.399Z"
+  },
+  {
+    "id": "stratospark/unityimagesynthesistutorial1",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-16T02:05:35.215Z"
+  },
+  {
+    "id": "chsasank/atis.keras",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-16T02:05:36.377Z"
+  },
+  {
+    "id": "jarvis-materials-design/jarvis-tools-notebooks",
+    "reason": "archived",
+    "excludedAt": "2026-10-16T02:05:45.466Z"
+  },
+  {
+    "id": "aws-samples/aws-healthomics-tutorials",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-16T02:06:27.522Z"
+  },
+  {
+    "id": "hfgwygey/yu-ai-agent",
+    "reason": "llm: 实质是可运行的Spring Boot应用及安装指南，非成套教学章节材料。",
+    "excludedAt": "2026-10-16T02:06:36.207Z"
+  },
+  {
+    "id": "shadowhackrs/prompt-generating",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-16T02:06:37.153Z"
+  },
+  {
+    "id": "aws-samples/amazon-elasticache-samples",
+    "reason": "education signal too weak (2 readme terms, 1 lesson files)",
+    "excludedAt": "2026-10-16T02:06:38.222Z"
+  },
+  {
+    "id": "datarobot-community/ai-accelerators",
+    "reason": "llm: 属于生产级工具包和代码模板，非教学课程或成套教程。",
+    "excludedAt": "2026-10-16T02:06:47.969Z"
+  },
+  {
+    "id": "ryanshrott/saas",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-16T02:07:15.625Z"
+  },
+  {
+    "id": "parallel75/microsoft_autogen_tutorial",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-16T02:07:16.642Z"
+  },
+  {
+    "id": "gerrito333/mousehunter-edge",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-16T02:07:17.607Z"
+  },
+  {
+    "id": "pythonontheplane123/llm_course_part_1",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-16T02:07:18.384Z"
+  },
+  {
+    "id": "richardwilkes/gcs_master_library",
+    "reason": "llm: 该仓库是GURPS角色扮演游戏的角色属性数据库，属于游戏辅助工具，并非AI或机器学习教学内容。",
+    "excludedAt": "2026-10-16T02:07:24.776Z"
+  },
+  {
+    "id": "magdalenakuhn17/awesome-cheap-llms",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-16T02:07:25.848Z"
   }
 ]
