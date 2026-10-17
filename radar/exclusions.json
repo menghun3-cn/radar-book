@@ -17703,5 +17703,135 @@
     "id": "gillesvandevyver/echogains",
     "reason": "below 50 stars",
     "excludedAt": "2026-10-17T01:59:10.201Z"
+  },
+  {
+    "id": "uc-r/uc-r.github.io",
+    "reason": "no readable README",
+    "excludedAt": "2026-10-17T10:03:43.163Z"
+  },
+  {
+    "id": "microsoft-foundry/ai-tutorials",
+    "reason": "archived",
+    "excludedAt": "2026-10-17T10:03:43.434Z"
+  },
+  {
+    "id": "deffro/data-science-portfolio",
+    "reason": "llm: 属于个人作品集，包含散落的教程与实战项目，非成套课程或书籍结构",
+    "excludedAt": "2026-10-17T10:03:52.294Z"
+  },
+  {
+    "id": "qualcomm/cloud-ai-sdk",
+    "reason": "llm: 该仓库属于SDK工具包和模型示例集，包含零散教程，缺乏成套课程体系。",
+    "excludedAt": "2026-10-17T10:03:58.663Z"
+  },
+  {
+    "id": "salu133445/ismir2019tutorial",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-17T10:03:59.314Z"
+  },
+  {
+    "id": "apachecn/learning-tf-zh",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-17T10:04:08.488Z"
+  },
+  {
+    "id": "eugeniaring/medium-articles",
+    "reason": "llm: 虽涉及AI主题且有代码，但本质是博客文章归档链接，缺乏成套结构化课程或书籍体系。",
+    "excludedAt": "2026-10-17T10:04:25.406Z"
+  },
+  {
+    "id": "huffon/nlp-various-tutorials",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-17T10:04:35.544Z"
+  },
+  {
+    "id": "isikdogan/deep_learning_tutorials",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-17T10:04:36.311Z"
+  },
+  {
+    "id": "apachecn/hackcv-translate",
+    "reason": "archived",
+    "excludedAt": "2026-10-17T10:04:41.338Z"
+  },
+  {
+    "id": "microsoft/aksdeploymenttutorial",
+    "reason": "archived",
+    "excludedAt": "2026-10-17T10:04:48.739Z"
+  },
+  {
+    "id": "tsmatsuz/azure-databricks-exercise",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-17T10:04:49.423Z"
+  },
+  {
+    "id": "vocab-apps/anki-awesome-tts",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files); no AI/ML signal",
+    "excludedAt": "2026-10-17T10:04:50.194Z"
+  },
+  {
+    "id": "microsoft/aitour-exploring-cutting-edge-models",
+    "reason": "archived",
+    "excludedAt": "2026-10-17T10:04:50.384Z"
+  },
+  {
+    "id": "panaverse/university-gpt",
+    "reason": "llm: 仓库核心为微服务源码与营销页，非成套教学材料。",
+    "excludedAt": "2026-10-17T10:04:55.312Z"
+  },
+  {
+    "id": "tony607/mmdetection_object_detection_demo",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-17T10:05:00.274Z"
+  },
+  {
+    "id": "mlabonne/mlabonne",
+    "reason": "llm: 这是个人主页而非课程目录，仅链接到外部书籍和工具，缺乏成套章节材料。",
+    "excludedAt": "2026-10-17T10:05:04.325Z"
+  },
+  {
+    "id": "hereismari/deeplearning",
+    "reason": "llm: 仅为个人学习链接汇总，非成套教材或课程，属资源索引而非教学内容。",
+    "excludedAt": "2026-10-17T10:05:25.293Z"
+  },
+  {
+    "id": "krisograbek/resources-ai-engineers",
+    "reason": "llm: 该仓库为外部资源链接汇总清单，非自身成套教程、书籍或课程材料，属于导航索引而非教学内容。",
+    "excludedAt": "2026-10-17T10:05:34.356Z"
+  },
+  {
+    "id": "apachecn/ml-for-humans-zh",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-17T10:05:45.864Z"
+  },
+  {
+    "id": "sinanuozdemir/oreilly-llm-rl-alignment",
+    "reason": "education signal too weak (2 readme terms, 2 lesson files)",
+    "excludedAt": "2026-10-17T10:05:51.488Z"
+  },
+  {
+    "id": "polyaxon/polyaxon-examples",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-17T10:06:04.467Z"
+  },
+  {
+    "id": "stvlynn/flashcard",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-17T10:06:05.208Z"
+  },
+  {
+    "id": "jmcrafter26/awesome-ai-tools",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-17T10:06:21.845Z"
+  },
+  {
+    "id": "aidancooper/shap-analysis-guide",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-17T10:06:42.363Z"
+  },
+  {
+    "id": "ryota-kawamura/building-systems-with-the-chatgpt-api",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-17T10:06:54.886Z"
   }
 ]
