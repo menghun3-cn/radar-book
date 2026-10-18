@@ -18633,5 +18633,165 @@
     "id": "olehxch/ai",
     "reason": "below 50 stars",
     "excludedAt": "2026-10-18T10:15:26.489Z"
+  },
+  {
+    "id": "evolink-ai/awesome-gpt-image-2-api-prompts",
+    "reason": "llm: 内容主要是GPT-Image-2提示词案例集合，属于素材库而非系统性的AI教学课程或书籍结构。",
+    "excludedAt": "2026-10-18T15:05:18.408Z"
+  },
+  {
+    "id": "small-js/smalljs",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-18T15:05:19.762Z"
+  },
+  {
+    "id": "snaildev/github-hot-hub",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-18T15:05:21.014Z"
+  },
+  {
+    "id": "gongdelu/e-commerce-customer-service-robot",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-18T15:05:21.926Z"
+  },
+  {
+    "id": "nobinobita76/spokengpt",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-18T15:05:22.886Z"
+  },
+  {
+    "id": "avastmick/google-generative-ai-rs",
+    "reason": "archived",
+    "excludedAt": "2026-10-18T15:05:23.112Z"
+  },
+  {
+    "id": "yurakuratov/t5-experiments",
+    "reason": "llm: 仓库主要是实验代码和训练脚本，缺乏成套教程章节，不符合教学书籍/课程收录标准。",
+    "excludedAt": "2026-10-18T15:05:30.950Z"
+  },
+  {
+    "id": "seeed-studio/oshw-jetson-series",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-18T15:05:32.718Z"
+  },
+  {
+    "id": "aaalexlit/faq-slack-bot",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-18T15:05:33.799Z"
+  },
+  {
+    "id": "theshadow29/fai-notes",
+    "reason": "llm: 内容零散，未成体系，且多为个人笔记与实验，非完整教学课程。",
+    "excludedAt": "2026-10-18T15:05:49.238Z"
+  },
+  {
+    "id": "tobiasmue91/tobiasmue91.github.io",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-18T15:05:50.246Z"
+  },
+  {
+    "id": "dmkalash/mailru_llm_course",
+    "reason": "education signal too weak (0 readme terms, 2 lesson files)",
+    "excludedAt": "2026-10-18T15:05:51.405Z"
+  },
+  {
+    "id": "xuwd11/dropout_tutorial_in_pytorch",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-18T15:05:52.390Z"
+  },
+  {
+    "id": "drshahizan/generative-ai-playground",
+    "reason": "llm: 仅为链接聚合列表，缺乏成套教材或结构化课程章节，不符合审核标准。",
+    "excludedAt": "2026-10-18T15:06:16.857Z"
+  },
+  {
+    "id": "kennethanceyer/awesome-llmops",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-18T15:06:18.003Z"
+  },
+  {
+    "id": "jordan-pierce/coralnet-toolbox",
+    "reason": "llm: 主要软件工具，而非教学课程",
+    "excludedAt": "2026-10-18T15:06:25.238Z"
+  },
+  {
+    "id": "chaosreactor/awesome-generative-ai",
+    "reason": "llm: 属于资源聚合列表（Awesome List），非系统性教程或书籍，不符合教学材料要求。",
+    "excludedAt": "2026-10-18T15:06:38.719Z"
+  },
+  {
+    "id": "themlguy-tf/generative-ai",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-18T15:06:39.711Z"
+  },
+  {
+    "id": "climatechange-ai-tutorials/nlp-policy-analysis",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-18T15:06:40.732Z"
+  },
+  {
+    "id": "microsoft/aischooltutorials",
+    "reason": "archived",
+    "excludedAt": "2026-10-18T15:06:41.025Z"
+  },
+  {
+    "id": "feifei-aidev/ai-script-generation-skill",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-18T15:06:42.043Z"
+  },
+  {
+    "id": "venkataravuri/ai-ml",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-18T15:06:59.825Z"
+  },
+  {
+    "id": "caoaolong/llm-teach",
+    "reason": "education signal too weak (1 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-18T15:07:09.487Z"
+  },
+  {
+    "id": "upul/machine-learning-algorithms-from-scratch",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-18T15:07:10.657Z"
+  },
+  {
+    "id": "iiisthu/ailab",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-18T15:07:11.597Z"
+  },
+  {
+    "id": "kylinc/awesome-awesome-llm",
+    "reason": "education signal too weak (0 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-18T15:07:12.616Z"
+  },
+  {
+    "id": "nielsrogge/awesome-huggingface",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-18T15:07:12.844Z"
+  },
+  {
+    "id": "aniruddha-tapas/how-to-use-syntaxnet",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-18T15:07:13.050Z"
+  },
+  {
+    "id": "wangz10/class_imbalance",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-18T15:07:13.275Z"
+  },
+  {
+    "id": "burton2000/awesome-deeplearning-tutorials",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-18T15:07:13.529Z"
+  },
+  {
+    "id": "krishnaik06/build-gen-ai-with-google-gemini",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-18T15:07:13.800Z"
+  },
+  {
+    "id": "sqlshep/openai",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-18T15:07:14.056Z"
   }
 ]
