@@ -179,9 +179,9 @@
 - [Comprehensive_DL_Tutor (PeiranLi0930)](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor): 从零基础到精通的深度学习和机器学习教程，涵盖科学Python库及sklearn核心概念。
 - [ai-coding-guide (jnMetaCode)](https://github.com/jnMetaCode/ai-coding-guide): 涵盖10款AI编程工具实战技巧、配置模板及工作流设计的系统性中文教程。
 - [Machine-Learning-Roadmap (shanmukh05)](https://github.com/shanmukh05/Machine-Learning-Roadmap): 机器学习入门至进阶资源地图，涵盖课程、书籍及工具库
+- [designing-real-world-ai-agents-workshop (iusztinpaul)](https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop): 构建多智能体系统的动手工作坊，含Deep Research与写作工作流代码及视频教程。
 - [Awesome-AGI (ArronAI007)](https://github.com/ArronAI007/Awesome-AGI): 系统整理LLM基础理论、微调技术、提示工程及部署应用的AI学习资源库。
 - [aipath (buynao)](https://github.com/buynao/aipath): 一套面向零基础、包含30节交互式演示与练习的中英文双语AI通识课程。
-- [designing-real-world-ai-agents-workshop (iusztinpaul)](https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop): 构建多智能体系统的动手工作坊，含Deep Research与写作工作流代码及视频教程。
 - [dl4j-tutorials (sjsdfg)](https://github.com/sjsdfg/dl4j-tutorials): Deeplearning4j（DL4J）Java深度学习配套视频教程及分章节学习指南
 - [tensorflow-eager-tutorials (madalinabuzau)](https://github.com/madalinabuzau/tensorflow-eager-tutorials): 基于TensorFlow Eager模式的深度学习教程，涵盖基础网络、CNN、RNN及数据管道构建。
 - [python-for-genai (vchandu111)](https://github.com/vchandu111/python-for-genai): 面向生成式AI学习者的6天Python基础结构化教程，包含笔记、练习和微型项目。
@@ -283,9 +283,9 @@
 - [intro-to-intelligent-apps (Azure)](https://github.com/Azure/intro-to-intelligent-apps): 微软Azure官方推出的构建智能应用与LLM集成实战工作坊，含详细练习
 - [gans-from-theory-to-production (zurutech)](https://github.com/zurutech/gans-from-theory-to-production): 从理论到生产环境的深度GAN教程，包含TF实现与部署
 - [jetson-ai-lab (NVIDIA-AI-IOT)](https://github.com/NVIDIA-AI-IOT/jetson-ai-lab): NVIDIA官方Jetson边缘AI教程库，涵盖LLM、VLM及生成模型本地部署实践。
+- [AILearningGuide (Fazmin)](https://github.com/Fazmin/AILearningGuide): 提供51个互动实验，覆盖从基础ML到LLM微调的完整AI学习路径。
 - [intelligent-app-workshop (Azure)](https://github.com/Azure/intelligent-app-workshop): 基于Azure Copilot栈的成套AI应用开发教学工作坊，含架构与实操。
 - [Masterclass-LLMs-for-Data-Science (avvorstenbosch)](https://github.com/avvorstenbosch/Masterclass-LLMs-for-Data-Science): 面向数据科学家的LLM大师班，含提示工程、采样、NLP及RAG实操练习。
-- [AILearningGuide (Fazmin)](https://github.com/Fazmin/AILearningGuide): 提供51个互动实验，覆盖从基础ML到LLM微调的完整AI学习路径。
 - [tutorial (SalvatoreRa)](https://github.com/SalvatoreRa/tutorial): 面向 AI、机器学习和数据科学的教程合集，覆盖计算机视觉、NLP 与生物医学案例，配套 Python/R 与 Notebook。
 - [claude-code-handbook (ThamJiaHe)](https://github.com/ThamJiaHe/claude-code-handbook): Claude提示词工程与Agent开发综合教程，含多章节指南和实战模板。
 - [best-ai-and-llm-engineering-resource (javabuddy)](https://github.com/javabuddy/best-ai-and-llm-engineering-resource): 一份涵盖AI/LLM书籍、课程、项目及系统设计的综合学习资源列表。
@@ -370,7 +370,6 @@
 - [ecommerce-ai-skills (kangise)](https://github.com/kangise/ecommerce-ai-skills): 面向跨境电商的AI知识库，含69章教程、878个提示词及Agent技能包，支持多语言阅读与安装。
 - [OpenAI-Assistants-Template (pranavgupta2603)](https://github.com/pranavgupta2603/OpenAI-Assistants-Template): 基于OpenAI Assistant API构建智能对话助手的实战教程，含代码示例与最佳实践
 - [ai-research-program (dswh)](https://github.com/dswh/ai-research-program): 涵盖10大支柱的AI研究学习路径，包含详细章节、资源与项目要求。
-- [geo-doctor (Fangx-AI)](https://github.com/Fangx-AI/geo-doctor): 一个将生成式引擎优化流程转化为系统化八步课程的工具，附带详细实操手册。
 - [aaron (jakobap)](https://github.com/jakobap/aaron): 基于Genkit和GCP构建自定义LLM深度研究助手的分步挑战实验室，涵盖提示工程、RAG及可观测性。
 - [contextual-engineering-guide (FareedKhan-dev)](https://github.com/FareedKhan-dev/contextual-engineering-guide): 基于 LangGraph 的 AI Agent 上下文工程实战教程
 - [tutorials (chainer)](https://github.com/chainer/tutorials): 包含 Python、数学及深度学习等模块的完整交互式 Chainer 课程。
@@ -401,6 +400,7 @@
 - [dnndk-pynqz2 (wutianze)](https://github.com/wutianze/dnndk-pynqz2): PYNQ-Z2平台上的深度学习教程，涵盖MNIST、ResNet和YOLO模型的部署与优化
 - [vibe-coding-with-base44 (cporter202)](https://github.com/cporter202/vibe-coding-with-base44): 面向零代码用户的Base44 AI应用构建实战教程，含完整课程章节
 - [chatGPT-Prompt-Engineering-for-Developers (ksm26)](https://github.com/ksm26/chatGPT-Prompt-Engineering-for-Developers): DeepLearning.AI官方ChatGPT提示工程课程，含完整Notebook章节与实战练习。
+- [geo-doctor (Fangx-AI)](https://github.com/Fangx-AI/geo-doctor): 一个将生成式引擎优化流程转化为系统化八步课程的工具，附带详细实操手册。
 - [XAI-Tutorials (HelmholtzAI-Consultants-Munich)](https://github.com/HelmholtzAI-Consultants-Munich/XAI-Tutorials): 赫尔姆霍兹AI顾问提供的可解释AI互动教程，涵盖SHAP、Grad-CAM等方法的理论与实操。
 - [ml.recipes (JesperDramsch)](https://github.com/JesperDramsch/ml.recipes): 一套关于提升机器学习科研可复现性的实战教程。
 - [Foundry_Toolkit_Samples (Azure-Samples)](https://github.com/Azure-Samples/Foundry_Toolkit_Samples): 一套基于 VS Code 扩展的教学工作坊，通过分步模块指导开发者利用 Foundry Toolkit 构建 AI 智能体。
