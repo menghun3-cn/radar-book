@@ -20793,5 +20793,205 @@
     "id": "patrickloeber/patrickloeber",
     "reason": "below 50 stars",
     "excludedAt": "2026-10-21T02:24:06.490Z"
+  },
+  {
+    "id": "llm-coding/semantic-anchors",
+    "reason": "education signal too weak (1 readme terms, 2 lesson files)",
+    "excludedAt": "2026-10-21T11:01:51.711Z"
+  },
+  {
+    "id": "enkrateialucca/oreilly-custom-gpt",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:52.113Z"
+  },
+  {
+    "id": "eon01/llmpromptengineeringfordevelopersfiles",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:52.401Z"
+  },
+  {
+    "id": "ai-in-pm/pathrag",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:52.785Z"
+  },
+  {
+    "id": "talegari/statslearningnotes",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:53.040Z"
+  },
+  {
+    "id": "jgangini/oracle-ai-accelerator",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:53.316Z"
+  },
+  {
+    "id": "arize-ai/tutorials_python",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:53.610Z"
+  },
+  {
+    "id": "anshajk/python-frameworks",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:53.876Z"
+  },
+  {
+    "id": "sktime/sktime-workshops",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:54.169Z"
+  },
+  {
+    "id": "lsjsj92/airflow_tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:54.473Z"
+  },
+  {
+    "id": "hahnnz/caffe_tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:54.748Z"
+  },
+  {
+    "id": "afagarap/opencv-python-training",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:55.036Z"
+  },
+  {
+    "id": "khanx169/hal_tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:55.297Z"
+  },
+  {
+    "id": "microsoft/build25-lab324",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:55.593Z"
+  },
+  {
+    "id": "jaygaha/building-with-the-claude-api",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:55.833Z"
+  },
+  {
+    "id": "samugit83/ai-superagent",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:56.061Z"
+  },
+  {
+    "id": "fnallpc/machine-learning-das",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:56.321Z"
+  },
+  {
+    "id": "tamoghna-saha/python_tutorials_notebook",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:56.571Z"
+  },
+  {
+    "id": "mselimata/tutorials",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:56.804Z"
+  },
+  {
+    "id": "omarsar/nlp_with_tensorflow",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:57.111Z"
+  },
+  {
+    "id": "subham-maity/docker_tutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:57.382Z"
+  },
+  {
+    "id": "murufeng/deep-learning",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:57.613Z"
+  },
+  {
+    "id": "dongjunlee/deeplearning-notebooks",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:57.859Z"
+  },
+  {
+    "id": "projectedanx/pew",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:58.119Z"
+  },
+  {
+    "id": "lecoinstat/formationpromptengineering",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:58.369Z"
+  },
+  {
+    "id": "uttam-grade-mck/llm-large-language-models",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:58.654Z"
+  },
+  {
+    "id": "skooter500/ge1-2024",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:58.891Z"
+  },
+  {
+    "id": "usfca-msds/msds-631-genai",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:59.176Z"
+  },
+  {
+    "id": "machine-learning-tokyo/edge-ai-tutorials",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:59.515Z"
+  },
+  {
+    "id": "hydrogo/da_and_ml_in_hydrology",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:01:59.755Z"
+  },
+  {
+    "id": "smarttensors/smarttensorstutorials.jl",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:02:00.032Z"
+  },
+  {
+    "id": "aurelio-amerio/techytok-examples",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:02:00.330Z"
+  },
+  {
+    "id": "nauyan/pytorch-distributed-tutorials",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:02:00.598Z"
+  },
+  {
+    "id": "qiyuantian/sdndti",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:02:00.880Z"
+  },
+  {
+    "id": "aws-samples/prompt-engineering-quest-workshop",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:02:01.237Z"
+  },
+  {
+    "id": "dgarcia-eu/sillm",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:02:01.462Z"
+  },
+  {
+    "id": "dimopep/grpo-speedrun-open",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:02:01.750Z"
+  },
+  {
+    "id": "daphnei/gen-ai-tutorials",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:02:02.002Z"
+  },
+  {
+    "id": "climatechange-ai-tutorials/fourcastnet",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:02:02.328Z"
+  },
+  {
+    "id": "kenneth-liao/crm-agent",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-21T11:02:02.611Z"
   }
 ]

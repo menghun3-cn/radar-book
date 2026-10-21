@@ -155,8 +155,8 @@
 - [vertex-ai-samples (GoogleCloudPlatform)](https://github.com/GoogleCloudPlatform/vertex-ai-samples): Google Cloud Vertex AI官方示例仓库，提供机器学习与生成式AI的成套Notebook教程及代码。
 - [get-started-with-JAX (gordicaleksa)](https://github.com/gordicaleksa/get-started-with-JAX): JAX与Flax从零开始的系列教程，含视频及Notebook。
 - [learn-generative-ai (panaverse)](https://github.com/panaverse/learn-generative-ai): 面向开发者的生成式AI云端应用工程课程，涵盖OpenAI、LangChain等实战。
-- [sammo (microsoft)](https://github.com/microsoft/sammo): 微软出品的SAMMO库教程，通过Notebook系统讲解提示工程与优化。
 - [agent-interview-hub (Zchary1106)](https://github.com/Zchary1106/agent-interview-hub): 面向AI Agent工程师的面试准备知识库，含16周路线图、300+题解及6个实操项目。
+- [sammo (microsoft)](https://github.com/microsoft/sammo): 微软出品的SAMMO库教程，通过Notebook系统讲解提示工程与优化。
 - [Trace (microsoft)](https://github.com/microsoft/Trace): Microsoft推出的AI Agent端到端生成式优化工具，提供从基础到高级的成套教程。
 - [miyagi (Azure-Samples)](https://github.com/Azure-Samples/miyagi): 基于微软Copilot栈的自导式AI应用开发工作坊，含提示工程与Agent教程。
 - [mlops-coding-course (MLOps-Courses)](https://github.com/MLOps-Courses/mlops-coding-course): MLOps Coding Course 的工程化教程，聚焦生产级机器学习项目的实践方法与可运行代码示例。
@@ -170,8 +170,8 @@
 - [awesome-r-learning-resources (iamericfletcher)](https://github.com/iamericfletcher/awesome-r-learning-resources): 这是一个整理 R 语言学习资料的项目，包含课程、书籍、博客和社区资源链接。
 - [free-ai-tips (business-science)](https://github.com/business-science/free-ai-tips): Business Science提供的免费每周AI/ML实战教程，涵盖生成式AI、LLM及数据分析Agent开发。
 - [cs329s-ml-deployment-tutorial (mrdbourke)](https://github.com/mrdbourke/cs329s-ml-deployment-tutorial): 斯坦福CS329s机器学习模型部署教程配套代码，涵盖GCP与Docker实践
-- [data-science-your-way (jadianes)](https://github.com/jadianes/data-science-your-way): 一个对比R和Python的数据科学教程系列，涵盖数据框、探索性分析、降维、聚类及情感分析等核心主题。
 - [ai-business-skills (minhnv0807)](https://github.com/minhnv0807/ai-business-skills): 双语 AI 营销技能教程，包含 144 个 Agent 技能、19 个工作流及营销思维知识章节。
+- [data-science-your-way (jadianes)](https://github.com/jadianes/data-science-your-way): 一个对比R和Python的数据科学教程系列，涵盖数据框、探索性分析、降维、聚类及情感分析等核心主题。
 - [robot-learning-tutorial (fracapuano)](https://github.com/fracapuano/robot-learning-tutorial): 一套结合代码示例的机器人学习教程，涵盖经典控制、强化学习及模仿学习。
 - [human-skill-tree (24kchengYe)](https://github.com/24kchengYe/human-skill-tree): 基于认知科学的AI教学技能树，涵盖K-12至职场全阶段学习路径
 - [ai_mock_interviews (adrianhajdin)](https://github.com/adrianhajdin/ai_mock_interviews): 基于Next.js和Vapi的AI模拟面试平台教程代码库。
@@ -205,8 +205,8 @@
 - [Easy-deep-learning-with-Keras (buomsoo-kim)](https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras): 基于Keras的深度学习入门教程，涵盖MLP、CNN、RNN及无监督学习等章节
 - [TensorFlow-Tutorials-Chinese (Hvass-Labs)](https://github.com/Hvass-Labs/TensorFlow-Tutorials-Chinese): Hvass-Labs TensorFlow中文教程，包含23章从线性模型到NLP的深度交互练习。
 - [llms (IbrahimSobh)](https://github.com/IbrahimSobh/llms): 涵盖LLM理论、GPT/BERT实践及RAG的交互式教程
-- [Learn-Prompt-Hacking (TrustAI-laboratory)](https://github.com/TrustAI-laboratory/Learn-Prompt-Hacking): 综合性提示词工程与LLM安全教程，含基础到攻击实战
 - [RNA-FM (ml4bio)](https://github.com/ml4bio/RNA-FM): RNA-FM模型官方教程库，涵盖从环境配置到UTR功能预测模型实现的完整学习路径。
+- [Learn-Prompt-Hacking (TrustAI-laboratory)](https://github.com/TrustAI-laboratory/Learn-Prompt-Hacking): 综合性提示词工程与LLM安全教程，含基础到攻击实战
 - [Kind-PyTorch-Tutorial (GunhoChoi)](https://github.com/GunhoChoi/Kind-PyTorch-Tutorial): 面向初学者的PyTorch系统性教程，包含12个章节，涵盖张量、自动求导、CNN及GAN等内容。
 - [prompt-engineering-with-anthropic-claude-v-3 (aws-samples)](https://github.com/aws-samples/prompt-engineering-with-anthropic-claude-v-3): Anthropic Claude 3 提示工程官方交互式教程，含 9 章课程、练习及高级附录。
 - [agentic-ai-engineering (agenticloops-ai)](https://github.com/agenticloops-ai/agentic-ai-engineering): 一套从零构建AI Agent的实战教程，覆盖LLM调用、提示工程、Agent循环及评估测试。
@@ -280,10 +280,10 @@
 - [AILearningGuide (Fazmin)](https://github.com/Fazmin/AILearningGuide): 提供51个互动实验，覆盖从基础ML到LLM微调的完整AI学习路径。
 - [aitutor (naorpeled)](https://github.com/naorpeled/aitutor): 终端交互式AI开发教程，涵盖18节从入门到高级的LLM与Agent实操课程
 - [codex-claude-code-config (AnastasiyaW)](https://github.com/AnastasiyaW/codex-claude-code-config): 一套针对Claude Code和Codex的AI代理配置系统，涵盖架构原则、钩子及验证工作流
+- [jetson-ai-lab (NVIDIA-AI-IOT)](https://github.com/NVIDIA-AI-IOT/jetson-ai-lab): NVIDIA官方Jetson边缘AI教程库，涵盖LLM、VLM及生成模型本地部署实践。
 - [ai-agents (viktoriasemaan)](https://github.com/viktoriasemaan/ai-agents): 一份基于AWS Bedrock构建AI解决方案架构师智能体的实战教程，涵盖RAG、IaC生成及成本估算。
 - [intro-to-intelligent-apps (Azure)](https://github.com/Azure/intro-to-intelligent-apps): 微软Azure官方推出的构建智能应用与LLM集成实战工作坊，含详细练习
 - [gans-from-theory-to-production (zurutech)](https://github.com/zurutech/gans-from-theory-to-production): 从理论到生产环境的深度GAN教程，包含TF实现与部署
-- [jetson-ai-lab (NVIDIA-AI-IOT)](https://github.com/NVIDIA-AI-IOT/jetson-ai-lab): NVIDIA官方Jetson边缘AI教程库，涵盖LLM、VLM及生成模型本地部署实践。
 - [intelligent-app-workshop (Azure)](https://github.com/Azure/intelligent-app-workshop): 基于Azure Copilot栈的成套AI应用开发教学工作坊，含架构与实操。
 - [Masterclass-LLMs-for-Data-Science (avvorstenbosch)](https://github.com/avvorstenbosch/Masterclass-LLMs-for-Data-Science): 面向数据科学家的LLM大师班，含提示工程、采样、NLP及RAG实操练习。
 - [tutorial (SalvatoreRa)](https://github.com/SalvatoreRa/tutorial): 面向 AI、机器学习和数据科学的教程合集，覆盖计算机视觉、NLP 与生物医学案例，配套 Python/R 与 Notebook。
@@ -299,8 +299,8 @@
 - [Diffusion_models_tutorial (FilippoMB)](https://github.com/FilippoMB/Diffusion_models_tutorial): 一套完整的扩散模型教程，涵盖理论、从零实现代码、Stable Diffusion 脚本及提示工程指南。
 - [Tensorflow-101 (c1mone)](https://github.com/c1mone/Tensorflow-101): 中文Tensorflow深度学习教程，包含RNN、GAN等15个Jupyter Notebook章节。
 - [Neural-Networks-from-Scratch (lionelmessi6410)](https://github.com/lionelmessi6410/Neural-Networks-from-Scratch): 基于NumPy从零构建神经网络的基础教程，涵盖架构、反向传播及优化器实现。
-- [reComputer-Jetson-for-Beginners (Seeed-Projects)](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners): 基于Jetson平台的AI入门课程，涵盖计算机视觉、离线大模型及ROS机器人开发。
 - [llm-course-lecture (NJUDeepEngine)](https://github.com/NJUDeepEngine/llm-course-lecture): 南京大学大语言模型基础课程，含完整讲义、代码Notebook及作业，从零实现LLM核心组件
+- [reComputer-Jetson-for-Beginners (Seeed-Projects)](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners): 基于Jetson平台的AI入门课程，涵盖计算机视觉、离线大模型及ROS机器人开发。
 - [AtomisticSkills (learningmatter-mit)](https://github.com/learningmatter-mit/AtomisticSkills): MIT开发的原子模拟AI代理技能框架，提供层级化教程以自动化材料研究。
 - [app_generative_ai (jeffheaton)](https://github.com/jeffheaton/app_generative_ai): 华盛顿大学Jeff Heaton的生成式AI课程，含LangChain、RAG及提示工程实战教程。
 - [gtm (gtm-skills)](https://github.com/gtm-skills/gtm): AI销售Agent工具包，包含教程、MCP服务器和提示词。
@@ -317,6 +317,7 @@
 - [AgenticCookBook (microsoft)](https://github.com/microsoft/AgenticCookBook): 微软出品的AI Agent开发指南，基于AutoGen框架提供从入门到实战的系列教程。
 - [genai-for-developers (GoogleCloudPlatform)](https://github.com/GoogleCloudPlatform/genai-for-developers): Google Cloud为开发者提供的生成式AI实战教程，涵盖Gemini集成与Agent开发。
 - [llm-rag-vectordb-python (build-on-aws)](https://github.com/build-on-aws/llm-rag-vectordb-python): 一套关于Amazon Bedrock、LLM提示工程及RAG的Python交互式教程项目
+- [geo-doctor (Fangx-AI)](https://github.com/Fangx-AI/geo-doctor): 一个将生成式引擎优化流程转化为系统化八步课程的工具，附带详细实操手册。
 - [DeepLearningTutorial (Flowingsun007)](https://github.com/Flowingsun007/DeepLearningTutorial): 面向初学者的深度学习CV教程，涵盖经典网络代码实现、论文解读及目标检测资源。
 - [zero-to-ai (PavanMudigonda)](https://github.com/PavanMudigonda/zero-to-ai): 免费在线AI/ML课程，含33个阶段950+笔记本，覆盖Python至LLM Agent全流程。
 - [semantic-kernel-workshop (Azure-Samples)](https://github.com/Azure-Samples/semantic-kernel-workshop): 微软开源课程，通过五个模块的笔记本系统讲解语义内核框架、AI智能体及流程框架实战。
@@ -361,7 +362,6 @@
 - [llmops-duke-aipi (alfredodeza)](https://github.com/alfredodeza/llmops-duke-aipi): 杜克大学LLMOps课程官方大纲，涵盖12周从基础到部署的完整教学内容。
 - [production-ready-data-science-code (khuyentran1401)](https://github.com/khuyentran1401/production-ready-data-science-code): 配套书籍的生产级数据科学代码示例，涵盖版本控制、测试、CI/CD及部署实践
 - [gen-ai-101 (oleeai)](https://github.com/oleeai/gen-ai-101): GPT-4o/5模型Node.js实战入门，含多轮对话、流式响应及编程助手评估任务
-- [geo-doctor (Fangx-AI)](https://github.com/Fangx-AI/geo-doctor): 一个将生成式引擎优化流程转化为系统化八步课程的工具，附带详细实操手册。
 - [keras-tutorial (jfsantos)](https://github.com/jfsantos/keras-tutorial): 基于Jupyter Notebook的Keras深度学习基础教程，涵盖前馈、卷积及循环网络
 - [developers-guide-to-ai (jorshali)](https://github.com/jorshali/developers-guide-to-ai): No Starch Press 出版的 AI 开发指南书籍配套代码，涵盖 LLM 应用、提示词、RAG、微调及 Agent 系统实战。
 - [ecommerce-ai-skills (kangise)](https://github.com/kangise/ecommerce-ai-skills): 面向跨境电商的AI知识库，含69章教程、878个提示词及Agent技能包，支持多语言阅读与安装。
@@ -433,17 +433,17 @@
 - [openclawnet (elbruno)](https://github.com/elbruno/openclawnet): 基于.NET 10的AI Agent平台分4节Reactor直播课程及配套实战材料
 - [genai-for-dotnet (mehmetozkaya)](https://github.com/mehmetozkaya/genai-for-dotnet): 基于.NET的GenAI实战课程代码，涵盖聊天、RAG及向量搜索等七个章节项目。
 - [awesome-agent-evolution (Shiyao-Huang)](https://github.com/Shiyao-Huang/awesome-agent-evolution): 面向 AI Agent 自进化领域的开放 Survey 与教材式课程资料库
+- [awesome-code-docs (johnxie)](https://github.com/johnxie/awesome-code-docs): 涵盖203个AI/LLM工具的深度教程，采用统一八章节结构，适合系统学习AI开发。
 - [oreilly-ai-k8s-tutorial (dwhitena)](https://github.com/dwhitena/oreilly-ai-k8s-tutorial): O'Reilly教程材料，指导在K8s上部署端到端AI工作流。
 - [prompt_engineering_guide (DATANOMIQ)](https://github.com/DATANOMIQ/prompt_engineering_guide): 基于Streamlit和Notebook的提示工程实战工作坊，涵盖CoT、ReAct等8种核心技术
-- [awesome-code-docs (johnxie)](https://github.com/johnxie/awesome-code-docs): 涵盖203个AI/LLM工具的深度教程，采用统一八章节结构，适合系统学习AI开发。
 - [WAF_ML_Tutorial_Part1 (ai2es)](https://github.com/ai2es/WAF_ML_Tutorial_Part1): 气象学传统机器学习教程，含代码与笔记本，助新手入门。
 - [Python-for-Data-Science (chaklam-silpasuwanchai)](https://github.com/chaklam-silpasuwanchai/Python-for-Data-Science): 数据科学Python入门课程，含基础语法与常用库教程。
+- [Ai-Roadmap (udaysharmadev)](https://github.com/udaysharmadev/Ai-Roadmap): 包含七阶段课程体系、配套Notebook和项目的完整AI学习路线图。
 - [programming-in-python (widmi)](https://github.com/widmi/programming-in-python): 面向初学者的Python机器学习交互式课程，涵盖基础语法至PyTorch神经网络实战
 - [mlx-llm-tutorial (ddttom)](https://github.com/ddttom/mlx-llm-tutorial): 基于Apple MLX框架的LLM构建教程，含理论与代码实践
 - [CIFAR-10 (RubixML)](https://github.com/RubixML/CIFAR-10): 基于PHP和Rubix ML库的CIFAR-10图像识别深度神经网络教程。
 - [Awesome-DiffComm (qin-jingyun)](https://github.com/qin-jingyun/Awesome-DiffComm): 基于IEEE教程的扩散模型与语义通信教育资源库，含数学基础、精选论文及课程。
 - [ml_tutorial (mallahyari)](https://github.com/mallahyari/ml_tutorial): 该仓库提供一系列机器学习和深度学习概念的直观教程，涵盖从最大似然估计到神经网络等内容。
-- [Ai-Roadmap (udaysharmadev)](https://github.com/udaysharmadev/Ai-Roadmap): 包含七阶段课程体系、配套Notebook和项目的完整AI学习路线图。
 - [stable-diffusion-model-tutorial (azad-academy)](https://github.com/azad-academy/stable-diffusion-model-tutorial): 一份关于潜在扩散模型（Stable Diffusion）的简易交互式教程及 Jupyter Notebook。
 - [Machine-Learning (dr-mushtaq)](https://github.com/dr-mushtaq/Machine-Learning): 包含Python机器学习算法实现、特征选择及统计方法的完整A-Z教程与练习
 - [learn-ai-in-12-weeks (seshakiran)](https://github.com/seshakiran/learn-ai-in-12-weeks): 面向初学者的12周AI智能体课程，涵盖LLM基础、RAG、多智能体及伦理安全。
@@ -459,8 +459,8 @@
 - [NoLLMChat (zrg-team)](https://github.com/zrg-team/NoLLMChat): 基于浏览器可视化节点构建LLM工作流的实战教程平台
 - [Generative_AI_LLMs (amruthaa08)](https://github.com/amruthaa08/Generative_AI_LLMs): Coursera生成式AI课程的实验代码，涵盖LLM微调与提示工程实践。
 - [Ollama-CSharp-Playground (elbruno)](https://github.com/elbruno/Ollama-CSharp-Playground): 基于Ollama的C#游乐场，提供代码示例与视频教程，帮助学习本地LLM开发。
-- [arbitrum-vibekit (EmberAGI)](https://github.com/EmberAGI/arbitrum-vibekit): 提供关于构建自主DeFi智能体、LLM编排及Vibe Coding的结构化教程课程。
 - [ai-agent-architecture (Drobiazkin)](https://github.com/Drobiazkin/ai-agent-architecture): 一本关于构建可控LLM系统的开源工程书籍及实操课程，涵盖架构、RAG、Agent及模型部署。
+- [arbitrum-vibekit (EmberAGI)](https://github.com/EmberAGI/arbitrum-vibekit): 提供关于构建自主DeFi智能体、LLM编排及Vibe Coding的结构化教程课程。
 - [claude-for-researchers (Mexregkan)](https://github.com/Mexregkan/claude-for-researchers): 面向科研人员的Claude Code实战教程，涵盖安装、配置及核心工作流。
 - [ai-resources (arkie-develops)](https://github.com/arkie-develops/ai-resources): 一套关于生成式AI和提示工程的教学资源库，包含逐步指南和代码示例。
 - [knowledge-repository (niderhoff)](https://github.com/niderhoff/knowledge-repository): 汇集数据科学与机器学习学习资源、课程链接及代码示例的结构化知识库。
