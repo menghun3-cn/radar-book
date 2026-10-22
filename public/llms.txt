@@ -287,8 +287,8 @@
 - [gans-from-theory-to-production (zurutech)](https://github.com/zurutech/gans-from-theory-to-production): 从理论到生产环境的深度GAN教程，包含TF实现与部署
 - [intelligent-app-workshop (Azure)](https://github.com/Azure/intelligent-app-workshop): 基于Azure Copilot栈的成套AI应用开发教学工作坊，含架构与实操。
 - [Masterclass-LLMs-for-Data-Science (avvorstenbosch)](https://github.com/avvorstenbosch/Masterclass-LLMs-for-Data-Science): 面向数据科学家的LLM大师班，含提示工程、采样、NLP及RAG实操练习。
-- [claude-code-handbook (ThamJiaHe)](https://github.com/ThamJiaHe/claude-code-handbook): Claude提示词工程与Agent开发综合教程，含多章节指南和实战模板。
 - [AI-Engineer-Interview-Questions (ombharatiya)](https://github.com/ombharatiya/AI-Engineer-Interview-Questions): 面向AI工程师的系统化面试题库，涵盖ML基础、LLM、RAG、Agent及33家热门公司真题与实战编码题。
+- [claude-code-handbook (ThamJiaHe)](https://github.com/ThamJiaHe/claude-code-handbook): Claude提示词工程与Agent开发综合教程，含多章节指南和实战模板。
 - [tutorial (SalvatoreRa)](https://github.com/SalvatoreRa/tutorial): 面向 AI、机器学习和数据科学的教程合集，覆盖计算机视觉、NLP 与生物医学案例，配套 Python/R 与 Notebook。
 - [best-ai-and-llm-engineering-resource (javabuddy)](https://github.com/javabuddy/best-ai-and-llm-engineering-resource): 一份涵盖AI/LLM书籍、课程、项目及系统设计的综合学习资源列表。
 - [open-source-llm-zoomcamp (DataTalksClub)](https://github.com/DataTalksClub/open-source-llm-zoomcamp): DataTalksClub推出的开源LLM迷你课程，涵盖在AMD硬件上运行、部署及微调开源大模型的实战指南。
@@ -466,9 +466,9 @@
 - [knowledge-repository (niderhoff)](https://github.com/niderhoff/knowledge-repository): 汇集数据科学与机器学习学习资源、课程链接及代码示例的结构化知识库。
 - [genai-essentials (schwartz1375)](https://github.com/schwartz1375/genai-essentials): 该仓库提供生成式AI与LLM的Jupyter教程课程，涵盖安全、RAG、Agent框架及MCP集成。
 - [LangChain (DataForScience)](https://github.com/DataForScience/LangChain): DataForScience出品的LangChain实战教程，含六章课件与Notebook，覆盖生成式AI管线开发。
+- [machine-learning-for-engineers (hanhuark)](https://github.com/hanhuark/machine-learning-for-engineers): 面向工程师的开放AI/ML课程，涵盖回归、分类等模块及AI代理实践。
 - [prompt-challenges (erweixin)](https://github.com/erweixin/prompt-challenges): 涵盖从基础提示到MCP及智能体工作流的完整LLM实战学习路径
 - [adv_nlp_workshop_odsc_europe22 (dipanjanS)](https://github.com/dipanjanS/adv_nlp_workshop_odsc_europe22): 这是一个关于高级自然语言处理的研讨会教程，涵盖词嵌入、CNN/LSTM及Transformer等深度学习方法。
-- [machine-learning-for-engineers (hanhuark)](https://github.com/hanhuark/machine-learning-for-engineers): 面向工程师的开放AI/ML课程，涵盖回归、分类等模块及AI代理实践。
 - [ai-summer-of-code (zion-king)](https://github.com/zion-king/ai-summer-of-code): 为期四周的生成式AI实战课程，涵盖LLM开发、RAG及代理系统等内容。
 - [tf-estimator-tutorials (ksalama)](https://github.com/ksalama/tf-estimator-tutorials): TensorFlow Estimator API 系统教程，涵盖分类回归等ML任务
 - [responsible-ai-workshop (microsoft)](https://github.com/microsoft/responsible-ai-workshop): 微软官方的负责任AI工作坊，提供生成式AI与智能体安全实践的成套教程与动手实验。
