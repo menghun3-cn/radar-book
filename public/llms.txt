@@ -276,8 +276,8 @@
 - [DiffusionFromScratch (Animadversio)](https://github.com/Animadversio/DiffusionFromScratch): 哈佛ML系列的Stable Diffusion从零构建教程，含代码、幻灯片及练习。
 - [rl-handbook (lubludrova)](https://github.com/lubludrova/rl-handbook): 一份系统讲解强化学习算法与代码的实践型教科书，从基础到高级。
 - [claude-code (timothywarner-org)](https://github.com/timothywarner-org/claude-code): O'Reilly Live课程，涵盖Claude Code安装、上下文管理、Agent工作流及MCP集成。
-- [minimind-notes (joyehuang)](https://github.com/joyehuang/minimind-notes): 基于MiniMind的LLM训练原理教程，含归一化、注意力等模块的理论与对比实验。
 - [AI-Engineer-Interview-Questions (ombharatiya)](https://github.com/ombharatiya/AI-Engineer-Interview-Questions): 面向AI工程师的系统化面试题库，涵盖ML基础、LLM、RAG、Agent及33家热门公司真题与实战编码题。
+- [minimind-notes (joyehuang)](https://github.com/joyehuang/minimind-notes): 基于MiniMind的LLM训练原理教程，含归一化、注意力等模块的理论与对比实验。
 - [Prompt-Engineering-Jumpstart (arorarishi)](https://github.com/arorarishi/Prompt-Engineering-Jumpstart): 这是一本面向初学者的开源提示工程教程书，包含14个章节，通过简单类比和实战示例教用户高效与AI交互。
 - [r-course-material (ccs-amsterdam)](https://github.com/ccs-amsterdam/r-course-material): 阿姆斯特丹自由大学R语言课程资料，含LLM与数据分析教程
 - [aitutor (naorpeled)](https://github.com/naorpeled/aitutor): 终端交互式AI开发教程，涵盖18节从入门到高级的LLM与Agent实操课程
@@ -408,8 +408,8 @@
 - [pytorch-examples (fabioperez)](https://github.com/fabioperez/pytorch-examples): 包含数据增强、Inception裁剪等PyTorch深度学习教程与示例项目
 - [dspy-code (SuperagenticAI)](https://github.com/SuperagenticAI/dspy-code): 一套包含教程、示例和CLI指南的DSPy开发助手，帮助学习者掌握LLM程序优化与构建。
 - [Machine-Learning-Basics (SamBelkacem)](https://github.com/SamBelkacem/Machine-Learning-Basics): 系统介绍机器学习全流程的Python教程，含数据处理、建模及实践资源
-- [deep-learning-notes (jshn9515)](https://github.com/jshn9515/deep-learning-notes): 系统化深度学习笔记，从基础到LLM推理，含代码与教程网站。
 - [doc-adk-training (mauripsale)](https://github.com/mauripsale/doc-adk-training): 基于Google ADK的40模块AI Agent开发实战培训教程
+- [deep-learning-notes (jshn9515)](https://github.com/jshn9515/deep-learning-notes): 系统化深度学习笔记，从基础到LLM推理，含代码与教程网站。
 - [Trilha-de-Estudos-de-Data-Science (HinePo)](https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science): 涵盖数据科学各领域学习路线与优质资源推荐
 - [awesome-agentic-ai-resources (The-Gen-Academy)](https://github.com/The-Gen-Academy/awesome-agentic-ai-resources): Agentic AI认证课程资源包，含7周结构化学习路径与精选教程。
 - [Segmentation (IbrahimSobh)](https://github.com/IbrahimSobh/Segmentation): 基于MMSegmentation的语义分割教程，涵盖10种模型推理、微调及自定义模型训练。

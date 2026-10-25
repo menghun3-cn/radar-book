@@ -29,41 +29,41 @@
       "name": "repositories: topic:ai-education fork:false",
       "status": "bounded",
       "count": 200,
-      "total": 525,
+      "total": 533,
       "pages": 2,
-      "firstPage": 1
+      "firstPage": 3
     },
     {
       "name": "repositories: topic:prompt-engineering fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 21666,
+      "total": 21702,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: topic:machine-learning tutorial fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 2283,
+      "total": 2284,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: topic:deep-learning tutorial fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 1455,
+      "total": 1457,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: topic:generative-ai tutorial fork:false",
-      "status": "ok",
-      "count": 13,
+      "status": "bounded",
+      "count": 200,
       "total": 213,
-      "pages": 1,
-      "firstPage": 3
+      "pages": 2,
+      "firstPage": 1
     },
     {
       "name": "repositories: topic:jupyter-notebooks course fork:false",
@@ -77,73 +77,77 @@
       "name": "repositories: \"interactive tutorial\" \"artificial intelligence\" in:readme fork:false",
       "status": "bounded",
       "count": 200,
-      "total": 780,
+      "total": 782,
       "pages": 2,
-      "firstPage": 3
+      "firstPage": 5
     },
     {
       "name": "repositories: \"prompt engineering\" interactive in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 65854,
+      "total": 65913,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: \"LLM course\" in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 3176,
+      "total": 3178,
       "pages": 2,
-      "firstPage": 3
+      "firstPage": 5
     },
     {
       "name": "repositories: \"generative AI\" \"tutorial\" in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 18023,
+      "total": 18034,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: \"AI tutorial\" in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 3798,
+      "total": 3801,
       "pages": 2,
-      "firstPage": 3
+      "firstPage": 5
     },
     {
       "name": "code: \"interactive tutorial\" \"prompt\" path:README.md",
-      "status": "ok",
+      "status": "unavailable",
       "count": 0,
       "total": 0,
-      "pages": 1,
-      "firstPage": 1
+      "pages": 0,
+      "firstPage": 1,
+      "error": "GitHub API request failed after 4 attempts: https://api.github.com/search/code?q=%22interactive%20tutorial%22%20%22prompt%22%20path%3AREADME.md&page=1&per_page=100"
     },
     {
       "name": "code: \"LLM\" \"course\" path:README.md",
-      "status": "ok",
-      "count": 3,
-      "total": 3,
-      "pages": 1,
-      "firstPage": 1
+      "status": "unavailable",
+      "count": 0,
+      "total": 0,
+      "pages": 0,
+      "firstPage": 1,
+      "error": "GitHub API request failed after 4 attempts: https://api.github.com/search/code?q=%22LLM%22%20%22course%22%20path%3AREADME.md&page=1&per_page=100"
     },
     {
       "name": "code: \"generative AI\" \"tutorial\" path:README.md",
-      "status": "ok",
+      "status": "unavailable",
       "count": 0,
       "total": 0,
-      "pages": 1,
-      "firstPage": 1
+      "pages": 0,
+      "firstPage": 1,
+      "error": "GitHub API request failed after 4 attempts: https://api.github.com/search/code?q=%22generative%20AI%22%20%22tutorial%22%20path%3AREADME.md&page=1&per_page=100"
     },
     {
       "name": "code: \"machine learning\" \"exercises\" path:README.md",
-      "status": "ok",
-      "count": 1,
-      "total": 1,
-      "pages": 1,
-      "firstPage": 1
+      "status": "unavailable",
+      "count": 0,
+      "total": 0,
+      "pages": 0,
+      "firstPage": 1,
+      "error": "GitHub API request failed after 4 attempts: https://api.github.com/search/code?q=%22machine%20learning%22%20%22exercises%22%20path%3AREADME.md&page=1&per_page=100"
     }
   ],
   "newProjects": 0,
@@ -158,15 +162,15 @@
     "unavailable": 0
   },
   "discovery": {
-    "candidates": 871,
+    "candidates": 813,
     "checked": 0,
     "rejected": 40,
-    "deferred": 831,
+    "deferred": 773,
     "sources": 18
   },
   "totalProjects": 472,
-  "projectsSha256": "51bee92414dee5ea35eeb6220b02f09f5c5555035173248ed7b561be2afb43f6",
-  "runUrl": "https://github.com/menghun3-cn/radar-book/actions/runs/40153022461",
+  "projectsSha256": "39179311053a488b190dd81cdf728dee5e173800331ce77927e3bde241460c15",
+  "runUrl": "https://github.com/menghun3-cn/radar-book/actions/runs/40184199961",
   "dryRun": false,
-  "lastRunAt": "2026-10-25T02:08:52.631Z"
+  "lastRunAt": "2026-10-25T10:34:50.568Z"
 }
