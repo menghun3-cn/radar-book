@@ -168,8 +168,8 @@
 - [ai-engineer-roadmap (dswh)](https://github.com/dswh/ai-engineer-roadmap): 面向AI工程师的分阶段学习路线图，涵盖技能、资源及实战项目建议
 - [tf-estimator-tutorials (GoogleCloudPlatform)](https://github.com/GoogleCloudPlatform/tf-estimator-tutorials): TensorFlow Estimator API的系统教程，涵盖分类、回归等机器学习任务。
 - [awesome-r-learning-resources (iamericfletcher)](https://github.com/iamericfletcher/awesome-r-learning-resources): 这是一个整理 R 语言学习资料的项目，包含课程、书籍、博客和社区资源链接。
-- [free-ai-tips (business-science)](https://github.com/business-science/free-ai-tips): Business Science提供的免费每周AI/ML实战教程，涵盖生成式AI、LLM及数据分析Agent开发。
 - [AI-Cross-Border-Ecommerce-Agent-Toolkit (heqiangdiao-wq)](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit): 该仓库将跨境电商运营SOP转化为7个可复用的AI Agent工作流，含完整提示词、脚本及案例，适合Agent开发学习。
+- [free-ai-tips (business-science)](https://github.com/business-science/free-ai-tips): Business Science提供的免费每周AI/ML实战教程，涵盖生成式AI、LLM及数据分析Agent开发。
 - [ai-business-skills (minhnv0807)](https://github.com/minhnv0807/ai-business-skills): 双语 AI 营销技能教程，包含 144 个 Agent 技能、19 个工作流及营销思维知识章节。
 - [cs329s-ml-deployment-tutorial (mrdbourke)](https://github.com/mrdbourke/cs329s-ml-deployment-tutorial): 斯坦福CS329s机器学习模型部署教程配套代码，涵盖GCP与Docker实践
 - [data-science-your-way (jadianes)](https://github.com/jadianes/data-science-your-way): 一个对比R和Python的数据科学教程系列，涵盖数据框、探索性分析、降维、聚类及情感分析等核心主题。
@@ -323,8 +323,8 @@
 - [semantic-kernel-workshop (Azure-Samples)](https://github.com/Azure-Samples/semantic-kernel-workshop): 微软开源课程，通过五个模块的笔记本系统讲解语义内核框架、AI智能体及流程框架实战。
 - [AI-Data-Science-Roadmap (erencice)](https://github.com/erencice/AI-Data-Science-Roadmap): 一份为期约64周的系统化AI与数据科学学习路线图，涵盖基础数学至LLM工程。
 - [Claude-PHP-SDK (claude-php)](https://github.com/claude-php/Claude-PHP-SDK): Claude PHP SDK附带17节Agentic AI实战教程
-- [data-science-on-aws (aws-samples)](https://github.com/aws-samples/data-science-on-aws): 基于O'Reilly书籍的AWS生成式AI与数据科学实战课程，含5个部分及Jupyter实操
 - [Awesome-LLM-Interview (laoshan-song)](https://github.com/laoshan-song/Awesome-LLM-Interview): 系统化的LLM面试知识点笔记，涵盖原理、训练、推理及工程实践，含题库与项目实战。
+- [data-science-on-aws (aws-samples)](https://github.com/aws-samples/data-science-on-aws): 基于O'Reilly书籍的AWS生成式AI与数据科学实战课程，含5个部分及Jupyter实操
 - [AcousticsML (RAMshades)](https://github.com/RAMshades/AcousticsML): 面向声学领域的机器学习教程，涵盖从信号处理到深度学习的六章成套 Jupyter Notebook 课程材料。
 - [btp-cap-genai-rag (SAP-samples)](https://github.com/SAP-samples/btp-cap-genai-rag): SAP BTP GenAI邮件洞察教程，涵盖RAG集成与LangChain实战部署
 - [AI-roadmap (h9-tec)](https://github.com/h9-tec/AI-roadmap): 面向零基础用户的AI学习路线图，按数学、CS及专业赛道组织免费资源。
@@ -425,9 +425,9 @@
 - [tfjs-tutorials (NoobTW)](https://github.com/NoobTW/tfjs-tutorials): TensorFlow.js官方繁体中文教程，涵盖核心概念、模型训练及高级操作指南
 - [ai_summer (vanderbilt-data-science)](https://github.com/vanderbilt-data-science/ai_summer): 范德堡大学2024年AI夏季课程材料，涵盖生成式AI、提示工程及LLM实战。
 - [aup-learning-cloud (AMDResearch)](https://github.com/AMDResearch/aup-learning-cloud): 集成多套AI课程的JupyterHub平台，提供CV、DL与LLM实操教学及AMD加速支持。
+- [Ai-Roadmap (udaysharmadev)](https://github.com/udaysharmadev/Ai-Roadmap): 包含七阶段课程体系、配套Notebook和项目的完整AI学习路线图。
 - [ai-for-javascript-course (thestriver)](https://github.com/thestriver/ai-for-javascript-course): 面向JS开发者的AI应用开发开源课程，含LLM与提示工程实战项目。
 - [swap-face (OValery16)](https://github.com/OValery16/swap-face): 关于深伪换脸算法的完整教程，含代码、原理讲解及道德讨论
-- [Ai-Roadmap (udaysharmadev)](https://github.com/udaysharmadev/Ai-Roadmap): 包含七阶段课程体系、配套Notebook和项目的完整AI学习路线图。
 - [build-production-ai-agents (ai-builders-group)](https://github.com/ai-builders-group/build-production-ai-agents): 配套书籍的AI Agent生产级开发课程，含完整章节、练习标签及详细教学结构。
 - [awesome-loop-engineering (invincible04)](https://github.com/invincible04/awesome-loop-engineering): 一套系统化的AI循环工程教程，包含章节、提示词库及可运行示例。
 - [awesome-code-docs (johnxie)](https://github.com/johnxie/awesome-code-docs): 涵盖203个AI/LLM工具的深度教程，采用统一八章节结构，适合系统学习AI开发。
