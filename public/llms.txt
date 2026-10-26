@@ -166,8 +166,8 @@
 - [time-series-forecasting-with-python (jiwidi)](https://github.com/jiwidi/time-series-forecasting-with-python): 基于真实数据集的系统性时序预测教程，涵盖数据分析、特征工程及多种模型对比。
 - [edu (wandb)](https://github.com/wandb/edu): W&B 官方 AI 学院课程资料，涵盖 LLM、MLOps 及机器学习实践。
 - [ai-engineer-roadmap (dswh)](https://github.com/dswh/ai-engineer-roadmap): 面向AI工程师的分阶段学习路线图，涵盖技能、资源及实战项目建议
-- [tf-estimator-tutorials (GoogleCloudPlatform)](https://github.com/GoogleCloudPlatform/tf-estimator-tutorials): TensorFlow Estimator API的系统教程，涵盖分类、回归等机器学习任务。
 - [AI-Cross-Border-Ecommerce-Agent-Toolkit (heqiangdiao-wq)](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit): 该仓库将跨境电商运营SOP转化为7个可复用的AI Agent工作流，含完整提示词、脚本及案例，适合Agent开发学习。
+- [tf-estimator-tutorials (GoogleCloudPlatform)](https://github.com/GoogleCloudPlatform/tf-estimator-tutorials): TensorFlow Estimator API的系统教程，涵盖分类、回归等机器学习任务。
 - [awesome-r-learning-resources (iamericfletcher)](https://github.com/iamericfletcher/awesome-r-learning-resources): 这是一个整理 R 语言学习资料的项目，包含课程、书籍、博客和社区资源链接。
 - [free-ai-tips (business-science)](https://github.com/business-science/free-ai-tips): Business Science提供的免费每周AI/ML实战教程，涵盖生成式AI、LLM及数据分析Agent开发。
 - [ai-business-skills (minhnv0807)](https://github.com/minhnv0807/ai-business-skills): 双语 AI 营销技能教程，包含 144 个 Agent 技能、19 个工作流及营销思维知识章节。
@@ -429,8 +429,8 @@
 - [ai-for-javascript-course (thestriver)](https://github.com/thestriver/ai-for-javascript-course): 面向JS开发者的AI应用开发开源课程，含LLM与提示工程实战项目。
 - [swap-face (OValery16)](https://github.com/OValery16/swap-face): 关于深伪换脸算法的完整教程，含代码、原理讲解及道德讨论
 - [build-production-ai-agents (ai-builders-group)](https://github.com/ai-builders-group/build-production-ai-agents): 配套书籍的AI Agent生产级开发课程，含完整章节、练习标签及详细教学结构。
-- [awesome-loop-engineering (invincible04)](https://github.com/invincible04/awesome-loop-engineering): 一套系统化的AI循环工程教程，包含章节、提示词库及可运行示例。
 - [awesome-code-docs (johnxie)](https://github.com/johnxie/awesome-code-docs): 涵盖203个AI/LLM工具的深度教程，采用统一八章节结构，适合系统学习AI开发。
+- [awesome-loop-engineering (invincible04)](https://github.com/invincible04/awesome-loop-engineering): 一套系统化的AI循环工程教程，包含章节、提示词库及可运行示例。
 - [moltbook-agent-guard (NirDiamant)](https://github.com/NirDiamant/moltbook-agent-guard): 提供AI Agent安全防护的实操教程与工具包
 - [openclawnet (elbruno)](https://github.com/elbruno/openclawnet): 基于.NET 10的AI Agent平台分4节Reactor直播课程及配套实战材料
 - [genai-for-dotnet (mehmetozkaya)](https://github.com/mehmetozkaya/genai-for-dotnet): 基于.NET的GenAI实战课程代码，涵盖聊天、RAG及向量搜索等七个章节项目。
@@ -447,8 +447,8 @@
 - [stable-diffusion-model-tutorial (azad-academy)](https://github.com/azad-academy/stable-diffusion-model-tutorial): 一份关于潜在扩散模型（Stable Diffusion）的简易交互式教程及 Jupyter Notebook。
 - [Machine-Learning (dr-mushtaq)](https://github.com/dr-mushtaq/Machine-Learning): 包含Python机器学习算法实现、特征选择及统计方法的完整A-Z教程与练习
 - [agentic-loop-engineering-course (FareedKhan-dev)](https://github.com/FareedKhan-dev/agentic-loop-engineering-course): 一套18个Notebook的Agent循环工程实战课程，基于实测数据解析LLM组件优化。
-- [learn-ai-in-12-weeks (seshakiran)](https://github.com/seshakiran/learn-ai-in-12-weeks): 面向初学者的12周AI智能体课程，涵盖LLM基础、RAG、多智能体及伦理安全。
 - [ProteomicsML (ProteomicsML)](https://github.com/ProteomicsML/ProteomicsML): 针对蛋白质组学的机器学习教程与数据集平台，含可运行笔记本
+- [learn-ai-in-12-weeks (seshakiran)](https://github.com/seshakiran/learn-ai-in-12-weeks): 面向初学者的12周AI智能体课程，涵盖LLM基础、RAG、多智能体及伦理安全。
 - [Cyber-Ming-Protocol (blackzhanzhan)](https://github.com/blackzhanzhan/Cyber-Ming-Protocol): 一套关于深水区AI编码的人机协作治理协议，含完整双语教学手册
 - [AI-30-Day-Challenge (Lee985-cmd)](https://github.com/Lee985-cmd/AI-30-Day-Challenge): 零基础AI入门30天挑战课程，涵盖Python基础、机器学习、深度学习及Agent应用实战。
 - [agentic-ai (techloset)](https://github.com/techloset/agentic-ai): 云原生AI代理开发者系统课程，涵盖Python、LLM、LangGraph及K8s部署。
