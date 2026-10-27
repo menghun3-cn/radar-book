@@ -159,8 +159,8 @@
 - [sammo (microsoft)](https://github.com/microsoft/sammo): 微软出品的SAMMO库教程，通过Notebook系统讲解提示工程与优化。
 - [Trace (microsoft)](https://github.com/microsoft/Trace): Microsoft推出的AI Agent端到端生成式优化工具，提供从基础到高级的成套教程。
 - [miyagi (Azure-Samples)](https://github.com/Azure-Samples/miyagi): 基于微软Copilot栈的自导式AI应用开发工作坊，含提示工程与Agent教程。
-- [mlops-coding-course (MLOps-Courses)](https://github.com/MLOps-Courses/mlops-coding-course): MLOps Coding Course 的工程化教程，聚焦生产级机器学习项目的实践方法与可运行代码示例。
 - [AI-Cross-Border-Ecommerce-Agent-Toolkit (heqiangdiao-wq)](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit): 该仓库将跨境电商运营SOP转化为7个可复用的AI Agent工作流，含完整提示词、脚本及案例，适合Agent开发学习。
+- [mlops-coding-course (MLOps-Courses)](https://github.com/MLOps-Courses/mlops-coding-course): MLOps Coding Course 的工程化教程，聚焦生产级机器学习项目的实践方法与可运行代码示例。
 - [LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing (ghimiresunil)](https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing): LLM核心技术与实战教程，涵盖架构、训练、推理及对齐等完整课程。
 - [ai-engineer-notebooks (calmrocks)](https://github.com/calmrocks/ai-engineer-notebooks): 面向AI工程师的动手实践笔记本，涵盖LLM、RAG及Agent开发。
 - [deep-learning-notes (datawhalechina)](https://github.com/datawhalechina/deep-learning-notes): 系统整理从神经网络到LLM的深度学习教程，含公式推导与代码实践
@@ -200,8 +200,8 @@
 - [AIPM-Wiki (archlizheng)](https://github.com/archlizheng/AIPM-Wiki): 一套针对AI产品经理的系统化知识库，包含学习路线、案例拆解及面试题库。
 - [lanshu-awesome-ai-video-kit (cclank)](https://github.com/cclank/lanshu-awesome-ai-video-kit): 涵盖15个主流视频模型与21篇SOP的AI视频提示词工程实战教程库。
 - [Awesome-Agentic-Clinical-Dialogue (xqz614)](https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue): 面向医疗对话领域的AI Agent教程与课程资源集合，含微调实践
-- [awesome-seedance-2.5-guides (Evolink-AI)](https://github.com/Evolink-AI/awesome-seedance-2.5-guides): 提供 Seedance AI 视频生成的官方提示词教程与多语言案例指南。
 - [MachineLearningRoadmap (justxor)](https://github.com/justxor/MachineLearningRoadmap): 面向俄语社区的全面机器学习学习路线图，涵盖从基础到LLM开发的七个阶段及实践任务。
+- [awesome-seedance-2.5-guides (Evolink-AI)](https://github.com/Evolink-AI/awesome-seedance-2.5-guides): 提供 Seedance AI 视频生成的官方提示词教程与多语言案例指南。
 - [opencode-primer (wesammustafa)](https://github.com/wesammustafa/opencode-primer): OpenCode开源AI编码代理的完整入门指南，含设置、提示工程与插件教程。
 - [Easy-deep-learning-with-Keras (buomsoo-kim)](https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras): 基于Keras的深度学习入门教程，涵盖MLP、CNN、RNN及无监督学习等章节
 - [TensorFlow-Tutorials-Chinese (Hvass-Labs)](https://github.com/Hvass-Labs/TensorFlow-Tutorials-Chinese): Hvass-Labs TensorFlow中文教程，包含23章从线性模型到NLP的深度交互练习。
@@ -381,8 +381,8 @@
 - [ai900 (timothywarner)](https://github.com/timothywarner/ai900): 面向微软AI-900认证的Azure AI基础课程，包含五个分段教学及可执行演示代码。
 - [Generative-AI-Tutorial (pittisl)](https://github.com/pittisl/Generative-AI-Tutorial): 一份涵盖神经网络、Transformer、LLM、扩散模型等主题的生成式AI学习路线图
 - [Python-fo-Natural-Language-Processing (chaklam-silpasuwanchai)](https://github.com/chaklam-silpasuwanchai/Python-fo-Natural-Language-Processing): AIT自然语言处理课程代码，涵盖词向量、Transformer、SpaCy及HuggingFace实践。
-- [AI-PhD-S26 (rphilipzhang)](https://github.com/rphilipzhang/AI-PhD-S26): 港中文 DOTE 6635 博士课程完整材料，涵盖强化学习、Agentic AI 及商业应用。
 - [Fast-LLM-Agent-MCP (omerbsezer)](https://github.com/omerbsezer/Fast-LLM-Agent-MCP): 涵盖LLM原理及多框架Agent开发的系统化教程与实操示例。
+- [AI-PhD-S26 (rphilipzhang)](https://github.com/rphilipzhang/AI-PhD-S26): 港中文 DOTE 6635 博士课程完整材料，涵盖强化学习、Agentic AI 及商业应用。
 - [awesome-ai-agent-learning (2182977liu-bit)](https://github.com/2182977liu-bit/awesome-ai-agent-learning): 一套从零构建 AI Agent 的中文保姆级教程，涵盖原理、代码与实战
 - [LLM-Workshop (tylerelyt)](https://github.com/tylerelyt/LLM-Workshop): 基于动手项目的LLM开发工作坊，涵盖RAG、多智能体及微调等8个章节
 - [LearningfromAudio (theadamsabra)](https://github.com/theadamsabra/LearningfromAudio): 一套从数字信号处理基础到音频特征提取的机器学习入门教程，配有代码。
@@ -399,8 +399,8 @@
 - [Generative-AI-Learning-Roadmap (iscloudready)](https://github.com/iscloudready/Generative-AI-Learning-Roadmap): 覆盖4阶段16赛道的生成式AI学习路线图，含200+精选资源及职业指南。
 - [AI-Code-Tutorials (0xfnzero)](https://github.com/0xfnzero/AI-Code-Tutorials): 中英双语教程，系统讲解Claude Code与OpenAI Codex的AI编程工作流、提示词优化及Agent实战。
 - [speech-recognition-learning-resources (weimeng23)](https://github.com/weimeng23/speech-recognition-learning-resources): 语音识别学习资源汇总，涵盖课程、书籍、模型、工具包及论文
-- [dnndk-pynqz2 (wutianze)](https://github.com/wutianze/dnndk-pynqz2): PYNQ-Z2平台上的深度学习教程，涵盖MNIST、ResNet和YOLO模型的部署与优化
 - [vibe-coding-with-base44 (cporter202)](https://github.com/cporter202/vibe-coding-with-base44): 面向零代码用户的Base44 AI应用构建实战教程，含完整课程章节
+- [dnndk-pynqz2 (wutianze)](https://github.com/wutianze/dnndk-pynqz2): PYNQ-Z2平台上的深度学习教程，涵盖MNIST、ResNet和YOLO模型的部署与优化
 - [chatGPT-Prompt-Engineering-for-Developers (ksm26)](https://github.com/ksm26/chatGPT-Prompt-Engineering-for-Developers): DeepLearning.AI官方ChatGPT提示工程课程，含完整Notebook章节与实战练习。
 - [XAI-Tutorials (HelmholtzAI-Consultants-Munich)](https://github.com/HelmholtzAI-Consultants-Munich/XAI-Tutorials): 赫尔姆霍兹AI顾问提供的可解释AI互动教程，涵盖SHAP、Grad-CAM等方法的理论与实操。
 - [ml.recipes (JesperDramsch)](https://github.com/JesperDramsch/ml.recipes): 一套关于提升机器学习科研可复现性的实战教程。
