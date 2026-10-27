@@ -126,8 +126,8 @@
 - [awesome-conformal-prediction (valeman)](https://github.com/valeman/awesome-conformal-prediction): Conformal Prediction领域权威教程与课程资源合集。
 - [easy-few-shot-learning (sicara)](https://github.com/sicara/easy-few-shot-learning): 基于PyTorch的少样本图像分类教程库，提供经典与事件式训练Notebook及多种前沿算法实现。
 - [zero_to_gpt (VikParuchuri)](https://github.com/VikParuchuri/zero_to_gpt): 从零开始学习深度学习和GPT模型的完整课程。
-- [Play-with-Machine-Learning-Algorithms (liuyubobobo)](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms): 刘宇波慕课网《Python3 入门机器学习》官方配套代码库，含多章笔记与练习。
 - [ai-engineering-from-scratch-zh (fancyboi999)](https://github.com/fancyboi999/ai-engineering-from-scratch-zh): AI工程零基础到精通的中文全套课程，含523节课及AI导师。
+- [Play-with-Machine-Learning-Algorithms (liuyubobobo)](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms): 刘宇波慕课网《Python3 入门机器学习》官方配套代码库，含多章笔记与练习。
 - [road-to-machine-learning (NabidAlam)](https://github.com/NabidAlam/road-to-machine-learning): 一套从零基础到进阶的机器学习系统化教程，含26个模块和23个实战项目。
 - [generative-ai-with-javascript (microsoft)](https://github.com/microsoft/generative-ai-with-javascript): 微软推出的生成式AI JavaScript课程，通过8个章节结合时间旅行故事教学。
 - [thereisnospoon (dreddnafious)](https://github.com/dreddnafious/thereisnospoon): 面向工程师的机器学习初级教程，通过工程类比喻系统讲解ML底层核心原理。
@@ -217,8 +217,8 @@
 - [Comprehensive-Data-Science-AI-Project-Portfolio (MelihGulum)](https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio): 涵盖ML、DL、数据工程等主题的教学项目与教程合集
 - [Robotics-Object-Pose-Estimation (Unity-Technologies)](https://github.com/Unity-Technologies/Robotics-Object-Pose-Estimation): 通过Unity与ROS演示对象姿态估计从数据到部署的全流程教程。
 - [awesome-adk-agents (Sri-Krishna-V)](https://github.com/Sri-Krishna-V/awesome-adk-agents): 精选谷歌ADK智能体开发资源，含教程、模板及实战案例，助用户掌握AI Agent构建。
-- [ai-agent-camp (minicoohei)](https://github.com/minicoohei/ai-agent-camp): 面向非技术背景人员的AI Agent实战培训体系，含62章课程与多工具实操。
 - [ghost-ai (adrianhajdin)](https://github.com/adrianhajdin/ghost-ai): JavaScript Mastery 的 AI 系统架构构建器教程代码，通过视频指导逐步实现 Gemini 代理和协作功能。
+- [ai-agent-camp (minicoohei)](https://github.com/minicoohei/ai-agent-camp): 面向非技术背景人员的AI Agent实战培训体系，含62章课程与多工具实操。
 - [sars_tutorial (mquad)](https://github.com/mquad/sars_tutorial): 针对序列感知推荐系统的交互式教程，包含多个 Jupyter Notebook 章节。
 - [DeepWorks (avkash)](https://github.com/avkash/DeepWorks): DeepWorks 提供深度学习、LLM 及生成式 AI 的结构化教程与项目资源
 - [recipe-chatbot (ai-evals-course)](https://github.com/ai-evals-course/recipe-chatbot): 基于配方聊天机器人的AI评估课程，含5个渐进式作业及实践指南
@@ -270,10 +270,10 @@
 - [llm-rl-environments-lil-course (anakin87)](https://github.com/anakin87/llm-rl-environments-lil-course): 通过10章课程和实战项目，教学如何用强化学习环境训练和评估LLM。
 - [context-engineering-dspy (avbiswas)](https://github.com/avbiswas/context-engineering-dspy): DSPy上下文工程配套课程代码，涵盖提示、多轮交互、评估、工具及RAG五个层级实践。
 - [AILearningGuide (Fazmin)](https://github.com/Fazmin/AILearningGuide): 提供51个互动实验，覆盖从基础ML到LLM微调的完整AI学习路径。
+- [AI-Engineer-Interview-Questions (ombharatiya)](https://github.com/ombharatiya/AI-Engineer-Interview-Questions): 面向AI工程师的系统化面试题库，涵盖ML基础、LLM、RAG、Agent及33家热门公司真题与实战编码题。
 - [bert-classification-tutorial (hppRC)](https://github.com/hppRC/bert-classification-tutorial): 基于PyTorch和Transformers的BERT文本分类结构化教程
 - [DL-for-Chatbot (j-min)](https://github.com/j-min/DL-for-Chatbot): 基于PyTorch的聊天机器人深度学习课程，涵盖NLP基础、CNN/RNN及Seq2Seq架构
 - [machine-learning (ocademy-ai)](https://github.com/ocademy-ai/machine-learning): 开源AI学习社区，提供交互式机器学习书籍、练习作业及生成式AI提示资源。
-- [AI-Engineer-Interview-Questions (ombharatiya)](https://github.com/ombharatiya/AI-Engineer-Interview-Questions): 面向AI工程师的系统化面试题库，涵盖ML基础、LLM、RAG、Agent及33家热门公司真题与实战编码题。
 - [DiffusionFromScratch (Animadversio)](https://github.com/Animadversio/DiffusionFromScratch): 哈佛ML系列的Stable Diffusion从零构建教程，含代码、幻灯片及练习。
 - [rl-handbook (lubludrova)](https://github.com/lubludrova/rl-handbook): 一份系统讲解强化学习算法与代码的实践型教科书，从基础到高级。
 - [claude-code (timothywarner-org)](https://github.com/timothywarner-org/claude-code): O'Reilly Live课程，涵盖Claude Code安装、上下文管理、Agent工作流及MCP集成。
