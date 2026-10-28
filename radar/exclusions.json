@@ -26783,5 +26783,205 @@
     "id": "amd/embedded-x86-ai",
     "reason": "below 50 stars",
     "excludedAt": "2026-10-28T17:37:39.265Z"
+  },
+  {
+    "id": "rinatka777/llm-course-2026",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:29.571Z"
+  },
+  {
+    "id": "hiflylabs/awesome-dbt",
+    "reason": "llm: 该仓库为资源链接列表（Awesome List），非成套教程或书籍，不符合收录标准。",
+    "excludedAt": "2026-10-28T22:02:34.184Z"
+  },
+  {
+    "id": "pwbuild-team/perfect_works_build",
+    "reason": "education signal too weak (2 readme terms, 0 lesson files)",
+    "excludedAt": "2026-10-28T22:02:35.623Z"
+  },
+  {
+    "id": "piegu/language-models",
+    "reason": "llm: 该仓库为个人博客及模型收集库，虽含个别DeepLearning.AI课程，但主体非成套教学书籍或课程体系",
+    "excludedAt": "2026-10-28T22:02:46.392Z"
+  },
+  {
+    "id": "appergb/opentake",
+    "reason": "llm: 这是一个AI视频编辑工具，而非教学性质的课程或书籍。",
+    "excludedAt": "2026-10-28T22:02:54.481Z"
+  },
+  {
+    "id": "arnavpuri/designskills",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:54.729Z"
+  },
+  {
+    "id": "kaomei/kaomei",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:54.962Z"
+  },
+  {
+    "id": "bayshores/godspeed",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:55.192Z"
+  },
+  {
+    "id": "sensorwebedu/oldsensoraitutorial",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:55.469Z"
+  },
+  {
+    "id": "skydevzy/llm_course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:55.714Z"
+  },
+  {
+    "id": "094459/aqd-workshop",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:55.933Z"
+  },
+  {
+    "id": "banksiaglobal/appealai",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:56.140Z"
+  },
+  {
+    "id": "krishnamrith12/acmsummerschool",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:56.342Z"
+  },
+  {
+    "id": "denisa-ms/genai-agents",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:56.572Z"
+  },
+  {
+    "id": "rcoe-code-cell/code-cell-website-",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:56.786Z"
+  },
+  {
+    "id": "ancilcleetus/my-learning-journey",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:56.976Z"
+  },
+  {
+    "id": "aisciencetutorial/material_science",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:57.225Z"
+  },
+  {
+    "id": "dong4j/spring-ai-cookbook",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:57.412Z"
+  },
+  {
+    "id": "llamacademy/ai-series-part-3",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:57.602Z"
+  },
+  {
+    "id": "llamacademy/ai-series-part-6",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:57.795Z"
+  },
+  {
+    "id": "llamacademy/ai-series-part-13",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:58.034Z"
+  },
+  {
+    "id": "pengxiaoan/codex-ai-traditional-tool-skills",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:58.222Z"
+  },
+  {
+    "id": "harrywang/ai-tutorials",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:58.444Z"
+  },
+  {
+    "id": "climatechange-ai-tutorials/commonpower-safe-rl",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:58.624Z"
+  },
+  {
+    "id": "climatechange-ai-tutorials/flood-mapping-optical-and-microwave",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:58.879Z"
+  },
+  {
+    "id": "climatechange-ai-tutorials/climate-policy-radar-knowledge-graph",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:59.117Z"
+  },
+  {
+    "id": "zhangzhibang0309/aistu",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:59.396Z"
+  },
+  {
+    "id": "djdvorak/multi-pdf-chat",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:59.630Z"
+  },
+  {
+    "id": "dtdo90/deep_graph_library_tutorials",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:02:59.855Z"
+  },
+  {
+    "id": "qiuwenhui/xilinx_edge-ai-platform-tutorials",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:03:00.169Z"
+  },
+  {
+    "id": "devacharwaka/data-science-resources",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:03:00.396Z"
+  },
+  {
+    "id": "chando0185/prompt_enginnering",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:03:00.612Z"
+  },
+  {
+    "id": "bhattbhavesh91/docly-demo",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:03:00.860Z"
+  },
+  {
+    "id": "lsjsj92/python_bentoml_example",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:03:01.061Z"
+  },
+  {
+    "id": "virajdas/colabfacerecognition-opencv",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:03:01.296Z"
+  },
+  {
+    "id": "letsgogeeky/gcdc-machine-learning",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:03:01.511Z"
+  },
+  {
+    "id": "natetan/learn-machine-learning",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:03:01.744Z"
+  },
+  {
+    "id": "ondrejbiza/machine_intelligence_course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:03:02.029Z"
+  },
+  {
+    "id": "adarsh0047/pytorch-ztm",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:03:02.305Z"
+  },
+  {
+    "id": "amanpriyanshu/protaska-gpt",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-10-28T22:03:02.527Z"
   }
 ]
