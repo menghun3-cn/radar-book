@@ -4,8 +4,8 @@
     {
       "name": "repositories: topic:interactive-tutorial ai fork:false",
       "status": "ok",
-      "count": 5,
-      "total": 5,
+      "count": 11,
+      "total": 11,
       "pages": 1,
       "firstPage": 1
     },
@@ -27,136 +27,123 @@
     },
     {
       "name": "repositories: topic:ai-education fork:false",
-      "status": "bounded",
-      "count": 155,
-      "total": 542,
+      "status": "ok",
+      "count": 146,
+      "total": 546,
       "pages": 2,
-      "firstPage": 3
+      "firstPage": 5
     },
     {
       "name": "repositories: topic:prompt-engineering fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 22121,
+      "total": 22156,
+      "pages": 2,
+      "firstPage": 3
+    },
+    {
+      "name": "repositories: topic:machine-learning tutorial fork:false",
+      "status": "search-cap",
+      "count": 200,
+      "total": 2295,
       "pages": 2,
       "firstPage": 1
     },
     {
-      "name": "repositories: topic:machine-learning tutorial fork:false",
-      "status": "unavailable",
-      "count": 0,
-      "total": 0,
-      "pages": 0,
-      "firstPage": 1,
-      "error": "GET https://api.github.com/search/repositories?q=topic%3Amachine-learning%20tutorial%20fork%3Afalse&page=1&per_page=100 -> 403: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect yo"
-    },
-    {
       "name": "repositories: topic:deep-learning tutorial fork:false",
-      "status": "unavailable",
-      "count": 0,
-      "total": 0,
-      "pages": 0,
-      "firstPage": 1,
-      "error": "GET https://api.github.com/search/repositories?q=topic%3Adeep-learning%20tutorial%20fork%3Afalse&page=1&per_page=100 -> 403: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect yo"
+      "status": "search-cap",
+      "count": 200,
+      "total": 1465,
+      "pages": 2,
+      "firstPage": 1
     },
     {
       "name": "repositories: topic:generative-ai tutorial fork:false",
-      "status": "unavailable",
-      "count": 0,
-      "total": 0,
-      "pages": 0,
-      "firstPage": 3,
-      "error": "GET https://api.github.com/search/repositories?q=topic%3Agenerative-ai%20tutorial%20fork%3Afalse&page=3&per_page=100 -> 403: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect yo"
+      "status": "ok",
+      "count": 16,
+      "total": 216,
+      "pages": 1,
+      "firstPage": 3
     },
     {
       "name": "repositories: topic:jupyter-notebooks course fork:false",
-      "status": "unavailable",
-      "count": 0,
-      "total": 0,
-      "pages": 0,
-      "firstPage": 1,
-      "error": "GET https://api.github.com/search/repositories?q=topic%3Ajupyter-notebooks%20course%20fork%3Afalse&page=1&per_page=100 -> 403: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect yo"
+      "status": "ok",
+      "count": 116,
+      "total": 116,
+      "pages": 2,
+      "firstPage": 1
     },
     {
       "name": "repositories: \"interactive tutorial\" \"artificial intelligence\" in:readme fork:false",
-      "status": "unavailable",
-      "count": 0,
-      "total": 0,
-      "pages": 0,
-      "firstPage": 3,
-      "error": "GET https://api.github.com/search/repositories?q=%22interactive%20tutorial%22%20%22artificial%20intelligence%22%20in%3Areadme%20fork%3Afalse&page=3&per_page=100 -> 403: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect yo"
+      "status": "bounded",
+      "count": 200,
+      "total": 779,
+      "pages": 2,
+      "firstPage": 3
     },
     {
       "name": "repositories: \"prompt engineering\" interactive in:readme fork:false",
-      "status": "unavailable",
-      "count": 0,
-      "total": 0,
-      "pages": 0,
-      "firstPage": 1,
-      "error": "GET https://api.github.com/search/repositories?q=%22prompt%20engineering%22%20interactive%20in%3Areadme%20fork%3Afalse&page=1&per_page=100 -> 403: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect yo"
+      "status": "search-cap",
+      "count": 200,
+      "total": 66501,
+      "pages": 2,
+      "firstPage": 1
     },
     {
       "name": "repositories: \"LLM course\" in:readme fork:false",
-      "status": "unavailable",
-      "count": 0,
-      "total": 0,
-      "pages": 0,
-      "firstPage": 5,
-      "error": "GET https://api.github.com/search/repositories?q=%22LLM%20course%22%20in%3Areadme%20fork%3Afalse&page=5&per_page=100 -> 403: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect yo"
+      "status": "search-cap",
+      "count": 200,
+      "total": 3206,
+      "pages": 2,
+      "firstPage": 5
     },
     {
       "name": "repositories: \"generative AI\" \"tutorial\" in:readme fork:false",
-      "status": "unavailable",
-      "count": 0,
-      "total": 0,
-      "pages": 0,
-      "firstPage": 1,
-      "error": "GET https://api.github.com/search/repositories?q=%22generative%20AI%22%20%22tutorial%22%20in%3Areadme%20fork%3Afalse&page=1&per_page=100 -> 403: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect yo"
+      "status": "search-cap",
+      "count": 200,
+      "total": 18192,
+      "pages": 2,
+      "firstPage": 1
     },
     {
       "name": "repositories: \"AI tutorial\" in:readme fork:false",
-      "status": "unavailable",
-      "count": 0,
-      "total": 0,
-      "pages": 0,
-      "firstPage": 5,
-      "error": "GET https://api.github.com/search/repositories?q=%22AI%20tutorial%22%20in%3Areadme%20fork%3Afalse&page=5&per_page=100 -> 403: {\n  \"documentation_url\": \"https://docs.github.com/free-pro-team@latest/rest/overview/rate-limits-for-the-rest-api#about-secondary-rate-limits\",\n  \"message\": \"You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect yo"
+      "status": "search-cap",
+      "count": 200,
+      "total": 3832,
+      "pages": 2,
+      "firstPage": 5
     },
     {
       "name": "code: \"interactive tutorial\" \"prompt\" path:README.md",
-      "status": "unavailable",
+      "status": "ok",
       "count": 0,
       "total": 0,
-      "pages": 0,
-      "firstPage": 1,
-      "error": "GitHub API request failed after 4 attempts: https://api.github.com/search/code?q=%22interactive%20tutorial%22%20%22prompt%22%20path%3AREADME.md&page=1&per_page=100"
+      "pages": 1,
+      "firstPage": 1
     },
     {
       "name": "code: \"LLM\" \"course\" path:README.md",
-      "status": "unavailable",
-      "count": 0,
-      "total": 0,
-      "pages": 0,
-      "firstPage": 1,
-      "error": "GitHub API request failed after 4 attempts: https://api.github.com/search/code?q=%22LLM%22%20%22course%22%20path%3AREADME.md&page=1&per_page=100"
+      "status": "ok",
+      "count": 3,
+      "total": 3,
+      "pages": 1,
+      "firstPage": 1
     },
     {
       "name": "code: \"generative AI\" \"tutorial\" path:README.md",
-      "status": "unavailable",
+      "status": "ok",
       "count": 0,
       "total": 0,
-      "pages": 0,
-      "firstPage": 1,
-      "error": "GitHub API request failed after 4 attempts: https://api.github.com/search/code?q=%22generative%20AI%22%20%22tutorial%22%20path%3AREADME.md&page=1&per_page=100"
+      "pages": 1,
+      "firstPage": 1
     },
     {
       "name": "code: \"machine learning\" \"exercises\" path:README.md",
-      "status": "unavailable",
-      "count": 0,
-      "total": 0,
-      "pages": 0,
-      "firstPage": 1,
-      "error": "GitHub API request failed after 4 attempts: https://api.github.com/search/code?q=%22machine%20learning%22%20%22exercises%22%20path%3AREADME.md&page=1&per_page=100"
+      "status": "ok",
+      "count": 1,
+      "total": 1,
+      "pages": 1,
+      "firstPage": 1
     }
   ],
   "newProjects": 0,
@@ -171,15 +158,15 @@
     "unavailable": 0
   },
   "discovery": {
-    "candidates": 140,
+    "candidates": 535,
     "checked": 0,
     "rejected": 40,
-    "deferred": 100,
+    "deferred": 495,
     "sources": 18
   },
   "totalProjects": 473,
-  "projectsSha256": "3e563ba4642b1c5a5d50df2f7a519f7c5bfad4cbb3dcefb49aeb0f66739407b9",
-  "runUrl": "https://github.com/menghun3-cn/radar-book/actions/runs/40868886683",
+  "projectsSha256": "aafffade61ca0bcfd310fcfbd301cfa5ddaaf7767f178d5778c40f433675ae84",
+  "runUrl": "https://github.com/menghun3-cn/radar-book/actions/runs/40923918043",
   "dryRun": false,
-  "lastRunAt": "2026-10-29T12:07:46.028Z"
+  "lastRunAt": "2026-10-29T17:48:05.002Z"
 }
