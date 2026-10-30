@@ -29,17 +29,17 @@
       "name": "repositories: topic:ai-education fork:false",
       "status": "bounded",
       "count": 200,
-      "total": 548,
+      "total": 549,
       "pages": 2,
-      "firstPage": 1
+      "firstPage": 3
     },
     {
       "name": "repositories: topic:prompt-engineering fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 22233,
+      "total": 22252,
       "pages": 2,
-      "firstPage": 1
+      "firstPage": 3
     },
     {
       "name": "repositories: topic:machine-learning tutorial fork:false",
@@ -47,23 +47,23 @@
       "count": 200,
       "total": 2298,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: topic:deep-learning tutorial fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 1467,
+      "total": 1468,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: topic:generative-ai tutorial fork:false",
-      "status": "ok",
-      "count": 18,
+      "status": "bounded",
+      "count": 200,
       "total": 218,
-      "pages": 1,
-      "firstPage": 3
+      "pages": 2,
+      "firstPage": 1
     },
     {
       "name": "repositories: topic:jupyter-notebooks course fork:false",
@@ -79,39 +79,39 @@
       "count": 200,
       "total": 780,
       "pages": 2,
-      "firstPage": 3
+      "firstPage": 5
     },
     {
       "name": "repositories: \"prompt engineering\" interactive in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 66683,
+      "total": 66700,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: \"LLM course\" in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 3215,
+      "total": 3218,
       "pages": 2,
-      "firstPage": 3
+      "firstPage": 5
     },
     {
       "name": "repositories: \"generative AI\" \"tutorial\" in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 18230,
+      "total": 18237,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: \"AI tutorial\" in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 3838,
+      "total": 3839,
       "pages": 2,
-      "firstPage": 3
+      "firstPage": 5
     },
     {
       "name": "code: \"interactive tutorial\" \"prompt\" path:README.md",
@@ -123,21 +123,19 @@
     },
     {
       "name": "code: \"LLM\" \"course\" path:README.md",
-      "status": "unavailable",
-      "count": 0,
-      "total": 0,
-      "pages": 0,
-      "firstPage": 1,
-      "error": "GitHub API request failed after 4 attempts: https://api.github.com/search/code?q=%22LLM%22%20%22course%22%20path%3AREADME.md&page=1&per_page=100"
+      "status": "ok",
+      "count": 3,
+      "total": 3,
+      "pages": 1,
+      "firstPage": 1
     },
     {
       "name": "code: \"generative AI\" \"tutorial\" path:README.md",
-      "status": "unavailable",
+      "status": "ok",
       "count": 0,
       "total": 0,
-      "pages": 0,
-      "firstPage": 1,
-      "error": "GitHub API request failed after 4 attempts: https://api.github.com/search/code?q=%22generative%20AI%22%20%22tutorial%22%20path%3AREADME.md&page=1&per_page=100"
+      "pages": 1,
+      "firstPage": 1
     },
     {
       "name": "code: \"machine learning\" \"exercises\" path:README.md",
@@ -160,15 +158,15 @@
     "unavailable": 0
   },
   "discovery": {
-    "candidates": 539,
+    "candidates": 575,
     "checked": 0,
     "rejected": 40,
-    "deferred": 499,
+    "deferred": 535,
     "sources": 18
   },
   "totalProjects": 473,
-  "projectsSha256": "a590438b109f769a7f6ca329bdd1207c8cfe032e56ec31fb3bf52a1dc25204eb",
-  "runUrl": "https://github.com/menghun3-cn/radar-book/actions/runs/41098288189",
+  "projectsSha256": "c4eb2ef4a4236e26ee408a97f5277a7212572a8ca69acc76f30fc8d370844db0",
+  "runUrl": "https://github.com/menghun3-cn/radar-book/actions/runs/41133327555",
   "dryRun": false,
-  "lastRunAt": "2026-10-30T17:35:59.553Z"
+  "lastRunAt": "2026-10-30T21:51:00.322Z"
 }
