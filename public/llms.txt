@@ -127,8 +127,8 @@
 - [easy-few-shot-learning (sicara)](https://github.com/sicara/easy-few-shot-learning): 基于PyTorch的少样本图像分类教程库，提供经典与事件式训练Notebook及多种前沿算法实现。
 - [zero_to_gpt (VikParuchuri)](https://github.com/VikParuchuri/zero_to_gpt): 从零开始学习深度学习和GPT模型的完整课程。
 - [ai-engineering-from-scratch-zh (fancyboi999)](https://github.com/fancyboi999/ai-engineering-from-scratch-zh): AI工程零基础到精通的中文全套课程，含523节课及AI导师。
-- [Play-with-Machine-Learning-Algorithms (liuyubobobo)](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms): 刘宇波慕课网《Python3 入门机器学习》官方配套代码库，含多章笔记与练习。
 - [road-to-machine-learning (NabidAlam)](https://github.com/NabidAlam/road-to-machine-learning): 一套从零基础到进阶的机器学习系统化教程，含26个模块和23个实战项目。
+- [Play-with-Machine-Learning-Algorithms (liuyubobobo)](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms): 刘宇波慕课网《Python3 入门机器学习》官方配套代码库，含多章笔记与练习。
 - [generative-ai-with-javascript (microsoft)](https://github.com/microsoft/generative-ai-with-javascript): 微软推出的生成式AI JavaScript课程，通过8个章节结合时间旅行故事教学。
 - [thereisnospoon (dreddnafious)](https://github.com/dreddnafious/thereisnospoon): 面向工程师的机器学习初级教程，通过工程类比喻系统讲解ML底层核心原理。
 - [Evolutionary-Algorithm (MorvanZhou)](https://github.com/MorvanZhou/Evolutionary-Algorithm): 莫烦Python进化算法教程，涵盖遗传算法与进化策略，配套可视化代码。
@@ -235,8 +235,8 @@
 - [training-fine-tuning-large-language-models-workshop-dhs2024 (dipanjanS)](https://github.com/dipanjanS/training-fine-tuning-large-language-models-workshop-dhs2024): DataHack 2024 研讨会资料，涵盖 LLM 训练、微调及 RLHF 对齐的成套课程与代码。
 - [agents-in-action (traversaal-ai)](https://github.com/traversaal-ai/agents-in-action): 一套16章的AI Agent实战课程，结合n8n和Lovable构建智能工作流
 - [AI-Engineering-Lab (zorost)](https://github.com/zorost/AI-Engineering-Lab): 一套包含24周结构化课程、43个可运行笔记本及综合案例的免费AI工程自学指南。
-- [chatgpt-prompt-engineering-for-developers (Kevin-free)](https://github.com/Kevin-free/chatgpt-prompt-engineering-for-developers): 吴恩达《ChatGPT提示词工程》课程的中英双版本注记，包含代码实战与核心概念讲解。
 - [Intro-Cultural-Analytics (melaniewalsh)](https://github.com/melaniewalsh/Intro-Cultural-Analytics): 面向人文学科的 Python 文化分析在线教程与教材
+- [chatgpt-prompt-engineering-for-developers (Kevin-free)](https://github.com/Kevin-free/chatgpt-prompt-engineering-for-developers): 吴恩达《ChatGPT提示词工程》课程的中英双版本注记，包含代码实战与核心概念讲解。
 - [TeachingDataScience (yogeshhk)](https://github.com/yogeshhk/TeachingDataScience): 开源数据科学课程资料，含讲义与代码。
 - [KEKOxTutorial (KerasKorea)](https://github.com/KerasKorea/KEKOxTutorial): 全球Keras深度学习教程及文档的韩文翻译项目，涵盖ResNet、GAN、LSTM等实战案例
 - [oci-data-science-ai-samples (oracle-samples)](https://github.com/oracle-samples/oci-data-science-ai-samples): OCI 数据科学服务的官方教程与代码示例集，涵盖机器学习及 LLM 实战。
@@ -257,8 +257,8 @@
 - [Keras-Tutorials (tgjeon)](https://github.com/tgjeon/Keras-Tutorials): 基于Keras框架的深度学习入门教程，包含多个经典模型示例。
 - [PyTorch-101-Tutorial-Series (Paperspace)](https://github.com/Paperspace/PyTorch-101-Tutorial-Series): Paperspace 官方 PyTorch 101 实战教程，从计算图、自动求导到自定义网络架构，配套完整 Jupyter Notebook。
 - [DeepLearningCourseCodes (ionvision)](https://github.com/ionvision/DeepLearningCourseCodes): ChinaHadoop深度学习课程配套代码，涵盖从线性回归到GAN及强化学习的十讲教程。
-- [prompt-engineering-note (isLinXu)](https://github.com/isLinXu/prompt-engineering-note): DeepLearning.AI提示工程课程中文笔记，含9章内容及Jupyter实践代码。
 - [AI-agents-for-cybersecurity (santosomar)](https://github.com/santosomar/AI-agents-for-cybersecurity): Omar Santos编写的AI网络安全智能体实战教程，含八个部分代码与实验。
+- [prompt-engineering-note (isLinXu)](https://github.com/isLinXu/prompt-engineering-note): DeepLearning.AI提示工程课程中文笔记，含9章内容及Jupyter实践代码。
 - [kaggle-courses (drakearch)](https://github.com/drakearch/kaggle-courses): Kaggle官方数据科学与机器学习全套互动教程，含SQL、Python及深度学习笔记
 - [PANDAS-TUTORIAL (TirendazAcademy)](https://github.com/TirendazAcademy/PANDAS-TUTORIAL): 一套面向初学者的Python Pandas数据分析教程，包含系列Notebooks和配套视频。
 - [Applied-Machine-Learning-Explainability-Techniques (PacktPublishing)](https://github.com/PacktPublishing/Applied-Machine-Learning-Explainability-Techniques): Packt出版的《应用机器学习可解释性技术》书籍配套代码，涵盖LIME、SHAP等XAI方法章节
@@ -329,8 +329,8 @@
 - [btp-cap-genai-rag (SAP-samples)](https://github.com/SAP-samples/btp-cap-genai-rag): SAP BTP GenAI邮件洞察教程，涵盖RAG集成与LangChain实战部署
 - [AI-roadmap (h9-tec)](https://github.com/h9-tec/AI-roadmap): 面向零基础用户的AI学习路线图，按数学、CS及专业赛道组织免费资源。
 - [scipy-2017-cython-tutorial (kwmsmith)](https://github.com/kwmsmith/scipy-2017-cython-tutorial): 针对 SciPy 会议的 Cython 高级教程，包含从 CPython 底层到性能优化的多章 Jupyter 练习。
-- [LLM-GenAI-Transformers-Notebooks (avikumart)](https://github.com/avikumart/LLM-GenAI-Transformers-Notebooks): 涵盖LLM从零构建、微调及RAG的配套教程笔记本
 - [NamiGPT (aa1143)](https://github.com/aa1143/NamiGPT): 面向零基础的LLM教程，通过PyTorch手写GPT-2，15个章节逐步解析模型原理。
+- [LLM-GenAI-Transformers-Notebooks (avikumart)](https://github.com/avikumart/LLM-GenAI-Transformers-Notebooks): 涵盖LLM从零构建、微调及RAG的配套教程笔记本
 - [nlp_workshop_odsc_europe20 (dipanjanS)](https://github.com/dipanjanS/nlp_workshop_odsc_europe20): ODSC欧洲会议高级NLP工作坊教程，涵盖基础到深度学习的全流程实践。
 - [tutorials (h2oai)](https://github.com/h2oai/tutorials): H2O.ai官方机器学习与AI自动化工具教程集
 - [python_ml_tutorial (djib2011)](https://github.com/djib2011/python_ml_tutorial): Python数据分析与机器学习完整教程，从零开始，含多章节Notebook。
@@ -371,19 +371,19 @@
 - [llm-scratch-pytorch (skyloevil)](https://github.com/skyloevil/llm-scratch-pytorch): 基于PyTorch的LLM从零实现教程，涵盖GPT2与LLaMA架构及底层优化。
 - [AI-PhD-S25 (rphilipzhang)](https://github.com/rphilipzhang/AI-PhD-S25): 港科大博士课程《AI与商业研究》资料，涵盖ML、LLM及因果推断的幻灯片与代码练习。
 - [spring-ai-zero-to-hero (asaikali)](https://github.com/asaikali/spring-ai-zero-to-hero): Spring AI 官方工作坊，提供从入门到精通的分步教程、代码练习及 RAG 与 Agent 实战指南。
-- [OpenAI-Assistants-Template (pranavgupta2603)](https://github.com/pranavgupta2603/OpenAI-Assistants-Template): 基于OpenAI Assistant API构建智能对话助手的实战教程，含代码示例与最佳实践
 - [claude-code-mastery (ShipWithAI)](https://github.com/ShipWithAI/claude-code-mastery): 一套免费的结构化Claude Code高级课程，含16阶段64模块及双语教程。
+- [OpenAI-Assistants-Template (pranavgupta2603)](https://github.com/pranavgupta2603/OpenAI-Assistants-Template): 基于OpenAI Assistant API构建智能对话助手的实战教程，含代码示例与最佳实践
 - [ai-research-program (dswh)](https://github.com/dswh/ai-research-program): 涵盖10大支柱的AI研究学习路径，包含详细章节、资源与项目要求。
 - [aaron (jakobap)](https://github.com/jakobap/aaron): 基于Genkit和GCP构建自定义LLM深度研究助手的分步挑战实验室，涵盖提示工程、RAG及可观测性。
+- [building-agentic-ai (sinanuozdemir)](https://github.com/sinanuozdemir/building-agentic-ai): Applied AI书籍配套代码，涵盖LLM、RAG、Agent及优化实战案例。
 - [contextual-engineering-guide (FareedKhan-dev)](https://github.com/FareedKhan-dev/contextual-engineering-guide): 基于 LangGraph 的 AI Agent 上下文工程实战教程
 - [tutorials (chainer)](https://github.com/chainer/tutorials): 包含 Python、数学及深度学习等模块的完整交互式 Chainer 课程。
 - [llmariner (llmariner)](https://github.com/llmariner/llmariner): LLMariner提供的Jupyter教程，涵盖OpenAI兼容API使用及RAG实践。
 - [claude-architect (timothywarner-org)](https://github.com/timothywarner-org/claude-architect): 面向Claude认证考试的O'Reilly完整课程，涵盖Agent架构、MCP集成及提示工程实战
-- [building-agentic-ai (sinanuozdemir)](https://github.com/sinanuozdemir/building-agentic-ai): Applied AI书籍配套代码，涵盖LLM、RAG、Agent及优化实战案例。
 - [Fast-LLM-Agent-MCP (omerbsezer)](https://github.com/omerbsezer/Fast-LLM-Agent-MCP): 涵盖LLM原理及多框架Agent开发的系统化教程与实操示例。
+- [Python-fo-Natural-Language-Processing (chaklam-silpasuwanchai)](https://github.com/chaklam-silpasuwanchai/Python-fo-Natural-Language-Processing): AIT自然语言处理课程代码，涵盖词向量、Transformer、SpaCy及HuggingFace实践。
 - [ai900 (timothywarner)](https://github.com/timothywarner/ai900): 面向微软AI-900认证的Azure AI基础课程，包含五个分段教学及可执行演示代码。
 - [Generative-AI-Tutorial (pittisl)](https://github.com/pittisl/Generative-AI-Tutorial): 一份涵盖神经网络、Transformer、LLM、扩散模型等主题的生成式AI学习路线图
-- [Python-fo-Natural-Language-Processing (chaklam-silpasuwanchai)](https://github.com/chaklam-silpasuwanchai/Python-fo-Natural-Language-Processing): AIT自然语言处理课程代码，涵盖词向量、Transformer、SpaCy及HuggingFace实践。
 - [AI-PhD-S26 (rphilipzhang)](https://github.com/rphilipzhang/AI-PhD-S26): 港中文 DOTE 6635 博士课程完整材料，涵盖强化学习、Agentic AI 及商业应用。
 - [awesome-ai-agent-learning (2182977liu-bit)](https://github.com/2182977liu-bit/awesome-ai-agent-learning): 一套从零构建 AI Agent 的中文保姆级教程，涵盖原理、代码与实战
 - [LLM-Workshop (tylerelyt)](https://github.com/tylerelyt/LLM-Workshop): 基于动手项目的LLM开发工作坊，涵盖RAG、多智能体及微调等8个章节
