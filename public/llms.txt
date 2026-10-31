@@ -127,9 +127,9 @@
 - [easy-few-shot-learning (sicara)](https://github.com/sicara/easy-few-shot-learning): 基于PyTorch的少样本图像分类教程库，提供经典与事件式训练Notebook及多种前沿算法实现。
 - [zero_to_gpt (VikParuchuri)](https://github.com/VikParuchuri/zero_to_gpt): 从零开始学习深度学习和GPT模型的完整课程。
 - [ai-engineering-from-scratch-zh (fancyboi999)](https://github.com/fancyboi999/ai-engineering-from-scratch-zh): AI工程零基础到精通的中文全套课程，含523节课及AI导师。
+- [generative-ai-with-javascript (microsoft)](https://github.com/microsoft/generative-ai-with-javascript): 微软推出的生成式AI JavaScript课程，通过8个章节结合时间旅行故事教学。
 - [road-to-machine-learning (NabidAlam)](https://github.com/NabidAlam/road-to-machine-learning): 一套从零基础到进阶的机器学习系统化教程，含26个模块和23个实战项目。
 - [Play-with-Machine-Learning-Algorithms (liuyubobobo)](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms): 刘宇波慕课网《Python3 入门机器学习》官方配套代码库，含多章笔记与练习。
-- [generative-ai-with-javascript (microsoft)](https://github.com/microsoft/generative-ai-with-javascript): 微软推出的生成式AI JavaScript课程，通过8个章节结合时间旅行故事教学。
 - [thereisnospoon (dreddnafious)](https://github.com/dreddnafious/thereisnospoon): 面向工程师的机器学习初级教程，通过工程类比喻系统讲解ML底层核心原理。
 - [Evolutionary-Algorithm (MorvanZhou)](https://github.com/MorvanZhou/Evolutionary-Algorithm): 莫烦Python进化算法教程，涵盖遗传算法与进化策略，配套可视化代码。
 - [claude-code-prompts (repowise-dev)](https://github.com/repowise-dev/claude-code-prompts): 该仓库提供了一整套用于构建AI编码代理的提示模板，涵盖系统提示、工具使用及多智能体协调等核心模式。
@@ -280,6 +280,7 @@
 - [minimind-notes (joyehuang)](https://github.com/joyehuang/minimind-notes): 基于MiniMind的LLM训练原理教程，含归一化、注意力等模块的理论与对比实验。
 - [Prompt-Engineering-Jumpstart (arorarishi)](https://github.com/arorarishi/Prompt-Engineering-Jumpstart): 这是一本面向初学者的开源提示工程教程书，包含14个章节，通过简单类比和实战示例教用户高效与AI交互。
 - [r-course-material (ccs-amsterdam)](https://github.com/ccs-amsterdam/r-course-material): 阿姆斯特丹自由大学R语言课程资料，含LLM与数据分析教程
+- [geo-doctor (Fangx-AI)](https://github.com/Fangx-AI/geo-doctor): 一个将生成式引擎优化流程转化为系统化八步课程的工具，附带详细实操手册。
 - [aitutor (naorpeled)](https://github.com/naorpeled/aitutor): 终端交互式AI开发教程，涵盖18节从入门到高级的LLM与Agent实操课程
 - [jetson-ai-lab (NVIDIA-AI-IOT)](https://github.com/NVIDIA-AI-IOT/jetson-ai-lab): NVIDIA官方Jetson边缘AI教程库，涵盖LLM、VLM及生成模型本地部署实践。
 - [codex-claude-code-config (AnastasiyaW)](https://github.com/AnastasiyaW/codex-claude-code-config): 一套针对Claude Code和Codex的AI代理配置系统，涵盖架构原则、钩子及验证工作流
@@ -308,7 +309,6 @@
 - [rag-interview-system (ather-techie)](https://github.com/ather-techie/rag-interview-system): 系统化的RAG面试题库与教程，含学习路径、52种架构详解及代码实验。
 - [app_generative_ai (jeffheaton)](https://github.com/jeffheaton/app_generative_ai): 华盛顿大学Jeff Heaton的生成式AI课程，含LangChain、RAG及提示工程实战教程。
 - [context-engineering (bonigarcia)](https://github.com/bonigarcia/context-engineering): Manning 出版书籍《Context Engineering》的官方配套代码库，涵盖提示词、RAG、Agent 及记忆管理等实战案例。
-- [geo-doctor (Fangx-AI)](https://github.com/Fangx-AI/geo-doctor): 一个将生成式引擎优化流程转化为系统化八步课程的工具，附带详细实操手册。
 - [kdd2021-tutorial (causal-machine-learning)](https://github.com/causal-machine-learning/kdd2021-tutorial): KDD 2021因果推断与机器学习实战教程，含EconML/CausalML案例。
 - [awesome-q-developer (cremich)](https://github.com/cremich/awesome-q-developer): Amazon Q AI开发助手的学习资源列表，包含工作坊、教程及提示工程指南。
 - [ftcourse (parlance-labs)](https://github.com/parlance-labs/ftcourse): 这是一个LLM微调课程的实践材料，包含提示词工程和基础评估的Jupyter Notebook章节。
