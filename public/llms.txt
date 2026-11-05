@@ -190,16 +190,16 @@
 - [Tutorial_Separation (gemengtju)](https://github.com/gemengtju/Tutorial_Separation): 汇总语音分离与说话人提取相关的教程、数据集、论文及代码工具的学习资源库
 - [RecSys-Industrial-Book (jhljx)](https://github.com/jhljx/RecSys-Industrial-Book): 推荐系统工业级架构与算法开源书籍，含12周结构化课程及章节地图。
 - [start-ai-engineering (louisfb01)](https://github.com/louisfb01/start-ai-engineering): 一份面向初学者的全面AI工程入门指南，包含视频、书籍及实战项目
-- [learn-low-code-agentic-ai (panaversity)](https://github.com/panaversity/learn-low-code-agentic-ai): 基于n8n和MCP的低代码AI智能体开发课程，含提示工程教程及视频。
 - [AIPM-Wiki (archlizheng)](https://github.com/archlizheng/AIPM-Wiki): 一套针对AI产品经理的系统化知识库，包含学习路线、案例拆解及面试题库。
+- [learn-low-code-agentic-ai (panaversity)](https://github.com/panaversity/learn-low-code-agentic-ai): 基于n8n和MCP的低代码AI智能体开发课程，含提示工程教程及视频。
 - [machine-learning-research (imteekay)](https://github.com/imteekay/machine-learning-research): 一个包含 Agentic AI 等成套交互式课程和练习的机器学习资料仓库。
 - [machine-learning-repos (recodehive)](https://github.com/recodehive/machine-learning-repos): 收录机器学习理论、数学基础、框架教程及多个实战项目代码的综合性学习资料库。
 - [hls4ml-tutorial (fastmachinelearning)](https://github.com/fastmachinelearning/hls4ml-tutorial): 一套关于使用hls4ml将机器学习模型部署到FPGA的交互教程，包含从模型训练到硬件综合的完整章节。
 - [lanshu-awesome-ai-video-kit (cclank)](https://github.com/cclank/lanshu-awesome-ai-video-kit): 涵盖15个主流视频模型与21篇SOP的AI视频提示词工程实战教程库。
 - [Python-Data-Science-Handbook (wangyingsm)](https://github.com/wangyingsm/Python-Data-Science-Handbook): Jake Vanderplas著《Python数据科学手册》官方风格中文译本，含完整Notebook课程章节。
 - [mlsys-ladder (caicloud)](https://github.com/caicloud/mlsys-ladder): 面向软件工程师的七阶段机器学习深度学习循序渐进学习路径指南。
-- [AI-Practices (zimingttkx)](https://github.com/zimingttkx/AI-Practices): 一套涵盖从机器学习基础到大模型与智能体系统的全栈AI实战教程，含280+交互笔记。
 - [Prysai-LLM-Playbook (Prysai)](https://github.com/Prysai/Prysai-LLM-Playbook): 一套结构化的LLM实践教程，包含核心课程、多语言章节及验证练习，旨在掌握提示工程与AI代理。
+- [AI-Practices (zimingttkx)](https://github.com/zimingttkx/AI-Practices): 一套涵盖从机器学习基础到大模型与智能体系统的全栈AI实战教程，含280+交互笔记。
 - [awesome-seedance-2.5-guides (Evolink-AI)](https://github.com/Evolink-AI/awesome-seedance-2.5-guides): 提供 Seedance AI 视频生成的官方提示词教程与多语言案例指南。
 - [MachineLearningRoadmap (justxor)](https://github.com/justxor/MachineLearningRoadmap): 面向俄语社区的全面机器学习学习路线图，涵盖从基础到LLM开发的七个阶段及实践任务。
 - [opencode-primer (wesammustafa)](https://github.com/wesammustafa/opencode-primer): OpenCode开源AI编码代理的完整入门指南，含设置、提示工程与插件教程。
@@ -248,9 +248,9 @@
 - [Machine-Learning-Engineering-with-Python-Second-Edition (PacktPublishing)](https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python-Second-Edition): 《Python机器学习工程》第二版配套代码仓库，涵盖从模型开发到LLMOps的全流程实战教程。
 - [modern-llm-notebook (walkinglabs)](https://github.com/walkinglabs/modern-llm-notebook): 一套从零开始的现代LLM实战课程，包含BPE、预训练、SFT、推理及高级技术的可运行Notebook。
 - [TF_JAX_tutorials (AakashKumarNain)](https://github.com/AakashKumarNain/TF_JAX_tutorials): 一套讲解TensorFlow和JAX核心基础概念的分章教程笔记本。
+- [geo-doctor (Fangx-AI)](https://github.com/Fangx-AI/geo-doctor): 一个将生成式引擎优化流程转化为系统化八步课程的工具，附带详细实操手册。
 - [pytorch-distributed-training (rentainhe)](https://github.com/rentainhe/pytorch-distributed-training): 一套系统讲解PyTorch分布式数据并行（DDP）训练原理、API用法及代码实现的教程。
 - [azure-openai-in-a-day-workshop (microsoft)](https://github.com/microsoft/azure-openai-in-a-day-workshop): 微软提供的Azure OpenAI一日工作坊，含提示词练习、嵌入Q&A及实战应用指导。
-- [geo-doctor (Fangx-AI)](https://github.com/Fangx-AI/geo-doctor): 一个将生成式引擎优化流程转化为系统化八步课程的工具，附带详细实操手册。
 - [Kotlin-AI-Examples (Kotlin)](https://github.com/Kotlin/Kotlin-AI-Examples): 基于Kotlin的AI框架互动教程，含Spring AI系列课程及Agent实战笔记。
 - [ibmdotcom-tutorials (IBM)](https://github.com/IBM/ibmdotcom-tutorials): IBM官方维护的AI教程库，涵盖RAG、智能体及提示工程等主题，提供完整学习路径。
 - [prompt-eng-ollama-interactive-tutorial (ivanfioravanti)](https://github.com/ivanfioravanti/prompt-eng-ollama-interactive-tutorial): 基于Ollama的交互式提示词工程课程，含9章教程与实战练习。
@@ -259,8 +259,8 @@
 - [Keras-Tutorials (tgjeon)](https://github.com/tgjeon/Keras-Tutorials): 基于Keras框架的深度学习入门教程，包含多个经典模型示例。
 - [PyTorch-101-Tutorial-Series (Paperspace)](https://github.com/Paperspace/PyTorch-101-Tutorial-Series): Paperspace 官方 PyTorch 101 实战教程，从计算图、自动求导到自定义网络架构，配套完整 Jupyter Notebook。
 - [AI-agents-for-cybersecurity (santosomar)](https://github.com/santosomar/AI-agents-for-cybersecurity): Omar Santos编写的AI网络安全智能体实战教程，含八个部分代码与实验。
-- [DeepLearningCourseCodes (ionvision)](https://github.com/ionvision/DeepLearningCourseCodes): ChinaHadoop深度学习课程配套代码，涵盖从线性回归到GAN及强化学习的十讲教程。
 - [AI-Engineer-Interview-Questions (ombharatiya)](https://github.com/ombharatiya/AI-Engineer-Interview-Questions): 面向AI工程师的系统化面试题库，涵盖ML基础、LLM、RAG、Agent及33家热门公司真题与实战编码题。
+- [DeepLearningCourseCodes (ionvision)](https://github.com/ionvision/DeepLearningCourseCodes): ChinaHadoop深度学习课程配套代码，涵盖从线性回归到GAN及强化学习的十讲教程。
 - [prompt-engineering-note (isLinXu)](https://github.com/isLinXu/prompt-engineering-note): DeepLearning.AI提示工程课程中文笔记，含9章内容及Jupyter实践代码。
 - [kaggle-courses (drakearch)](https://github.com/drakearch/kaggle-courses): Kaggle官方数据科学与机器学习全套互动教程，含SQL、Python及深度学习笔记
 - [Applied-Machine-Learning-Explainability-Techniques (PacktPublishing)](https://github.com/PacktPublishing/Applied-Machine-Learning-Explainability-Techniques): Packt出版的《应用机器学习可解释性技术》书籍配套代码，涵盖LIME、SHAP等XAI方法章节
