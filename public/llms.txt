@@ -233,8 +233,8 @@
 - [ai-playground (rokbenko)](https://github.com/rokbenko/ai-playground): YouTube AI 课程配套代码库，包含 OpenAI、LangGraph 等多框架实战教程
 - [dliss-tutorial (dpressel)](https://github.com/dpressel/dliss-tutorial): 2019年国际深度学习暑期学校的NLP教程，涵盖预训练词嵌入、上下文向量及模型微调。
 - [Awesome_ai_learning (h9-tec)](https://github.com/h9-tec/Awesome_ai_learning): 2026版无水分AI学习指南，分两轨四阶段精选课程与书籍
-- [training-fine-tuning-large-language-models-workshop-dhs2024 (dipanjanS)](https://github.com/dipanjanS/training-fine-tuning-large-language-models-workshop-dhs2024): DataHack 2024 研讨会资料，涵盖 LLM 训练、微调及 RLHF 对齐的成套课程与代码。
 - [agents-in-action (traversaal-ai)](https://github.com/traversaal-ai/agents-in-action): 一套16章的AI Agent实战课程，结合n8n和Lovable构建智能工作流
+- [training-fine-tuning-large-language-models-workshop-dhs2024 (dipanjanS)](https://github.com/dipanjanS/training-fine-tuning-large-language-models-workshop-dhs2024): DataHack 2024 研讨会资料，涵盖 LLM 训练、微调及 RLHF 对齐的成套课程与代码。
 - [AI-Engineering-Lab (zorost)](https://github.com/zorost/AI-Engineering-Lab): 一套包含24周结构化课程、43个可运行笔记本及综合案例的免费AI工程自学指南。
 - [Intro-Cultural-Analytics (melaniewalsh)](https://github.com/melaniewalsh/Intro-Cultural-Analytics): 面向人文学科的 Python 文化分析在线教程与教材
 - [agent-systems-handbook (Prompthon-IO)](https://github.com/Prompthon-IO/agent-systems-handbook): Prompthon 发布的 AI Agent 系统手册，提供多路径课程、实战脚本与生产级架构指南。
@@ -260,8 +260,8 @@
 - [SynthLang (ruvnet)](https://github.com/ruvnet/SynthLang): 提供基于数学结构的LLM提示优化教程及CLI实践指南
 - [Keras-Tutorials (tgjeon)](https://github.com/tgjeon/Keras-Tutorials): 基于Keras框架的深度学习入门教程，包含多个经典模型示例。
 - [PyTorch-101-Tutorial-Series (Paperspace)](https://github.com/Paperspace/PyTorch-101-Tutorial-Series): Paperspace 官方 PyTorch 101 实战教程，从计算图、自动求导到自定义网络架构，配套完整 Jupyter Notebook。
-- [DeepLearningCourseCodes (ionvision)](https://github.com/ionvision/DeepLearningCourseCodes): ChinaHadoop深度学习课程配套代码，涵盖从线性回归到GAN及强化学习的十讲教程。
 - [open-source-llm-zoomcamp (DataTalksClub)](https://github.com/DataTalksClub/open-source-llm-zoomcamp): DataTalksClub推出的开源LLM迷你课程，涵盖在AMD硬件上运行、部署及微调开源大模型的实战指南。
+- [DeepLearningCourseCodes (ionvision)](https://github.com/ionvision/DeepLearningCourseCodes): ChinaHadoop深度学习课程配套代码，涵盖从线性回归到GAN及强化学习的十讲教程。
 - [prompt-engineering-note (isLinXu)](https://github.com/isLinXu/prompt-engineering-note): DeepLearning.AI提示工程课程中文笔记，含9章内容及Jupyter实践代码。
 - [kaggle-courses (drakearch)](https://github.com/drakearch/kaggle-courses): Kaggle官方数据科学与机器学习全套互动教程，含SQL、Python及深度学习笔记
 - [Applied-Machine-Learning-Explainability-Techniques (PacktPublishing)](https://github.com/PacktPublishing/Applied-Machine-Learning-Explainability-Techniques): Packt出版的《应用机器学习可解释性技术》书籍配套代码，涵盖LIME、SHAP等XAI方法章节
