@@ -134,8 +134,8 @@
 - [Evolutionary-Algorithm (MorvanZhou)](https://github.com/MorvanZhou/Evolutionary-Algorithm): 莫烦Python进化算法教程，涵盖遗传算法与进化策略，配套可视化代码。
 - [claude-code-prompts (repowise-dev)](https://github.com/repowise-dev/claude-code-prompts): 该仓库提供了一整套用于构建AI编码代理的提示模板，涵盖系统提示、工具使用及多智能体协调等核心模式。
 - [reinforcement_learning_course_materials (upb-lea)](https://github.com/upb-lea/reinforcement_learning_course_materials): 帕德博恩大学强化学习课程全套资料，含课件、12个练习及视频。
-- [Agent_Memory_Techniques (NirDiamant)](https://github.com/NirDiamant/Agent_Memory_Techniques): 包含30个可运行笔记本的LLM Agent记忆技术教程，覆盖短期记忆、长期存储及生产级框架。
 - [AI-Cross-Border-Ecommerce-Agent-Toolkit (heqiangdiao-wq)](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit): 该仓库将跨境电商运营SOP转化为7个可复用的AI Agent工作流，含完整提示词、脚本及案例，适合Agent开发学习。
+- [Agent_Memory_Techniques (NirDiamant)](https://github.com/NirDiamant/Agent_Memory_Techniques): 包含30个可运行笔记本的LLM Agent记忆技术教程，覆盖短期记忆、长期存储及生产级框架。
 - [machine-learning-curriculum (offchan42)](https://github.com/offchan42/machine-learning-curriculum): 一份全面且结构化的机器学习、深度学习及强化学习课程资源清单。
 - [Prompt-Engineering-Guide-zh-CN (yunwei37)](https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN): 该仓库提供系统化的提示工程指南、讲座及代码练习，涵盖基础到高级技巧。
 - [Deep-Learning-For-Hackers (curiousily)](https://github.com/curiousily/Deep-Learning-For-Hackers): 基于TensorFlow 2和Keras的机器学习实践教程，涵盖LSTM、BERT等主题。
@@ -256,8 +256,8 @@
 - [Kotlin-AI-Examples (Kotlin)](https://github.com/Kotlin/Kotlin-AI-Examples): 基于Kotlin的AI框架互动教程，含Spring AI系列课程及Agent实战笔记。
 - [ibmdotcom-tutorials (IBM)](https://github.com/IBM/ibmdotcom-tutorials): IBM官方维护的AI教程库，涵盖RAG、智能体及提示工程等主题，提供完整学习路径。
 - [AI-agents-for-cybersecurity (santosomar)](https://github.com/santosomar/AI-agents-for-cybersecurity): Omar Santos编写的AI网络安全智能体实战教程，含八个部分代码与实验。
-- [prompt-eng-ollama-interactive-tutorial (ivanfioravanti)](https://github.com/ivanfioravanti/prompt-eng-ollama-interactive-tutorial): 基于Ollama的交互式提示词工程课程，含9章教程与实战练习。
 - [appl (appl-team)](https://github.com/appl-team/appl): APPL提示编程语言的官方教程，涵盖安装、入门示例及核心概念解析。
+- [prompt-eng-ollama-interactive-tutorial (ivanfioravanti)](https://github.com/ivanfioravanti/prompt-eng-ollama-interactive-tutorial): 基于Ollama的交互式提示词工程课程，含9章教程与实战练习。
 - [SynthLang (ruvnet)](https://github.com/ruvnet/SynthLang): 提供基于数学结构的LLM提示优化教程及CLI实践指南
 - [Keras-Tutorials (tgjeon)](https://github.com/tgjeon/Keras-Tutorials): 基于Keras框架的深度学习入门教程，包含多个经典模型示例。
 - [PyTorch-101-Tutorial-Series (Paperspace)](https://github.com/Paperspace/PyTorch-101-Tutorial-Series): Paperspace 官方 PyTorch 101 实战教程，从计算图、自动求导到自定义网络架构，配套完整 Jupyter Notebook。
