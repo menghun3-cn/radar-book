@@ -169,8 +169,8 @@
 - [ai-engineer-roadmap (dswh)](https://github.com/dswh/ai-engineer-roadmap): 面向AI工程师的分阶段学习路线图，涵盖技能、资源及实战项目建议
 - [awesome-r-learning-resources (iamericfletcher)](https://github.com/iamericfletcher/awesome-r-learning-resources): 这是一个整理 R 语言学习资料的项目，包含课程、书籍、博客和社区资源链接。
 - [tf-estimator-tutorials (GoogleCloudPlatform)](https://github.com/GoogleCloudPlatform/tf-estimator-tutorials): TensorFlow Estimator API的系统教程，涵盖分类、回归等机器学习任务。
-- [free-ai-tips (business-science)](https://github.com/business-science/free-ai-tips): Business Science提供的免费每周AI/ML实战教程，涵盖生成式AI、LLM及数据分析Agent开发。
 - [ai-business-skills (minhnv0807)](https://github.com/minhnv0807/ai-business-skills): 双语 AI 营销技能教程，包含 144 个 Agent 技能、19 个工作流及营销思维知识章节。
+- [free-ai-tips (business-science)](https://github.com/business-science/free-ai-tips): Business Science提供的免费每周AI/ML实战教程，涵盖生成式AI、LLM及数据分析Agent开发。
 - [cs329s-ml-deployment-tutorial (mrdbourke)](https://github.com/mrdbourke/cs329s-ml-deployment-tutorial): 斯坦福CS329s机器学习模型部署教程配套代码，涵盖GCP与Docker实践
 - [data-science-your-way (jadianes)](https://github.com/jadianes/data-science-your-way): 一个对比R和Python的数据科学教程系列，涵盖数据框、探索性分析、降维、聚类及情感分析等核心主题。
 - [geo-doctor (Fangx-AI)](https://github.com/Fangx-AI/geo-doctor): 一个将生成式引擎优化流程转化为系统化八步课程的工具，附带详细实操手册。
@@ -227,8 +227,8 @@
 - [DeepWorks (avkash)](https://github.com/avkash/DeepWorks): DeepWorks 提供深度学习、LLM 及生成式 AI 的结构化教程与项目资源
 - [applied-reinforcement-learning (mimoralea)](https://github.com/mimoralea/applied-reinforcement-learning): 一套直观易懂的强化学习教程，包含分章节讲解、动手实验和配套代码。
 - [PyTorch-Mini-Tutorials (vinhkhuc)](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials): 基于PyTorch的入门级迷你教程集，涵盖从张量运算到LSTM的七个基础项目。
-- [ACE (NVIDIA)](https://github.com/NVIDIA/ACE): NVIDIA ACE数字人工作流及Tokkio定制化Jupyter教程。
 - [open-source-llm-zoomcamp (DataTalksClub)](https://github.com/DataTalksClub/open-source-llm-zoomcamp): DataTalksClub推出的开源LLM迷你课程，涵盖在AMD硬件上运行、部署及微调开源大模型的实战指南。
+- [ACE (NVIDIA)](https://github.com/NVIDIA/ACE): NVIDIA ACE数字人工作流及Tokkio定制化Jupyter教程。
 - [CNTK-World (astorfi)](https://github.com/astorfi/CNTK-World): 一套基于微软 CNTK 框架的深度学习教程，涵盖基础模型、神经网络及高级应用
 - [MLE-DS-Interview-Prep-Guide (whaleonearth)](https://github.com/whaleonearth/MLE-DS-Interview-Prep-Guide): 面向MLE/DS的3个月结构化AI面试备考指南，覆盖算法、系统设计及LLM。
 - [ai-playground (rokbenko)](https://github.com/rokbenko/ai-playground): YouTube AI 课程配套代码库，包含 OpenAI、LangGraph 等多框架实战教程
@@ -247,8 +247,8 @@
 - [Context-Engineering-for-Multi-Agent-Systems (Denis2054)](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems): 多智能体系统上下文工程实战指南，含章节代码与MCP/RAG架构
 - [Deep-Dive-Claude-Code (waiterxiaoyy)](https://github.com/waiterxiaoyy/Deep-Dive-Claude-Code): 基于Claude Code源码的13章交互式教程，包含文档、Demo及Web平台。
 - [curriculum (ai-builders)](https://github.com/ai-builders/curriculum): 8 周 AI Builders 课程，覆盖 AI 基础、SGD、Agentic、视觉、NLP、表格数据与部署。
-- [Machine-Learning-Engineering-with-Python-Second-Edition (PacktPublishing)](https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python-Second-Edition): 《Python机器学习工程》第二版配套代码仓库，涵盖从模型开发到LLMOps的全流程实战教程。
 - [modern-llm-notebook (walkinglabs)](https://github.com/walkinglabs/modern-llm-notebook): 一套从零开始的现代LLM实战课程，包含BPE、预训练、SFT、推理及高级技术的可运行Notebook。
+- [Machine-Learning-Engineering-with-Python-Second-Edition (PacktPublishing)](https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python-Second-Edition): 《Python机器学习工程》第二版配套代码仓库，涵盖从模型开发到LLMOps的全流程实战教程。
 - [AI-Engineer-Interview-Questions (ombharatiya)](https://github.com/ombharatiya/AI-Engineer-Interview-Questions): 面向AI工程师的系统化面试题库，涵盖ML基础、LLM、RAG、Agent及33家热门公司真题与实战编码题。
 - [TF_JAX_tutorials (AakashKumarNain)](https://github.com/AakashKumarNain/TF_JAX_tutorials): 一套讲解TensorFlow和JAX核心基础概念的分章教程笔记本。
 - [pytorch-distributed-training (rentainhe)](https://github.com/rentainhe/pytorch-distributed-training): 一套系统讲解PyTorch分布式数据并行（DDP）训练原理、API用法及代码实现的教程。
@@ -397,8 +397,8 @@
 - [Notebook-Git-Colab (JonusNattapong)](https://github.com/JonusNattapong/Notebook-Git-Colab): 一份包含25个章节的AI/LLM外部学习资源与演示代码索引目录
 - [allennlp_tutorial (jbarrow)](https://github.com/jbarrow/allennlp_tutorial): 基于AllenNLP库的NLP序列建模教程，涵盖从数据读取到高级模型构建。
 - [AI-Conversation (TyrealQ)](https://github.com/TyrealQ/AI-Conversation): 体育管理领域 AI 应用教程，含 NLP、LLM 及 Agent 实战项目与课程资源。
-- [math-app-ml (pabloinsente)](https://github.com/pabloinsente/math-app-ml): 面向机器学习应用的交互式数学基础教程，涵盖线性代数等核心概念。
 - [doc-adk-training (mauripsale)](https://github.com/mauripsale/doc-adk-training): 基于Google ADK的40模块AI Agent开发实战培训教程
+- [math-app-ml (pabloinsente)](https://github.com/pabloinsente/math-app-ml): 面向机器学习应用的交互式数学基础教程，涵盖线性代数等核心概念。
 - [the-vibe-coding-handbook (hacrex)](https://github.com/hacrex/the-vibe-coding-handbook): AI辅助编程入门到精通的开源手册，含完整学习路径与项目实战
 - [_Book_Claude-Code (sysnet4admin)](https://github.com/sysnet4admin/_Book_Claude-Code): 《必须掌握的Claude Code》韩语技术书籍配套练习代码库，包含按周划分的AI编码实战案例。
 - [Generative-AI-Learning-Roadmap (iscloudready)](https://github.com/iscloudready/Generative-AI-Learning-Roadmap): 覆盖4阶段16赛道的生成式AI学习路线图，含200+精选资源及职业指南。
@@ -441,9 +441,9 @@
 - [moltbook-agent-guard (NirDiamant)](https://github.com/NirDiamant/moltbook-agent-guard): 提供AI Agent安全防护的实操教程与工具包
 - [openclawnet (elbruno)](https://github.com/elbruno/openclawnet): 基于.NET 10的AI Agent平台分4节Reactor直播课程及配套实战材料
 - [awesome-code-docs (johnxie)](https://github.com/johnxie/awesome-code-docs): 涵盖203个AI/LLM工具的深度教程，采用统一八章节结构，适合系统学习AI开发。
+- [WAF_ML_Tutorial_Part1 (ai2es)](https://github.com/ai2es/WAF_ML_Tutorial_Part1): 气象学传统机器学习教程，含代码与笔记本，助新手入门。
 - [oreilly-ai-k8s-tutorial (dwhitena)](https://github.com/dwhitena/oreilly-ai-k8s-tutorial): O'Reilly教程材料，指导在K8s上部署端到端AI工作流。
 - [prompt_engineering_guide (DATANOMIQ)](https://github.com/DATANOMIQ/prompt_engineering_guide): 基于Streamlit和Notebook的提示工程实战工作坊，涵盖CoT、ReAct等8种核心技术
-- [WAF_ML_Tutorial_Part1 (ai2es)](https://github.com/ai2es/WAF_ML_Tutorial_Part1): 气象学传统机器学习教程，含代码与笔记本，助新手入门。
 - [Python-for-Data-Science (chaklam-silpasuwanchai)](https://github.com/chaklam-silpasuwanchai/Python-for-Data-Science): 数据科学Python入门课程，含基础语法与常用库教程。
 - [programming-in-python (widmi)](https://github.com/widmi/programming-in-python): 面向初学者的Python机器学习交互式课程，涵盖基础语法至PyTorch神经网络实战
 - [mlx-llm-tutorial (ddttom)](https://github.com/ddttom/mlx-llm-tutorial): 基于Apple MLX框架的LLM构建教程，含理论与代码实践
