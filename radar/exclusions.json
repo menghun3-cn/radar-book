@@ -35763,5 +35763,205 @@
     "id": "apimodels/muse-video-prompts",
     "reason": "education signal too weak (0 readme terms, 0 lesson files)",
     "excludedAt": "2026-11-12T23:10:52.561Z"
+  },
+  {
+    "id": "ruggsea/fundamentals-of-llms-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:49.655Z"
+  },
+  {
+    "id": "ismailsadouki/llm-course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:49.873Z"
+  },
+  {
+    "id": "relatedb/relate",
+    "reason": "llm: 该仓库是嵌入式图数据库工具，非教学课程或书籍",
+    "excludedAt": "2026-11-13T03:59:53.227Z"
+  },
+  {
+    "id": "dyangalih/security-review",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:53.464Z"
+  },
+  {
+    "id": "open-source-studio-at-itp/syllabus-s26",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:53.714Z"
+  },
+  {
+    "id": "mentors4edu/startup-tools",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:53.973Z"
+  },
+  {
+    "id": "pedroeckel/ia-em-pratica",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:54.232Z"
+  },
+  {
+    "id": "awalesagar/transformer-from-scratch",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:54.474Z"
+  },
+  {
+    "id": "shashikantdev3/zero-to-ai-engineer",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:54.699Z"
+  },
+  {
+    "id": "xiaoxiaoazhang/awesome",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:54.980Z"
+  },
+  {
+    "id": "lis-r-barreto/llm-study-notes",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:55.194Z"
+  },
+  {
+    "id": "rushichavda/be-prepared",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:55.433Z"
+  },
+  {
+    "id": "driw0x/hf-ai-courses",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:55.727Z"
+  },
+  {
+    "id": "minaungoo64/llm",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:56.002Z"
+  },
+  {
+    "id": "franespiga/iniciacion_nlp_llm",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:56.218Z"
+  },
+  {
+    "id": "jnchen31/dlai_llm_course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:56.448Z"
+  },
+  {
+    "id": "jiaozhee/llm_course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:56.735Z"
+  },
+  {
+    "id": "devshafi/genai-learning",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:56.962Z"
+  },
+  {
+    "id": "amasiukevich/llm_course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:57.165Z"
+  },
+  {
+    "id": "goosmanlei/llm-hf",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:57.405Z"
+  },
+  {
+    "id": "mehamalaa-crypto/ai-website-builder",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:57.618Z"
+  },
+  {
+    "id": "turturturturtur/llm_course_hit",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:57.851Z"
+  },
+  {
+    "id": "jinzhou2008/huggingface_mine",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:58.064Z"
+  },
+  {
+    "id": "cheva94/llm_course_hf",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:58.352Z"
+  },
+  {
+    "id": "jamilyakuanysh/ai_english_tutor_bot",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:58.555Z"
+  },
+  {
+    "id": "zoesuhnny/data_science_and_ml_notes",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:58.758Z"
+  },
+  {
+    "id": "hana-esf/hugginface_llm_course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:59.028Z"
+  },
+  {
+    "id": "arjunjagdale/llm_course_hugginface",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:59.285Z"
+  },
+  {
+    "id": "gurdeep101/fine_tune_llm_course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:59.473Z"
+  },
+  {
+    "id": "ashish265/hugging_face_llm_course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:59.735Z"
+  },
+  {
+    "id": "ashishsaini01/llm_course_hugging_face",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T03:59:59.939Z"
+  },
+  {
+    "id": "darksteeld/aaa_llm_course_meta_repo",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T04:00:00.158Z"
+  },
+  {
+    "id": "ankursharma012/huggingfacetutorialssnippets",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T04:00:00.420Z"
+  },
+  {
+    "id": "jayakrishna20/llm_course",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T04:00:00.686Z"
+  },
+  {
+    "id": "alirezaak2000/llm",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T04:00:00.946Z"
+  },
+  {
+    "id": "jdgomez/huggingfacelearn",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T04:00:01.163Z"
+  },
+  {
+    "id": "eyash24/llm-hugginface",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T04:00:01.409Z"
+  },
+  {
+    "id": "nurlybay/telegram-finance-bot",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T04:00:01.661Z"
+  },
+  {
+    "id": "baruny/llm_langchain",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T04:00:01.958Z"
+  },
+  {
+    "id": "sunmoon-idegu/llm-courses",
+    "reason": "below 50 stars",
+    "excludedAt": "2026-11-13T04:00:02.295Z"
   }
 ]
