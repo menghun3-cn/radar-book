@@ -214,6 +214,7 @@
 - [Kind-PyTorch-Tutorial (GunhoChoi)](https://github.com/GunhoChoi/Kind-PyTorch-Tutorial): 面向初学者的PyTorch系统性教程，包含12个章节，涵盖张量、自动求导、CNN及GAN等内容。
 - [prompt-engineering-with-anthropic-claude-v-3 (aws-samples)](https://github.com/aws-samples/prompt-engineering-with-anthropic-claude-v-3): Anthropic Claude 3 提示工程官方交互式教程，含 9 章课程、练习及高级附录。
 - [genaiops-promptflow-template (microsoft)](https://github.com/microsoft/genaiops-promptflow-template): 微软官方LLMOps与PromptFlow实战教程，含CI/CD、评估及部署指南。
+- [dyz-med-paper-skills (duyunzhoudyz)](https://github.com/duyunzhoudyz/dyz-med-paper-skills): 面向医生的32个医学论文AI Agent技能，含检索、写作等成套教程。
 - [colab (ContinualAI)](https://github.com/ContinualAI/colab): 涵盖持续学习策略及深度学习基础的 Colab 教程集合。
 - [ghost-ai (adrianhajdin)](https://github.com/adrianhajdin/ghost-ai): JavaScript Mastery 的 AI 系统架构构建器教程代码，通过视频指导逐步实现 Gemini 代理和协作功能。
 - [llm-course-chn (friendmine)](https://github.com/friendmine/llm-course-chn): mlabonne《LLM Course》的中文授权翻译，覆盖 LLM 基础、LLM Scientist 与 LLM Engineer 三部分。
@@ -274,8 +275,8 @@
 - [docs (TuringLang)](https://github.com/TuringLang/docs): Turing.jl官方教程，涵盖贝叶斯推断与概率编程核心概念及实践
 - [graphml-tutorials (mims-harvard)](https://github.com/mims-harvard/graphml-tutorials): 哈佛开发的图机器学习教程，涵盖 GNN 原理、架构实现及生物医学应用实战。
 - [rl-handbook (lubludrova)](https://github.com/lubludrova/rl-handbook): 一份系统讲解强化学习算法与代码的实践型教科书，从基础到高级。
-- [context-engineering-dspy (avbiswas)](https://github.com/avbiswas/context-engineering-dspy): DSPy上下文工程配套课程代码，涵盖提示、多轮交互、评估、工具及RAG五个层级实践。
 - [NamiGPT (aa1143)](https://github.com/aa1143/NamiGPT): 面向零基础的LLM教程，通过PyTorch手写GPT-2，15个章节逐步解析模型原理。
+- [context-engineering-dspy (avbiswas)](https://github.com/avbiswas/context-engineering-dspy): DSPy上下文工程配套课程代码，涵盖提示、多轮交互、评估、工具及RAG五个层级实践。
 - [bert-classification-tutorial (hppRC)](https://github.com/hppRC/bert-classification-tutorial): 基于PyTorch和Transformers的BERT文本分类结构化教程
 - [DL-for-Chatbot (j-min)](https://github.com/j-min/DL-for-Chatbot): 基于PyTorch的聊天机器人深度学习课程，涵盖NLP基础、CNN/RNN及Seq2Seq架构
 - [machine-learning (ocademy-ai)](https://github.com/ocademy-ai/machine-learning): 开源AI学习社区，提供交互式机器学习书籍、练习作业及生成式AI提示资源。
@@ -396,10 +397,10 @@
 - [Pretrain-Vision-and-Large-Language-Models-in-Python (PacktPublishing)](https://github.com/PacktPublishing/Pretrain-Vision-and-Large-Language-Models-in-Python): Packt出版基础模型预训练与微调书籍配套代码，基于AWS SageMaker实践。
 - [Complete-GenAI-Course-Python-Langchain (techsimpluslearning)](https://github.com/techsimpluslearning/Complete-GenAI-Course-Python-Langchain): 一个包含45多个视频教程、10个实战项目和完整代码的生成式AI课程资源包。
 - [Notebook-Git-Colab (JonusNattapong)](https://github.com/JonusNattapong/Notebook-Git-Colab): 一份包含25个章节的AI/LLM外部学习资源与演示代码索引目录
+- [the-vibe-coding-handbook (hacrex)](https://github.com/hacrex/the-vibe-coding-handbook): AI辅助编程入门到精通的开源手册，含完整学习路径与项目实战
 - [allennlp_tutorial (jbarrow)](https://github.com/jbarrow/allennlp_tutorial): 基于AllenNLP库的NLP序列建模教程，涵盖从数据读取到高级模型构建。
 - [AI-Conversation (TyrealQ)](https://github.com/TyrealQ/AI-Conversation): 体育管理领域 AI 应用教程，含 NLP、LLM 及 Agent 实战项目与课程资源。
 - [doc-adk-training (mauripsale)](https://github.com/mauripsale/doc-adk-training): 基于Google ADK的40模块AI Agent开发实战培训教程
-- [the-vibe-coding-handbook (hacrex)](https://github.com/hacrex/the-vibe-coding-handbook): AI辅助编程入门到精通的开源手册，含完整学习路径与项目实战
 - [math-app-ml (pabloinsente)](https://github.com/pabloinsente/math-app-ml): 面向机器学习应用的交互式数学基础教程，涵盖线性代数等核心概念。
 - [_Book_Claude-Code (sysnet4admin)](https://github.com/sysnet4admin/_Book_Claude-Code): 《必须掌握的Claude Code》韩语技术书籍配套练习代码库，包含按周划分的AI编码实战案例。
 - [Generative-AI-Learning-Roadmap (iscloudready)](https://github.com/iscloudready/Generative-AI-Learning-Roadmap): 覆盖4阶段16赛道的生成式AI学习路线图，含200+精选资源及职业指南。

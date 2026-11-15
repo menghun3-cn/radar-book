@@ -31,15 +31,15 @@
       "count": 200,
       "total": 599,
       "pages": 2,
-      "firstPage": 1
+      "firstPage": 3
     },
     {
       "name": "repositories: topic:prompt-engineering fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 23595,
+      "total": 23601,
       "pages": 2,
-      "firstPage": 1
+      "firstPage": 3
     },
     {
       "name": "repositories: topic:machine-learning tutorial fork:false",
@@ -47,7 +47,7 @@
       "count": 200,
       "total": 2334,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: topic:deep-learning tutorial fork:false",
@@ -55,15 +55,15 @@
       "count": 200,
       "total": 1493,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: topic:generative-ai tutorial fork:false",
-      "status": "bounded",
-      "count": 200,
+      "status": "ok",
+      "count": 22,
       "total": 222,
-      "pages": 2,
-      "firstPage": 1
+      "pages": 1,
+      "firstPage": 3
     },
     {
       "name": "repositories: topic:jupyter-notebooks course fork:false",
@@ -75,43 +75,43 @@
     },
     {
       "name": "repositories: \"interactive tutorial\" \"artificial intelligence\" in:readme fork:false",
-      "status": "bounded",
-      "count": 200,
+      "status": "ok",
+      "count": 187,
       "total": 787,
       "pages": 2,
-      "firstPage": 5
+      "firstPage": 7
     },
     {
       "name": "repositories: \"prompt engineering\" interactive in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 68365,
+      "total": 68378,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: \"LLM course\" in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 3327,
+      "total": 3328,
       "pages": 2,
-      "firstPage": 3
+      "firstPage": 5
     },
     {
       "name": "repositories: \"generative AI\" \"tutorial\" in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 18688,
+      "total": 18694,
       "pages": 2,
-      "firstPage": 9
+      "firstPage": 1
     },
     {
       "name": "repositories: \"AI tutorial\" in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 3914,
+      "total": 3918,
       "pages": 2,
-      "firstPage": 3
+      "firstPage": 5
     },
     {
       "name": "code: \"interactive tutorial\" \"prompt\" path:README.md",
@@ -124,21 +124,19 @@
     },
     {
       "name": "code: \"LLM\" \"course\" path:README.md",
-      "status": "unavailable",
-      "count": 0,
-      "total": 0,
-      "pages": 0,
-      "firstPage": 1,
-      "error": "GitHub API request failed after 4 attempts: https://api.github.com/search/code?q=%22LLM%22%20%22course%22%20path%3AREADME.md&page=1&per_page=100"
+      "status": "ok",
+      "count": 3,
+      "total": 3,
+      "pages": 1,
+      "firstPage": 1
     },
     {
       "name": "code: \"generative AI\" \"tutorial\" path:README.md",
-      "status": "unavailable",
+      "status": "ok",
       "count": 0,
       "total": 0,
-      "pages": 0,
-      "firstPage": 1,
-      "error": "GitHub API request failed after 4 attempts: https://api.github.com/search/code?q=%22generative%20AI%22%20%22tutorial%22%20path%3AREADME.md&page=1&per_page=100"
+      "pages": 1,
+      "firstPage": 1
     },
     {
       "name": "code: \"machine learning\" \"exercises\" path:README.md",
@@ -151,7 +149,7 @@
   ],
   "newProjects": 1,
   "metadata": {
-    "ok": 477,
+    "ok": 478,
     "failed": 2
   },
   "pendingReview": {
@@ -161,15 +159,15 @@
     "unavailable": 0
   },
   "discovery": {
-    "candidates": 85,
+    "candidates": 103,
     "checked": 1,
     "rejected": 39,
-    "deferred": 45,
+    "deferred": 63,
     "sources": 18
   },
-  "totalProjects": 480,
-  "projectsSha256": "0683b73e7fd064ca1da7b0329e60e5fbd536e51ccedc8d08a94a454b335d87f2",
-  "runUrl": "https://github.com/menghun3-cn/radar-book/actions/runs/43644552281",
+  "totalProjects": 481,
+  "projectsSha256": "964ac6325d8d67d200edf8fd234a5cbd1edc6adf696e1dcbe7fe00ad580167fe",
+  "runUrl": "https://github.com/menghun3-cn/radar-book/actions/runs/43672900209",
   "dryRun": false,
-  "lastRunAt": "2026-11-14T22:01:22.069Z"
+  "lastRunAt": "2026-11-15T03:41:44.554Z"
 }
