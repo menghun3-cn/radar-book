@@ -219,11 +219,11 @@
 - [ghost-ai (adrianhajdin)](https://github.com/adrianhajdin/ghost-ai): JavaScript Mastery 的 AI 系统架构构建器教程代码，通过视频指导逐步实现 Gemini 代理和协作功能。
 - [llm-course-chn (friendmine)](https://github.com/friendmine/llm-course-chn): mlabonne《LLM Course》的中文授权翻译，覆盖 LLM 基础、LLM Scientist 与 LLM Engineer 三部分。
 - [Comprehensive-Data-Science-AI-Project-Portfolio (MelihGulum)](https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio): 涵盖ML、DL、数据工程等主题的教学项目与教程合集
-- [awesome-adk-agents (Sri-Krishna-V)](https://github.com/Sri-Krishna-V/awesome-adk-agents): 精选谷歌ADK智能体开发资源，含教程、模板及实战案例，助用户掌握AI Agent构建。
 - [claude-code-pro-course (justxor)](https://github.com/justxor/claude-code-pro-course): 俄语Claude Code高级实战课程，涵盖代理配置、实验及提示工程。
+- [awesome-adk-agents (Sri-Krishna-V)](https://github.com/Sri-Krishna-V/awesome-adk-agents): 精选谷歌ADK智能体开发资源，含教程、模板及实战案例，助用户掌握AI Agent构建。
+- [open-source-llm-zoomcamp (DataTalksClub)](https://github.com/DataTalksClub/open-source-llm-zoomcamp): DataTalksClub推出的开源LLM迷你课程，涵盖在AMD硬件上运行、部署及微调开源大模型的实战指南。
 - [Robotics-Object-Pose-Estimation (Unity-Technologies)](https://github.com/Unity-Technologies/Robotics-Object-Pose-Estimation): 通过Unity与ROS演示对象姿态估计从数据到部署的全流程教程。
 - [ai-agent-camp (minicoohei)](https://github.com/minicoohei/ai-agent-camp): 面向非技术背景人员的AI Agent实战培训体系，含62章课程与多工具实操。
-- [open-source-llm-zoomcamp (DataTalksClub)](https://github.com/DataTalksClub/open-source-llm-zoomcamp): DataTalksClub推出的开源LLM迷你课程，涵盖在AMD硬件上运行、部署及微调开源大模型的实战指南。
 - [sars_tutorial (mquad)](https://github.com/mquad/sars_tutorial): 针对序列感知推荐系统的交互式教程，包含多个 Jupyter Notebook 章节。
 - [recipe-chatbot (ai-evals-course)](https://github.com/ai-evals-course/recipe-chatbot): 基于配方聊天机器人的AI评估课程，含5个渐进式作业及实践指南
 - [DeepWorks (avkash)](https://github.com/avkash/DeepWorks): DeepWorks 提供深度学习、LLM 及生成式 AI 的结构化教程与项目资源
@@ -310,8 +310,8 @@
 - [Neural-Networks-from-Scratch (lionelmessi6410)](https://github.com/lionelmessi6410/Neural-Networks-from-Scratch): 基于NumPy从零构建神经网络的基础教程，涵盖架构、反向传播及优化器实现。
 - [AtomisticSkills (learningmatter-mit)](https://github.com/learningmatter-mit/AtomisticSkills): MIT开发的原子模拟AI代理技能框架，提供层级化教程以自动化材料研究。
 - [context-engineering (bonigarcia)](https://github.com/bonigarcia/context-engineering): Manning 出版书籍《Context Engineering》的官方配套代码库，涵盖提示词、RAG、Agent 及记忆管理等实战案例。
-- [rag-interview-system (ather-techie)](https://github.com/ather-techie/rag-interview-system): 系统化的RAG面试题库与教程，含学习路径、52种架构详解及代码实验。
 - [ai-engineering-hub (ngophatneknha)](https://github.com/ngophatneknha/ai-engineering-hub): 汇总LLM、RAG及AI Agent的50个免费课程与资源，提供系统化学习路线图的AI工程学习中心。
+- [rag-interview-system (ather-techie)](https://github.com/ather-techie/rag-interview-system): 系统化的RAG面试题库与教程，含学习路径、52种架构详解及代码实验。
 - [app_generative_ai (jeffheaton)](https://github.com/jeffheaton/app_generative_ai): 华盛顿大学Jeff Heaton的生成式AI课程，含LangChain、RAG及提示工程实战教程。
 - [kdd2021-tutorial (causal-machine-learning)](https://github.com/causal-machine-learning/kdd2021-tutorial): KDD 2021因果推断与机器学习实战教程，含EconML/CausalML案例。
 - [awesome-q-developer (cremich)](https://github.com/cremich/awesome-q-developer): Amazon Q AI开发助手的学习资源列表，包含工作坊、教程及提示工程指南。
@@ -452,9 +452,9 @@
 - [mlx-llm-tutorial (ddttom)](https://github.com/ddttom/mlx-llm-tutorial): 基于Apple MLX框架的LLM构建教程，含理论与代码实践
 - [Awesome-DiffComm (qin-jingyun)](https://github.com/qin-jingyun/Awesome-DiffComm): 基于IEEE教程的扩散模型与语义通信教育资源库，含数学基础、精选论文及课程。
 - [agentic-loop-engineering-course (FareedKhan-dev)](https://github.com/FareedKhan-dev/agentic-loop-engineering-course): 一套18个Notebook的Agent循环工程实战课程，基于实测数据解析LLM组件优化。
+- [xxd-pstack (nevertoday)](https://github.com/nevertoday/xxd-pstack): 面向初学者的AI编码代理pstack实用教程，涵盖安装、提示词设计及实战技巧。
 - [CIFAR-10 (RubixML)](https://github.com/RubixML/CIFAR-10): 基于PHP和Rubix ML库的CIFAR-10图像识别深度神经网络教程。
 - [ml_tutorial (mallahyari)](https://github.com/mallahyari/ml_tutorial): 该仓库提供一系列机器学习和深度学习概念的直观教程，涵盖从最大似然估计到神经网络等内容。
-- [xxd-pstack (nevertoday)](https://github.com/nevertoday/xxd-pstack): 面向初学者的AI编码代理pstack实用教程，涵盖安装、提示词设计及实战技巧。
 - [stable-diffusion-model-tutorial (azad-academy)](https://github.com/azad-academy/stable-diffusion-model-tutorial): 一份关于潜在扩散模型（Stable Diffusion）的简易交互式教程及 Jupyter Notebook。
 - [Machine-Learning (dr-mushtaq)](https://github.com/dr-mushtaq/Machine-Learning): 包含Python机器学习算法实现、特征选择及统计方法的完整A-Z教程与练习
 - [ProteomicsML (ProteomicsML)](https://github.com/ProteomicsML/ProteomicsML): 针对蛋白质组学的机器学习教程与数据集平台，含可运行笔记本
