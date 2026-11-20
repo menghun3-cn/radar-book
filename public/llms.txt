@@ -131,8 +131,8 @@
 - [generative-ai-with-javascript (microsoft)](https://github.com/microsoft/generative-ai-with-javascript): 微软推出的生成式AI JavaScript课程，通过8个章节结合时间旅行故事教学。
 - [Play-with-Machine-Learning-Algorithms (liuyubobobo)](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms): 刘宇波慕课网《Python3 入门机器学习》官方配套代码库，含多章笔记与练习。
 - [thereisnospoon (dreddnafious)](https://github.com/dreddnafious/thereisnospoon): 面向工程师的机器学习初级教程，通过工程类比喻系统讲解ML底层核心原理。
-- [claude-code-prompts (repowise-dev)](https://github.com/repowise-dev/claude-code-prompts): 该仓库提供了一整套用于构建AI编码代理的提示模板，涵盖系统提示、工具使用及多智能体协调等核心模式。
 - [AI-Cross-Border-Ecommerce-Agent-Toolkit (heqiangdiao-wq)](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit): 该仓库将跨境电商运营SOP转化为7个可复用的AI Agent工作流，含完整提示词、脚本及案例，适合Agent开发学习。
+- [claude-code-prompts (repowise-dev)](https://github.com/repowise-dev/claude-code-prompts): 该仓库提供了一整套用于构建AI编码代理的提示模板，涵盖系统提示、工具使用及多智能体协调等核心模式。
 - [Evolutionary-Algorithm (MorvanZhou)](https://github.com/MorvanZhou/Evolutionary-Algorithm): 莫烦Python进化算法教程，涵盖遗传算法与进化策略，配套可视化代码。
 - [reinforcement_learning_course_materials (upb-lea)](https://github.com/upb-lea/reinforcement_learning_course_materials): 帕德博恩大学强化学习课程全套资料，含课件、12个练习及视频。
 - [Agent_Memory_Techniques (NirDiamant)](https://github.com/NirDiamant/Agent_Memory_Techniques): 包含30个可运行笔记本的LLM Agent记忆技术教程，覆盖短期记忆、长期存储及生产级框架。
@@ -221,8 +221,8 @@
 - [llm-course-chn (friendmine)](https://github.com/friendmine/llm-course-chn): mlabonne《LLM Course》的中文授权翻译，覆盖 LLM 基础、LLM Scientist 与 LLM Engineer 三部分。
 - [claude-code-pro-course (justxor)](https://github.com/justxor/claude-code-pro-course): 俄语Claude Code高级实战课程，涵盖代理配置、实验及提示工程。
 - [awesome-adk-agents (Sri-Krishna-V)](https://github.com/Sri-Krishna-V/awesome-adk-agents): 精选谷歌ADK智能体开发资源，含教程、模板及实战案例，助用户掌握AI Agent构建。
-- [Comprehensive-Data-Science-AI-Project-Portfolio (MelihGulum)](https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio): 涵盖ML、DL、数据工程等主题的教学项目与教程合集
 - [Robotics-Object-Pose-Estimation (Unity-Technologies)](https://github.com/Unity-Technologies/Robotics-Object-Pose-Estimation): 通过Unity与ROS演示对象姿态估计从数据到部署的全流程教程。
+- [Comprehensive-Data-Science-AI-Project-Portfolio (MelihGulum)](https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio): 涵盖ML、DL、数据工程等主题的教学项目与教程合集
 - [ai-agent-camp (minicoohei)](https://github.com/minicoohei/ai-agent-camp): 面向非技术背景人员的AI Agent实战培训体系，含62章课程与多工具实操。
 - [sars_tutorial (mquad)](https://github.com/mquad/sars_tutorial): 针对序列感知推荐系统的交互式教程，包含多个 Jupyter Notebook 章节。
 - [recipe-chatbot (ai-evals-course)](https://github.com/ai-evals-course/recipe-chatbot): 基于配方聊天机器人的AI评估课程，含5个渐进式作业及实践指南
@@ -254,8 +254,8 @@
 - [TF_JAX_tutorials (AakashKumarNain)](https://github.com/AakashKumarNain/TF_JAX_tutorials): 一套讲解TensorFlow和JAX核心基础概念的分章教程笔记本。
 - [pytorch-distributed-training (rentainhe)](https://github.com/rentainhe/pytorch-distributed-training): 一套系统讲解PyTorch分布式数据并行（DDP）训练原理、API用法及代码实现的教程。
 - [azure-openai-in-a-day-workshop (microsoft)](https://github.com/microsoft/azure-openai-in-a-day-workshop): 微软提供的Azure OpenAI一日工作坊，含提示词练习、嵌入Q&A及实战应用指导。
-- [Kotlin-AI-Examples (Kotlin)](https://github.com/Kotlin/Kotlin-AI-Examples): 基于Kotlin的AI框架互动教程，含Spring AI系列课程及Agent实战笔记。
 - [AI-agents-for-cybersecurity (santosomar)](https://github.com/santosomar/AI-agents-for-cybersecurity): Omar Santos编写的AI网络安全智能体实战教程，含八个部分代码与实验。
+- [Kotlin-AI-Examples (Kotlin)](https://github.com/Kotlin/Kotlin-AI-Examples): 基于Kotlin的AI框架互动教程，含Spring AI系列课程及Agent实战笔记。
 - [ibmdotcom-tutorials (IBM)](https://github.com/IBM/ibmdotcom-tutorials): IBM官方维护的AI教程库，涵盖RAG、智能体及提示工程等主题，提供完整学习路径。
 - [SynthLang (ruvnet)](https://github.com/ruvnet/SynthLang): 提供基于数学结构的LLM提示优化教程及CLI实践指南
 - [appl (appl-team)](https://github.com/appl-team/appl): APPL提示编程语言的官方教程，涵盖安装、入门示例及核心概念解析。
@@ -450,9 +450,9 @@
 - [prompt_engineering_guide (DATANOMIQ)](https://github.com/DATANOMIQ/prompt_engineering_guide): 基于Streamlit和Notebook的提示工程实战工作坊，涵盖CoT、ReAct等8种核心技术
 - [Python-for-Data-Science (chaklam-silpasuwanchai)](https://github.com/chaklam-silpasuwanchai/Python-for-Data-Science): 数据科学Python入门课程，含基础语法与常用库教程。
 - [agentic-loop-engineering-course (FareedKhan-dev)](https://github.com/FareedKhan-dev/agentic-loop-engineering-course): 一套18个Notebook的Agent循环工程实战课程，基于实测数据解析LLM组件优化。
+- [Awesome-DiffComm (qin-jingyun)](https://github.com/qin-jingyun/Awesome-DiffComm): 基于IEEE教程的扩散模型与语义通信教育资源库，含数学基础、精选论文及课程。
 - [programming-in-python (widmi)](https://github.com/widmi/programming-in-python): 面向初学者的Python机器学习交互式课程，涵盖基础语法至PyTorch神经网络实战
 - [mlx-llm-tutorial (ddttom)](https://github.com/ddttom/mlx-llm-tutorial): 基于Apple MLX框架的LLM构建教程，含理论与代码实践
-- [Awesome-DiffComm (qin-jingyun)](https://github.com/qin-jingyun/Awesome-DiffComm): 基于IEEE教程的扩散模型与语义通信教育资源库，含数学基础、精选论文及课程。
 - [CIFAR-10 (RubixML)](https://github.com/RubixML/CIFAR-10): 基于PHP和Rubix ML库的CIFAR-10图像识别深度神经网络教程。
 - [ml_tutorial (mallahyari)](https://github.com/mallahyari/ml_tutorial): 该仓库提供一系列机器学习和深度学习概念的直观教程，涵盖从最大似然估计到神经网络等内容。
 - [stable-diffusion-model-tutorial (azad-academy)](https://github.com/azad-academy/stable-diffusion-model-tutorial): 一份关于潜在扩散模型（Stable Diffusion）的简易交互式教程及 Jupyter Notebook。
