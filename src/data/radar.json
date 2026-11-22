@@ -1,5 +1,5 @@
 {
-  "status": "complete",
+  "status": "partial",
   "sources": [
     {
       "name": "repositories: topic:interactive-tutorial ai fork:false",
@@ -31,39 +31,39 @@
       "count": 200,
       "total": 610,
       "pages": 2,
-      "firstPage": 3
+      "firstPage": 5
     },
     {
       "name": "repositories: topic:prompt-engineering fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 24312,
+      "total": 24350,
       "pages": 2,
-      "firstPage": 3
+      "firstPage": 5
     },
     {
       "name": "repositories: topic:machine-learning tutorial fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 2348,
+      "total": 2349,
       "pages": 2,
-      "firstPage": 1
+      "firstPage": 3
     },
     {
       "name": "repositories: topic:deep-learning tutorial fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 1499,
+      "total": 1500,
       "pages": 2,
-      "firstPage": 1
+      "firstPage": 3
     },
     {
       "name": "repositories: topic:generative-ai tutorial fork:false",
-      "status": "ok",
-      "count": 25,
-      "total": 225,
-      "pages": 1,
-      "firstPage": 3
+      "status": "bounded",
+      "count": 200,
+      "total": 226,
+      "pages": 2,
+      "firstPage": 1
     },
     {
       "name": "repositories: topic:jupyter-notebooks course fork:false",
@@ -75,43 +75,43 @@
     },
     {
       "name": "repositories: \"interactive tutorial\" \"artificial intelligence\" in:readme fork:false",
-      "status": "ok",
-      "count": 199,
+      "status": "bounded",
+      "count": 200,
       "total": 799,
       "pages": 2,
-      "firstPage": 7
+      "firstPage": 1
     },
     {
       "name": "repositories: \"prompt engineering\" interactive in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 69225,
+      "total": 69290,
       "pages": 2,
-      "firstPage": 1
+      "firstPage": 3
     },
     {
       "name": "repositories: \"LLM course\" in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 3387,
+      "total": 3391,
       "pages": 2,
-      "firstPage": 5
+      "firstPage": 7
     },
     {
       "name": "repositories: \"generative AI\" \"tutorial\" in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 18881,
+      "total": 18884,
       "pages": 2,
-      "firstPage": 1
+      "firstPage": 3
     },
     {
       "name": "repositories: \"AI tutorial\" in:readme fork:false",
       "status": "search-cap",
       "count": 200,
-      "total": 3956,
+      "total": 3961,
       "pages": 2,
-      "firstPage": 5
+      "firstPage": 7
     },
     {
       "name": "code: \"interactive tutorial\" \"prompt\" path:README.md",
@@ -124,11 +124,12 @@
     },
     {
       "name": "code: \"LLM\" \"course\" path:README.md",
-      "status": "ok",
-      "count": 3,
-      "total": 3,
-      "pages": 1,
-      "firstPage": 1
+      "status": "unavailable",
+      "count": 0,
+      "total": 0,
+      "pages": 0,
+      "firstPage": 1,
+      "error": "GitHub API request failed after 4 attempts: https://api.github.com/search/code?q=%22LLM%22%20%22course%22%20path%3AREADME.md&page=1&per_page=100"
     },
     {
       "name": "code: \"generative AI\" \"tutorial\" path:README.md",
@@ -161,15 +162,15 @@
     "unavailable": 0
   },
   "discovery": {
-    "candidates": 9,
+    "candidates": 51,
     "checked": 0,
-    "rejected": 9,
-    "deferred": 0,
+    "rejected": 40,
+    "deferred": 11,
     "sources": 18
   },
   "totalProjects": 481,
-  "projectsSha256": "91051949a6bf2183d0fee2646e1ebcced2ce43a87e13cb20af46acab223ffbfd",
-  "runUrl": "https://github.com/menghun3-cn/radar-book/actions/runs/45028906547",
+  "projectsSha256": "d0e9bcf5ce4b73e857255e752db7d596434348851d5351981c1b5c6cb7e35f28",
+  "runUrl": "https://github.com/menghun3-cn/radar-book/actions/runs/45080315653",
   "dryRun": false,
-  "lastRunAt": "2026-11-22T13:55:48.242Z"
+  "lastRunAt": "2026-11-22T23:10:11.626Z"
 }

@@ -138,8 +138,8 @@
 - [Agent_Memory_Techniques (NirDiamant)](https://github.com/NirDiamant/Agent_Memory_Techniques): 包含30个可运行笔记本的LLM Agent记忆技术教程，覆盖短期记忆、长期存储及生产级框架。
 - [machine-learning-curriculum (offchan42)](https://github.com/offchan42/machine-learning-curriculum): 一份全面且结构化的机器学习、深度学习及强化学习课程资源清单。
 - [Prompt-Engineering-Guide-zh-CN (yunwei37)](https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN): 该仓库提供系统化的提示工程指南、讲座及代码练习，涵盖基础到高级技巧。
-- [Deep-Learning-For-Hackers (curiousily)](https://github.com/curiousily/Deep-Learning-For-Hackers): 基于TensorFlow 2和Keras的机器学习实践教程，涵盖LSTM、BERT等主题。
 - [agents-from-scratch (pguso)](https://github.com/pguso/agents-from-scratch): 一套基于本地LLM的12节课程，指导学员从零开始构建AI智能体，涵盖提示工程与系统架构。
+- [Deep-Learning-For-Hackers (curiousily)](https://github.com/curiousily/Deep-Learning-For-Hackers): 基于TensorFlow 2和Keras的机器学习实践教程，涵盖LSTM、BERT等主题。
 - [Tensorflow-Programs-and-Tutorials (adeshpande3)](https://github.com/adeshpande3/Tensorflow-Programs-and-Tutorials): TensorFlow深度学习教程集，涵盖CNN、RNN、GAN等核心模型实现与原理讲解。
 - [vectordb-recipes (lancedb)](https://github.com/lancedb/vectordb-recipes): LanceDB官方示例集，提供RAG、多模态搜索及AI Agent的实战教程与代码
 - [deep-learning-keras-tf-tutorial (codebasics)](https://github.com/codebasics/deep-learning-keras-tf-tutorial): 配合视频系列，用 TensorFlow 2 和 Keras 从零系统学习深度学习的教程
@@ -250,10 +250,10 @@
 - [curriculum (ai-builders)](https://github.com/ai-builders/curriculum): 8 周 AI Builders 课程，覆盖 AI 基础、SGD、Agentic、视觉、NLP、表格数据与部署。
 - [modern-llm-notebook (walkinglabs)](https://github.com/walkinglabs/modern-llm-notebook): 一套从零开始的现代LLM实战课程，包含BPE、预训练、SFT、推理及高级技术的可运行Notebook。
 - [Machine-Learning-Engineering-with-Python-Second-Edition (PacktPublishing)](https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python-Second-Edition): 《Python机器学习工程》第二版配套代码仓库，涵盖从模型开发到LLMOps的全流程实战教程。
+- [NamiGPT (aa1143)](https://github.com/aa1143/NamiGPT): 面向零基础的LLM教程，通过PyTorch手写GPT-2，15个章节逐步解析模型原理。
 - [TF_JAX_tutorials (AakashKumarNain)](https://github.com/AakashKumarNain/TF_JAX_tutorials): 一套讲解TensorFlow和JAX核心基础概念的分章教程笔记本。
 - [pytorch-distributed-training (rentainhe)](https://github.com/rentainhe/pytorch-distributed-training): 一套系统讲解PyTorch分布式数据并行（DDP）训练原理、API用法及代码实现的教程。
 - [azure-openai-in-a-day-workshop (microsoft)](https://github.com/microsoft/azure-openai-in-a-day-workshop): 微软提供的Azure OpenAI一日工作坊，含提示词练习、嵌入Q&A及实战应用指导。
-- [NamiGPT (aa1143)](https://github.com/aa1143/NamiGPT): 面向零基础的LLM教程，通过PyTorch手写GPT-2，15个章节逐步解析模型原理。
 - [AI-agents-for-cybersecurity (santosomar)](https://github.com/santosomar/AI-agents-for-cybersecurity): Omar Santos编写的AI网络安全智能体实战教程，含八个部分代码与实验。
 - [Kotlin-AI-Examples (Kotlin)](https://github.com/Kotlin/Kotlin-AI-Examples): 基于Kotlin的AI框架互动教程，含Spring AI系列课程及Agent实战笔记。
 - [ibmdotcom-tutorials (IBM)](https://github.com/IBM/ibmdotcom-tutorials): IBM官方维护的AI教程库，涵盖RAG、智能体及提示工程等主题，提供完整学习路径。
@@ -299,9 +299,9 @@
 - [best-ai-and-llm-engineering-resource (javabuddy)](https://github.com/javabuddy/best-ai-and-llm-engineering-resource): 一份涵盖AI/LLM书籍、课程、项目及系统设计的综合学习资源列表。
 - [Practical-Machine-Learning-With-Python (savan77)](https://github.com/savan77/Practical-Machine-Learning-With-Python): 一套基于Python的机器学习实战教程，涵盖回归、分类、聚类、神经网络及GAN等八大主题。
 - [cvessentials (onlyphantom)](https://github.com/onlyphantom/cvessentials): 数学优先的计算机视觉基础课程，涵盖变换、卷积及边缘检测等核心内容。
+- [reComputer-Jetson-for-Beginners (Seeed-Projects)](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners): 基于Jetson平台的AI入门课程，涵盖计算机视觉、离线大模型及ROS机器人开发。
 - [prompt-engineering-skills (treylom)](https://github.com/treylom/prompt-engineering-skills): 涵盖多模型提示词工程策略与实战指南的结构化教学资源
 - [AI_tools_nontechnical (h9-tec)](https://github.com/h9-tec/AI_tools_nontechnical): 面向非技术人员的12周免费AI学习路线图，涵盖工具实践、提示词技巧及课程推荐。
-- [reComputer-Jetson-for-Beginners (Seeed-Projects)](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners): 基于Jetson平台的AI入门课程，涵盖计算机视觉、离线大模型及ROS机器人开发。
 - [gtm (gtm-skills)](https://github.com/gtm-skills/gtm): AI销售Agent工具包，包含教程、MCP服务器和提示词。
 - [llm-course-lecture (NJUDeepEngine)](https://github.com/NJUDeepEngine/llm-course-lecture): 南京大学大语言模型基础课程，含完整讲义、代码Notebook及作业，从零实现LLM核心组件
 - [context-engineering (bonigarcia)](https://github.com/bonigarcia/context-engineering): Manning 出版书籍《Context Engineering》的官方配套代码库，涵盖提示词、RAG、Agent 及记忆管理等实战案例。
@@ -351,8 +351,8 @@
 - [sktime-tutorial-pydata-amsterdam-2020 (sktime)](https://github.com/sktime/sktime-tutorial-pydata-amsterdam-2020): 基于 sktime 和 scikit-learn 的时间序列机器学习系列教程，涵盖预测与分类任务。
 - [The-Kaggle-Book-2nd-Edition (PacktPublishing)](https://github.com/PacktPublishing/The-Kaggle-Book-2nd-Edition): 《Kaggle实战指南》第二版官方代码库，涵盖机器学习与LLM竞赛技巧。
 - [genai-workshop (badlogic)](https://github.com/badlogic/genai-workshop): Mario Zechner创作的生成式AI工作坊，含9个互动笔记本，从机器学习基础到RAG实战。
-- [InterviewMentor (PrepLabsAI)](https://github.com/PrepLabsAI/InterviewMentor): 基于AI代理的程序员面试模拟教程，含多角色技能包与练习
 - [ecommerce-ai-skills (kangise)](https://github.com/kangise/ecommerce-ai-skills): 面向跨境电商的AI知识库，含69章教程、878个提示词及Agent技能包，支持多语言阅读与安装。
+- [InterviewMentor (PrepLabsAI)](https://github.com/PrepLabsAI/InterviewMentor): 基于AI代理的程序员面试模拟教程，含多角色技能包与练习
 - [game-design-ai-practice (eremes81)](https://github.com/eremes81/game-design-ai-practice): 韩国语书籍原稿，详解游戏策划中利用Claude Code及AI工作流的24章实战指南。
 - [AI-PhD-S24 (rphilipzhang)](https://github.com/rphilipzhang/AI-PhD-S24): CUHK 2024春季AI商业研究博士课程全套资料，含ML/NLP/DL课件、代码及作业。
 - [CompMethods (OpenSourceEcon)](https://github.com/OpenSourceEcon/CompMethods): 使用 Python 为经济学家讲解回归、机器学习等计算方法的交互式教科书。
@@ -376,8 +376,8 @@
 - [AI-PhD-S25 (rphilipzhang)](https://github.com/rphilipzhang/AI-PhD-S25): 港科大博士课程《AI与商业研究》资料，涵盖ML、LLM及因果推断的幻灯片与代码练习。
 - [cs-self-learning (shen-shanshan)](https://github.com/shen-shanshan/cs-self-learning): 归档计算机科学自学笔记，侧重LLM、GPU计算及AI基础设施教程。
 - [llm-scratch-pytorch (skyloevil)](https://github.com/skyloevil/llm-scratch-pytorch): 基于PyTorch的LLM从零实现教程，涵盖GPT2与LLaMA架构及底层优化。
-- [spring-ai-zero-to-hero (asaikali)](https://github.com/asaikali/spring-ai-zero-to-hero): Spring AI 官方工作坊，提供从入门到精通的分步教程、代码练习及 RAG 与 Agent 实战指南。
 - [claude-architect (timothywarner-org)](https://github.com/timothywarner-org/claude-architect): 面向Claude认证考试的O'Reilly完整课程，涵盖Agent架构、MCP集成及提示工程实战
+- [spring-ai-zero-to-hero (asaikali)](https://github.com/asaikali/spring-ai-zero-to-hero): Spring AI 官方工作坊，提供从入门到精通的分步教程、代码练习及 RAG 与 Agent 实战指南。
 - [building-agentic-ai (sinanuozdemir)](https://github.com/sinanuozdemir/building-agentic-ai): Applied AI书籍配套代码，涵盖LLM、RAG、Agent及优化实战案例。
 - [OpenAI-Assistants-Template (pranavgupta2603)](https://github.com/pranavgupta2603/OpenAI-Assistants-Template): 基于OpenAI Assistant API构建智能对话助手的实战教程，含代码示例与最佳实践
 - [ai-research-program (dswh)](https://github.com/dswh/ai-research-program): 涵盖10大支柱的AI研究学习路径，包含详细章节、资源与项目要求。
@@ -405,9 +405,9 @@
 - [_Book_Claude-Code (sysnet4admin)](https://github.com/sysnet4admin/_Book_Claude-Code): 《必须掌握的Claude Code》韩语技术书籍配套练习代码库，包含按周划分的AI编码实战案例。
 - [Generative-AI-Learning-Roadmap (iscloudready)](https://github.com/iscloudready/Generative-AI-Learning-Roadmap): 覆盖4阶段16赛道的生成式AI学习路线图，含200+精选资源及职业指南。
 - [claude-code-game-development (HermeticOrmus)](https://github.com/HermeticOrmus/claude-code-game-development): 基于Claude Code的游戏开发综合教程，含80章文档及插件工具。
+- [chatGPT-Prompt-Engineering-for-Developers (ksm26)](https://github.com/ksm26/chatGPT-Prompt-Engineering-for-Developers): DeepLearning.AI官方ChatGPT提示工程课程，含完整Notebook章节与实战练习。
 - [vibe-coding-with-base44 (cporter202)](https://github.com/cporter202/vibe-coding-with-base44): 面向零代码用户的Base44 AI应用构建实战教程，含完整课程章节
 - [sa-ai-agent (viktoriasemaan)](https://github.com/viktoriasemaan/sa-ai-agent): 基于Amazon Bedrock构建AI代理的完整实战教程，涵盖RAG、IaC生成及成本估算。
-- [chatGPT-Prompt-Engineering-for-Developers (ksm26)](https://github.com/ksm26/chatGPT-Prompt-Engineering-for-Developers): DeepLearning.AI官方ChatGPT提示工程课程，含完整Notebook章节与实战练习。
 - [AI-Code-Tutorials (0xfnzero)](https://github.com/0xfnzero/AI-Code-Tutorials): 中英双语教程，系统讲解Claude Code与OpenAI Codex的AI编程工作流、提示词优化及Agent实战。
 - [speech-recognition-learning-resources (weimeng23)](https://github.com/weimeng23/speech-recognition-learning-resources): 语音识别学习资源汇总，涵盖课程、书籍、模型、工具包及论文
 - [dnndk-pynqz2 (wutianze)](https://github.com/wutianze/dnndk-pynqz2): PYNQ-Z2平台上的深度学习教程，涵盖MNIST、ResNet和YOLO模型的部署与优化
