@@ -24,8 +24,8 @@
 - [12-factor-agents (humanlayer)](https://github.com/humanlayer/12-factor-agents): 基于12原则构建可靠LLM智能体应用的系统性教程，涵盖架构设计与代码实践。
 - [fastbook (fastai)](https://github.com/fastai/fastbook): fast.ai 的《Deep Learning for Coders》全书，代码以 Jupyter Notebook 形式呈现。
 - [GenAI_Agents (NirDiamant)](https://github.com/NirDiamant/GenAI_Agents): 提供50多个GenAI Agent实现教程，涵盖基础对话机器人到复杂多智能体系统。
-- [100-Days-Of-ML-Code (MLEveryday)](https://github.com/MLEveryday/100-Days-Of-ML-Code): 基于经典100天ML项目的中文教程，包含完整课程体系、代码实现与练习。
 - [agency-agents-zh (jnMetaCode)](https://github.com/jnMetaCode/agency-agents-zh): 收录277个即插即用AI专家角色定义，支持多工具集成，配套官方实战课程。
+- [100-Days-Of-ML-Code (MLEveryday)](https://github.com/MLEveryday/100-Days-Of-ML-Code): 基于经典100天ML项目的中文教程，包含完整课程体系、代码实现与练习。
 - [recommenders (recommenders-team)](https://github.com/recommenders-team/recommenders): 包含多种推荐系统算法的Jupyter Notebook教程及完整流水线示例，适合学习者。
 - [agents-towards-production (NirDiamant)](https://github.com/NirDiamant/agents-towards-production): 一套从原型到企业级部署的生成式AI智能体实战教程集合，涵盖RAG、多智能体及可观测性。
 - [easy-vibe (datawhalechina)](https://github.com/datawhalechina/easy-vibe): 面向初学者的AI原生编程课程，覆盖从原型到全栈开发的完整流程
@@ -262,8 +262,8 @@
 - [Keras-Tutorials (tgjeon)](https://github.com/tgjeon/Keras-Tutorials): 基于Keras框架的深度学习入门教程，包含多个经典模型示例。
 - [prompt-eng-ollama-interactive-tutorial (ivanfioravanti)](https://github.com/ivanfioravanti/prompt-eng-ollama-interactive-tutorial): 基于Ollama的交互式提示词工程课程，含9章教程与实战练习。
 - [PyTorch-101-Tutorial-Series (Paperspace)](https://github.com/Paperspace/PyTorch-101-Tutorial-Series): Paperspace 官方 PyTorch 101 实战教程，从计算图、自动求导到自定义网络架构，配套完整 Jupyter Notebook。
-- [DeepLearningCourseCodes (ionvision)](https://github.com/ionvision/DeepLearningCourseCodes): ChinaHadoop深度学习课程配套代码，涵盖从线性回归到GAN及强化学习的十讲教程。
 - [geo-doctor (Fangx-AI)](https://github.com/Fangx-AI/geo-doctor): 一个将生成式引擎优化流程转化为系统化八步课程的工具，附带详细实操手册。
+- [DeepLearningCourseCodes (ionvision)](https://github.com/ionvision/DeepLearningCourseCodes): ChinaHadoop深度学习课程配套代码，涵盖从线性回归到GAN及强化学习的十讲教程。
 - [prompt-engineering-note (isLinXu)](https://github.com/isLinXu/prompt-engineering-note): DeepLearning.AI提示工程课程中文笔记，含9章内容及Jupyter实践代码。
 - [AILearningGuide (Fazmin)](https://github.com/Fazmin/AILearningGuide): 提供51个互动实验，覆盖从基础ML到LLM微调的完整AI学习路径。
 - [kaggle-courses (drakearch)](https://github.com/drakearch/kaggle-courses): Kaggle官方数据科学与机器学习全套互动教程，含SQL、Python及深度学习笔记
@@ -347,8 +347,8 @@
 - [Traffic-Light-Classification (alex-lechner)](https://github.com/alex-lechner/Traffic-Light-Classification): 基于TensorFlow的红绿灯分类教程，涵盖数据准备到模型训练全过程。
 - [hands-on-llm (FRS2003)](https://github.com/FRS2003/hands-on-llm): 从零构建LLM的完整中文实战教程，覆盖原理、手搓、微调、Agent与RAG落地。
 - [Hello-Agents (Reyzowter)](https://github.com/Reyzowter/Hello-Agents): 从零构建生产级多智能体系统的开源完整课程，含代码与实践。
-- [sktime-tutorial-pydata-amsterdam-2020 (sktime)](https://github.com/sktime/sktime-tutorial-pydata-amsterdam-2020): 基于 sktime 和 scikit-learn 的时间序列机器学习系列教程，涵盖预测与分类任务。
 - [YOLO-on-PYNQ-Z2 (andre1araujo)](https://github.com/andre1araujo/YOLO-on-PYNQ-Z2): YOLOv3在PYNQ-Z2 FPGA上实现的分步教程项目，含配套GitBook
+- [sktime-tutorial-pydata-amsterdam-2020 (sktime)](https://github.com/sktime/sktime-tutorial-pydata-amsterdam-2020): 基于 sktime 和 scikit-learn 的时间序列机器学习系列教程，涵盖预测与分类任务。
 - [The-Kaggle-Book-2nd-Edition (PacktPublishing)](https://github.com/PacktPublishing/The-Kaggle-Book-2nd-Edition): 《Kaggle实战指南》第二版官方代码库，涵盖机器学习与LLM竞赛技巧。
 - [genai-workshop (badlogic)](https://github.com/badlogic/genai-workshop): Mario Zechner创作的生成式AI工作坊，含9个互动笔记本，从机器学习基础到RAG实战。
 - [ecommerce-ai-skills (kangise)](https://github.com/kangise/ecommerce-ai-skills): 面向跨境电商的AI知识库，含69章教程、878个提示词及Agent技能包，支持多语言阅读与安装。
@@ -440,8 +440,8 @@
 - [ai-for-javascript-course (thestriver)](https://github.com/thestriver/ai-for-javascript-course): 面向JS开发者的AI应用开发开源课程，含LLM与提示工程实战项目。
 - [swap-face (OValery16)](https://github.com/OValery16/swap-face): 关于深伪换脸算法的完整教程，含代码、原理讲解及道德讨论
 - [build-production-ai-agents (ai-builders-group)](https://github.com/ai-builders-group/build-production-ai-agents): 配套书籍的AI Agent生产级开发课程，含完整章节、练习标签及详细教学结构。
-- [awesome-loop-engineering (invincible04)](https://github.com/invincible04/awesome-loop-engineering): 一套系统化的AI循环工程教程，包含章节、提示词库及可运行示例。
 - [xxd-pstack (nevertoday)](https://github.com/nevertoday/xxd-pstack): 面向初学者的AI编码代理pstack实用教程，涵盖安装、提示词设计及实战技巧。
+- [awesome-loop-engineering (invincible04)](https://github.com/invincible04/awesome-loop-engineering): 一套系统化的AI循环工程教程，包含章节、提示词库及可运行示例。
 - [awesome-code-docs (johnxie)](https://github.com/johnxie/awesome-code-docs): 涵盖203个AI/LLM工具的深度教程，采用统一八章节结构，适合系统学习AI开发。
 - [moltbook-agent-guard (NirDiamant)](https://github.com/NirDiamant/moltbook-agent-guard): 提供AI Agent安全防护的实操教程与工具包
 - [openclawnet (elbruno)](https://github.com/elbruno/openclawnet): 基于.NET 10的AI Agent平台分4节Reactor直播课程及配套实战材料
